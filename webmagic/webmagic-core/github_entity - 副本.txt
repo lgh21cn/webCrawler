@@ -1,0 +1,640 @@
+Links:
+Name :
+Tidy Text:
+null
+
+Links:
+Name :
+Tidy Text:
+
+ README 
+jsoup: Java HTML parser that makes sense of real-world HTML soup. jsoup is a 
+Java library for working with real-world HTML. It provides a very convenient 
+API for extracting and manipulating data, using the best of DOM, CSS, and 
+jquery-like methods. jsoup implements the WHATWG HTML5 specification (
+http://whatwg.org/html <http://whatwg.org/html>), and parses HTML to the same 
+DOM as modern browsers do. * parse HTML from a URL, file, or string * find and 
+extract data, using DOM traversal or CSS selectors * manipulate the HTML 
+elements, attributes, and text * clean user-submitted content against a safe 
+white-list, to prevent XSS * output tidy HTML jsoup is designed to deal with 
+all varieties of HTML found in the wild; from pristine and validating, to 
+invalid tag-soup; jsoup will create a sensible parse tree. Seehttp://jsoup.org/ 
+<http://jsoup.org/> for downloads and documentation. 
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ <https://github.com/code4craft/xsoup#xsoup>Xsoup
+
+ <https://travis-ci.org/code4craft/xsoup>
+
+XPath selector based on Jsoup.
+
+ <https://github.com/code4craft/xsoup#get-started>Get started:
+@Test public void testSelect() { String html = "<html><div><a 
+href='https://github.com'>github.com</a></div>" + "
+<table><tr><td>a</td><td>b</td></tr></table></html>"; Document document = Jsoup.
+parse(html);String result = Xsoup.compile("//a/@href").evaluate(document).get();
+Assert.assertEquals("https://github.com", result); List<String> list = Xsoup.
+compile("//tr/td/text()").evaluate(document).list(); Assert.assertEquals("a", 
+list.get(0)); Assert.assertEquals("b", list.get(1)); } 
+ <https://github.com/code4craft/xsoup#performance>Performance:
+
+Xsoup use Jsoup as HTML parser. 
+
+Compare with another most used XPath selector for HTML - HtmlCleaner 
+<http://htmlcleaner.sourceforge.net/>, Xsoup is much faster:
+Normal HTML, size 44KB XPath: "//a" Run for 2000 times Environment：Mac Air 
+MD231CH/A CPU: 1.8Ghz Intel Core i5 
+Operation Xsoup HtmlCleaner 
+parse 3,207(ms) 7,999(ms) 
+select 95(ms) 380(ms) 
+ <https://github.com/code4craft/xsoup#syntax-supported>Syntax supported:
+
+ <https://github.com/code4craft/xsoup#xpath10>XPath1.0:
+
+Name Expression Support 
+nodename nodename yes 
+immediate parent / yes 
+parent // yes 
+attribute [@key=value] yes 
+nth child tag[n] yes 
+attribute /@key yes 
+wildcard in tagname /* yes 
+wildcard in attribute /[@*] yes 
+function function() part 
+or a | b yes since 0.2.0 
+parent in path . or .. no 
+predicates price>35 no 
+predicates logic @class=a or @class=b yes since 0.2.0 
+ <https://github.com/code4craft/xsoup#function-supported>Function supported:
+
+In Xsoup, we use some function (maybe not in Standard XPath 1.0):
+
+Expression Description Standard XPath 
+text(n) nth text content of element(0 for all) text() only 
+allText() text including children not support 
+tidyText() text including children, well formatted not support 
+html() innerhtml of element not support 
+outerHtml() outerHtml of element not support 
+regex(@attr,expr,group) use regex to extract content not support 
+ <https://github.com/code4craft/xsoup#extended-syntax-supported>Extended 
+syntax supported:
+
+These XPath syntax are extended only in Xsoup (for convenience in extracting 
+HTML, refer to Jsoup CSS Selector):
+
+Name Expression Support 
+attribute value not equals [@key!=value] yes 
+attribute value start with [@key~=value] yes 
+attribute value end with [@key$=value] yes 
+attribute value contains [@key*=value] yes 
+attribute value match regex [@key~=value] yes 
+ <https://github.com/code4craft/xsoup#license>License
+
+MIT License, see file LICENSE
+
+ <https://bitdeli.com/free>
+
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ 
+<https://camo.githubusercontent.com/77fe3da40f9b2c5839df0267890a2457a64003e0/68747470733a2f2f7261772e6769746875622e636f6d2f636f64653463726166742f7765626d616769632f6d61737465722f6173736574732f6c6f676f2e6a7067>
+
+Readme in Chinese 
+<https://github.com/code4craft/webmagic/tree/master/README-zh.md>
+
+User Manual (Chinese) 
+<https://github.com/code4craft/webmagic/blob/master/user-manual.md>
+
+ <https://travis-ci.org/code4craft/webmagic>
+
+A scalable crawler framework. It covers the whole lifecycle of crawler: 
+downloading, url management, content extraction and persistent. It can simplify 
+the development of a specific crawler.
+
+ <https://github.com/code4craft/webmagic#features>Features:
+
+ * Simple core with high flexibility. 
+ * Simple API for html extracting. 
+ * Annotation with POJO to customize a crawler, no configuration. 
+ * Multi-thread and Distribution support. 
+ * Easy to be integrated. 
+ <https://github.com/code4craft/webmagic#install>Install:
+
+Add dependencies to your pom.xml:
+<dependency> <groupId>us.codecraft</groupId> <artifactId>webmagic-core</
+artifactId> <version>0.5.3</version> </dependency> <dependency> <groupId
+>us.codecraft</groupId> <artifactId>webmagic-extension</artifactId> <version
+>0.5.3</version> </dependency> 
+WebMagic use slf4j with slf4j-log4j12 implementation. If you customized your 
+slf4j implementation, please exclude slf4j-log4j12.
+<exclusions> <exclusion> <groupId>org.slf4j</groupId> <artifactId
+>slf4j-log4j12</artifactId> </exclusion> </exclusions> 
+ <https://github.com/code4craft/webmagic#get-started>Get Started:
+
+ <https://github.com/code4craft/webmagic#first-crawler>First crawler:
+
+Write a class implements PageProcessor. For example, I wrote a crawler of 
+github repository infomation.
+public class GithubRepoPageProcessor implements PageProcessor { private Site 
+site= Site.me().setRetryTimes(3).setSleepTime(1000); @Override public void 
+process(Page page) { page.addTargetRequests(page.getHtml().links().regex("
+(https://github\\.com/\\w+/\\w+)").all()); page.putField("author", page.getUrl()
+.regex("https://github\\.com/(\\w+)/.*").toString()); page.putField("name", page
+.getHtml().xpath("//h1[@class='entry-title public']/strong/a/text()").
+toString());if (page.getResultItems().get("name")==null){ //skip this page page.
+setSkip(true); } page.putField("readme", page.getHtml().xpath("
+//div[@id='readme']/tidyText()")); } @Override public Site getSite() { return 
+site; }public static void main(String[] args) { Spider.create(new 
+GithubRepoPageProcessor()).addUrl("https://github.com/code4craft").thread(5).
+run(); } } 
+ * 
+page.addTargetRequests(links)
+
+Add urls for crawling.
+
+You can also use annotation way:
+@TargetUrl("https://github.com/\\w+/\\w+") @HelpUrl("https://github.com/\\w+") 
+public class GithubRepo { @ExtractBy(value = "//h1[@class='entry-title 
+public']/strong/a/text()", notNull = true) private String name; @ExtractByUrl("
+https://github\\.com/(\\w+)/.*") private String author; @ExtractBy("
+//div[@id='readme']/tidyText()") private String readme; public static void main(
+String[] args) { OOSpider.create(Site.me().setSleepTime(1000) , new 
+ConsolePageModelPipeline(), GithubRepo.class) .addUrl("
+https://github.com/code4craft").thread(5).run(); } } 
+ <https://github.com/code4craft/webmagic#docs-and-samples>Docs and samples:
+
+Documents: http://webmagic.io/docs/ <http://webmagic.io/docs/>
+
+The architecture of webmagic (refered to Scrapy <http://scrapy.org/>)
+
+ 
+<https://camo.githubusercontent.com/06cb8227231a6adf6d2a57b14b60a25389a25fe9/687474703a2f2f636f64653463726166742e6769746875622e696f2f696d616765732f706f7374732f7765626d616769632e706e67>
+
+Javadocs: http://code4craft.github.io/webmagic/docs/en/ 
+<http://code4craft.github.io/webmagic/docs/en/>
+
+There are some samples in webmagic-samples package.
+
+ <https://github.com/code4craft/webmagic#lisence>Lisence:
+
+Lisenced under Apache 2.0 lisence <http://opensource.org/licenses/Apache-2.0>
+
+ <https://github.com/code4craft/webmagic#contributors>Contributors:
+
+Thanks these people for commiting source code, reporting bugs or suggesting 
+for new feature:
+
+ * ccliangbo <https://github.com/ccliangbo> 
+ * yuany <https://github.com/yuany> 
+ * yxssfxwzy <https://github.com/yxssfxwzy> 
+ * linkerlin <https://github.com/linkerlin> 
+ * d0ngw <https://github.com/d0ngw> 
+ * xuchaoo <https://github.com/xuchaoo> 
+ * supermicah <https://github.com/supermicah> 
+ * SimpleExpress <https://github.com/SimpleExpress> 
+ * aruanruan <https://github.com/aruanruan> 
+ * l1z2g9 <https://github.com/l1z2g9> 
+ * zhegexiaohuozi <https://github.com/zhegexiaohuozi> 
+ * ywooer <https://github.com/ywooer> 
+ * yyw258520 <https://github.com/yyw258520> 
+ * perfecking <https://github.com/perfecking> 
+ * lidongyang <http://my.oschina.net/lidongyang> 
+ * seveniu <https://github.com/seveniu> 
+ * sebastian1118 <https://github.com/sebastian1118> 
+ * codev777 <https://github.com/codev777> 
+ * fengwuze <https://github.com/fengwuze> 
+ <https://github.com/code4craft/webmagic#thanks>Thanks:
+
+To write webmagic, I refered to the projects below :
+
+ * 
+Scrapy
+
+A crawler framework in Python.
+
+http://scrapy.org/ <http://scrapy.org/>
+
+ * 
+Spiderman
+
+Another crawler framework in Java.
+
+http://git.oschina.net/l-weiwei/spiderman 
+<http://git.oschina.net/l-weiwei/spiderman>
+
+ <https://github.com/code4craft/webmagic#mail-list>Mail-list:
+
+https://groups.google.com/forum/#!forum/webmagic-java 
+<https://groups.google.com/forum/#!forum/webmagic-java>
+
+
+http://list.qq.com/cgi-bin/qf_invite?id=023a01f505246785f77c5a5a9aff4e57ab20fcdde871e988
+ 
+<http://list.qq.com/cgi-bin/qf_invite?id=023a01f505246785f77c5a5a9aff4e57ab20fcdde871e988>
+
+QQ Group: 373225642
+
+ <https://github.com/code4craft/webmagic#related-project>Related Project
+
+ * 
+Gather Platform <https://github.com/gsh199449/spider>
+
+A web console based on WebMagic for Spider configuration and management.
+
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ <https://github.com/code4craft/blackhole#blackhole>BlackHole
+
+ <https://github.com/code4craft/blackhole#1-简介>1. 简介
+
+
+BlackHole是一个Java编写的DNS服务器，它可以进行DNS缓存，也支持自定义域名配置，并可以防止DNS污染。比起老牌的DNS软件pdnsd、BIND，BlackHole功能比较简单，但是更容易使用，性能也更好。
+
+BlackHole还包含一个Web管理模块Hostd <https://github.com/code4craft/hostd>
+，可以让每个用户管理自己的域名配置，并且彼此之间不冲突。
+
+ <https://github.com/code4craft/blackhole#2-用途>2. 用途
+
+ <https://github.com/code4craft/blackhole#dns缓存>DNS缓存
+
+BlackHole具有DNS缓存以及持久化的功能，可以作为一个DNS缓存服务器使用，以加速DNS访问。
+
+BlackHole缓存性能优秀，可以支持每秒50000次随机查询，平均响应时间0.3ms，高于pdnsd及BIND(测试报告 
+<https://github.com/code4craft/blackhole/blob/master/server/benchmark-other-dns-server>
+)。
+
+ <https://github.com/code4craft/blackhole#hosts风格自定义域名>hosts风格自定义域名
+
+BlackHole也支持修改域名配置，配置域名的方式非常简单，与hosts文件一致，并且支持通配符(目前仅支持A记录)。
+
+例如：
+127.0.0.1 *.codecraft.us 
+表示将所有以.codecraft.us形式结尾的域名全部指向127.0.0.1。
+
+ <https://github.com/code4craft/blackhole#防止dns污染>防止DNS污染
+
+BlackHole还可以通过UDP特征判断的方式防止DNS污染攻击，对于某些无法访问的网站可以起到作用。BlackHole防止DNS的方式参见：
+http://code4craft.github.com/blog/2013/02/25/blackhole-anti-dns-poison/ 
+<http://code4craft.github.com/blog/2013/02/25/blackhole-anti-dns-poison/>
+
+ <https://github.com/code4craft/blackhole#3-安装及配置>3. 安装及配置
+
+你使用自动脚本进行安装BlackHole：
+curl http://code4craft.github.io/blackhole/install.sh | [sudo] sh 
+BlackHole的另一个编译后版本保存在https://github.com/code4craft/blackhole-bin 
+<https://github.com/code4craft/blackhole-bin>
+，如果以上脚本对你所在环境不可用，那么可以clone这个项目到某一目录。
+git clone https://github.com/code4craft/blackhole-bin.git /usr/local/blackhole 
+通过sudo /usr/local/blackhole/blackhole.sh start可以启动BlackHole。
+
+Windows系统可将文件保存到任意目录，并运行start.bat(Win7下无需用管理员权限启动)，若弹出终端界面并且持续运行，则启动成功。
+
+各种问题解决、具体的设置以及技术细节请看Blackhole Server Docs 
+<https://github.com/code4craft/blackhole/blob/master/server/README.md>。
+
+ <https://github.com/code4craft/blackhole#4-协议>4. 协议
+
+BlackHole的连接部分参考了EagleDNS的代码，遵守LGPLv3协议。
+
+作者邮箱： code4crafter@gmail.com <mailto:code4crafter@gmail.com>
+
+ <https://bitdeli.com/free>
+
+
+Links:
+Name :
+Tidy Text:
+
+ README 
+jsoup: Java HTML parser that makes sense of real-world HTML soup. jsoup is a 
+Java library for working with real-world HTML. It provides a very convenient 
+API for extracting and manipulating data, using the best of DOM, CSS, and 
+jquery-like methods. jsoup implements the WHATWG HTML5 specification (
+http://whatwg.org/html <http://whatwg.org/html>), and parses HTML to the same 
+DOM as modern browsers do. * parse HTML from a URL, file, or string * find and 
+extract data, using DOM traversal or CSS selectors * manipulate the HTML 
+elements, attributes, and text * clean user-submitted content against a safe 
+white-list, to prevent XSS * output tidy HTML jsoup is designed to deal with 
+all varieties of HTML found in the wild; from pristine and validating, to 
+invalid tag-soup; jsoup will create a sensible parse tree. jsoup runs on Java 
+1.5 and up. Seehttps://jsoup.org/ <https://jsoup.org/> for downloads and 
+documentation. 
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ <https://github.com/gsh199449/spider#欢迎使用-gather-platform-数据抓取平台>欢迎使用 Gather 
+Platform 数据抓取平台
+
+Readme in English 
+<https://github.com/gsh199449/spider/tree/master/README-en.md>
+
+欢迎加入 Gather Platform交流 QQ群 : 206264662
+
+ <https://travis-ci.org/gsh199449/spider>
+
+Gather Platform 数据抓取平台是一套基于Webmagic <https://github.com/code4craft/webmagic>
+内核的,具有Web任务配置和任务管理界面的数据采集与搜索平台.具有以下功能
+
+ * 根据配置的模板进行数据采集 
+ * 对采集的数据进行NLP处理,包括:抽取关键词,抽取摘要,抽取实体词 
+ * 在不配置采集模板的情况下自动检测网页正文,自动抽取文章发布时间 
+ * 动态字段抽取与静态字段植入 
+ * 已抓取数据的管理,包括:搜索,增删改查,按照新的数据模板重新抽取数据 
+ <https://github.com/gsh199449/spider#windowsmaclinux-全平台支持>Windows/Mac/Linux 
+全平台支持
+
+本系统需要如下依赖:
+
+ * JDK 8 及以上 
+ * Tomcat 8.3 及以上 
+可选依赖组件:
+
+ * Elasticsearch 5.0 
+ <https://github.com/gsh199449/spider#部署方式>部署方式
+
+本系统提供一份预编译版本和配置好的依赖环境,只需从百度云下载,按照步骤安装即可使用.从0.1版本开始 Gather Platform 
+不再默认存储ES,如果需要将数据存储至ES,或者需要数据查看与搜索功能,则需要开启ES.
+
+与不需要ES的版本相比,开启ES之后,搜索平台将可以实现以下功能:
+
+ * 增量抓取 
+ * 数据查看与搜索 
+ * 数据统计 
+ <https://github.com/gsh199449/spider#1-不需es-使用预编译版本抓取数据并存储至本地磁盘>1. [不需ES] 
+使用预编译版本抓取数据并存储至本地磁盘
+
+ * 安装JDK 8 ,从ORACLE 
+<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
+下载JDK 
+ * 从百度云下载 <https://pan.baidu.com/s/1i4IoEhB> 密码: v3jm, 
+预编译安装包和依赖环境,解压apache-tomcat-8.zip,将spider.war放入Tomcat下面的webapp文件夹 
+ * 进入tomcat目录下的bin文件夹,若是*nix环境运行 startup.sh ,windows环境运行 startup.bat 
+ * 然后使用浏览器访问 http://localhost:8080/spider 打开数据采集平台Web控制台 
+ * 抓取下来的数据存储在 TOMCAT_HOME/bin/gather_platform_data 
+文件夹下,每一个抓取任务单独存储一个json文件,文件名为任务号,每一行为一条网页数据. 
+ <https://github.com/gsh199449/spider#2-需要es-使用预编译版本抓取数据并存储至es>2. [需要ES] 
+使用预编译版本抓取数据并存储至ES
+
+ * 从百度云下载 <https://pan.baidu.com/s/1i4IoEhB> 密码: v3jm, 预编译安装包和依赖环境,*nix用户下载 
+elasticsearch-5.0.0.zip ,windows用户请下载 elasticsearch-5.0.0-win.zip 包 
+注意:如果在启动elasticsearch时发生elasticsearch.bat闪退的问题请修改 
+JAVA_HOME/jre/lib/security/java.policy 文件,在 grant 段落里面加入
+
+permission java.io.FilePermission "ES安装路径/*", "read";
+
+除此之外,ES和tomcat请勿安装到含有空格或者中文等字符的路径下面.
+
+ * 安装JDK 8 ,从ORACLE 
+<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
+下载JDK 
+ * 解压elasticsearch5.0.0.zip 
+ * 进入bin文件夹,若是*nix环境运行 elasticsearch ,windows环境运行 elasticsearch.bat 
+ * 
+使用浏览器访问 http://localhost:9200,显示如下内容则证明elasticsearch安装成功
+ { "name" : "AQYRo1f", "cluster_name" : "elasticsearch", "cluster_uuid" : "
+0LJm-YogQ2qgLLznrlvWwQ", "version" : { "number" : "5.0.0", "build_hash" : "
+080bb47", "build_date" : "2016-11-11T22:08:49.812Z", "build_snapshot" : false, "
+lucene_version" : "6.2.1" }, "tagline" : "You Know, for Search" } 
+ * 解压apache-tomcat-8.zip,将spider.war放入Tomcat下面的webapp文件夹 
+ * 解压spider.war,打开 spider/WEB-INF/classes/staticvalue.json 配置文件, 将 needEs 
+配置项改为true 
+ * 
+然后打开spider/WEB-INF/classes/mvc-dispatcher-servlet.xml 配置文件,找到输出源配置项,按照下面进行配置:
+ <property name="pipelineList"> <list> <ref bean="commonWebpagePipeline"/> 
+<!--<ref bean="jsonFilePipeline"/>--> </list> </property> 
+这样的配置就是不再向Json文件进行输出,而将数据输出至ES进行存储.
+
+ * 进入tomcat目录下的bin文件夹,若是*nix环境运行 startup.sh ,windows环境运行 startup.bat 
+ * 然后使用浏览器访问 http://localhost:8080/spider 打开数据采集平台Web控制台 
+ <https://github.com/gsh199449/spider#3-手工编译安装>3. 手工编译安装
+
+ * 安装 JDK 8 以上版本, ORACLE 
+<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
+ * 下载并安装Elasticsearch 5.0, elastic.co 
+<https://www.elastic.co/downloads/past-releases/elasticsearch-5-0-0> 
+ * 安装ansj-elasticsearch插件, github 
+<https://github.com/NLPchina/elasticsearch-analysis-ansj> 
+ * 运行Elasticsearch 
+ * 安装Tomcat 8, Apache Tomcat <http://tomcat.apache.org> 
+ * 下载本项目源码包 
+ * src/resource/staticvalue.json 配置文件, 将 needEs 配置项改为true 
+ * 
+src/resource/mvc-dispatcher-servlet.xml 配置文件,找到输出源配置项,按照下面进行配置:
+ <property name="pipelineList"> <list> <ref bean="commonWebpagePipeline"/> 
+<!--<ref bean="jsonFilePipeline"/>--> </list> </property> 
+这样的配置就是不再向Json文件进行输出,而将数据输出至ES进行存储.
+
+ * 执行 mvn package 编译打包 
+ * 将spider.war放入Tomcat下面的webapp文件夹 
+ * 运行tomcat 
+ <https://github.com/gsh199449/spider#使用方法>使用方法
+
+部署完成后打开浏览器,访问 http://localhost:8080/spider 打开采集平台首页,点击导航栏的下拉菜单选择功能.
+
+ <https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/home.png>
+
+ <https://github.com/gsh199449/spider#配置爬虫模板>配置爬虫模板
+
+在导航栏的下拉菜单中点击 编辑模板 按钮,在这个页面中可完成一个爬虫的所有配置,具体每一个配置项的说明见每一个输入框的提示.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/spiderinfo.png>
+
+爬虫模板配置完成后,点击下面的 采集样例数据 按钮,稍等片刻即可在下方展示根据刚刚配置的模板抓取的数据,如果数据有误在上面的模板中进行修改,然后再次点击 
+采集样例数据 按钮即可重新抓取.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/testSpiderinfo.png>
+
+注意,在对于爬虫模板没有完全的把握之前请勿选择爬虫模板下方的几个 是否网页必须有XXX 
+的配置项.以文章的标题为例,因为如果文章标题的配置项(即为title)配置有误,爬虫就无法抓取到网页的标题,如果这时再选中了是否网页必须有标题 
+的话,就会导致爬虫无限制的进行抓取.
+
+ <https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/need.png>
+
+当模板配置完毕,即可点击下方的 导出模板 
+按钮,这时下方的大输入框中显示的Json格式的文字即为爬虫模板,可以将段文字保存到文本文件中,以便以后使用,也可以点击存储此模板 
+对这个模板进行存储,以后可在本平台的爬虫模板管理系统 中查找.
+
+ <https://github.com/gsh199449/spider#快速上手>快速上手
+
+本平台在examples文件夹中给出了两个抓取腾讯新闻的示例,这两个一个是使用预定义的发布时间抓取规则,另外一个是使用系统自动探测文章的发布时间. 
+以预定义的爬虫模板为例,打开news.qq.com.json 
+<https://github.com/gsh199449/spider/tree/master/examples/news.qq.com.json>
+,将文件内容全部拷贝至爬虫模板编辑页面最下方的大输入框中,点击自动填充.这时爬虫配置文件中的爬虫模板信息就被自动填充进上面的表格了.然后点击抓取样例数据按钮,稍等片刻即可在当前页面下方看到通过这个模板抓取的新闻数据了. 
+如果模板配置的有问题,导致长时间卡在获取数据页面,请转至爬虫监控页面,将刚刚提交的这个抓取任务停止即可.
+
+ <https://github.com/gsh199449/spider#爬虫监控>爬虫监控
+
+在导航栏中点击查看进度就可以看到当前爬虫的运行状况,在这个界面中可以实现对爬虫的停止,删除,查看进度,查看已抓取的数据,查看模板等操作.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/spiderList.png>
+
+
+注意,按照采集平台默认配置,这里的所有爬虫运行记录将在每两个小时对于已经完成的爬虫进行删除.如果不想让系统定时自动删除任何爬虫记录,或者改变删除记录的时间周期,请参阅高级配置中对于配置文件的解释部分.
+
+ <https://github.com/gsh199449/spider#数据管理与搜索>数据管理与搜索
+
+
+点击导航栏下拉菜单中的搜索,即可看到目前Elasticsearch库中存储的所有网页数据,这些网页数据在默认情况下是按照抓取时间进行排序的,也就是说,在导航栏点击
+搜索 之后,展示的第一条数据就是最新抓取的数据.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/search.png>
+
+
+在搜索页面是上方可以通过输入关键词对所有已抓取的网页数据进行搜索,也可以指定网站域名查看指定网站的所有数据.如果是指定关键词进行搜索则搜索结果是按照与输入的关键词的相关度进行排序的,如果是输入域名,查看某一网站的所有数据则按照抓取时间进行排序,最新抓取的数据在最上方.
+
+点击导航栏中的 网站列表 按钮即可查看目前已经抓取的数据中都是那些网站的信息,对于每个网站都可以点击 查看数据列表 按钮查看该网站的所有数据.点击 
+删除网站数据 即可删除该网站下的所有数据.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/domainList.png>
+
+ <https://github.com/gsh199449/spider#高级使用>高级使用
+
+ <https://github.com/gsh199449/spider#动态字段和静态字段>动态字段和静态字段
+
+在配置网页模板时,有一个 添加动态字段 
+按钮,这个功能是为了抓取那些不在预设字段里的其他字段所设计.举例来说,目前爬虫模板可以配置的预设字段有:标题,正文,发布时间等等.如果我们想抓取文章的作者或者文章的发布文号,这时就需要使用动态字段来实现.
+
+ 
+<https://raw.githubusercontent.com/gsh199449/spider/master/doc/imgs/dynamic.png>
+
+点击 添加动态字段 按钮,在弹出的输入框中输入要抓取的字段名称,我们以要抓取文章的作者为例,在框中输入author. 
+注意这个动态字段的名称必须使用英文名称.之后再模板编辑页面就多出来的两个输入框,一个是author Reg,一个是author 
+XPath,其中一个是配置作者字段的正则表达式,另一个是配置作者字段的XPath表达式,这两个选其一即可.
+
+
+静态字段使用方法与动态字段类似,但是与动态字段不同的是,静态字段相对于爬虫模板来说是静态的.也就是说这个值在配置模板的阶段就是预设好的,通过这个模板抓取的所有数据里面都会带有这个字段和预设的这个值.这个功能主要是方便二次开发人员在数据存储于搜索时的使用.
+
+ <https://github.com/gsh199449/spider#使用lucene-query进行数据查询>使用Lucene Query进行数据查询
+
+在数据查询页面进行数据查询时,在关键词输入框中输入的检索词默认是在文章正文中进行检索.如果在这个框中输入 title: 中国 
+的含义是在所以文章的标题中检索带有中国的网页.支持的字段名称有(括号前为字段名称,括号内为字段的含义):
+
+ * content(正文) 
+ * title(标题) 
+ * url(网页链接) 
+ * domain(网页域名) 
+ * spiderUUID(爬虫id) 
+ * keywords(文章关键词) 
+ * summary(文章摘要) 
+ * publishTime(文章发布时间) 
+ * category(文章类别) 
+ * dynamic_fields(动态字段) 
+ <https://github.com/gsh199449/spider#同一网站不同模板的情况>同一网站不同模板的情况
+
+针对同一网站可以有不同的抽取模板的问题,可以通过配置另外的模板进行解决.
+
+ <https://github.com/gsh199449/spider#高级配置>高级配置
+
+项目的配置文件在spider.war/WEB-INF文件夹下
+
+ <https://github.com/gsh199449/spider#输出网页数据至redis-channel>输出网页数据至Redis Channel
+
+找到 mvc-dispatcher-servlet.xml 配置文件,增加redis数据输出管道:
+ <property name="pipelineList"> <list> <!--Redis输出--> <ref bean="
+commonWebpageRedisPipeline"/> <ref bean="commonWebpagePipeline"/> </list> </
+property> 
+在 staticvalue.json 配置文件中,修改如下内容:
+ "needRedis": false, "redisPort": 6379, "redisHost": "localhost", 
+"webpageRedisPublishChannelName": "webpage", 
+ * needRedis设置为true将在系统启动时检查redis配置 
+ * redisPort redis的端口 
+ * redisHost redis的服务器地址 
+ * webpageRedisPublishChannelName redis发布不通道的名称 
+ <https://github.com/gsh199449/spider#输出网页数据至任意数据源>输出网页数据至任意数据源
+
+写一个类实现 Pipeline 接口,然后在 mvc-dispatcher-servlet.xml 配置文件中配置这个数据处理类, 
+爬虫框架会把每一个采集并处理好的的网页传入process 方法,然后通过自己的代码将这些网页数据存储至你想要的位置即可,可以参考本平台实现的Redis 
+pipeline 
+<https://github.com/gsh199449/spider/blob/master/src/main/java/com/gs/spider/dao/CommonWebpageRedisPipeline.java>
+.本平台默认的ES输出CommonWebpagePipeline 
+<https://github.com/gsh199449/spider/blob/master/src/main/java/com/gs/spider/dao/CommonWebpagePipeline.java>
+中有一个convertResultItems2Webpage 便利方法,可以将Webmagic框架的 ResultItems 对象转换为一个 Webpage 
+对象方便处理.
+
+ <https://github.com/gsh199449/spider#配置文件解释>配置文件解释
+
+本系统配置文件名称为 staticvalue.json :
+ { "esHost": "localhost", "esClusterName": "elasticsearch", "commonsIndex": "
+commons", "maxHttpDownloadLength": 1048576, "commonsSpiderDebug": false, "
+taskDeleteDelay": 1, "taskDeletePeriod": 2, "limitOfCommonWebpageDownloadQueue":
+100000, "needRedis": false, "redisPort": 6379, "redisHost": "localhost", "
+webpageRedisPublishChannelName": "webpage", "commonsWebpageCrawlRatio": 2 } 
+ * esHost:es服务器地址 
+ * esClusterName:es集群名称 
+ * commonsIndex:网页数据在es中存储的index名称 
+ * maxHttpDownloadLength: 如果网页超过这个大小则不再下载这个网页 
+ * commonsSpiderDebug:置为true则在爬虫管理系统的爬虫运行日志中可以看到更多的错误信息 
+ * taskDeleteDelay: 自动删除任务记录延时几小时启动 
+ * taskDeletePeriod: 每几小时删除一次已完成的任务记录 
+ * limitOfCommonWebpageDownloadQueue: 最大网页下载队列长度 
+ * commonsWebpageCrawlRatio: 如果抓取的网页超过需要网页commonsWebpageCrawlRatio倍,爬虫退出 
+ <https://github.com/gsh199449/spider#二次开发接口>二次开发接口
+
+ <https://github.com/gsh199449/spider#联系我>联系我
+
+邮箱: 63388@qq.com <mailto:63388@qq.com>
+
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ <https://github.com/code4craft/wifesays#wifesays>wifesays 
+<https://travis-ci.org/code4craft/wifesays>
+
+Wifesays is a socket listener in Java program. It listens what wife says and 
+notify all the workers!
+
+
+Links:
+Name :
+Tidy Text:
+null
+
+Links:
+Name :
+Tidy Text:
+null
+
+Links:
+Name :
+Tidy Text:
+
+ README.md 
+
+ <https://github.com/code4craft/hostd#hostd>Hostd
+
+Hostd是面向DNS客户端的一个管理BlackHole的DNS配置的工具。
+
+
+它提供Web页面和http接口，用户可以在hostd里修改DNS配置(仅对自己生效)，是一个跨平台的域名绑定工具，用于开发和生产环境的域名切换。它解决了hosts配置管理不方便，以及移动设备难以修改hosts文件的问题。
+
+其他部分可以看hostd的pages <http://code4craft.github.io/hostd/>
+
+
