@@ -1,0 +1,30 @@
+<ID>20151120-5
+<DATE>20151120<\DATE>
+<URL>
+http://www.dw.com/en/china-28-terrorists-killed-in-western-xinjiang-province/a-18863431
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China: 28 'terrorists' killed in western Xinjiang province
+<\TITLE>
+<ABSTRACT>
+China has announced the deaths of 28 people during a police crackdown in Xinjiang, home to many Muslim Uighurs. In September, the group allegedly launched a terror attack at a coal mine, killing more than a dozen people.
+<\ABSTRACT>
+<CONTENT>
+ The Xinjiang regional government said on Friday police had killed 28 members of a "terrorist" group accused of carrying out an attack a couple months ago in the largely Muslim region of western China.
+ State newspaper Xinjiang Daily reported that those killed had links to the violent assault on a coal mine in September that left 16 people dead and 18 injured.
+ Radio Free Asia, a US government-funded broadcaster to the region, first reported the incident, claiming that at least 50 people were killed in the attack.
+ 
+ According to the Xinjiang Daily, the attackers fled into the mountains and were subsequently hunted down over the course of two months by Chinese security forces.
+ Xinjiang is home to the Uighurs, a restive Muslim minority that has long claimed to be the victim of Chinese oppression. The country's officials on the other hand claim the region is a hotbed of Islamist militants seeking to wrest control from Beijing.
+ Human rights activists have been highly critical of the tactics used by the Chinese government in combatting these alleged extremists, accusing it of human rights abuses.
+ blc/msh (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

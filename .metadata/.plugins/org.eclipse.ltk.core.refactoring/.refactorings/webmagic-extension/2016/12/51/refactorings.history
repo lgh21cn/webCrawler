@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;webmagic-extension&apos;&#x0D;&#x0A;- Original project: &apos;webmagic-extension&apos;&#x0D;&#x0A;- Original element: &apos;webmagic-extension/src/main/java/us.codecraft.webmagic.newscrawler.verify&apos;" description="Delete element" element1="/src\/main\/java&lt;us.codecraft.webmagic.newscrawler.verify" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1481680686031" subPackages="false" version="1.0"/>
+</session>

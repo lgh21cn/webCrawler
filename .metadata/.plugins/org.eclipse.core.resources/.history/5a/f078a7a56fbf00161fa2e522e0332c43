@@ -1,0 +1,146 @@
+package com.lgh.webcrawler.prj;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Site;
+import us.codecraft.webmagic.Spider;
+import us.codecraft.webmagic.monitor.SpiderMonitor;
+import us.codecraft.webmagic.processor.PageProcessor;
+
+public class FirstWebCrawlerProcessor implements PageProcessor{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Spider spider=Spider.create(new FirstWebCrawlerProcessor());
+		//.addUrl("http://219.217.156.17/C://eclipse//workspace//webmagic//webmagic-core//bookstore.txt")
+		spider.addUrl("https://github.com/code4craft")
+//		.addUrl("https://github.com/search?l=Java&p=1&q=stars%3A%3E1&s=stars&type=Repositories")
+//		.addPipeline(new ConsolePipeline())
+		.thread(5).run();
+		SpiderMonitor.instance().register(spider);
+		
+	}
+	private BufferedWriter writer ;
+	private static final Site site =Site.me().setRetryTimes(3).setSleepTime(1000);
+
+	public FirstWebCrawlerProcessor() {
+		// TODO Auto-generated constructor stub
+		try {
+			writer= new BufferedWriter(new FileWriter("./github_entity.txt"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	
+	@Override
+	protected void finalize() throws Throwable {
+		// TODO Auto-generated method stub
+		
+		close();
+		super.finalize();
+		
+		
+	}
+	public void close(){
+		if(writer!=null){
+			try {
+				writer.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	@Override
+	public void process(Page page) {
+		// TODO Auto-generated method stub
+//		System.out.println(page.getHtml().links().regex("(https://github\\.com/\\w+\\w+)").all());
+		page.addTargetRequests(page.getHtml().links().regex("(https://github\\.com/\\w+/\\w+)").all());
+//		
+//		System.out.println("Author:"+page.getUrl().regex("https://github\\.com/(\\w+)/.*").toString());
+//		page.putField("author", page.getUrl().regex("https://github\\.com/(\\w+)/.*").toString());
+//		
+//		System.out.println("Url:"+page.getUrl());
+		
+		StringBuilder builder=new StringBuilder();
+		
+		//ÓÐÐ§xpath£º1."//div[@class='highlight-text-xml']/pre/span/text()"
+		//
+//		for (Selectable selectable : page.getHtml().xpath("//div[@class='highlight highlight-text-xml']/pre/span/text()").nodes()) {
+//			System.out.println("Name Item:"+selectable.toString());
+//			builder.append(selectable.toString()+"\n");
+//			
+//		}
+		
+//		for (String url : page.getHtml().xpath("//div[@class='highlight highlight-text-xml']/pre/span/text()").all()) {
+//			System.out.println("Name Item:"+url);
+//			builder.append(url+"\n");
+//		}
+		for (String url : page.getHtml().xpath("//ul[@class='repo-list js-repo-list']/li/div/h3/a/text()").all()) {
+//		for (Selectable url : page.getHtml().xpath("//ul[@class='repo-list js-repo-list']/li/div/h3/a/text()").nodes()) {
+			System.out.println("Detail Url item:"+url);
+			builder.append("http://github.com/"+url);
+			builder.append("\n");
+		}
+		
+		for (String url : page.getHtml().css("div.pagination").links().all()) {
+			System.out.println(url);
+			builder.append(url);
+			builder.append("\n");
+		}
+		page.putField("name", builder.toString());
+		builder.setLength(0);
+		
+		if(page.getResultItems().get("name")==null){
+			page.setSkip(true);
+		}
+		
+		
+		
+		page.putField("readme", page.getHtml().xpath("//div[@id='readme']/tidyText()"));
+//		Selectable tidyText=page.getHtml().xpath("//div[@class='pagination']/tidytext()");
+//		String s_tidyText=tidyText.toString();
+//		System.out.println(tidyText);
+//		page.putField("readme", tidyText);
+		try {
+			writer.write("Links:");
+			writer.newLine();
+//			for (String url : page.getHtml().links().regex("(https://github\\.com/\\w+\\w+)").all()) {
+//				writer.write(url);
+//				writer.newLine();
+//			}
+//			writer.write("Author :"+page.getResultItems().get("author"));
+//			writer.newLine();
+			System.out.println("Page Result Items:"+page.getResultItems().get("name"));
+			writer.write("Name :"+page.getResultItems().get("name"));
+			writer.newLine();
+			
+//			writer.newLine();
+//			writer.write("Readme :"+page.getResultItems().get("readme"));
+			
+			writer.write("Tidy Text:\n"+page.getResultItems().get("readme"));
+			writer.newLine();
+			
+			
+			writer.newLine();
+			
+			writer.flush();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public Site getSite() {
+		// TODO Auto-generated method stub
+		return site;
+	}
+
+}

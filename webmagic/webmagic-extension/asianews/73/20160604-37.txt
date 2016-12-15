@@ -1,0 +1,63 @@
+<ID>20160604-37
+<DATE>20160604<\DATE>
+<URL>
+http://www.asianews.it/news-en/For-Beijing,-Xinjiang-Muslims-have-%E2%80%9Cunparalleled-freedom%E2%80%9D-37680.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+For Beijing, Xinjiang Muslims have “unparalleled freedom”
+<\TITLE>
+<ABSTRACT>
+ 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – The information office of China’s State Council 
+has recently issued a white paper claiming that Muslims in China’s northwestern 
+province of Xinjiang have freedom unparalleled in other parts of the country.
+
+“No resident has received discrimination or unjust treatment based on their 
+religious or lack of religious belief,” the paper says. However, analysts 
+contend that discrimination and prejudice are the normal state of affairs for 
+Muslims.
+
+Xinjiang is one of China’s most turbulent provinces. It is home to about 9 
+million Uighurs, a predominantly Muslim and Turkic ethnic group that has always 
+sought independence from China.
+
+For its part, China’s central government has pursued a policy of settling 
+ethnic Han Chinese in the province to make them the majority and thus quell 
+social unrest. This has meant serious restrictions on religious freedom, 
+Islamic practices, as well as the local language and culture.
+
+On several occasions, Chinese authorities have prevented or restricted Ramadan 
+fasting, banned beards, raided mosques, and searched the homes of Muslim 
+clerics, to monitor potential “terrorism”.
+
+Since 2009, the province has been under a special regime giving extra powers 
+to police and army after clashesleft nearly 200 people dead 
+
+. The crackdown that followed the violence resulted in hundreds of prison 
+sentences and dozens of death penalties.
+
+Chinese authorities blamed the violence on Muslim extremists, but Uighur 
+exiles say that Beijing is exaggerating the threat of Islamic terrorism to 
+justify repression against the local population.
+
+None of this is true according to the white paper, which claims that freedom 
+of religious belief in Xinjiang today “cannot be matched by that in any other 
+historical period, and is undeniable to anyone who respects the facts”.
+
+Yet, China’s “lies could not cover up the truth” about its openly restrictive 
+and prohibitive religious policies, said Dilxat Rexit, spokesman for the World 
+Uighur Congress in Germany.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

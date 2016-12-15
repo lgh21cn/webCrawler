@@ -1,0 +1,84 @@
+<ID>20050321-80
+<DATE>20050321<\DATE>
+<URL>
+http://www.asianews.it/news-en/Put-human-rights-before-profit,-says-freed-Muslim-dissident-2827.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Put human rights before profit, says freed Muslim dissident
+<\TITLE>
+<ABSTRACT>
+Rebiya Kadeer, an Uighur political dissident released on March 17, is in the US to talk about human rights, economics and Chinese prisons.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Washington (AsiaNews/Agencies)  The world should not put business before 
+human rights in China, Rebiya Kadeer, a recently-released Uighur political 
+prisoner said.
+
+Ms Kadeer, a businesswoman herself, warned the business community against 
+letting economic interests close their hearts.
+
+"These businessmen who have a lot of [deals] in China should look deep into 
+their hearts and see what's truly importantmoney, business or actually one's 
+life?" she said. "I would give up any business now to save one life. If there 
+are no human rights, business will go nowhere."
+
+The 58-year-old woman said she would use her new freedom to win greater rights 
+for her fellow Muslims, and urged others to "pursue human rights from every 
+angle".
+
+A former executive in a trading company, not to mention a member of the 
+Chinese People's Political Consultative Conference (CPPCC) for Xinjiang 
+province, she was arrested in 1999 for spreading news abroad that the 
+authorities deemed "state intelligence".
+
+Sentenced to eight years in jail, she was freed on the eve of a visit to 
+Beijing by US Secretary of State Condoleezza Rice just as the US State 
+Department said it would not seek a resolution critical of Beijing at the UN 
+Commission on Human Rights in Geneva.
+
+Upon her release, Ms Kadeer left for the US where she gave several interviews 
+even though Chinese authorities warned her not to speak to the media, reminding 
+her that 6 of her 11 children remained in China. But she could not be silent 
+over her ethnic group's fate.
+
+As a CPPCC member, "I thought I could speak to the government for my people 
+and tell them that their policies toward us were wrong and point out the 
+discrimination and lack of education spending on Uighurs," she said. "Actually, 
+being elevated to the parliamentary position was the beginning of my troubles," 
+she added.
+
+She described harsh prison conditions and said "there's no forgiveness for 
+political prisoners. We can't even look at each other and smile".
+
+Recalling this time, she said that although "prison guards never laid a finger 
+on her", other prisoners were not so lucky. "Some were beaten lame; others were 
+tortured within earshot to frighten her," she said. One 96-year-old Uighur 
+woman was in prison not knowing why.
+
+During her six years detention, she was completely cut off from the outside 
+world. She never heard of the September 11, 2001, terror attacks, or of the 
+Iraq war, or that Beijing had won the right to host the 2008 Olympics.
+
+Many of the 8 million Uighurs in Xinjiang, which has an overall population of 
+about 19 million, seek greater autonomy for the region, although some want to 
+restore the brief independence the region had as East Turkistan from 1938 to 
+1949a campaign that has drawn a relentless crackdown by Beijing.
+
+Ms Kadeer has never advocated Xinjiang's independence but demands that her 
+people have "basic freedom and human rights. I want them to have a happy life, 
+as the Chinese do."
+
+"There's not enough food or housing for Uighurs, yet they keep moving Chinese 
+migrants from Chinese cities to Xinjiang," she said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

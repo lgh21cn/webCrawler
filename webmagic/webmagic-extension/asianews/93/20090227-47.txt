@@ -1,0 +1,74 @@
+<ID>20090227-47
+<DATE>20090227<\DATE>
+<URL>
+http://www.asianews.it/news-en/Protesters-who-set-themselves-on-fire-in-Beijing-are-Uyghurs-14602.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Protesters who set themselves on fire in Beijing are Uyghurs
+<\TITLE>
+<ABSTRACT>
+They had come to present a petition. Today the group "Tiananmen Mothers" asked the government to reveal whether 127 people who disappeared in the massacre on June 4, 1989, are alive or dead. Experts: the government is not resolving the problems, and there are more and more protests, some of them with extreme actions.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+ Beijing (AsiaNews/Agencies) - The three Chinese who set themselves on fire in 
+a car when the police stopped them in downtown Beijing were Uyghurs. Experts 
+expect numerous protests this year, because the government is preaching social 
+harmony, but is not resolving the problems. The police are responding by 
+patrolling Beijing with helicopters.
+
+It appears that the three, who were members of the same family, had come to 
+the capital to present a petition about a property dispute. The parents are 
+still being treated in the hospital for their burns, but there is no 
+information about their son, who was taken away by the police. The reason 
+behind their action is unknown; it may have been an extreme protest against a 
+situation of injustice.
+
+Next week, the annual session of the National People's Assembly begins, and 
+for the occasion many Chinese go to Beijing to present petitions, asking for 
+justice. Today the group "Tiananmen Mothers" presented a petition to find out 
+what happened to 127 people who disappeared during the massacre on June 4, 
+1989, when the army brought in tanks and fired on thousands of unarmed 
+demonstrators who were occupying Tiananmen Square and calling for democratic 
+reforms. 20 years later, it is still unknown whether these 127 people are dead 
+or in prison.
+
+The group, which unites the parents of young people who died or disappeared 
+that June 4, is asking the government to verify all of the deaths, compensate 
+families, and punish "those responsible for the killings." According toHuman 
+Rights in China, the petition claims that "China has become like an airtight 
+iron chamber and all the demands of the people about June 4, all the anguish, 
+lament and moaning of the victims' relatives and the wounded have been sealed 
+off." The request for official recognition of the killings has long been headed 
+by Ding Zilin,a retired professor whose 17-year-old son died in the square. At 
+the time, China limited itself to describing the demonstrators as 
+"counterrevolutionaries," and still speaks of it as a period of "political 
+tumult," avoiding further comments.
+
+Another protest took place yesterday, when, in front of more than 100 
+journalists, in front of the press office of the State Council, a man climbed a 
+street sign, shouting "give back my political rights" and displaying a placard 
+(in the photo). Finally, the police forced him down.
+
+This year, there are many anniversaries of questions that are still open, and 
+the police have begun to patrol Beijing with helicopters ahead of next week's 
+session, to better control the situation.
+
+The analyst Zhang Dajun observes that last year, the Beijing Olympics drew 
+Chinese public opinion, but he expects that this year there will be many public 
+protests, because "people's problems have not been solved. When people become 
+desperate, they try extreme measures, like the burning incident in Beijing, to 
+have their voices heard."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

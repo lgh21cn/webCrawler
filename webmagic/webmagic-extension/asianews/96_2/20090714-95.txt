@@ -1,0 +1,77 @@
+<ID>20090714-95
+<DATE>20090714<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15775
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Tension-in-Urumqi.-Al-Qaeda-threatens-China-15775.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tension in Urumqi. "Al Qaeda" threatens China
+<\TITLE>
+<ABSTRACT>
+An Algerian Islamic group has promised revenge against Chinese companies in North Africa. Demonstrations in Jakarta for a jihad against Beijing. Iranian Ayatollah condemns the suppression of Uyghur’s and criticises the silence of the government in Tehran, a friend of China. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - Stores bolted closed,  mosques shut: this is 
+the image of the capital of Xinjiang, a day after the killing of two Uyghur’s 
+by two policemen. Meanwhile, groups in some way linked to Al Qaeda have 
+launched a Jihad, or holy war against China and have promised to avenge the 
+blood of Uyghurs against Chinese commercial interests in the world.
+
+Even today, soldiers and security personnel armed with machine guns and 
+truncheons are patrolling roads especially in the area where yesterday the 
+murder took place.
+
+The police say they intervened because three Uyghur’s were assaulting a fourth 
+and at the violent response of two of the attackers they were forced to open 
+fire killing two and wounding a third. Instead witnesses say that the three, 
+exiting a mosque and armed with knives, tried to attack the police, who 
+responded with fire. The incident shows the height of tension in the city, 
+after the interethnic clashes last week, and also shows that the police is not 
+seen as the guarantor of order, but as an enemy of the Uyghur’s.
+
+The Chinese media, to defuse the tension, continue to show the great love of 
+people towards soldiers and police. 
+
+The Muslims Uyghur population has suffered decades of political, social and 
+economic exclusion in the region rich in oil and gas. China tries to maintain 
+control through a heavy military presence, justified by charges of terrorism. 
+Indeed, some groups in the past have been responsible for acts of violence, but 
+most of the population is only asking for greater autonomy and religious 
+freedom. Beijing, to prevent the emergence of Islamic fundamentalism, keeps 
+tight control of the entire religious life of the Uyghur’s. In the face of last 
+week’s clashes, the Islamic world in general has kept a low profile. Only 
+groups of Uyghur’s and Turks abroad - who have the same ethnic and linguistic 
+roots - have demonstrated against Beijing.
+
+According to Stirling Assynt, a think-tank for global companies, an Algerian 
+Islamic group affiliated with Al Qaeda has launched messages threatening 
+revenge against Chinese companies in North Africa. If this is confirmed, it 
+would be the first time that the network of Osama bin Laden has directly 
+threatened China. According to Stirling Assynt, threats against China and its 
+trade representations abroad are growing in the jihadist world.
+
+Yesterday, dozens of Indonesian Muslims clashed with guards protecting the 
+Chinese Embassy in Jakarta. They were demanding that the Indonesian government 
+take measures against China and shouted slogans for a jihad in favour of the 
+Uyghurs. Some posters sported slogans like "Stop the genocide of Muslims in 
+Xinjiang."
+
+Two days ago, the Grand Ayatollah Naser Makarem Shirazi condemned the violence 
+against the Uyghur’s and the silence of the Iranian government. "It's true - he 
+said - that the Chinese government and its people have close economic and 
+political ties with us and other Islamic countries, but this is no reason for 
+them to horribly suppress our Muslim brothers and sisters."
+  
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

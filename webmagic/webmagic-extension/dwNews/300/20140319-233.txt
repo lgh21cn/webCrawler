@@ -1,0 +1,127 @@
+<ID>20140319-233
+<DATE>20140319<\DATE>
+<URL>
+http://www.dw.com/en/china-tiptoeing-around-the-crimea-conflict/a-17506137
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China tiptoeing around the Crimea conflict
+<\TITLE>
+<ABSTRACT>
+Beijing doesn't want to give up a good relationship with Russia, but it's also trying to maintain a policy of non-interference in the Crimean crisis. China could benefit from sanctions against Moscow - but at what price?
+<\ABSTRACT>
+<CONTENT>
+
+ Non-interference in the affairs of other states: For decades, this has been 
+the principle of China's foreign policy. This has meant that China keeps out of 
+foreign conflicts, and it expects the same from other countries - Russia 
+included.
+
+ In the case of Ukraine, this principle has become a problem as it's against 
+China's central political interest, namely maintaining good relations with 
+Russia.
+
+Strategic partners
+
+ "The Chinese-Russian relationship is currently in the best phase of our 
+mutual history," emphasized Foreign Minister Wang Yi at a press conference at 
+the National People's Congress earlier this month. Wang said that the countries 
+trusted and supported each other, adding that the two presidents were connected 
+by a deep friendship. China needs Russia - as an ally against the West.
+
+ In relation to the crisis in Crimea, there has also been criticism from those 
+in the People's Republic who see the West as the aggressor.
+  
+Beijing is facing a dilemma and is in a quandary over it, says China expert 
+Gareis
+
+"The US-led West does not want a peaceful world and is meddling in world 
+affairs. This creates unrest," said Chen Xinming, an expert on Eastern Europe 
+at the People's University of China, in an interview on German television. 
+"Strategically, China and Russia need each other in order to deal with Western 
+domination."
+
+ The feeling of being surrounded by the West, and especially the United 
+States, is of great importance to Beijing's foreign policy, said Sven Gareis, a 
+China expert at the University of Münster. "In Russia, China sees an important 
+partner which it looks to for support - and, of course, it does not want to 
+embarrass this partner," he told DW.
+
+Is China moving away from Russia?
+
+ But Beijing also wants to maintain its principle of non-interference. No 
+wonder, then, that China has been reluctant to weigh in on the question of the 
+Crimean referendum. Speaking at a press conference in Beijing, Deputy Foreign 
+Minister Baodong Li twice avoided the question of whether China will recognize 
+thelegality of the referendum and its outcome 
+
+. "We hope all sides will keep a cool head and seek a political solution," he 
+said, adding that further escalation should be avoided. He refused to comment 
+further.
+
+ Beijing's support for its strategic partner hit a limit at the UN Security 
+Council vote on Saturday (15.03.2014), as the council sought to declare the 
+Crimean referendum illegal.Russia vetoed the resolution 
+
+, while China chose to abstain.
+  
+Tibetan exiles calling for independence: a nightmare scenario for China
+
+Speaking off the record, Western diplomats called the move a "slap in the 
+face" for Russia; China usually votes along with its close ally Russia. 
+Luxembourg Foreign Minister Jean Asselborn, who currently chairs the Security 
+Council, praised China's decision to reject any unilateral move by Russia to 
+claim foreign territory, along with its call for an international coordination 
+group.
+
+ This example, in particular, illustrates China's quandary, said Gareis. On 
+the one hand, it did not want to give Russia a free pass in Crimea. On the 
+other hand, China also did not want to support a resolution by the West.
+
+China's problems with its own minorities
+
+ In addition, Beijing has its weighty domestic political issues to bear in 
+mind. "China cannot support the referendum because we have our own problems," 
+said Eastern Europe expert Chen Xinming. These problems are Tibet, Xinjiang, 
+Hong Kong and Taiwan, and if China lends its support to the referendum in 
+Crimea, then why wouldn't the same rules apply for these Chinese regions which 
+are also striving for independence?
+
+ "In this sense, it's a nightmare scenario for China: a foreign power exerting 
+military pressure to force a referendum, causing part of the country to split 
+off from the People's Republic," said Gareis.
+
+Beijing as a 'laughing third party'
+  
+China's economy could feasibly benefit from sanctions against Russia
+
+While Beijing continues to struggle with contradictions at the political level,
+possible economic sanctions 
+ 
+by the West against Russia could work in China's favor. "Russia would 
+increasingly turn away from Europe, and China would be the winners," said 
+Eckhard Cordes, the chairman of the Committee on Eastern European Economic 
+Relations for German industry associations, in an interview with newsmagazine 
+"Focus."
+
+ China, already the largest purchaser of Russian oil, would certainly be happy 
+with such a development - and could become the "laughing third party" in the 
+Ukraine crisis, benefiting as the others fight. "But I don't think China will 
+allow itself to be guided by short-term interests and hope for profit," said 
+Gareis, adding that Beijing probably cares more about securing long-term 
+stability in the region.
+
+ And China's economy is reliant on maintaining good relations with Western 
+governments. For this reason, the tightrope China is walking with its Ukraine 
+policy could become even wobblier in the coming weeks. At the end of March, 
+China's President Xi Jinping is due to visit several Western European countries 
+and may have to finally show his true colors.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

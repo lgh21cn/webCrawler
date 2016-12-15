@@ -1,0 +1,61 @@
+<ID>20110719-89
+<DATE>20110719<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-Chinese-police-kill-dozens-of-Uyghurs--22137.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, Chinese police kill dozens of Uyghurs 
+<\TITLE>
+<ABSTRACT>
+According to authorities, a "terrorist group" set fire to police station in Hotan and was arrested. Different version of the World Uighur Congress, they "protesting against the forced requisitioning of land and indiscriminate arrests and were massacred." 
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Hotan (AsiaNews) - Chinese police opened fire on a group of Uyghur 
+demonstrators in the northern province of Xinjiang who were protesting against 
+the forced confiscation of their lands and indiscriminate arrests against 
+members of the ethnic minority, one of the most feared by Beijing.
+
+ According to official sources, the protesters set fire to a police station in 
+Hotan: 2 demonstrators, 2 "hostages" and a policeman died in the clashes, and 
+now the situation is "under control". For the World Uighur Congress, a 
+nongovernmental organization based in Germany, the dead were at least 20.
+
+ Hou Hanmin, head of regional information, spoke of an "organized terrorist 
+action. The rioters had explosive devices and grenades. First they raided the 
+headquarters of the local office for industry, commerce and taxation, which is 
+located next to the police station, and wounded two people. When they realized 
+that they were not the right targets, they attacked the police post from the 
+ground floor to the second floor where they hung a banner with separatist 
+messages. "
+
+ According to the Congress, however, the police opened fire on people 
+attending a peaceful protest, triggering clashes. In addition to the victims, 
+the group has reported about 70 arrests. "To prevent further destabilization, 
+the Chinese authorities should immediately end the systematic repression of the 
+Uyghur people."
+
+ Hotan is a city of about 300 thousand inhabitants, 88% belonging to ethnic 
+minorities. Xinjiang has long been the scene of tension and violence that the 
+Beijing government attributes to "separatist groups linked to Al Qaeda" that 
+aim to create an independent state of East Turkestan. The Uyghurs, the region's 
+indigenous Turkish-speaking Muslim people constitute less than half the 
+population, after decades of immigration from other areas of the People's 
+Republic.
+
+ In the last few years protests against restrictions imposed by the central 
+authorities on the minority have become increasingly frequent. In July 2009, 
+the capital of Xinjiang, Urumqi, was rocked by a wave of violence that caused 
+nearly 200 deaths. Since then, nine people were put to death for instigating 
+the riots, hundreds were arrested and prosecuted.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

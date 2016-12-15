@@ -1,0 +1,156 @@
+<ID>20130705-55
+<DATE>20130705<\DATE>
+<URL>
+http://www.dw.com/en/ethnic-tensions-escalating-in-xinjiang/a-16932346
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ethnic tensions escalating in Xinjiang
+<\TITLE>
+<ABSTRACT>
+The latest incidents of deadly violence in China's northwestern region of Xinjiang indicate that Beijing's policies towards ethnic minorities have reached a dead end.
+<\ABSTRACT>
+<CONTENT>
+
+ China's Autonomous Region of Xinjiang is more than four times larger than 
+Germany, yet it has only 22 million inhabitants. Muslim Uighurs make up around 
+45 percent of the region's population. But they may soon lose their majority 
+status as Han Chinese pour into Xinjiang in ever-increasing numbers. When the 
+People's Liberation Army marched into the territory 64 years ago, Han Chinese 
+accounted for just 6 percent of its population.
+
+ This development is tied to Beijing's ongoing policy of promoting large-scale 
+migration into the remote and under-developed Western regions of Xinjiang and 
+Tibet. Officially, the policy was designed, among other things, to support 
+local inhabitants. But in reality this has only led to the locals feeling 
+marginalized and suppressed, especially when it comes to their religious 
+practices. Events like the "ethnic-harmony education month" held last May in 
+Shanshan County have done nothing to change this. Last June 35, people were 
+killed in clashes in Shanshan.
+
+A suppressed minority
+
+ Chinese politics expert Willy Lam believes the situation won't change as long 
+as Beijing doesn't shift tack. "Police and plainclothes security personnel 
+maintain tight surveillance over most monasteries and mosques in Tibet and 
+Xinjiang. The personal movements of religious leaders suspected to have 
+anti-Beijing inclinations are kept under even closer scrutiny," Lam told DW.
+  
+Beijing would like to see China's ethnic minorities live in harmony. But at 
+what price?
+
+Lam, who is a professor at the Chinese University of Hong Kong, added that 
+"authorities in many Uighur-dominated towns have also forbidden Muslims to 
+practice Ramadan and other religious rites. The teaching of Muslim religion and 
+the Uighur language has consistently been cut in high schools and 
+universities," he said.
+
+ According to a report by the UK-based "Economist" magazine, in Turpan - the 
+prefecture where the latest deadly clashes took place - the authorities had 
+been waging a campaign to persuade Uighur men not to grow long beards and women 
+not to wear the veil or other Islamic clothing. Those living in neighborhoods 
+where all residents complied were given preferential access to loans and 
+government-sponsored job-training schemes, the report stated.
+
+Links to Syrian rebels?
+
+ But the Chinese government doesn't put the blame for the growing tensions on 
+flawed decisions taken by Beijing or local leaders - they are instead accusing 
+extremist separatists. The Chinese state newspaper "Global Times" reported that 
+Uighurs had traveled to Syria, where they were "radicalized" allegedly fighting 
+alongside Syrian rebels. The paper cited a Chinese anti-terrorism official who 
+said that around 100 people had done the same over the past year.
+
+ In a separate story, the newspaper quoted Syria's ambassador to China, Imad 
+Moustafa, as saying that at least 30 members of the militant East Turkistan 
+Islamic Movement, which seeks independence for Xinjiang, had entered Syria to 
+fight government forces in Aleppo.
+
+'Not purely a terrorism issue'
+
+ Raffaello Pantucci, an expert on China and Central Asia at the Royal United 
+Services Institute - a London-based think tank - told the Associated Press (AP) 
+it was plausible that some Uighurs who identify with radical Islamist ideology 
+might participate in the Syrian conflict.
+  
+The Chinese government claims Uighurs have traveled to Syria to support the 
+rebels
+
+"That there are Uighurs who are probably radicalized going into the 
+battlefield in Syria is not entirely surprising. But whether this is an 
+organized thing from the East Turkistan movement or its elements, it's 
+difficult to know," Pantucci said.
+
+ Terrorism expert Rohan Gunaratna told the AP he was also sceptical, since the 
+Pakistan-based movement is believed to have only about 100 members and support 
+from a few hundred other people. But rather than being driven purely by 
+religious extremism, unrest in Xinjiang is largely fueled by tensions and anger 
+over Beijing's policies in the region, said Gunaratna, who heads a terrorism 
+research center in Singapore.
+
+ He added that the government's hard-line approach could be driving people to 
+join separatist groups. "China has to address this not only as a pure terrorism 
+issue, but more as an inter-ethnic, inter-religious issue."
+
+A new approach 
+
+ Some experts say there are signs that Beijing might change its approach 
+towards Tibet. Lam points to Yu Zhengsheng, a politburo member in charge of 
+Tibet and Xinjiang, who earlier this year dropped hints to representative 
+Tibetan figures in and out of China that Beijing might consider resuming 
+long-stalled talks with emissaries of the Dalai Lama.
+
+DW recommends
+
+'We will fight until they grant us self-determination'
+ 
+
+Riots in China's western Xinjiang region leave dozens dead
+
+More than two dozen people have died in clashes with police in China’s western 
+Xinjiang region. The riots are the deadliest since the 2009 clashes between 
+Muslims and the Han Chinese population there. (26.06.2013)
+ 
+
+Looking back at 'China's lost decade'
+
+As the era of President Hu Jintao and Prime Minister Wen Jiabao ends, China 
+can look back at 10 years of economic growth. But many are pointing to 
+corruption, stagnation and environmental devastation. (13.03.2013)
+  
+Opinion: 'China's minorities policies are at a dead end'
+
+As China gears up for the National People's Congress, another explosion of 
+violence in the country's west shows that policies towards minorities are at a 
+dead end, says DW's Matthias von Hein. (01.03.2012)
+ 
+
+ More recently, Chinese authorities allowed monks in several monasteries to 
+openly display portraits of the Dalai Lama, who is still the most revered 
+leader in the greater Tibet region.
+
+ Jin Wei, a director of ethnic and religious affairs at the Central Party 
+School in Beijing, seems to have publicly broken away from the party orthodoxy 
+on Tibet. Referring to the Dalai Lama, she said in a recent interview with the 
+Hong Kong-based magazine "Asia Weekly": "We cannot just simply treat and regard 
+him as an enemy." Doing this, she added, would trigger the ire of people who 
+simply want to maintain their culture and traditions.
+
+ Jin believes there is a possibility that the "political struggle" between 
+Beijing and the Dalai Lama might evolve into an ethnic conflict between Han 
+Chinese and Tibetans.
+
+ Meanwhile, Beijing continues to rely on an intensified army presence in 
+Xinjiang. Authorities also are offering rewards of up to $16,300 for 
+information on terrorist activity that may help solve major terror crimes or 
+lead to the arrest of terror suspects. It says those who knowingly shelter, 
+protect or help "violent terrorist criminals" will be prosecuted.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

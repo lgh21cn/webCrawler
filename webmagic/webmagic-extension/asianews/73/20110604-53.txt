@@ -1,0 +1,82 @@
+<ID>20110604-53
+<DATE>20110604<\DATE>
+<URL>
+http://www.asianews.it/news-en/More-arrests-and-abductions-to-suffocate-Tiananmen-21747.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More arrests and abductions to suffocate Tiananmen
+<\TITLE>
+<ABSTRACT>
+Bao Tong was taken from home to an undisclosed location. Ziling Ding, founder of the Mothers of Tiananmen, is under house arrest. Threats to dozens of activists and dissidents in Shaanxi, Jiangsu, Guangdong. The current situation is similar to the time of Tiananmen: injustice, corruption, nepotism. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / CHRD) - On the day of the anniversary of the massacre, 
+Tiananmen Square and surrounding streets are under the tight police control, 
+while there are arrests, "temporary" abductions of activists and figures 
+critical of the government because of its attempt to silence any discussion 
+about what happened June 4, 1989.
+
+On the streets of the capital, there are hundreds of thousands of policemen in 
+plainclothes and in uniform with checkpoints at intersections, checking 
+identity cards and patrolling, especially in streets surrounding the square, 
+where 22 years hundreds and perhaps thousands of young people were massacred by 
+the liberation army.
+
+In recent weeks, many dissidents and activists were placed under house arrest, 
+but the list (see 06/03/2011To commemorate the 4 June massacre, China arrests 
+other dissidents 
+
+) needs to be updated with the kidnapping of some high profile figures.
+
+On June 1, Bao Tong (see photo) and his wife were taken from Beijing to an 
+unknown location by public security officers. Bao Tong, former aid to Zhao 
+Ziyang, general secretary of the Party in '89, had opposed the army 
+intervention on Tiananmen square and for this spent seven years in prison and 
+still lives under round the clock police surveillance.
+
+Ding Ziling and Zhang Xianling, respectively founder and member of the Mothers 
+of Tiananmen, are at their home in Beijing under police control, as well as the 
+dissident Gao Hongming.
+
+Yesterday in Xian (Shaanxi), Yang Hai was forced by the security forces to "go 
+on a trip” far from home, where is the mother is very ill and in need of daily 
+care. Yang is an activist and a leader of 89 students.
+
+In Chongqing, Mu Jiayu, a retired teacher, was placed under control and is 
+monitored wherever he goes and he is not allowed to leave the city.
+
+A Nanjing (Jiangsu), Li Yong, a member of the Democratic Movement 89, was 
+threatened by police not to create problems. The police warned him that his 
+computer, internet and mobile phone will be blocked in these days.
+
+The writer Liang Xiwen and activity democratic Wang Ming were threatened by 
+police not to leave their homes. In recent days, police in Qianjiang (Hubei) 
+put under tighter control the home or business for the human rights activist 
+Yao Lifa. Yao's house is under constant surveillance by police since February, 
+when the calls started for a “Jasmine revolution”.
+
+Two days ago, the poet Wu Mingliang (Guangzhou) was called in by police for a 
+"conversation" and later in the evening was taken to an unknown location.
+
+Two days ago, Hong Lei, the government spokesman, said the Chinese " now enjoy 
+the best human rights situation in their entire history."
+
+In fact, many scholars point out that although China has become the second 
+world power in terms of its economy, rule of law is yet to come. Economic 
+development leaves hundreds of millions of Chinese below the poverty line.
+
+In addition, there is widespread anger over injustice, corruption and 
+nepotism; the very ingredients that led to the birth of the democracy movement 
+89.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

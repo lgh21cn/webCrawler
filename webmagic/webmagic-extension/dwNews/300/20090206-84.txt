@@ -1,0 +1,64 @@
+<ID>20090206-84
+<DATE>20090206<\DATE>
+<URL>
+http://www.dw.com/en/munich-willing-to-accept-guantanamo-uighurs/a-4007732
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Munich Willing To Accept Guantanamo Uighurs
+<\TITLE>
+<ABSTRACT>
+Munich's municipal council is backing a motion submitted by the Green party to host 17 members of the Chinese minority held at Guantanamo Bay. The controversial offer still has to be approved by the Chancellor.
+<\ABSTRACT>
+<CONTENT>
+
+The Bavarian city has the largest population of ethnic Uighurs outside of 
+China and the motion now must gain approval from German Chancellor Angela 
+Merkel's cross-party government before it can accept the inmates.
+
+US President Barack Obama is closing the prison that was established on Cuba 
+to house terror suspects. But several European countries have expressed a 
+disinterest in accepting prisoners, claiming they are the US government's 
+responsibility.
+
+Some European countries say the inmates are the US government's responsibility 
+only
+
+Gaining approval to accept the Uighur inmates in Munich will not be easy 
+because the German government is divided on the issue of hosting Guantanamo 
+inmates. Social Democrat Foreign Minister Frank-Walter Steinmeier is in favor 
+of taking in some freed prisoners while Christian Democrat Interior Minister 
+Wolfgang Schaueble is against it.
+
+The Uighurs at Guantanamo were arrested after the US invaded Afghanistan and 
+have been imprisoned there for seven years. Washington has cleared them of any 
+terrorist activity, but hasn't repatriated them to China for fear they would be 
+persecuted or tortured upon their return.
+
+China outraged
+
+This has angered China, which says the group of 17 are part of a United 
+Nations-listed terror group seeking an independent homeland in the Xinjiang 
+region. The latter lies in the northwest of China and is home to the largest 
+Uighur population. Uighurs are mostly Muslim.
+
+Beijing has demanded that the Uighurs be returned and it issued a warning on 
+Thursday after learning that three of the prisoners have applied for refugee 
+status in Canada.
+
+Most Uighurs are Muslim and reside in northwest China
+
+"We have expressed our position many times about those Chinese terrorists 
+detained in Guantanamo. We are opposed to any country accepting those people," 
+Chinese foreign ministry spokeswoman Jiang Yu told reporters in Beijing. "We 
+hope the parties concerned can resolve conveniently this issue according to the 
+international laws and regulations."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

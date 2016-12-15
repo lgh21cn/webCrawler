@@ -1,0 +1,80 @@
+<ID>20150130-273
+<DATE>20150130<\DATE>
+<URL>
+http://www.dw.com/en/opinion-the-search-for-truth-in-ideology/a-18226476
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: The search for truth in ideology
+<\TITLE>
+<ABSTRACT>
+China wants to ban textbooks containing Western values from its universities, except for ideas of Western-imported Marxism. China's ideological control continues to gain ground, writes DW's Matthias von Hein.
+<\ABSTRACT>
+<CONTENT>
+
+ "Seek truth from facts" - that was one of the main Marxist ideas from Deng 
+Xiaoping, the architect of the Chinese reform and opening-up policy. Under this 
+motto China has come very far in improving its image. But Deng's successors 
+seem to want to deviate from this path. For them, the truth lies in ideology 
+rather than facts.
+
+ The campaign for ideological control, which was initiated by state and party 
+leader, Xi Jinping, is intensifying. Having already established stricter 
+control over the media and Internet, academic freedom, which was already 
+limited, is now next on the chopping block. Textbooks with "Western values" 
+will henceforth be banned in China's universities as decreed by education 
+minister, Yang Guiren, at a conference on Thursday, January 29.
+  
+DW's Matthias von Hein
+
+The fight against 'Western values'
+
+ Last weekend, a party newspaper attacked two alleged representatives of 
+"Western values:" a professor and a painter. Shortly thereafter, universities 
+were urged to increase the circulation of party propaganda and strengthen the 
+teachings of Marxism as well as the ideals of Chinese socialism in the 
+classroom.
+
+ This all fits into the puzzle: already at the beginning of the Xi era, an 
+internal party document warned against "Western values." Specifically the 
+document raised awareness of the "Western ideals" of government checks and 
+balances, judicial review, media and press freedom, as well as the idea of 
+civil society.
+
+ As a result, the government has been exerting increasing pressure on 
+dissidents ever since. Those opposing the ruling party were thrown into prison 
+along with their lawyers. Ilham Tohti, an economics professor in Beijing and a 
+moderate critic of the government's "nationality policies" was sentenced to 
+life imprisonment last September on separatism charges after he championed the 
+rights of the country's Muslim Uighur minority. Moreover, a host of 
+restrictions have been set in place to keep journalists in line.
+
+ Since late January, China's censors have been disrupting so-called Virtual 
+Private Network connections (VPN), used by many in the country to bypass the 
+so-called "Great Firewall" and access blocked websites. "The country needs new 
+methods to tackle new problems," said Wen Ku, director of telecoms development 
+at the Ministry of Industry and Information (MIIT). It seems a minor matter now 
+that Internet users in China have to register online using their own names 
+since the beginning of the year.
+
+ All this points to both a massive degree of distrust towards the ruled and 
+also an unconditional will to wield and retain power. In a US diplomatic cable 
+disclosed by Wikileaks we can get an idea of how Xi Jinping was viewed by a 
+former close friend. In 2009 the friend is cited as saying that Xi wasn't 
+corrupt or driven by money, but "could be corrupted by power."
+
+ Since becoming president in 2013, Xi has amassed more power than any of his 
+predecessors since Deng Xiaoping. For this to continue, actions have been taken 
+against anyone or anything that may cast a slur at the party or its members, 
+including "Western values." In this sense it seems ironic that Marxism is also 
+an import from the West and that incumbent Premier Li Keqiang excelled in 
+translating Western legal texts when he was younger.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

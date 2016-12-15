@@ -1,0 +1,5 @@
+package us.codecraft.webmagic.example;
+
+public class FirstWebCrawlerAnnotatedProcessor {
+
+}

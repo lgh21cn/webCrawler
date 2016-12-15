@@ -1,0 +1,68 @@
+<ID>20141113-72
+<DATE>20141113<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-22-Islamic-preachers-sentenced-for-inciting-hatred-32682.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang 22 Islamic preachers sentenced for inciting hatred
+<\TITLE>
+<ABSTRACT>
+The penalties range from five to 16 years in prison. Accusations include charges of separatism, ethnic hatred and disturbing the peace. The verdict was read in public in Kashgar. Increasingly the provincial epicenter of inter-ethnic clashes.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Authorities in the western province of Xinjiang have 
+sentenced 22 Islamic preachers in recent days to sentences ranging from five to 
+16 years in prison. Charges against them include separatism, ethnic hatred and 
+disturbing the peace.
+
+The verdict was read in public at the People's Court of Kashgar. The area is 
+known for its violent attacks in recent months, which according to Beijing that 
+are orchestrated by Muslim separatists.
+
+According to the judiciary report the preachers include "rogue imams," or 
+those already removed from their mosques and religious still in office. 
+Ainiwaer Tuerxun, mayor of Kashgar, said the province is "plagued by religious 
+extremism" which has "fomented terrorism in the region."
+
+According to the politician, reading the sentence in public "is a powerful 
+deterrent that will help stop those who break the law through religion."
+
+ Meng Caixia, a teacher, told the South China Morning Post that the problem of 
+religious extremism "is serious, and is having a profound impact in the area. 
+Some preachers are involved in this activity, and it is very difficult for them 
+to be open-minded and accept what they are told".
+
+The province is one of the most turbulent in all of China. Its Uyghur Muslim 
+minority, who number about nine million, have long sought independence from 
+China.
+
+The central government, for its part, has brought in hundreds of thousands of 
+settlers to make Han Chinese the dominant ethnic group.
+
+At the same time, it has severely curtailed Muslim religious worship as well 
+as the teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out.
+
+Chinese authorities blame Muslim extremists for the wave of violence. Uyghur 
+exiles claim instead that Beijing is "exaggerating" the threat of Islamic 
+terrorism to justify repression against indigenous Uyghurs.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

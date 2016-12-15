@@ -1,0 +1,72 @@
+<ID>20070110-60
+<DATE>20070110<\DATE>
+<URL>
+http://www.asianews.it/news-en/Chinese-police-defend-massacre-of-%E2%80%9Cterrorists%E2%80%9D-in-Xinjiang-8191.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese police defend massacre of “terrorists” in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Without giving any evidence, Chinese authorities described the camp attacked on 8 January as a den of terrorists. Beijing said the killing of 18 people was within the limits of international and domestic law. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Chinese police yesterday defended an attack 
+against what they have described as a training camp run by the East Turkestan 
+Islamic Movement (ETIM). The authorities said the police raid was within the 
+limits of international and domestic law.
+
+ 
+
+Ministry of Foreign Affairs spokesman Liu Jianchao told a press conference 
+that “the camp was linked to international terrorism” but he gave no proof to 
+substantiate his allegation.
+
+ 
+
+Eighteen alleged terrorists were killed and 17 arrested in the attack on 8 
+January in the northern Xinjiang province. A police official was killed in the 
+clash and another was wounded.
+
+ 
+
+The training camp is located in the Pamir Plateau in one of the highest 
+altitudes of the region that bordersPakistan, Afghanistan and Kyrgyzstan.
+
+ 
+
+Ministry of Public Security spokesman Wu Heping said: “The United Nations had 
+identified the ETIM as a terrorist group onSeptember 11, 2002. These activists 
+have been on a list of Chinese most-wanted people sinceDecember 15, 2003.”
+
+ 
+
+He continued: “The criteria and legal basis for identifying terrorists are 
+defined by our criminal law, internal security demands and by the Shanghai 
+Co-operation Organisation's Shanghai Convention on Combating Terrorism, 
+Separatism and Extremism.”
+
+ 
+
+On this basis, “Chinese police will continue to closely monitor the situation, 
+use force, strengthen international co-operation and crack down on the crimes 
+of any terrorists and their groups. It must do so to maintain the stability of 
+border areas and to protect the lives of those living there.”
+
+ 
+
+However, groups lobbying for human rights groups in China have accused Beijing 
+of using the war on terror as a cover for its violent crackdown on separatist 
+movements. Wu did not give details of the destroyed training camp, saying only 
+that “police were still investigating the matter”.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

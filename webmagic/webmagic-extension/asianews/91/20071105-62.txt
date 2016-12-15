@@ -1,0 +1,84 @@
+<ID>20071105-62
+<DATE>20071105<\DATE>
+<URL>
+http://www.asianews.it/news-en/Police-cordons-off-Tiananmen-dissident-Bao-Zunxin%E2%80%99s-funeral-10720.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Police cordons off Tiananmen dissident Bao Zunxin’s funeral
+<\TITLE>
+<ABSTRACT>
+Police arrests, harasses and interrogates activists, lawyers and human rights advocates to prevent them from attending the funeral of a great hero of democracy.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) – The funeral of Bao Zunxin, a pro-democracy scholar who 
+died October 28th, was marred by the presence of police who harassed mourners, 
+seized biographic pamphlets about the deceased, and arrested and interrogated 
+some prominent would-be participants.
+
+The farewell ceremony of the 70-year-old Bao Zunxin was held at 11 am Saturday 
+in a funeral home in an eastern neighbourhood of the capital. About 200 people 
+came but were met by police who videotaped them, taking away two, writer Liu Di 
+and pro-democracy activist Li Hai, who had been able to evade police 
+surveillance as they got away from their homes.
+
+Police also seized printed copies of memorial notes and articles about Mr. 
+Bao's life and ordered journalists not to take pictures. A Japanese reporter 
+was removed briefly for taking pictures outside the funeral hall, and ordered 
+to delete all the pictures before he was released.
+
+Bao, a former member of the Chinese Academy of Social Sciences, was involved 
+in the 1989 Tiananmen Square protest movement. As an associate research fellow 
+he had gained wide respect among students for his integrity and open views 
+about human rights and democracy.
+
+He was sentenced to five years in prison in 1991 but was released on bail 
+after serving 11 months. He lived in poverty thereafter, refusing all job 
+offers from the government, whilst pursuing in his interest in democracy in 
+China under the vigilant eye of the police.
+
+The funeral ceremony was organised by Liu Xiaobo, another respected 
+intellectual and Tiananmen activist who remained with the students in Tiananmen 
+Square until the start of the bloody crackdown
+
+The funeral arrangements were approved by police on condition that no 
+reference was made at the memorial service to the June 4 crackdown and also 
+that the ceremony be kept small
+
+On the evening of November 2, police visited and questioned many of Mr. Bao’s 
+friends and supporters, in some cases holding them for many hours until early 
+in the next morning, trying to intimidate them into giving up their plans to 
+attend the service.  
+
+In the early morning of November 3 police placed dozens under house arrest or 
+residential detention, including human rights lawyer Mo Shaoping; the 
+scientist/writer Jiang Qisheng; intellectuals Liu Junning, Chen Ziming, and Liu 
+Suli; Tiananmen Mothers’ movement activist Zhang Xianling; and activists Qi 
+Zhiyong, Hu Jia  and Zeng Jinyan.
+
+According to Chinese Human Rights Defenders (CHRD), more than a dozen 
+policemen were assigned to prevent a single individual from leaving home in 
+some cases.
+
+Police took several people including the legal scholar Yu Meisun and human 
+rights lawyer Pu Zhiqiang into administrative detention at local police 
+stations, after they tried to defy police orders to stay home.
+
+Mr Yu was held for 24 hours, and Mr Pu for five hours during which he was 
+verbally abused.
+
+Both were released but only after the funeral.
+
+According to the CHRD, about 200 people who had planned to bid Bao Zunxin 
+farewell were prevented by the police from going.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

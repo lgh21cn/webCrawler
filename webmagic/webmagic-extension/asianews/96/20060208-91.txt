@@ -1,0 +1,66 @@
+<ID>20060208-91
+<DATE>20060208<\DATE>
+<URL>
+http://www.asianews.it/news-en/Government-bans-party-members,-women-and-minors-from-entering-mosques-in-Xinjiang-5330.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Government bans party members, women and minors from entering mosques in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Signs posted in mosques across the region say youth league members, government officials, as well as active and retired state employees are banned from entering. 
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Urumqi (AsiaNews/RFA)  Chinese authorities have banned government officials, 
+state employees (on active duty or retired), Communist Party members, youth 
+league members, minors and women from entering mosques. Such signs, written in 
+Uyghura language which uses the Arabic alphabet and is frowned upon by the 
+authoritieswere first posted in mosques in the southern and poorest parts of 
+the region.
+
+The measure is part of a vast campaign by the Communist Party against a local 
+revival in religious practice, especially amongst its members.
+
+An article published last November in Hong Kong-based social affairs journal 
+Zhengming ('Debates') reported that across the country more than one in three 
+Party members have become involved in religious activities, usually in secret. 
+China's Communist Party has almost 20 million members.
+
+After denying that there was any ban, an imam at the Heitkar mosque in Kashgar 
+confirmed that that it did exist. The imam, who preferred not to reveal his 
+identity, said that it was the "same here in our Heitkar mosque. Our policies 
+are all same".
+
+Several Uyghur Muslims confirmed that members of certain groups were not 
+allowed to go to the mosque even for major festivals such asEid al-Fitr at the 
+end of the fasting month of Ramadan, orEid al-Adha when sheep and goats are 
+sacrificed to recall the sparing of Abraham's son Isaac.
+
+A farmer added that government officials keep tight guard over mosques, noting 
+who comes and who leaves, and issuing fines of up to 5,000 yuan (US$ 620,  
+500) to those who break the ban.
+
+He mentioned the case of a schoolteacher jailed for two years and fired after 
+20 years' service for persisting in performing her five daily prayers as 
+required of each Muslim.
+
+"If an imam does not do what the government says, he is taken away and the 
+government appoints a new one who will," he said.
+
+Known as East Turkistan till 1955, Xinjiang is currently an Autonomous Region. 
+Uyghurs, who are mostly Muslim, are the largest ethnic group in a population of 
+19 million. The oil-rich territory was independent until Chinese Communist 
+takeover.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

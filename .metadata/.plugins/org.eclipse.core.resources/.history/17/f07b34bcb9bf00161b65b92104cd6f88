@@ -1,0 +1,51 @@
+package us.codecraft.webmagic.processor.example;
+
+import java.util.Map;
+
+import us.codecraft.webmagic.ResultItems;
+import us.codecraft.webmagic.Task;
+import us.codecraft.webmagic.pipeline.Pipeline;
+
+public class FirstWebCrawlerPipeline implements Pipeline {
+
+	@Override
+	public void process(ResultItems resultItems, Task task) {
+		// TODO Auto-generated method stub
+		final String url=resultItems.getRequest().getUrl();
+		System.out.println("Get page: "+url);
+		
+		if(url.matches("http://blog\\.sina\\.com\\.cn/s/articlelist_.*\\.html")){//文章列表
+			
+		}else if(url.matches("http://blog\\.sina\\.com\\.cn/s/blog_.*\\.html")){//具体文章内容
+			
+		}else{
+			assert false:"Can't match above two types of Url";
+		}
+		
+		String time=null,title=null,content=null;
+		
+		for (Map.Entry<String, Object> entry: resultItems.getAll().entrySet()) {
+//			System.out.println(entry.getKey()+":\n"+entry.getValue());
+
+			if("time".equals(entry.getKey())){
+				time=(String) entry.getValue();
+			}else if("title".equals(entry.getKey())){
+				title=(String) entry.getValue();
+			}else if("content".equals(entry.getKey())){
+				content=(String) entry.getValue();
+			}
+
+		}
+		System.out.println("Time:\n"+time);
+
+		System.out.println("Title:\n"+title);
+
+		System.out.println("Content:\n"+content);
+		
+//		FileUtils.writeContent("sinablog_test.txt", resultItems.get("time"), resultItems.get("title"), resultItems.get("content"));
+		FileUtils.writeContent("sinablog_test.txt", time, title, content);
+	}
+	
+	
+
+}

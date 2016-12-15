@@ -1,0 +1,140 @@
+<ID>20150527-224
+<DATE>20150527<\DATE>
+<URL>
+http://www.dw.com/en/secret-taliban-peace-talks-in-china-criticized/a-18478201
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Secret Taliban peace talks in China criticized
+<\TITLE>
+<ABSTRACT>
+Once again, secret talks with Taliban representatives are said to have taken place - this time in China. Given the string of deadly attacks in their country, Afghans have reacted to the alleged meeting with skepticism.
+<\ABSTRACT>
+<CONTENT>
+
+ According to some Afghan and Western media outlets, an Afghan peace 
+delegation and former officials of the Taliban regime held secret talks last 
+week in the northwestern Chinese city of Urumqi. The Afghan delegation was 
+reportedly headed by Masoom Stanekzai, secretary of the Afghan government's 
+High Peace Council, who has also been nominated as defense minister by 
+President Ashraf Ghani.
+
+Talks about talks
+
+ According to some reports, three representatives of the Taliban - Mullah 
+Abdul Jalil, Mullah Abdul Razaq and Mullah Hassan Rahmani - participated in the 
+negotiations. Also present were officials of Pakistan's spy agency, the 
+Inter-Services Intelligence's (ISI), who reportedly facilitated the talks.
+ 
+
+Stanekzai has been nominated as Afghanistan's defense minister by President 
+Ashraf Ghani
+
+Beijing has officially denied any knowledge of the alleged meeting, but the 
+Chinese government, in the past, has shown a great deal of interest in a 
+peaceful settlement in neighboring Afghanistan.
+
+ "Beijing should have known something about this meeting," Wang Lian, a 
+political scientist at Beijing University, told DW. "Probably China doesn't 
+want to talk about it, mainly because the Taliban are perceived as extremists 
+and terrorists, but eventually, if the reconciliation process in Afghanistan 
+succeeds, it will be good for China. It is also about China's own security," he 
+added.
+
+ The alleged Urumqi talks are the latest in a series of similar unofficial 
+meetings between Afghan officials and the Taliban in Qatar and Iran. Both 
+parties deny that these talks have taken place, and this time it is no 
+different: "We have received no information about a meeting in China," 
+according to High Peace Council's Shahzada Shahid. "These are only rumors," he 
+added.
+
+ Afghan experts and lawmakers have criticized the secrecy over the talks 
+because President Ghani had promised that the discussions with the Taliban 
+would be transparent.
+
+DW recommends
+
+Taliban claims latest attack on Kabul guesthouse
+
+An all-night siege in Kabul ended in the early hours of Wednesday morning with 
+the deaths of four heavily armed attackers. No civilians or security personnel 
+were injured or killed, according to an Afghan official. (27.05.2015)
+ 
+
+Will the Afghan-Pakistani intelligence cooperation work?
+
+Afghanistan and Pakistan have agreed to share intelligence against militants, 
+but experts are not too optimistic about the outcome citing a lack of trust 
+between the two nations and Pakistan's sympathies for the Taliban. (20.05.2015)
+ 
+
+Battle for Kunduz: 'German forces left too early'
+
+Hundreds of Taliban fighters have besieged the northern Afghan city of Kunduz 
+and are attacking Afghan army bases and checkpoints. DW correspondent Mohammad 
+Saber Yosofi describes the situation on the ground. (29.04.2015)
+ 
+
+ "The Afghans are unhappy with the government. There have been no real peace 
+talks to date," said Haji Abdulhai Akhondzada, a parliamentarianfrom Helmand 
+Province and deputy chairman of the parliament's Commission for Internal 
+Security. "Until now, the talks have been only about how to start the talks," 
+he added.
+
+Retired Taliban officials?
+
+ But the victims are the people in Afghanistan, Akhondzada told DW. "The 
+security situation in the country is getting worse by the day. There are no 
+positive developments, and there is fighting in each province. The Taliban are 
+in the midst of their spring offensive, and they will only be willing to talk 
+if their offensive fails."
+
+ The parliamentarian added that the government in Kabul had made no progress 
+in this regard, and that the Pakistani leadership had failed to keep its 
+promise of bringing the Taliban to the negotiating table.
+
+ Afghan political analyst Ahmad Saeedi agrees and argues that it makes no 
+sense to engage in talks with former Taliban officials. "Those based in the 
+Emirates and other Arab countries have almost no influence on the activities of 
+today's Taliban," he told DW.
+
+Friend or foe?
+
+ Experts agree that only if the ISI genuinely cooperates with Kabul, will any 
+demands made on the Taliban carry some weight. Pakistan recently announced it 
+would support Afghanistan in the fight against common enemies.
+ 
+
+Will Pakistan genuinely cooperate with Kabul?
+
+And last week, Kabul announced that the Afghan and Pakistani governments had 
+agreed to forge a partnership between their intelligence agencies. The 
+agreement stipulates that both sides share information regarding future 
+operations and the fight against insurgents. However, the controversial deal 
+has been criticized by a majority of Afghans.
+
+ Saeedi believes that Pakistan's pledge of support is only a game. "Pakistani 
+Prime Minister Nawaz Sharif told the media on May 25 that his government wanted 
+to fight the Taliban. One day later, however, we saw renewed attacks in the 
+Afghan provinces of Kandahar, Wardak and Baghlan."
+
+ According to the UN, the number of civilian casualties in Afghanistan has 
+reached a new record. In the first four months of the year, a total of 974 
+Afghans were killed and 1,963 others were injured - a 16 percent rise compared 
+to the same period last year.
+
+ This is why Saeedi believes that the Pakistani pledges are just empty words. 
+"If they truly want to contribute, they first need to banish the Haqqani 
+Network and the Quetta Shura from the country," he said, adding that he doubts 
+this would ever happen.
+
+Cui Mu of DW's Chinese service contributed to the text.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

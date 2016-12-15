@@ -1,0 +1,37 @@
+<ID>20140327-144
+<DATE>20140327<\DATE>
+<URL>
+http://www.dw.com/en/ukraine-crisis-a-chance-for-sino-german-dialogue/a-17523230
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ukraine crisis - A chance for Sino-German dialogue
+<\TITLE>
+<ABSTRACT>
+Chinese President Xi Jinping is set to visit Germany on March 28-29 as part of his 11-day Europe tour. But instead of economic issues, security is expected to be high on the agenda given recent developments in Ukraine.
+<\ABSTRACT>
+<CONTENT>
+ Sino-German relations are mainly defined by economic ties. The annual bilateral trade stands at around 205 billion USD. That's equivalent to about a third of the total EU trade with China. The economic nature of this relationship is highlighted by the fact that Xi Jinping will be accompanied by a 200-strong business delegation in his first trip to Germany as Chinese president.
+ And yet the focus of Xi's state visit will not be on business deals, but rather on global and security issues, according to Sebastian Heilmann, a China expert at the Berlin-based Merics think tank. "This is new to the Sino-German relations," he said.
+ The recent events in Ukraine are the main reason for this change. China does not agree with Russia's annexation of Crimea. Beijing argues that the principles of territorial integrity and non-interference in the internal affairs of other states are at the core of its foreign policy. Furthermore, given the autonomy movements in Tibet, Xinjiang or Taiwan, the Chinese government rejects the idea of holding referendums.
+ 
+ Considering the otherwise very close Sino-Russian ties, analysts do not expect Beijing to abandon Moscow and openly criticize Russia's actions. "But we do see signs of cracks in their relationship," political expert Heilmann told DW, adding that the recent development had widened the scope for German co-operation with China.
+ Berlin wants Beijing to support the West's position on the Crimea issue and to have a moderating effect on Russia. The Chinese government had recently declared its intention to the National People's Congress that it wanted to take on more responsibility in global affairs and continue to adhere to international law.
+ Analyst Heilmann sees great opportunities for Beijing in light of the current situation: "Behind the scenes, China has the opportunity to say that divisions within Eastern Europe and a shift from the current territorial boundaries are not in the interest of China. It can argue that stability is much more important and that the goal should be a joint development of the contested areas supported by the International Monetary Fund and protected by international law.
+ 
+Perhaps Germany is the right country to address these issues during Xi Jinping's upcoming state visit. Sino-German ties have become so close that they have been raised to the level of a strategic partnership.
+ Delegations from both sides take part in several dialogue forums every year. Moreover, dozens of bilateral agreements are signed in intergovernmental consultations. Germany has an excellent reputation as a reliable partner in China where it is regarded as the "gate to Europe."
+ During his visit, Xi will first be meeting German President Joachim Gauck. But since Xi Jingpin is also China's top politician, he is also set to engage in extensive talks with Chancellor Merkel. Xi is then expected to travel to North Rhine-Westphalia and meet with Vice-Chancellor Sigmar Gabriel on the second day of his trip.
+ 
+ Just a few days after Xi's visit, Berlin will be hosting the largest-ever exhibition by Chinese artist and political dissident Ai Weiwei. But, as Nora Sausmikat from the German foundation Asienhaus indicates, Ai is unlikely to be present at the event as his passport was confiscated in 2011 following a nearly three-month detention. The foundation therefore demands that Chancellor Merkel push Beijing for Ai's right to travel freely.
+ Sausmikat also points out that - ever since Xi took over the reins as president and party chief - censorship in China has become stricter and authorities have been cracking down hard on civil rights activists. Sausmikat therefore urged the German chancellor to stand up for freedom of expression and opinion in the Asian country.
+ China analyst Heilman believes it's possible that the Xi-led government will be willing to take a more lenient approach towards Ai. "This hard line was taken up by the previous administration. The current government has more room to maneuver, especially no court has convicted Ai of anything," he said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,35 @@
+<ID>20140912-3
+<DATE>20140912<\DATE>
+<URL>
+http://www.dw.com/en/four-sentenced-in-terrorism-trial-in-china/a-17918661
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Four sentenced in terrorism trial in China
+<\TITLE>
+<ABSTRACT>
+Four people have been sentenced on charges of terrorism in China after a knife attack that left dozens dead and injured. Beijing has blamed tension and violence in its restive Xinjiang region on increasing Islamism.
+<\ABSTRACT>
+<CONTENT>
+ Three men, Iskandar Ehet, Turgun Tohtunyaz and Hasayn Muhammad were sentenced to death on Friday by a court in northwestern Kunming. The fourth person on trial, Patigul Tohti, received a life sentence, as she is pregnant.
+ They were convicted of murder and plotting and carrying out a terrorist attack.
+ The government said knife-wielding militants from the unruly western region of Xinjiang had launched the premeditated attack at a train station in Kunming, in Yunnan province that left 31 people dead and injured 141 on March 1 this year.
+ Police shot dead four other culprits during the attack in March. Authorities have been cracking down on the "three evil forces" of terrorism, religious extremism and separatism in the far western province Xinjiang, which is home to around eight million ethnic minority Muslim Uighurs.
+ "Today's trial clearly shows the resolute attitude and staunch determination of the Chinese government to protect the life, property, security and joint interests of all ethnicities, and severely strike at violent terrorism crimes," Reuters news agency quoted the Kunming Municipal Intermediate People's Court as saying.
+ 
+ Also on Friday, a court date was set for a prominent Uighur scholar accused of separatism.
+ Ilham Tohti, a professor of economics, will go on trial next Wednesday. He was arrested in January this year during heightened tensions between Uighurs and Han Chinese in Xinjiang.
+ He lectured at Beijing University and spoke openly about problems with the country's minorities policies. Authorities have accused Touhti of inciting hatred and advocating independence. One of his lawyers said he had been shackled constantly and denied food for days on end while in custody.
+ Xinjiang has been a hotspot in recent years for rising tension between Uighurs and the majority Han Chinese people. It has been the scene of deadly conflicts as well, which Beijing has blamed on insurgent terrorists.
+ Uighurs have accused Chinese authorities of using excessive force, carrying out mass arrests and forced disappearances, and ill-treatment in detention. There are also allegations that China is trying to "breed out" the ethnic minority by offering incentives to Han Chinese to move to Xinjiang and engage in inter-culture marriages.
+ Amnesty International has accused China of marginalizing Uighur culture and language in Xinjiang and has called on it to long-standing grievances of Uighurs, including employment discrimination and a severe restriction on freedom of expression.
+ sb/hc (dpa, Reuters, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

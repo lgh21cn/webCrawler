@@ -1,0 +1,61 @@
+<ID>20140302-61
+<DATE>20140302<\DATE>
+<URL>
+http://www.dw.com/en/chinese-authorities-blame-uighur-separatists-for-knife-bloodbath/a-17467547
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese authorities blame Uighur separatists for knife bloodbath
+<\TITLE>
+<ABSTRACT>
+Chinese authorities have blamed Uighur separatists for the bloodbath at a train station in southwestern Yunnan province. The assault by knife-wielding assailants left more than two dozen people dead.
+<\ABSTRACT>
+<CONTENT>
+
+ Uighur separatists from the restive province of Xinjiang were responsible for 
+the mass stabbing at a train station in Yunnan province on Saturday, according 
+to China's Xinhua state news agency.
+
+ At least 10 knife-wielding assailants clad in black randomly attacked 
+pedestrians at the train station in the city of Kunming. At least 33 people 
+died and another 130 people were injured in the attack. Police shot dead four 
+of the assailants and detained another. Five other culprits are on the run, 
+according to state media.
+
+ "Evidence at the crime scene showed that the Kunming railway station 
+terrorist attack was carried out by Xinjiang separatist forces," Xinhua 
+reported.
+
+ Chinese President Xi Jinping has called for "all-out efforts" to bring the 
+culprits to justice "in accordance with the law."
+
+ The country's domestic security chief, Meng Jianzhu, has been dispatched to 
+the scene to oversee the handling of the case, according to the state 
+television broadcaster CCTV.
+
+Restive Xinjiang
+
+ The western province of Xinjiang, located 1,000 kilometers away from the 
+scene of Saturday's attack in Yunnan, has a long history of unrest. Uighur 
+Muslims native to Xinjiang accuse Beijing of restricting their religious and 
+cultural practices.
+
+ Knife and bomb attacks against government officials are known to occur 
+sporadically in Xinjiang. But violence related to the Uighur community's 
+political situation typically does not occur outside of their native province.
+
+ In one high-profile incident last October, three Uighur family members set 
+fire to their car in Beijing's Tiananmen Square, 
+
+ killing themselves and two bystanders.
+
+ slk/jr (AP, AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

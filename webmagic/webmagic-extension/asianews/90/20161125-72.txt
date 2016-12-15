@@ -1,0 +1,57 @@
+<ID>20161125-72
+<DATE>20161125<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-Passports-confiscated-against-terrorism-39236.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: Passports confiscated "against terrorism"
+<\TITLE>
+<ABSTRACT>
+ 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - The Chinese government is confiscating all passports of 
+the population of Xinjiang motivating the gesture as a fight against terrorism.
+
+Beijing (AsiaNews) - The Chinese government is confiscating all passports of 
+the population of Xinjiang motivating the gesture as a fight against terrorism.
+
+Citizens have been ordered to hand in their passports to the authorities has 
+been published already for several weeks under the threat of being permanently 
+banned from travel. Some Shihezi police directives, which later disappeared 
+from their website, stated  that the withdrawal of travel documents was to 
+happen by next February.
+
+ The World Uighur Congress has denounced the move as a further step towards 
+the marginalization of the Uighur population. According to sources, last June, 
+the Chinese authorities have forced the Uighur to give samples of their DNA in 
+applying for new passports.
+
+ The Uighur, a Muslim ethnicity of Turkic origins constitute 45% of the 
+population of Xinjiang in northwest China. There have been decades of marked 
+tensions between Uighur and ethnic Han (Chinese). Some Uighur fringes dream of 
+independence for East Turkestan region, although the majority of them just want 
+more autonomy. China responds with a colonial military rule, by marginalizing 
+the Uighur from key posts in politics and economics of the region.
+
+ China fears that the Xinjiang Muslims can strengthen alliances with the 
+Taliban in Afghanistan or Pakistan, which supports the fight for independence.
+
+ Under the motivation "anti-terrorism", though China oppresses all the Muslim 
+population by banning young people from participating in the prayer in the 
+mosque, forcing them to not observe the fast of Ramadan, and banning beards.
+
+ In China, no resident has the right to have a passport, but must apply to the 
+authorities. This allows authorities to control citizens foreign travels.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

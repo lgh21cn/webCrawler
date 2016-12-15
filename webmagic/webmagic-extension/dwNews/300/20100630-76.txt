@@ -1,0 +1,89 @@
+<ID>20100630-76
+<DATE>20100630<\DATE>
+<URL>
+http://www.dw.com/en/xinjiangs-muslims-have-pragmatic-attitude-to-faith/a-5746728
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang's Muslims have pragmatic attitude to faith
+<\TITLE>
+<ABSTRACT>
+The Chinese authorities often cite religion in conjunction with acts of violence in Xinjiang. But for many Muslims in China's northwest, faith is not linked with politics. Most see Islam as a positive force for society.
+<\ABSTRACT>
+<CONTENT>
+
+It's time for afternoon prayers in Urumqi. The mosque administrator, Ma 
+Jianguo*, opens the iron door. Men with beards wearing white shirts trail into 
+the building. Many of them are young.
+
+"They think that if they do business everyday, drink alcohol, smoke and don't 
+accept Allah, they will be punished and then business won't be so good," the 
+70-year-old Ma explains.
+
+"They hope that if they go to prayers and behave in such and such a way, Allah 
+will also behave in such and such a manner…"
+
+Some young businessmen hope they will be more successful if they go to prayers
+
+Different approaches to faith
+
+However, Ma says that faith should not be motivated by material desire. His 
+father, who was an imam, was forced to work for seven years in a coal mine 
+during the Cultural Revolution.
+
+He taught his four children about Islam and how to believe: "Whether you have 
+money or not, something to eat or not, I do not care about your things. Pray to 
+me the way I taught you to, that's the word of Allah," Ma says.
+
+Many young Muslims in Urumqi listen to Western music and wear Western clothes. 
+They might even have a boyfriend or girlfriend before getting married. Young 
+women who wear headscarves are in the minority.
+
+Alwina is Kazakh. She has just finished her economics studies at Xinjiang 
+University. She is working over the summer in a bar. "It's hard to talk about 
+faith," she says. "If you believe it's enough, you don't have to go anywhere 
+extra. Sometimes I don't pray or go to prayers but religion has an important 
+place in my heart."
+
+She used to think she would only marry a Muslim but now she doesn't think 
+religion should restrict love. Alina, a Uighur student, has a different 
+viewpoint: "I would not marry a Han Chinese, our religion wouldn't allow it. 
+It's a religious problem."
+
+Elder Uighurs praying
+
+Discrimination against Muslims stepped up since riots
+
+Another problem is that people who belong to the university are not allowed to 
+go to the mosque and praying is forbidden on the university campus. "I don't 
+know why we're not allowed to pray," says Alina. "They think it's a waste of 
+time."
+
+After the riots last year in Urumqi, the authorities stipulated that mosques 
+could no longer teach and ordered the doors to be kept closed outside of prayer 
+times. Banners with propaganda slogans criticising separatism have been 
+plastered on the walls.
+
+"I would like to take them down but I don't dare," says Ma. "As soon as I did 
+it they would come and ask me why. I'm scared."
+
+He adds that state officials come every Friday to ensure that the imam 
+includes a spiel against separatism and violence as part of his sermon.
+
+Repression against the mainly Sunni Muslim Uighurs has risen since last year's 
+riots. Observers fear this could trigger a rise of extremism in the region, 
+which until now has had a largely liberal understanding of Islam.
+
+Author: Ye Zhiliang (act)
+Editor: Thomas Baerthlein
+
+*All the names have been changed
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

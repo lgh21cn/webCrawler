@@ -1,0 +1,10 @@
+package us.codecraft.webmagic.processor.example;
+
+public class FirstWebCrawlerAnnotatedProcessor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

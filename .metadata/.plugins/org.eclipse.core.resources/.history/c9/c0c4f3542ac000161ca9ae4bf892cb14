@@ -1,0 +1,8 @@
+package us.codecraft.webmagic.processor.example;
+
+public interface AsianViewDetailItem {
+	public static final String TIME="time";
+	public static final String ABSTRACT="abstract";
+	public static final String URL="url";
+	
+}

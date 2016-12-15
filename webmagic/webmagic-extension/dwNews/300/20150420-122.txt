@@ -1,0 +1,73 @@
+<ID>20150420-122
+<DATE>20150420<\DATE>
+<URL>
+http://www.dw.com/en/chinas-xi-jinping-to-visit-pakistan-invest-46-billion/a-18393074
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China's Xi Jinping to visit Pakistan, invest $46 billion
+<\TITLE>
+<ABSTRACT>
+Chinese President Xi Jinping is heading to Islamabad, where he will unveil investments worth $46 billion. The move is seen as Beijing's attempt to increase its influence in Asia.
+<\ABSTRACT>
+<CONTENT>
+
+ Xi Jinping, China's president, was scheduled to launch $46 billion (43 
+billion euros) worth of investments in energy and infrastructure on his visit 
+to Pakistan on Monday.
+
+ "Pakistan, for China, is now of pivotal importance. This has to succeed," 
+Mushahid Hussain Sayed, chairman of the Pakistani parliament's defense 
+committee, told the Reuters news agency about the partnership.
+
+China's ambitious CPEC corridor
+
+ Xi's two-day visit would include a speech in Pakistan's parliament and 
+announcements related to the China-Pakistan Economic Corridor (CPEC), which 
+would link Pakistan's southern Gwadar port (pictured above) on the Arabian Sea 
+with China's western Xinjiang region. Pakistan transferred control over Gwadar 
+to a Chinese public company in 2013.
+
+ The CPEC also included plans to create road, rail and oil pipeline links 
+between China and the Middle East. China would invest about 34 billion dollars 
+in energy projects, Ahsan Iqbal, Pakistan's minister for planning and 
+development told journalists.
+
+ "The real opportunity of this China-Pakistan Economic Corridor is that it 
+changes the scope of the relationship from geopolitics to geoeconomics," Iqbal 
+argued, adding that the projects would have a "significant transformative 
+effect on Pakistan's economy."
+
+Islamist insurgency a big threat
+
+ The two military allies face several challenges in the implementation of the 
+project, the biggest being that of Islamist militants active in Pakistan's 
+Baluchistan state. China was also worried about Muslim terrorists from its 
+Xinjiang province joining hands with terrorists in Pakistan.
+
+ "China and Pakistan need to align security concerns more closely to 
+strengthen security cooperation," President Xi said in an address to 
+journalists a day before his trip to Islamabad. "Our cooperation in the 
+security and economic fields reinforce each other and they must be advanced 
+simultaneously," he added.
+
+ China's expanded investment in Pakistan is seen as an attempt to increase the 
+country's dominance in Asia and offset US and Indian influence. This is the 
+first visit by a Chinese head of state to Pakistan in the last nine years.
+
+ In 2013, Pakistani Prime Minister Nawaz Sharif visited Beijing to seal 
+important energy deals 
+. 
+China's investment has raised hope among Pakistan's people, but first problems 
+like jihadist violence and improving infrastructure need to be tackled.
+
+ mg/jil (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,5 @@
+package us.codecraft.webmagic.processor.example;
+
+public interface AsianViewDetailItem {
+
+}

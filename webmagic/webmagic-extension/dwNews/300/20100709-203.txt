@@ -1,0 +1,86 @@
+<ID>20100709-203
+<DATE>20100709<\DATE>
+<URL>
+http://www.dw.com/en/a-demonstration-of-strength-the-upcoming-ipo-of-chinas-agbank/a-5765901
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+A demonstration of strength: the upcoming IPO of China's AgBank
+<\TITLE>
+<ABSTRACT>
+On July 15 the fourth and last of China's state-owned banks will float its shares in Shanghai, and one day later in Hong Kong. The stock market launch of the Agricultural Bank is likely to be the largest of all time.
+<\ABSTRACT>
+<CONTENT>
+
+The Chinese love records. The initial plan was that the IPO would raise 30 
+billion US dollars for the Agricultural Bank of China (ABC or AgBank for 
+short), the third largest Chinese state bank. But as the financial markets have 
+been shaky recently, the AgBank is now likely to receive "only" 22.1 billion 
+dollars. This would still be more than the biggest IPO of all time so far, the 
+21.9 billion dollars resulting from the launch of the Industrial and Commercial 
+Bank of China in 2006.
+
+The exact figures don't really matter, though, argues Andreas Schmitz, the 
+president of the Association of German Banks: "It will be a fabulously large 
+amount of money and a huge success anyway that they are able to go ahead with 
+the listing in these troubled times. I don't think you could go through with a 
+bank IPO in Europe or the United States right now."
+
+State banks successfully reformed
+
+The bank has 23,000 branches, more than any other in the world
+
+The IPO also marks an end to the reform of China's state banks. The central 
+government had to pump billions into the banks to relieve them of the burden of 
+bad loans. The Agricultural Bank was considered the weakest among the four, 
+which is why its IPO is coming last. State assistance helped reduce the share 
+of bad loans in the AgBank portfolio from 24 to 3 per cent between 2007 and 
+2009.
+
+The bank has 23,000 branches, more than any other in the world, and 320 
+million customers. They are mostly based in China's rural areas, as the name 
+already suggests. China's plans to boost rural development might appeal to 
+potential investors.
+
+But on the other hand, the Agricultural Bank will have to continue offering 
+loans at low interest rates to Chinese peasants. This political directive once 
+again highlights the dilemma Chinese state banks find themselves in: They are 
+expected to become more efficient and earn more revenues, while at the same 
+time toeing the party line.
+
+Attractive for investors
+
+Andreas Schmitz says with the IPO at this juncture, the government in Beijing 
+is sending a clear signal to the world: "First of all, that the Chinese economy 
+is developing very well. That it is continuing to open up to financial markets 
+and managing to attract capital for its banks from outside as well, not just 
+from the state, which in turn makes these banks more attractive."
+
+Stocks in Shanghai have lost 20 per cent in value this year
+
+The Chinese media have reported that a number of high-profile investors have 
+agreed to buy substantial shares in the AgBank. Among them are state funds from 
+Kuwait and Qatar. Singapore's state fund, Temasek, is planning to invest 300 
+million dollars. Major Chinese companies are also said to be participating, 
+including the largest oil and gas producer PetroChina and insurance giant China 
+Life.
+
+These strategic investors will be crucial, as most observers believe that 
+private investors might be reluctant to take the risk. After almost doubling in 
+2009, the Shanghai Composite Index has lost more than 20 per cent in value in 
+2010. And whereas the AgBank listing is going ahead with strong government 
+backing, five companies have already had to cancel their IPO plans during the 
+past two months, including China's second-largest wind turbine maker, Xinjiang 
+Goldwind.
+
+Author: Zhang Danhong / tb
+Editor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

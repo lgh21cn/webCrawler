@@ -1,0 +1,32 @@
+<ID>20111024-57
+<DATE>20111024<\DATE>
+<URL>
+http://www.dw.com/en/society-falls-victim-to-chinas-one-child-policy/a-6644972
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Society falls victim to China's one-child policy
+<\TITLE>
+<ABSTRACT>
+Since 30 years, China has been pursuing its one-child policy aggressively to get its population under control. This policy, however, spells great problems for Chinese society.
+<\ABSTRACT>
+<CONTENT>
+At the end of the 1970s, following the 10-year long so-called Cultural Revolution, China’s economy was on the verge of collapse. Poverty and housing shortages were the order of the day and there was an excess of manpower. The government was afraid that the country would not be able to provide for its citizens for long if the population continued to grow at the same pace. In order to reverse this trend, the People’s Republic of China implemented birth control measures in 1979.
+Professor of Sociology, Zhou Xiaozheng of the Renmin University in Peking remembers: "Mao Tse Tung was of this absurd opinion that the country would be stronger if there were more people. After the Cultural Revolution and Mao’s death, the government that followed began working against this policy." Every family living in the city was permitted to have only one child and two years later, the government made its one-child policy its topmost priority.
+The one-child family planning policy is practiced widely in China even today. In the case of a handicap or the death of the first child, the law allows the family to have a second baby. In rural areas, a family can have two children if the first child is a girl because traditionally, people living in the countryside prefer male offspring as bearers of the family name. Ethnic minorities with a significantly lower population are not subjected to any such birth control laws.
+The Chinese Commission for population and family planning believes that the one-child policy is a meaningful contribution to lower the rate of population growth. In the early 1970s, the birth rate was 5.8 children per woman, today this figure is a mere 1.8. Without the policy, China would have had 400 million people more, according to official statistics. 
+The authorities in China do not just rely on their citizens obeying the law and sticking to having just one child per family. They also carry out forced abortions, although experts say it is impossible to quote a figure. Practically every regional centre in China has an office for population and family planning and each one of these offices operates according to its own standards. According to a report published in 2009 in the China Daily newspaper, the number of abortions countrywide is 13 million per year.
+Reggie Littlejohn, lawyer and founder of the US-based human rights organization Women’s Rights Without Frontiers says the policy has little to do with family planning: "To make people understand that population growth must be slowed down is one thing. But to force women to abort and to kill newborns is something entirely different. In my opinion, the one child policy is violence sanctioned by the state - a massive breach of women’s rights."
+In a report that Littlejohn presented before the US Congress two years ago, she talks about the fate of Wang Liping. Wang was seven months pregnant with a child conceived out of marriage when she was attacked by unknown men and dragged to the hospital. She was forced to abort the child there. Wang is one of the innumerable Chinese women who suffer the same fate, says Littlejohn: "China has the highest rate for suicide among women. According to statistics, everyday there are 500 cases. But I do not want to claim that these are directly related to forced abortions."
+Abortions are a massive intrusion into the private sphere. They violate human rights of the affected women, says Littlejohn. She is calling on the Chinese government to put an end to this practice and has appealed to the international community to exert pressure on Beijing in this matter.
+For his part, Zhou Xiaozheng of Renmin University, has also appealed to his state to do away with the one-child law. It has negative consequences for society and leads to an ageing population. Adolescents could get increasingly egoistic, he believes: "Many single children develop a lack of social competence when they grow up without siblings and are showered with the love of their parents and grandparents instead." For Zhou, this law is an emergency measure from a bygone era of politics. Now, it is time to adjust the policy to changing circumstances.
+Author: Xiegong Fischer / mgEditor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

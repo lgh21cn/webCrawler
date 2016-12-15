@@ -1,0 +1,71 @@
+<ID>20140712-9
+<DATE>20140712<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-Muslim-students-forced-to-eat-during-Ramadan--31606.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: Muslim students forced to eat during Ramadan 
+<\TITLE>
+<ABSTRACT>
+Teachers note who does not eat or drink, threatening students with expulsion from university or no diplomas. Many students fast in secret. People using the internet to spread "religious extremist violent terror video" get sentences ranging from 15 years to life. Uygur spokesperson says Beijing is afraid of losing its information monopoly.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Teachers in Xinjiang are forcing many Muslim students to 
+eat during the month of Ramadan. If they refuse, they are threatened with 
+expulsion or lost career opportunities.
+
+A month ago, the central government issued directives to stop Muslim 
+government employees and young people under the age of 18 from fasting.
+
+Several days later, even universities like the one in Kashgar did the same. 
+Students are forced to eat in front of their teachers and those who refuse are 
+expelled or denied their diplomas.
+
+Ramadan is one of the five pillars of Islam; it involves not eating or 
+drinking from dawn to dusk.
+
+According to students, the university administration hands out water bottles 
+and food during the day, noting which students refuse to take them.
+
+At the same time, the authorities have ordered restaurants to close during the 
+evenings, threatening fines for those who do not obey.
+
+Many students try to fast in secret: they take food and water, but keep them 
+until the evening.
+
+The government campaign against Ramadan is part of a broader campaign against 
+what it considers "violent terrorist acts" by minority Muslim Uygur.
+
+In recent months, attacks have occurred in a market in Urumqi, a train station 
+in Kunming, and in Tiananmen Square, all blamed on Uyghur nationalism.
+
+The Turkic minority has responded saying that they only want greater autonomy 
+and a share their homeland's wealth, which are being grabbed instead by ethnic 
+Han Chinese settlers.
+
+In its fight against terrorism, Beijing is depriving Uygur pf their freedom of 
+religion and culture.
+
+Two days ago, a court in Xinjiang sentenced three people to life imprisonment 
+and 29 to terms ranging between 4 to 15 years in prison for posting "religious 
+extremist violent terror video" online, and participating in "terrorist 
+organisations".
+
+Dilxat Raxit, spokesman for the exiled group the World Uygur Congress, said 
+that the sentences show that China is afraid Uygurs would use the internet to 
+break authorities' monopoly on information.
+
+"China's accusations are a political excuse to suppress the rights of Uygur to 
+use the internet," he said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

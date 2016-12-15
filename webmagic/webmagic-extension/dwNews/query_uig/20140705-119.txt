@@ -1,0 +1,32 @@
+<ID>20140705-119
+<DATE>20140705<\DATE>
+<URL>
+http://www.dw.com/en/economy-on-the-agenda-for-angela-merkel-on-china-visit/a-17760140
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Economy on the agenda for Angela Merkel on China visit
+<\TITLE>
+<ABSTRACT>
+Angela Merkel has departed for her seventh visit to China as German chancellor, leading an economic delegation. Business is the focus of her visit, though campaigners are hoping human rights will also be on her agenda.
+<\ABSTRACT>
+<CONTENT>
+ After leaving from Berlin on Saturday, the first stop on  is Chengdu, in China's western Sichuan province. 
+ About 160 German companies are active in the area, with Merkel due on Sunday to visit a Volkswagen factory as well as open a conference on urbanization and visit a social project for the children of migrant workers.
+ On the visit, which lasts until Tuesday, Merkel will be accompanied by a high ranking business delegation and is scheduled to sign a series of economic agreements. , behind the European Union and the United States.
+ 
+ Along with meeting representatives from business and civil society, Merkel is due to meet Chinese President and Communist Party leader Xi Jinping as well as Prime Minister Li Keqiang.
+ Members of minority organizations have urged Merkel to use the opportunity to bring up  with China's leaders. The World Uighur Congress sent Merkel an open letter appealing for her to discuss the fate of the Muslim minority in .
+ "The past two years have seen an increase in the use of violence and an even more heavy-handed approach by the Chinese in the eastern region," Rebiya Kadeer, the president of the World Uighur Congress, wrote on Saturday.
+ Tensions between Uighurs and ethnic Han Chinese have led to about 400 deaths between March 2013 and June 2014, according to a report by the German-based Society for Threatened Peoples (GfbV). Chinese authorities accuse Uighurs of several terror attacks in recent months.
+ Well-known civil rights advocate Mo Shaoping also called for Merkel to bring up human rights issues, including the cause of political prisoners. 
+ se/msh (dpa, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

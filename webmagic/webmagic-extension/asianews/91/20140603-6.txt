@@ -1,0 +1,80 @@
+<ID>20140603-6
+<DATE>20140603<\DATE>
+<URL>
+http://www.asianews.it/news-en/Tiananmen-psychosis:-Even-Bao-Tong,-who-wanted-to-stop-the-massacre,-is-arrested-31247.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tiananmen psychosis: Even Bao Tong, who wanted to stop the massacre, is arrested
+<\TITLE>
+<ABSTRACT>
+It is the first time that police have detained the statesman around June 4. In the past he had always been invited to take a "forced vacation" away from Beijing. At least 80 people including activists, lawyers, academics, Christians have been arrested, isolated and interrogated to prevent any commemoration of Tiananmen. Silence on the number of deaths . In the aftermath of the massacre the Red Cross said there were 2600 deaths, but later retracted that figure.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing ( AsiaNews / Agencies) - In the annual attempt to prevent any 
+commemoration of the Tiananmen massacre, the police have arrested the statesman 
+Bao Tong. So far at least 80 people have been detained or isolated for being 
+linked to some events related to the 25th anniversary of the violent 
+suppression of the students and workers movement.
+
+Bao Tong, who is now 81 years of age (pictured), was an aide to Party 
+secretary Zhao Ziyang at the time of the massacre. Both opposed to the military 
+intervention to "clear" the square of the sit-in that had been going on for 
+weeks. But the decision was taken by Deng Xiaoping and Li Peng. Zhao and Bao 
+were arrested, and the tanks arrived in Tiananmen Square, killing and crushing 
+the young people gathered there. Since then, Bao has spent seven years in 
+prison and decades under house arrest, even if the Party has allowed him 
+occasionally to meet with foreign journalists for interviews or comments on 
+current events.
+
+Bao Tong's son, Bao Pu, says he does not know where his father was taken and 
+is unable to trace his whereabouts. This is the first time that his father has 
+been sequestered by the police. "In the past - he explains - the authorities 
+asked him to leave his home [in Beijing] around June 1, but they never forced 
+him to. This year they took him away".
+
+ In other years, Bao took a "forced vacation" traveling to Jiangsu or 
+Zhejiang, to keep him away from the capital and from possible commemorations of 
+the anniversary.
+
+The Chinese Communist Party maintains that the students of the non-violent 
+movement who  called for democracy and an end to corruption were 
+"counter-revolutionaries". In recent years it has done everything possible to 
+erase the memory of the massacre, even to the point of  justifying it as a 
+"lesser evil" to save the country's economic development . But each year 
+associations - such as the Tiananmen Mothers, parents whose children were 
+killed - activists and intellectuals, plead for some clarity on the event and a 
+change in the judgment on the movement which was inherently "patriotic" in 
+nature.
+
+ In doing so the Party would have to admit its mistakes so it prefers to 
+suffocate, stop and isolate those who dare to keep the memory alive.
+
+According to the CHRD (China Human Rights Defenders) this year at least 80 
+people, including activists, human rights lawyers, academics and Christians 
+have been arrested, isolated or brought in for questioning.
+
+ In an attempt to present themselves as the best of all possible governments, 
+the Chinese Communist Party has undertaken to re-write (and clean-up) its 
+history, hiding purges, violence and disasters caused by the folly of its 
+leaders and its monopoly of power.
+
+It is even impossible to find out how many young people lost their lives 
+beneath the tanks in Tiananmen. The Beijing authorities have never released an 
+official list. In the aftermath of the massacre, the Chinese Red Cross had 
+declared at least 2600 dead, but later retracted his statements. Human rights 
+organizations estimate that between 200 and 2 thousand were killed in the 
+square, in the side streets and in the days following June 4.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

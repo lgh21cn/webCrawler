@@ -1,0 +1,34 @@
+<ID>20120301-7
+<DATE>20120301<\DATE>
+<URL>
+http://www.dw.com/en/opinion-chinas-minorities-policies-are-at-a-dead-end/a-15778465
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: 'China's minorities policies are at a dead end'
+<\TITLE>
+<ABSTRACT>
+As China gears up for the National People's Congress, another explosion of violence in the country's west shows that policies towards minorities are at a dead end, says DW's Matthias von Hein.
+<\ABSTRACT>
+<CONTENT>
+ The world may never really find out what happened in the oasis city of Yecheng in China's western region of Xinjiang on Wednesday (29.02). What is clear is that it was the most violent outbreak since last summer. At least 20 people are reported to have died. According to unconfirmed reports, the attackers were Uighurs, the victims Han Chinese.
+ Local authorities have depicted the events as follows: A group of attackers wielding knives killed 13 people at a market place. The police then shot seven of them and arrested others.
+ There is no independent news from the region. Chinese state media initially spoke of a "terrorist attack." The paltry statements of the authorities are up against the comments of Uighur activists abroad. 
+ Organized terror groups do not usually attack their victims with knives. They tend to plant bombs or hijack planes. The image of knife-wielding attackers seems like a violent explosion of long pent-up anger.
+ Many Turkic-speaking Uighurs have long complained of religious, cultural and political oppression and about the fact that they are discriminated against by Han Chinese who have moved into the region.
+ There is no legal outlet for their resentment. Every expression of dissatisfaction is misinterpreted as separatism and cracked down upon.
+ There is a glaring discrepancy between the government's official version of harmony between nationalities in the multi-ethnic country and reality. There is latent racism against minorities such as Uighurs, Tibetans and Mongolians. Many Chinese look down upon those on the poorer edges of the country in an almost imperialistic manner, seeing themselves as the bearers of civilization and progress. They even expect people to be grateful.
+ That Uighurs and Tibetans would like more say in determining their fate is ignored. Moreover, there is little understanding for the fact that to nurture and preserve cultural traditions goes beyond organizing folk dances for tourists and TV shows.
+ This is the only way of explaining the brutality with which the 1,000-year-old town of Kashgar was torn down in 2009. A unique specimen of architectural and cultural heritage was reduced to rubble.
+ The same year, Urumqi, the capital of Xinjiang, witnessed terrible riots between Han Chinese and Uighurs that led to hundreds of deaths on both sides. The catalyst for the riots illustrates how explosive the situation is: A group of Han Chinese workers attacked a group of Uighur migrant workers at a factory in southern China after a rumor, which was later proven to be false, circulated that a Chinese woman had been raped by a Uighur.
+ When the 3,000 members of the National People's Congress meet in Beijing on Monday, the representatives of China's national minorities will be paraded in the state media wearing traditional costume. But they will not have much say. They are merely exotic decoration in China's so-called parliament.
+ Author: Matthias von Hein / act Editor: Sarah Berning
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

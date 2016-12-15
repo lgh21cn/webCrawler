@@ -1,0 +1,79 @@
+<ID>20090401-54
+<DATE>20090401<\DATE>
+<URL>
+http://www.asianews.it/news-en/Party-official-issues-urgent-call-for-democratic-reforms-14883.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Party official issues urgent call for democratic reforms
+<\TITLE>
+<ABSTRACT>
+Within the Communist Party itself, a growing number of voices are calling for political reforms, less censorship, and room for dissent. They are applying pressure to the leaders, who want to talk only about the economy. The police "sequester" a signer of Charter 08 for hours.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+ Beijing (AsiaNews/Agencies) - China will be making a serious mistake if it 
+concentrates only on economic problems, and sidelines the debate over greater 
+democracy. This is the opinion of Yu Keping, a high-ranking official in the 
+Communist Party and the deputy director of the Central Compilation and 
+Transition Bureau, an important CP think tank, published today inChina Comment, 
+a biweekly magazine published byXinhua.
+
+Yu does not contest the centrality of the CP, nor the necessity of order, 
+obedience, and centralization in favor of central power, but he maintains that 
+"incremental democracy characterised by some sort of radical reform" is needed.
+
+Although he does not suggest any specific reforms, the position is important 
+because it stands apart from the official one, repeated recently by Prime 
+Minister Wen Jiabao, who is focusing on dealing with the economic crisis and is 
+setting aside any discussion of reform. Wen says that Western democracy is not 
+suitable for the country, and that democratic change must have Chinese 
+characteristics to reflect the country's situation, without explaining what 
+these "Chinese characteristics" are.
+
+ A growing number of experts observe that China must resume its journey toward 
+political and democratic reforms. At the beginning of March, Bao Tong, the 
+personal secretary and friend of former prime minister Zhao Ziyang, sent a 
+letter to the Chinese parliament illustrating possible reforms (seeBao Tong: 
+Absolute power of the Party will suffocate the people and the economy 
+). 
+
+ In February, a group of old members of the CP wrote an open letter to 
+President Hu Jintao and to the Permanent Committee of the Party, calling for 
+the reconstitution of a commission to study political reforms, like the one 
+instituted in 1986 and headed by Zhao Ziyang, which was dissolved in 1989 after 
+the massacre in Tiananmen Square, and fell into disgrace together with Zhao. 
+The authors (including Li Rui, the former secretary of Mao Zedong, former 
+propaganda chief Zhu Houze, former media industry director Du Daozheng, the 
+lawyer Zhang Sizhi, and the economist Gao Shanquan) also advise loosening 
+censorship of the media and permitting an organized opposition, in the 
+conviction that only greater democracy and transparency can permit overcoming 
+the economic crisis and stopping the widespread corruption.
+
+ But at the annual meeting of the National People's Congress, in March, no 
+room was given to proposals for democratic reforms. Instead, Beijing continues 
+to persecute any voice of dissension from the official line: yesterday, the 
+famous writer Jiang Qisheng was taken from his home by the police, who also 
+confiscated two computers, books, and his credit card. They interrogated him 
+for more than six hours without any real accusation, solely because, from 
+telephone surveillance and from correspondence, it emerged that he was writing 
+an article to commemorate the 20th anniversary of the massacre in Tiananmen 
+Square, something that they warned him not to do. Jiang, who was previously 
+arrested over the protests in 1989 (in the photo) and for having written a 
+commemorative article in 1999, is also a signer of Charter 08, the document 
+published last December that calls upon the authorities to grant greater 
+democracy and respect for human rights. In response, the police have 
+interrogated and arrested many of the signers, including the dissident Liu 
+Xiaobo, who has been detained since December.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

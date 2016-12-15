@@ -1,0 +1,77 @@
+<ID>20081219-296
+<DATE>20081219<\DATE>
+<URL>
+http://www.dw.com/en/opinion-removing-the-blot-on-americas-image/a-3888496
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: Removing the Blot on America's Image
+<\TITLE>
+<ABSTRACT>
+After seven years, the controversial US military prison at Guantanamo Bay is set to close. Not just the camp but the entire system which violates international law needs to disappear, says DW's Daniel Scheschkewitz.
+<\ABSTRACT>
+<CONTENT>
+
+In the beginning, there were chains and cages which later gave way to a highly 
+sophisticated high security complex. The prison camp, which prompted outrage 
+among human rights lawyers around the world, systematically circumvented the 
+rule of law for over seven years.
+
+Daniel Scheschkewitz
+
+Terror suspects in the camp were subjected to questionable interrogation 
+practices in an attempt to force confessions. If at all charges were brought 
+against a suspect, the trial took place in military courts whose make-up and 
+rules were unworthy of a constitutional country like the US.
+
+Erasing a stain
+
+The Guantanamo system, introduced by President George W Bush after the 
+terrorist attacks on New York and Washington and the toppling of the Taliban 
+regime in Afghanistan, is now set to end. The Pentagon, which oversees the 
+prison's functioning, is now preparing for its closure. That will hopefully 
+permanently erase the blemish on the international reputation of the United 
+States, a country without whom there would be no internationally valid human 
+rights. It's also likely to satisfy all democratic countries and their citizens.
+
+But a simple announcement to close Guantanamo Bay isn't enough. 
+
+The US government will now have to deal with dismantling the prison camp in 
+such a manner that real terrorists continue to remain in custody and are 
+sentenced according to the rule of law, terror suspects face trial in proper 
+courts and the innocent are released without fearing for their lives.
+
+It would be unhelpful if the future president of the United States, Barack 
+Obama, were simply to rebuild the camp within the borders of the US. Or if he 
+deported prisoners, who are proven innocent, to countries where they are 
+threatened with imprisonment or torture.
+
+Germany must step up
+
+This is where countries such as Germany and other EU nations should take 
+responsibility and offer refuge to groups such as the small number of Uighurs 
+held at Guantanamo Bay -- a Muslim minority that faces persecution in China. 
+The military trials should also be replaced by proper legal proceedings in US 
+civilian courts -- a right that America's highest court upheld for Guantanamo 
+prisoners in a ruling more than two years ago.
+
+Complicated decisions
+
+Barack Obama's legal advisors face complicated decisions that involve 
+balancing national security imperatives with the principles of a constitutional 
+state. Fighting terrorism can no longer involve psychological torture and 
+law-free zones. It's only then that the US can be led back permanently on the 
+track to upholding the rule of law after years of understandably straying from 
+it.
+
+Daniel Scheschkewitz is a reporter for DW-RADIO and Deutsche Welle's former 
+Washington correspondent (sp)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

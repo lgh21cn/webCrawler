@@ -1,0 +1,81 @@
+<ID>20090307-94
+<DATE>20090307<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=14665
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-on-alert-against-revolts-in-Tibet-and-Xinjiang-14665.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing on alert against revolts in Tibet and Xinjiang
+<\TITLE>
+<ABSTRACT>
+Accusations of separatism against the Dalai Lama and the Uyghurs. Soldiers, policemen, security personnel on the increase to prevent any attempts at uprising. The foreign minister criticizes countries that welcome the Dalai Lama, seen as merely "a political leader." The Dalai Lama is asking only for autonomy in order to save the Tibetans from cultural genocide. An Uyghur academic asks for more help for the Muslim group, in the grip of unemployment.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) -The Chinese authorities have deployed troops and 
+strategies to prevent any revolts in Tibet and Xinjiang, both of them guilty, 
+together with "hostile forces," of wanting to destroy "national unity." The 
+Dalai Lama says he is concerned about the tension; moderate Uyghurs accuse the 
+government of impoverishing the population.
+
+ In a study group connected to the National People's Congress (NPC), underway 
+at the capital, the governor of Tibet, Qiangba Puncog, stated yesterday that 
+his government has implemented preventive measures to monitor any threat 
+against security in the region. "There won't be another riot as big as what 
+happened on March 14 last year . . . That said, it is still likely that some 
+individual supporters of the Dalai Lama may take the risk of making reckless 
+moves." Qiangba Puncong has continued to criticize the Dalai Lama and his 
+government in exile, saying that they constitute a threat to stability in the 
+region. Today, foreign minister Yang Jiechi also accused the Dalai Lama of not 
+being "by any means a religious leader, but political," who is seeking to 
+"separate Tibet from China." Yang also criticized those countries that invite 
+the Tibetan religious leader. "Other nations," he said, "should not permit 
+visits by the Dalai, and should not permit him to use their territory for 
+secessionist activities."
+
+ For years, the Dalai Lama has reiterated his desire to return to Tibet, 
+asking only for cultural and religious autonomy in order to save the Tibetans 
+from cultural genocide, but Beijing accuses him of separatist activities. In 
+recent weeks, the Tibetan religious leader has often said that he is concerned 
+about the increasing tension in Tibet, which could lead to clashes and more 
+deaths and arrests, as happened last year. This year is also the 50th 
+anniversary of the Tibetan revolt in 1959, which was suffocated with military 
+repression and led to the exile of the Dalai Lama. "It's necessary to increase 
+the number of the armed police, police, firemen, border forces and public 
+security," Qiangba Puncong says.
+
+In Xinjiang as well, where the Uyghur community is asking for greater 
+autonomy, Beijing is providing extra military control. This year, China wants 
+to celebrate the 60th anniversary of the "peaceful liberation" of Xinjiang, 
+with the entry of the Chinese army into the region. But many Uyghurs see this 
+as an invasion. Yesterday, again during a study group at the NPC, the governor 
+of Xinjiang, Nur Bekri, said that "the task of security will be more arduous, 
+and the struggle more fierce in the region this year . . . It's a time of 
+celebration for Xinjiang people, but hostile forces will not pass on such an 
+opportunity to destroy it." Last year, in order to prevent "terrorist attacks" 
+at the Olympics, Beijing arrested more than 1,000 Uyghurs.
+
+But personalities of this Muslim ethnicity accuse the Chinese government of 
+being insensitive to the group's basic economic necessities. According to Ilham 
+Tohti, professor of economics at the central university for the nationalities 
+in Beijing, the most serious problem for the Uyghurs is unemployment. This is 
+due to the marginalization of the group from administrative structures and 
+state industries, and to the policy of colonization, which every year transfers 
+thousands of Han Chinese to the region. In an interview withRadio Free Asia, 
+Tohti accused Governor Behkri of insensitivity toward the Uyghurs: "He’s always 
+stressed the stability and security of Xinjiang and threatened Uyghurs. 
+Xinjiang has developed, but the people are living in poverty, especially 
+Uyghurs."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

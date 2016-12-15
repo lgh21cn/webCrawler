@@ -1,0 +1,147 @@
+package us.codecraft.webmagic.newscrawler;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.plaf.SliderUI;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Request;
+import us.codecraft.webmagic.Spider;
+import us.codecraft.webmagic.SpiderListener;
+import us.codecraft.webmagic.newscrawler.NewsCrawlerProcessor.NewsProcess;
+import us.codecraft.webmagic.scheduler.FileCacheQueueScheduler;
+
+
+public class AsianewsPageProcessor extends NewsCrawlerProcessor implements NewsProcess {
+
+	public AsianewsPageProcessor() {
+		super();
+		// TODO Auto-generated constructor stub
+		mNewsProcess=this;
+	}
+
+	@Override
+	public boolean isConvert(Page page) {
+		// TODO Auto-generated method stub
+		return page.getUrl().regex("http://www\\.asianews\\.it/index\\.php\\?idn=\\d+&art=\\d+").match() || page.getUrl().regex("http://www.asianews.it/notizie-it/.*").match();
+	}
+
+	@Override
+	public boolean isList(Page page) {
+		// TODO Auto-generated method stub
+		return page.getUrl().regex("http://www\\.asianews\\.it/index\\.php\\?l=en&dacercare=.*").match();
+	}
+
+	@Override
+	public boolean isContent(Page page) {
+		// TODO Auto-generated method stub
+		return page.getUrl().regex("http://www\\.asianews\\.it/news-en/.*").match();
+	}
+
+	@Override
+	public void convertProcess(Page page) {
+		// TODO Auto-generated method stub
+		page.addTargetRequest(page.getHtml().xpath("//div/div/div/a[2]/@href").toString());
+	}
+
+	@Override
+	public void listProcess(Page page) {
+		//未完成
+		System.out.println("列表");
+		List<String> urls=page.getHtml().xpath("//tbody/tr/a[@href]").regex("href=\"(.*)\"").regex("http://www\\.asianews\\.it/index.php\\?idn=\\d+&art=\\d+").all();
+		System.out.println("Urls:"+urls);
+		System.out.println(page.getHtml().toString());
+	}
+
+//	private int sCounter=0;
+	
+	@Override
+	public void contentProcess(Page page) {
+		//提取内容
+		page.putField(AsianViewDetailItem.TIME, page.getHtml().xpath("//div[@class='pre_articolo_det']/text()").toString());
+		page.putField(AsianViewDetailItem.URL, page.getUrl().toString());
+		page.putField(AsianViewDetailItem.TITLE, page.getHtml().xpath("//div[@class='titolo_articolo_det']/h1/text()").toString());
+//		String abstracts=page.getHtml().xpath("//div[@class='sub_title_det']/text()").toString();
+//		System.out.println("Abstract: "+ abstracts);
+		page.putField(AsianViewDetailItem.ABSTRACT, page.getHtml().xpath("//div[@class='sub_title_det']/text()").toString());
+		String content=page.getHtml().xpath("//div[@class='articolo']/tidyText()").toString();
+//		System.out.println("Content: "+CorpusFormatter.removeTag(content));
+		content=CorpusFormatter.removeTag(content);
+		page.putField(AsianViewDetailItem.CONTENT, content);
+		String l_content=content.toLowerCase();
+		
+		if(skipCrawler(l_content)){
+			page.setSkip(true);		
+			System.out.println("[WARNING]Page :"+page.getUrl().toString()+" will NOT download......[WARNING]");
+		}
+
+		if(page.getRequest().getExtra(AsianViewDetailItem.ADDNEW) !=null &&(Boolean) page.getRequest().getExtra(AsianViewDetailItem.ADDNEW)){
+	//		if(sCounter<1){
+			//提取链接
+	//		List<String> urls=page.getHtml().xpath("//td[@class='testo']/a[@href]").regex("href=\"(.*)\"").all();
+	
+	//		List<String> urls=page.getHtml().xpath("//td[@class='testo']/a/@href")/*.regex("href=\"(.*)\"")*/.all();
+			List<String> urls=page.getHtml().xpath("//td[@class='testo']/a").regex("href=\"(.*)\"").all();
+
+	//		urls.add(page.getUrl().toString());
+			System.out.println(String.format("Import %s Urls",urls.size()));
+			System.out.println(urls);
+			
+			
+			//在Url的基础上添加【链接来源】
+			for (String url : urls) {
+				page.addTargetRequest(new Request(url).putExtra(AsianViewDetailItem.ORIGIN_URL, page.getUrl().toString()).putExtra(AsianViewDetailItem.ADDNEW, true));
+			}
+	//		System.out.println("Target Request size :"+page.getTargetRequests().size());
+	//		page.addTargetRequests(urls);
+			
+	//		sCounter++;
+	//		}
+		}
+		
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		List<Request> requests=new ArrayList<Request>();
+		boolean addNew=false;
+		FileUtils.loadUrlFile("./tmp_url_removed.txt", requests,addNew);
+		Request[] requests2=requests.toArray(new Request[requests.size()]);
+		for (Request request : requests2) {
+			System.out.println("Index("+requests.indexOf(request)+")"+request.getUrl()+"\nOrigin Url:"+request.getExtra(AsianViewDetailItem.ORIGIN_URL)
+			+"\nAddNew:"+request.getExtra(AsianViewDetailItem.ADDNEW));
+		}
+		
+		//添加监听器，用于观察下载器downloader是否成功
+		AsianewsPageProcessor processor=new AsianewsPageProcessor();
+		List<SpiderListener> sl=new ArrayList<SpiderListener>();
+		sl.add(processor);
+		
+		
+		Spider.create(processor).setSpiderListeners(sl).scheduler(new FileCacheQueueScheduler(".//asianews//FileCache//"))
+		.addPipeline(new AsiaNewsPipeline())
+//		.addPipeline(new FilePipeline(".\\asianews2"))
+//		.addPipeline(new FilePipeline("./"))
+//		.addUrl("http://blog.sina.com.cn/s/blog_58ae76e80100gcsa.html")
+//		.scheduler(new FileCacheQueueScheduler)
+		//详细内容英文版
+		.addRequest(requests2/*requests.toArray(new Request[requests.size()])*/)
+//		.addRequest(new Request("http://www.asianews.it/news-en/Xinjiang:-police-raid-against-Muslim-rebels,-six-killed-13094.html").putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT).putExtra(AsianViewDetailItem.ADDNEW, true))
+//		.addRequest(new Request("http://www.asianews.it/news-en/Xinjiang:-Muslim-students-forced-to-eat-during-Ramadan--31606.html").putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT).putExtra(AsianViewDetailItem.ADDNEW, true))
+//		.addRequest(new Request("http://www.asianews.it/news-en/Rebiya-Kadeer-says-10,000-people-disappeared-in-one-night-in-Urumqi,-complains-about-US-silence-15911.html").putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT))
+//		.addRequest(new Request("http://www.asianews.it/news-en/Fearing-protests,-Beijing-imposes-a-lockdown-on-Tibet-36568.html").putExtra(AsianViewDetailItem.ORIGIN_URL, "Origin"))
+//		.addUrl("http://www.asianews.it/news-en/Rebiya-Kadeer-says-10,000-people-disappeared-in-one-night-in-Urumqi,-complains-about-US-silence-15911.html")
+		//详细内容意大利版
+//		.addUrl("http://www.asianews.it/index.php?idn=1&art=36147")
+//		.addUrl("http://www.asianews.it/notizie-it/Cina:-graziata-la-moglie-di-Bo-Xilai,-in-carcere-un-avvocato-per-i-diritti-umani-36147.html")
+		//列表
+//		.addUrl("http://www.asianews.it/index.php?l=en&dacercare=rebiya")
+		.thread(4)
+		.run();
+	}
+
+}

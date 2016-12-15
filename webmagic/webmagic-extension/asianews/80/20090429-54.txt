@@ -1,0 +1,76 @@
+<ID>20090429-54
+<DATE>20090429<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing-launches-massive-security-campaign,-restricts-business-visas-15110.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing launches massive "security campaign," restricts business visas
+<\TITLE>
+<ABSTRACT>
+The real aim seems to be that of repressing all dissent and social protests. Experts: as a major economic power, China cannot continue to isolate itself from the world.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - China is introducing tougher security measures 
+and restricting entry permits, in view of the 60th anniversary of the founding 
+of the communist state, which falls on October 1. But experts observe that the 
+government seems more concerned about blocking protests for other 
+anniversaries, like the 20th anniversary of the Tiananmen Square massacre next 
+June 4.
+
+Zhang Xinfeng, deputy minister of public safety, explained yesterday that a 
+strict "security campaign" will begin in May, intended to guarantee "a steady 
+and harmonious social environment" for the celebrations on October 1, which are 
+also scheduled to include a grandiose military parade in downtown Beijing, 
+attended by all the authorities.
+
+ Police will be conducting more strict controls on every kind of criminal 
+activity, with the declared purpose of "maintaining public order." This 
+definition often includes the repression of any form of dissent against the 
+authorities, and of public protest for human and civil rights.
+
+ Meanwhile, travel agents complain that for two weeks, draconian limits have 
+been reintroduced on entry permits for foreigners, similar to the ones adopted 
+before and during the Olympics in 2008. According to sources for the newspaper
+South China Morning Post, it appears that all of the new business permits will 
+expire by next September 15, while there are no new restrictions on visas for 
+tourists or students. It appears that at least one important international 
+conference scheduled for May in Beijing has already been postponed because of 
+difficulties related to entry visas.
+
+ In recent months, more than 3,000 local police chiefs and 2,000 communist 
+officials have been attending classes in Beijing on blocking protests, 
+negotiating with demonstrators, improving the Party's image, and maintaining 
+order. The government is putting great emphasis on these courses, which will 
+are being taught by leaders including Zhou Yongkang, a Politburo Standing 
+Committee member and the highest authority on matters of law and public order, 
+and Meng Jianzhu, the national police chief.
+
+Analysts observe that the security campaign also includes strict control of 
+Tibet and Xinjiang, where the local populations contest the domination and 
+restrictions imposed by Beijing, even on religious matters. It is also intended 
+to prevent the growing social protests for economic reasons, partly a result of 
+the financial crisis and the frequent injustices committed by companies against 
+their workers, who are often defrauded of their wages.
+
+Experts comment that these kinds of restrictions are not in keeping with 
+China's role as an economic power, and that a great country does not need to 
+use pervasive control to make the people proud of the state. They observe that 
+the true objective seems instead to be repressing and controlling any kind of 
+dissent and those who fight for rights, as was done for the Beijing Olympics. 
+Some are saying that the campaign has been underway for some time, and is code 
+named "Project 6521," because it is intended to prevent protests for the many 
+anniversaries in 2009: 60 years since the founding of the state, 50 years since 
+the revolt in Tibet, 20 since Tiananmen, and 10 since the banning of the 
+movement Falun Gong.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

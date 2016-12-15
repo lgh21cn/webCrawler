@@ -1,0 +1,31 @@
+<ID>20090616-170
+<DATE>20090616<\DATE>
+<URL>
+http://www.dw.com/en/italys-berlusconi-agrees-to-take-three-guantanamo-detainees/a-4330061
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Italy's Berlusconi agrees to take three Guantanamo detainees
+<\TITLE>
+<ABSTRACT>
+Italy has agreed to accept three Guantanamo detainees. The announcement came after talks between US President Barack Obama and Italian Prime Minister Silvio Berlusconi in Washington.
+<\ABSTRACT>
+<CONTENT>
+"I thanked the prime minister for his support of our policy of closing Guantanamo," Obama said after the meeting at the White House. 
+"This is not just talk. Italy has agreed to accept three specific detainees."
+The announcement comes after the European Union said earlier on Monday it agreed on a "framework" for its member states to accept released Guantanamo detainees. 
+Washington said it would grant EU member states acces to information on detainees cleared for release, and added that it would consider - case for case - making a contribution towards the cost of receiving former prisoners. 
+Obama welcomed the EU deal, saying that it paved the way for "an opportunity to create a lasting and durable international legal framework for dealing with terrorism that I think is very important on both sides of the Atlantic."
+Within days of taking office on January, Obama set a one-year deadline for closing the prison, which now holds more than 220 detainees.
+The US administration last week sent three Saudi prisoners, one Iraqi and one Chadian back to their homelands. 
+Four Uighurs were resettled on the Atlantic island of Bermuda, and the US is in talks to send another 13 of the Chinese Muslims to the Pacific island of Palau. The US has refused to send them back to China over concerns they could be tortured. 
+ai/dpa/ReutersEditor: Jennifer Abramsohn
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

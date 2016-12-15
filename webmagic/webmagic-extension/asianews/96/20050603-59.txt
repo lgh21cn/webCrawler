@@ -1,0 +1,57 @@
+<ID>20050603-59
+<DATE>20050603<\DATE>
+<URL>
+http://www.asianews.it/news-en/Amnesty:-Beijing-must-face-up-to-Tiananmen-massacre-3433.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Amnesty: Beijing must face up to Tiananmen massacre
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - Amnesty International Friday called on the 
+Chinese government to "release all people imprisoned during the 1989 Tiananmen 
+democracy protests" and "arrest those responsible for the June 4 massacre".
+
+"Tiananmen clearly remains very much alive today for the Chinese public and 
+the demands by Chinese citizens for justice continue," the international rights 
+group said in a statement.
+
+"We reiterate said also - our call on the Chinese government to conduct an 
+independent inquiry into the killing of unarmed students and demonstrators. 
+Those found responsible should be tried and brought to justice. We also call on 
+the government to release all those who are still imprisoned in connection with 
+the Tiananmen crackdown and who never received fair trials."
+
+China's communist-led government has taken the position that foreign concerns 
+regarding the crackdown are "outdated", while maintaining that without it China 
+would not have been able to enjoy 16 years of robust economic growth. Officials 
+repeated that position on Thursday.
+
+During 6 weeks troops of the national army backed by tanks, massacred 
+defenceless protesters. The demonstrators had been calling for democracy and an 
+end to corruption for Chinese society in the streets of the Chinese capital. 
+The death toll of the massacre was never released by the government, but 
+independent international organisations say thousands of people were killed 
+around the square, in side streets and in the days following 4 June.
+
+"The on-going passion that surrounds the issue in China is clear from the 
+continuous string of detentions of citizens who seek to post information on the 
+internet regarding the dead or missing from 1989," Amnesty said.
+The group listed several Chinese recently jailed for voicing opposition to the 
+government's handling of the protests and also cited the continued harassment 
+of a group of relatives of June 4 victims, known as the Tiananmen Mothers, 
+group composed of 125 families of victims of the disaster in Tiannamen Square 
+on 4 June 1989. The group is led by Ding Zilin.
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

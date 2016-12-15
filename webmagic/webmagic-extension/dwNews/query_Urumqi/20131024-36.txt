@@ -1,0 +1,30 @@
+<ID>20131024-36
+<DATE>20131024<\DATE>
+<URL>
+http://www.dw.com/en/vw-opens-ningbo-car-factory-to-tap-growing-chinese-market/a-17180716
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+VW opens Ningbo car factory to tap growing Chinese market
+<\TITLE>
+<ABSTRACT>
+German auto giant Volkswagen has opened a new plant in China, under efforts to almost double its sales there by 2018. The Ningbo factory, close to Shanghai, is VW’s third new plant inaugurated in China this year.
+<\ABSTRACT>
+<CONTENT>
+ 's new car factory in Ningbo city will have a capacity of 300,000 units per year, and will be an important strategic pillar for expanding sales in the world's largest car market, the German car group said Thursday.
+ At its Ningbo plant, which is situated close to the city of Shanghai, Volkswagen is assembling primarily the Skoda Superb, but is also planning to extend production to its own VW models later on, the carmaker added.
+ Inaugurating the new plant on Thursday, VW Chairman Martin Winterkorn said the state-of-the-art factory was proof of Volkswagen's commitment to China.
+ “For our brands, this Ningbo plant will be a driver for tapping the full potential of the growing markets south and west of Shanghai,” Winterkorn said.
+ Ningbo is the third car factory opened by VW in China in 2013. Last month, the carmaker inaugurated a 300,000-capacity factory in , after it had already opened a plant in Urumqi, in China's northwestern province of Xinjiang, in August. In 2015, a fourth VW plant is scheduled to open in Changsha, central China.
+ The new factories are key to VW's effort to boost sales in the Asian country to 4 million vehicles per year by 2018. In 2012, the auto maker delivered about 2.8 million cars to customers in China, up 23 percent over the year. In the first nine month of 2013, VW already sold 2.36 million units in China - an increase of another 18 percent.
+ In its China factories, which are run as joint ventures with local partners, the 12-brand German carmaker already produces 20 Volkswagen, Skoda and  models.
+ uhe/pfd (dpa, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

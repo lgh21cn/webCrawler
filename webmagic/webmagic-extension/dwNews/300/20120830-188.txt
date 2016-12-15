@@ -1,0 +1,109 @@
+<ID>20120830-188
+<DATE>20120830<\DATE>
+<URL>
+http://www.dw.com/en/german-journalists-in-china-ask-for-merkels-help/a-16207637
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+German journalists in China ask for Merkel's help
+<\TITLE>
+<ABSTRACT>
+Foreign journalists are under strict surveillance in China, Johnny Erling, correspondent for the daily 'Die Welt,' has told DW. He and other journalists sent a letter to the German chancellor asking for help.
+<\ABSTRACT>
+<CONTENT>
+
+Twenty-six German correspondents working in China sent a letter to Chancellor 
+Angela Merkel. In it they describe how Chinese authorities are increasingly 
+making it difficult for them to do their work, how their informants are 
+threatened and their colleagues intimidated. The journalists asked the 
+chancellor to consider this during inter-governmental consultations in Beijing 
+and demand better working conditions.
+
+DW: Considering the European debt crisis, Europe - and thus Germany as well - 
+is dependent on Chinese help. How serious do you think Merkel will take the 
+letter during the consultations?
+
+ Johnny Erling: Both sides need each other. This is the end of Wen Jiabao's 
+term in office. He has put relations with Europe on his agenda and is surely 
+just as interested in having the summit go well as the German chancellor is. 
+So, the letter basically addresses both Angela Merkel and Wen Jiabao. It is 
+supposed to be a signal and it aims at shedding light on the environment in 
+which journalists are working.
+
+In the correspondents' letter, one of the issues mentioned is that the Chinese 
+colleagues they work with are often requested to spy on them. Can you confirm 
+this?
+
+ That cannot be generally said. But it has happened to many colleagues - they 
+have been called in (by state security) for questioning. As Chinese citizens, 
+it is easier for them to be pressured. They are requested to pay attention to 
+what the correspondents are doing and report it. That, of course, is not 
+allowed, and the Chinese colleagues have refused to comply. But I think that is 
+not the most important thing. What's more important in the letter is that it 
+points out that the attempt to create freedom of opinion and of the press which 
+began at the beginning of the 2008 Olympic Games is declining and has in many 
+ways been compromised.
+
+Since before the 2008 Olympics, all foreign journalists in China need to 
+conduct an interview is the agreement of the interviewee. But in the letter to 
+Merkel, the journalists point out gray areas in the rules which are 
+indiscriminately interpreted. What do you mean by that?
+ 
+
+US journalist Melissa Chan of Al Jazeera was expelled from China in May
+
+The law that journalists only need the agreement of the interviewee was 
+revoked in a number of critical cases - when there was some kind of trouble. In 
+those cases, the journalists suddenly needed an official permit as well. If, 
+for example, you wanted to talk to random people on the streets, you'd need a 
+permit from the sub-district. The interview would be illegal without an 
+official permit.
+
+Which interferences have you experienced in your work in China?
+
+ It was really bad at the beginning of last year, during the Arab Spring. The 
+authorities believed that the Arabian "virus" might spread to China, although 
+there were no signs that it would. But during that time, my work was 
+systematically hindered. I was prevented from speaking to people on the streets 
+and even from just standing around outside and observing my surroundings. I was 
+summoned before a police council.
+
+ Later that was all explained as an overreaction to a possible threat (but the 
+restrictions were kept in place.) If, for example, we try to conduct research 
+in a factory where workers are on strike, the authorities say we need permits. 
+That has happened to a number of colleagues. It leads to an environment that is 
+a complete legal vacuum and in which we are at the will of the authorities. 
+That is one problem that has to be changed.
+
+You have worked in Beijing for many years. Did journalists used to have more 
+freedom?
+
+ When the political reform started in the late 70s, there was a spirit of 
+optimism. People were more tolerant about certain things because they were all 
+euphoric about change. Today, a lot of that positivity has given way to lack of 
+transparency and fear. Because of that, restrictions have been implemented, 
+despite the fact that China is much better off now than it was 10 or 20 years 
+ago.
+
+ We used to be allowed to travel to Tibet. There were difficulties, but it was 
+possible. I have been there a few times myself. Today no one can go there. 
+Xinjiang province is another example of an area where there are a number of 
+restrictions. In addition, there are a number of taboo topics over which people 
+can really get into trouble if they talk about or try to research them. One of 
+them is religious organizations like the Falun Gong sect.
+
+ On the other hand, Chinese society has opened up more, thanks to the internet 
+and social networking sites like the Chinese Weibo. Information spreads much 
+quicker, even if the state doesn't necessarily want it to. So many issues are 
+uncovered today; people find out a lot of things they would never have known 
+about not long ago - that has to be said. But all in all, a lot still needs to 
+improve here.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

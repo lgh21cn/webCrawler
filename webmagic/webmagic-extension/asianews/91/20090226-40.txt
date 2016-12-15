@@ -1,0 +1,110 @@
+<ID>20090226-40
+<DATE>20090226<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing:-police-covering-up-news-about-three-people-setting-themselves-on-fire-14585.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing: police covering up news about three people setting themselves on fire
+<\TITLE>
+<ABSTRACT>
+The identity of the three people is being withheld to avoid suggestions about possible motives, like an extreme attempt to protest against rights violations. Yesterday in Shenzhen worker set himself on fire after he was sacked without severance pay. The life of imprisoned human rights Wang Guilan is danger because prison authorities are denying her medical care.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies) – The authorities are saying nothing about an 
+attempt by three people, two men and a woman, to set themselves on fire inside 
+a car at the intersection of Chang’an Avenue and shopping street Wangfujing, in 
+downtown Beijing, about a kilometre from Tiananmen Square. 
+The man, 59, and the woman, 58, were brought to Jishuitan Hospital in serious 
+conditions.
+
+Nothing is known about the second man, but eyewitnesses said he was young. It 
+is believed he might be in police custody.
+
+They set themselves on fire when police stopped them for a check because their 
+car had a non-Beijing license platewith three red flags on the roof.
+
+Police pulled all three out before the car exploded.
+
+In reporting the event state news agency Xinhua only said that the three 
+people came to Beijing to submit “personal petitions”.
+
+It might be significant that the authorities did not release any names, a 
+detail that might suggest a possible motive. Eyewitnesses said in fact that the 
+car had a Xinjiang licence plate and that the three people inside looked ethnic 
+“Uyghur”.
+
+Extreme public protests are not rare in China given the country’s systematic 
+lack of rights.
+
+Self-immolation in public is seen by many as the ultimate refusal of someone 
+else’s unjust action and violence; it is a way to highlight their reprehensible 
+behaviour.
+
+In recent years at least ten people have set themselves on fire in Tiananmen 
+Square, in the heart of Beijing, a place rich in history.
+
+On 20 July 2006 Wang Congan, a migrant worker from Jiangsu, soaked himself in 
+gasoline and turned himself into a human torch in front of hundreds of 
+tourists. Wang, who survived, had not been paid for months by a construction 
+firm in Yuanan County (Hubei). He had come to Beijing seeking redress, without 
+getting it.
+
+Before that an elderly couple unjustly thrown out of their home also set 
+themselves on fire; so did workers who were cheated out of their wages; or 
+people just too tired of submitting petitions that got nowhere.
+
+The latest incident could also be connected to important upcoming events and 
+anniversaries like the annual National People’s Congress, the 50th anniversary 
+of the crushing of the Tibet uprising, the 20th anniversary of the Tiananmen 
+Square massacre, the 10th anniversary of the banning of the Falun Gong 
+spiritual movement, and the 60th anniversary of China’s occupation of Xinjiang.
+
+But Beijing is not the only place where such incidents are taking place. 
+Yesterday in Shenzhen a migrant worker, Fang Donglei, set himself on fire after 
+he was sacked by his employer, Welluxe Technology and Manufacturing, without 
+motivation or severance pay.
+
+Mr Fang's wife, Li Xinxia, told the South China Morning Post that after 
+another argument with the firm’s supervisor he set himself on fire in front of 
+him. Now he is in hospital with burns covering 55 per cent of his body.
+
+If survives he has to pick up the medical bill because the “factory paid just 
+8,000 yuan for the hospital deposit and we're still waiting for enough money 
+for skin-graft surgery,” Ms Li said.
+
+Human rights group Chinese Human Rights Defenders (CHRD) recently reported 
+that the life of Wang Guilan, sentenced to 15 months of re-education through 
+labour in August 2008, is in danger because prison authorities have denied her 
+much needed medical treatment.
+
+In 2001 Ms Wang Guilan was forced out of her business in an Enshi City mall by 
+developers and never properly compensated.
+
+Unable to seek redress through legal avenues and abused by court officials 
+when she went in search of justice, she set herself on fire in protest and 
+suffered traumatic injuries.
+
+Having survived this ordeal she became an activist for petitioners’ rights, 
+organising a public letter to public officials on behalf of petitioners and 
+exposing illegal police practices directed against petitioners in Beijing. 
+
+For her troubles she was arrested last year on charges of “disturbing the 
+social order” and later sentenced to 15 months in a forced labour camp because 
+she had accepted a phone interview with a foreign journalist.
+
+Now she needs immediate medical attention because she suffers from 
+hypertension and heart disease and her burn wounds are badly infected.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

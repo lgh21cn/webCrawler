@@ -1,0 +1,66 @@
+<ID>20080711-51
+<DATE>20080711<\DATE>
+<URL>
+http://www.asianews.it/news-en/Chinese-activists-to-Bush-and-Sarkozy:-Don't-forget-us-at-the-Games-12737.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese activists to Bush and Sarkozy: Don't forget us at the Games
+<\TITLE>
+<ABSTRACT>
+An open letter to Bush and Sarkozy, asking that their participation at the opening ceremony of the Games not serve only to honour the Chinese leaders. Concrete gestures against violations of rights requested. Meanwhile, killings and arrests of Uyghurs and Tibetans continue. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - An open letter from Chinese citizens to Western 
+leaders who will participate in the opening ceremony for the Olympics on August 
+8 in Beijing.  The group Chinese Human Rights Defenders addresses the letter to 
+U.S. president George W. Bush and French president Nicolas Sarkozy, asking that 
+their presence not be used by the Chinese leaders to legitimise their actions.  
+The group invites them to perform concrete actions to recall the many 
+violations of rights.
+
+Yesterday, Sarkozy said that all of the 27 countries of the European Union 
+approve of his presence in Beijing, and that it would be "mistaken" to want to 
+"humiliate" China.  The letter reminds both him and Bush that "the Chinese 
+government has failed to keep the promises that it made to the International 
+Olympic Committee, when it bid for the Olympic Games, to improve human rights 
+in China".  And it asks the leaders of democratic countries to "state, in a 
+clear, public voice, your frank views of the terrible ongoing rights violations 
+and anti-democratic practices of the Chinese government", recalling that their 
+actions in Beijing "will have great influence on the future of China".
+
+The letter - signed by a large number of citizens, whose identities have not 
+been publicised because of the fear of reprisals - lists some of the recent 
+offences: the expulsion of people from their homes in order to build Olympic 
+projects, the lack of protection for migrant workers, persecution of human 
+rights activists and dissidents, the lack of freedom of expression and 
+assembly, censorship of the media, persecution for religious reasons.
+
+The Western leaders who will go to Beijing are asked: to visit imprisoned 
+dissidents and ask for their liberation; to participate in religious services 
+in unauthorised churches, to highlight the problem of religious freedom; to 
+express solidarity with the parents who are asking for justice for their 
+children who died in the earthquake of Sichuan; to remember the question of the 
+Tibetans, Uyghurs, and other ethnic minorities.
+
+Last July 9, the police killed five Uyghurs believed to be terrorists.  
+Earlier this year, they arrested 82 people in Xinjiang on suspicion of 
+terrorism and "conspiracy to sabotage the Olympics". But the East Turkistan 
+Information Centre, made up of Uyghurs in exile, recalls that "No lawyer on the 
+mainland has dared to speak out for Uyghur suspects", and expresses the fear 
+that "suspects would be subject to torture and would make forced confessions".
+
+Yesterday, Xinhua reported that so far, 42 Tibetans have been sentenced for 
+protesting in public last March, while another 116 are on trial and at least 
+953 are still in jail.  They could face the death penalty.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

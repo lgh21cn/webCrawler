@@ -1,0 +1,71 @@
+<ID>20090721-53
+<DATE>20090721<\DATE>
+<URL>
+http://www.asianews.it/news-en/China-takes-hard-line-against-Uyghurs,-local-authorities-to-adopt-special-anti-separatism-law-15845.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China takes hard line against Uyghurs, local authorities to adopt special anti-separatism law
+<\TITLE>
+<ABSTRACT>
+The authorities in Xinjiang are preparing a special law. In China special law and order legislation means more powers to the police and less freedom to the people.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Xinjiang wants to quickly pass special laws to 
+deal with separatism in the autonomous region, Chinese newspapers reported 
+yesterday without any explanation. This is a sign that the protests that broke 
+out on 5 July will be met with harsh measures. Officially 197 people died 
+during the violent clashes and more 1,700 were wounded. 
+Analysts note that China already has some of the toughest anti-secession laws 
+on the books; any new law will simply give more powers to the police and 
+increase already harsh penalties, thus further limiting civil liberties.
+
+Speaking to Xinhua Eligen Imibakhi, chairman of the Standing Committee of the 
+Xinjiang Regional People's Congress, said that this month’s protests were 
+caused by the “three forces,” namely “extremism, separatism and terrorism”.
+
+For years China has used this unholy trinity to justify its persecution of 
+Uyghurs, charging them with being dangerous terrorists.
+
+Chinese authorities insist that demonstrations in early July were organised by 
+secessionist groups, not the spontaneous action of ordinary people.
+
+The mouthpiece of the Communist Party, the People’s Daily, yesterday blamed 
+foreign groups like the Munich-based World Uyghur Congress (WUC) and exiled 
+Uyghyr leader Rebiya Kadeer for masterminding the violence, an accusation which
+Xinhua reprinted today. 
+
+Uyghurs have dismissed Chinese charges, saying the protests were peaceful 
+until police intervened.
+
+Instead WUC representative in Japan Ilham Mahmut called on China to allow a 
+third party to hold an independent investigation into the incidents.
+
+Meanwhile Xingjian’s capital of Urumqi remains an ethnically-divided powder 
+keg.
+
+Uyghurs have become a minority in their own city, restricted to the poorest 
+neighbourhoods.
+
+Ethnic Han Chinese now make up more than 70 per cent of the city’s 2.3 million 
+residents, encouraged to settle in this faraway outpost through incentives and 
+promises of positions of power.
+
+The violent demonstrations have traumatised both groups; each claiming that 
+media coverage of the events has distorted what actually happened.
+
+Officially, 1,400 Uyghurs have been arrested for their involvement in the 
+protests, a figure treated with scorn by Uyghurs, some of whom claim that as 
+many 20,000 have been detained, including innocent passers-by caught up in the 
+events.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

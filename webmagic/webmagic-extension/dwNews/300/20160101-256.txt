@@ -1,0 +1,112 @@
+<ID>20160101-256
+<DATE>20160101<\DATE>
+<URL>
+http://www.dw.com/en/microsoft-in-about-face-will-inform-users-of-foreign-state-hackers/a-18953518
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Microsoft, in about-face, will inform users of foreign state hackers
+<\TITLE>
+<ABSTRACT>
+Microsoft learned years ago that China and other states were hacking into users' hotmail accounts but did nothing to warn their customers. That policy is about to change.
+<\ABSTRACT>
+<CONTENT>
+
+ Microsoft Corp experts concluded several years ago that Chinese authorities 
+had hacked into more than a thousand Hotmail email accounts, targeting 
+international leaders of China's Tibetan and Uighur minorities in particular - 
+but it decided not to tell the victims,allowing the hackers to continue their 
+campaign 
+, according to former employees of the company.
+
+ On Wednesday, after a series of requests for comment from Reuters, Microsoft 
+said it will change its policy and in the future tell its email customers when 
+it suspects there has been a government hacking attempt. Microsoft spokesman 
+Frank Shaw said the company was never certain of the origin of the Hotmail 
+attacks.
+
+ The company also confirmed for the first time that it had not called, emailed 
+or otherwise told the Hotmail users that their electronic correspondence had 
+been collected. The company declined to say what role the exposure of the 
+Hotmail campaign played in its decision to make the policy shift.
+
+The first public signal of the attacks came in May 2011, 
+
+ though no direct link was immediately made with the Chinese authorities. 
+That's when security firm Trend Micro Inc announced it had found an email sent 
+to someone in Taiwan that contained a miniature computer program.
+ 
+
+Obama threatened to impose US sanctions on Chinese hackers who persist with 
+cyber crimes
+
+The program took advantage of a previously undetected flaw in Microsoft's own 
+web pages to direct Hotmail and other free Microsoft email services to secretly 
+forward copies of all of a recipient's incoming mail to an account controlled 
+by the attacker.
+
+ Trend Micro found more than a thousand victims, and Microsoft patched the 
+vulnerability before the security company announced its findings publicly.
+
+Attacks began in 2009
+
+Microsoft also launched its own investigation 
+ that 
+year, finding that some interception had begun in July 2009 and had compromised 
+the emails of top Uighur and Tibetan leaders in multiple countries, as well as 
+Japanese and African diplomats, human rights lawyers and others in sensitive 
+positions inside China, two former Microsoft employees said. They spoke 
+separately and on the condition that they not be identified.
+  Watch video 01:30 
+Share
+
+A short history of hacking
+
+Send 
+
+Facebook 
+
+Twitter 
+
+Google+ 
+
+Whatsapp  Tumblr 
+
+linkedin 
+
+stumble 
+
+Digg 
+
+reddit 
+
+Newsvine 
+
+
+Permalink http://dw.com/p/1AT9p
+
+Hacking, Cybercrime or Cyberwarfare
+
+Some of the attacks had come from a Chinese network known as AS4808 
+
+, which has been associated with major spying campaigns, including a 2011 
+attack on EMC Corp's security division RSA that U.S. intelligence officials 
+publicly attributed to China.
+
+ To see the report click here 
+http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/
+
+ Microsoft officials did not dispute that most of the attacks came from China 
+
+, but said some came from elsewhere. They did not give further detail.
+
+ bik/rg (Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

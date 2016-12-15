@@ -1,0 +1,15 @@
+package us.codecraft.webmagic.processor.example;
+
+import us.codecraft.webmagic.ResultItems;
+import us.codecraft.webmagic.Task;
+
+public interface AsianViewDetailItem {
+	public static final String TIME="time";
+	public static final String URL="url";
+	public static final String ABSTRACT="abstract";
+	public static final String TITLE="title";
+	public static final String CONTENT="content";
+	
+	public void process(ResultItems resultItems, Task task);
+	
+}

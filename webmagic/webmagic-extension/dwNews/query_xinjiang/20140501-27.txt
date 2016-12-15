@@ -1,0 +1,31 @@
+<ID>20140501-27
+<DATE>20140501<\DATE>
+<URL>
+http://www.dw.com/en/deadly-attack-at-chinese-railway-station-in-xinjiang/a-17604566
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Deadly attack at Chinese railway station in Xinjiang
+<\TITLE>
+<ABSTRACT>
+An explosion followed by an attack by armed assailants has occurred at a train station in China’s restive Xinjiang region. The incident coincided with a visit to the western province by Chinese President Xi Jinping.
+<\ABSTRACT>
+<CONTENT>
+ Chinese President Xi Jinping said Thursday the attack was being investigated, with authorities blaming radical Islamists and separatists. He promised "decisive actions against violent terrorist attacks" after the incident, urging a "profound awareness of separatist forces."
+ "At the moment, it is acknowledged to be a terrorist attack. What is yet to be found is who did this and for what purpose under whose instigation," Xi added.
+ A sudden blast ripped through through the South Station in the regional capital of Urumqi on Wednesday. A large group of attackers with knives then went after passengers. At least three people were killed in the attack and an additional 79 people injured, according to Chinese state media.
+ Train service was suspended for around two hours, said the Xinhua state news agency.
+ The incident occurred on the last day of Xi's visit to the restive province. It was not immediately clear whether he was still in the region when the attack happened.
+ A posting on Chinese social media website Weibo showed photos of littered debris, luggage torn apart by the blast and security forces at the site. However, the photos had been removed within hours of being posted.
+ Violence has plagued Xinjiang province, home to an ethnically diverse population comprised primarily of Muslim Uighurs. Beijing has blamed the unrest on terrorists backed by foreigners, however rights groups cite cultural repression as the cause of the ethnic clashes in recent years.
+ During his four-day trip, President Xi called for more support for local police and greater security for the people of the region.
+ kms,dr/ccp (AP, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

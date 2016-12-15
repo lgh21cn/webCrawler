@@ -1,0 +1,22 @@
+<ID>20080617-99
+<DATE>20080617<\DATE>
+<URL>
+http://www.dw.com/en/olympic-flame-on-the-move-again/a-5213824
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Olympic Flame On The Move Again
+<\TITLE>
+<ABSTRACT>
+Once again security precautions are very high as the Olympic torch makes its way through China’s north-western region of Xinjiang -- known for the separatist sentiments of its Uighur population. Later this week, the Olympic flame is expected in Tibet.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

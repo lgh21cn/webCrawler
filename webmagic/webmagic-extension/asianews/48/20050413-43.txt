@@ -1,0 +1,66 @@
+<ID>20050413-43
+<DATE>20050413<\DATE>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer-speaks-out-against-torture-of-young-Uighurs-by-Beijing-3025.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer speaks out against torture of young Uighurs by Beijing
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) -- Not a leader but "a soldier fighting for her 
+people."  This is how Rebiya Kadeer, the 58-year-old Uighur political dissent, 
+defined herself in an interview on April 12.  Broadcast of the interview was 
+banned in China.  In it, Kadeer spoke out against injustices faced by the 
+Uighur ethnic minority and testified to the atrocities that occur in prisons.
+
+"Every day, I could hear the cries of Uighurs who were being tortured, at 
+times without even knowing why," she said in a television interview, adding 
+that "on one occasion, prison guards were dragging a young man towards the 
+torture chambers.  He turned his head, saw me behind bars and said, 'Mother, 
+what are you doing here? Young people like me are going to jail so as to save 
+mothers like you!'"  During the interview, Mrs Kadeer also clarified her role 
+in Uighur leadership.  "I don't know much about being a leader.  I think of 
+myself as simply a soldier who is fighting for the rights of her people."  
+Rebiya Kadeer was released from prison on the eve of the official visit to 
+Beijing of Condoleezza Rice, U.S. Secretary of State.  Mrs Kadeer is currently 
+in the United States working for an organization founded by her husband that 
+strives for the civil liberties and independence of the 8 million Muslims that 
+live in the northern Xinjiang region of China.
+
+Human Rights Watch (HRW) confirms Kadeer's testimony.  Yesterday, HRW released 
+a dossier on the situation of the Uighur ethnic group in China.  The dossier 
+includes official orders and internal police reports of China's public security 
+forces.  These documents prove that the violence and discrimination carried out 
+against the Uighur are known to and supported by the organs of central power.  
+One official document says that "parents and legal guardians may not allow 
+minors to participate in religious activities."  According to HRW, the Uighurs 
+are not allowed to practise their religion publicly, to study from or carry 
+books on religion, or wear religious symbols.  The Chinese government gives 
+their imam precise instructions on where the faithful can meet and what can and 
+cannot be discussed.  The expression of religious sentiment in public places, 
+such as offices and schools, is absolutely unthinkable.
+
+Instead, Beijing paints a rosy picture of China's rights record in a policy 
+paper released today.  The 41-page document is the eighth on human rights 
+published by the government since 1991.  According to the State Council, the 
+Communist Party organ that drafted the report, "The year 2004 saw a process of 
+effective improvement in all fields of human, civil and religious rights."  
+Again according to Beijing, "In the past year, the government cracked down on 
+functionaries who violated such rights."
+China denies any repression against the expression of religion, but states 
+that it simply wants to defend the state from forces that fight "to achieve 
+secession and "to spread religious extremism."
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

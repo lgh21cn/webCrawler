@@ -1,0 +1,22 @@
+<ID>20100310-93
+<DATE>20100310<\DATE>
+<URL>
+http://www.dw.com/en/tibetan-exiles-protest-on-51st-anniversary-of-uprising-against-china/a-5339237
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tibetan exiles protest on 51st anniversary of uprising against China
+<\TITLE>
+<ABSTRACT>
+In a speech in Dharamsala, India on Wednesday, the Dalai Lama declared his solidarity with China's Uighur minority and accused Beijing of wanting to "annihilate" Tibetan Buddhism.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

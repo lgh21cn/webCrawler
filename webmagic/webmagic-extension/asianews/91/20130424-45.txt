@@ -1,0 +1,58 @@
+<ID>20130424-45
+<DATE>20130424<\DATE>
+<URL>
+http://www.asianews.it/news-en/Clashes-between-police-and-civilians-in-Xinjiang-leave-at-least-21-dead-27748.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Clashes between police and civilians in Xinjiang leave at least 21 dead
+<\TITLE>
+<ABSTRACT>
+ The incident in which 15 police officers and 6 civilians were killed remains unexplained. For Beijing, it was a "cowardly terrorist attack". Exiled Uighur groups deny the allegations.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - Clashes between Uighur civilians and ethnic Han 
+Chinese police broke out in the northern province of Xinjiang, leaving at least 
+21 people dead. According to local sources, the violence broke out last night 
+in Selibuya Township, near Kashgar, one of the most turbulent areas of the 
+province inhabited mostly by ethnic Uighur, a predominantly Turkic and Muslim 
+ethnic group.
+
+Chinese authorities claim that the six civilians who died in the incident were 
+suspected terrorists, but groups associated with Rebiya Kadeer,a Uighur leader 
+living in exile in Germany 
+
+ for the past three years for her pro-independence activities, deny that claim. 
+Indeed, it is still unclear what actually happened.
+
+According to the Xinhua, Communist China's official news agency, the incidents 
+broke out in the afternoon in Kashgar, about 1,200 km from the capital Urumqi, 
+when three community workers saw suspected terrorists armed with knives, hiding 
+in the house of a local resident.
+
+The workers warned their superiors but were captured by the suspects. When 
+police arrived, they were attacked by the "terrorists", who killed the three 
+community workers they held and set fire the house where they had corned the 
+police. Eight suspected terrorists were arrested.
+
+The province of Xinjiang has long been the scene of clashes and ethnic 
+tensions. In 2009, it was  placed under special rule by China's police and 
+army, followingriots that had left nearly 200 people dead 
+
+. After the bloody incident, hundreds of people were convicted and sent to 
+prison; some people were given the death penalty.
+
+Chinese authorities claim that the perpetrators of violence are Muslim 
+extremists, but Uighur exiles counter that Beijing has exaggerated the threat 
+of Islamic terrorism in order to justify its crackdown against the Uighur.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

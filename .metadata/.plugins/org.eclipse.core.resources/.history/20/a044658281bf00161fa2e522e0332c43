@@ -1,0 +1,28 @@
+package us.codecraft.webmagic.processor.example;
+
+
+
+@TargetUrl("https://github\\.com/\\w+/\\w+")
+@HelpUrl("https://github\\.com/\\w+")
+public class FirstWebCrawlerAnnotatedProcessor {
+
+	@ExtractBy(value = "//h1[@class='entry-title public']/strong/a/text()", notNull = true)
+	private String name;
+
+	@ExtractByUrl("https://github\\.com/(\\w+)/.*")
+	private String author;
+	
+	@ExtractBy("//div[@id='readme']/text()")
+	private String readme;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		OOSpider.create(Site.me().setSleepTime(1000), new ConsolePageModelPipeline(),
+				FirstWebCrawlerAnnotatedProcessor.class)
+		.addUrl("https://github.com/code4craft")
+		.thread(5)
+		.run();
+		
+	}
+
+}	

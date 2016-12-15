@@ -1,0 +1,78 @@
+<ID>20080410-204
+<DATE>20080410<\DATE>
+<URL>
+http://www.dw.com/en/musharraf-embarks-on-a-visit-to-china/a-5213864
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Musharraf Embarks on a Visit to China
+<\TITLE>
+<ABSTRACT>
+Pakistan’s President Pervez Musharraf has left for China on a five day official visit. The trip, at the invitation of Chinese President Hu Jintao, aims at further strengthening ties between the two countries. Beijing and Islamabad share decades-old friendship and co-operate in various fields ranging from trade to defence.
+<\ABSTRACT>
+<CONTENT>
+
+This is the first overseas visit of President Musharraf after the newly formed 
+coalition government took over in Pakistan. He is accompanied by his Foreign 
+Minister Shah Mahmood Qureshi and Defence Minister Chaudhry Ahmed Mukhtar, as 
+well as chairman of Trade Development Authority of Pakistan and other top 
+officials.
+
+The five day visit will include discussions between Musharraf and his Chinese 
+counterpart Hu Jintao on various regional and global issues, especially nuclear 
+cooperation. China has helped Pakistan build its civil nuclear plants and 
+Pakistan clearly wants to enhance this partnership.
+
+The two countries are also expected to sign a number of agreements on further 
+economic cooperation. Minam Jaffrey is the secretary of the Pakistan Institute 
+of International Affairs in Karachi. He explains the significance of the visit:
+
+“China is deeply involved in various projects including the energy corridor. 
+Right now we have financial crisis and China has recently supported with 500 
+million dollars in funding. So President Musharraf is there to ensure the 
+continuation of the support and aid from China. And this visit also reflects 
+the continuation of our old relationship with China.”
+
+Defence co-operation
+
+China and Pakistan regard themselves as old friends. China is Pakistan’s major 
+arms supplier. The Pakistan Air Force’s latest fighter aircraft, the JF-17 
+Thunder has been developed with the help of China. Earlier this week, a 
+Shanghai shipyard inaugurated the first of four F-22P frigates that China is 
+building for Pakistan. The project is due to be completed by 2013.
+
+Bilateral trade between the two sides have also flourished in recent years and 
+both sides hope to achieve the trade target of $15 billion within the next five 
+years. The current trip will take Musharraf to Xinjiang, an area bordering 
+Pakistan’s northern areas. Islamabad is particularly keen to attract direct 
+investment from this region. Musharraf is also expected to address the region’s 
+huge Muslim population, urging them to shun their agitation against China. The 
+Uighurs living in Xinjiang have been calling for an independent state.
+
+‘Time-tested’ friendship
+
+President Musharraf's visit also comes at a time, when relations between India 
+and China have also been warming up, sparking fears that they can have an 
+effect on the ties between Beijing and Islamabad. However Islamabad insists its 
+ties with Beijing are ‘all weather- and time-tested’ and cannot be affected by 
+any other country. Expert Minam Jaffrey agrees:“ China has made it clear many 
+times that its ties with India are not at the cost of Pakistan. Pakistan has a 
+very special relationship with China. And there are certain strategic areas 
+where Pakistan is involved with China, but India doesn’t come in.“
+
+During his stay, Musharraf will also attend the Boao Forum-a regional meeting 
+initiated by China, which starts from Friday. The four day meeting in China's 
+southernmost province of Hainan will bring together the state leaders, 
+businessmen and prominent personalities from Australia and Asia. President 
+Musharraf will also be a keynote speaker at the Forum and is due to meet 
+several leaders, including the president of Sri Lanka and prime ministers of 
+Australia and Kazakhstan during the conference.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

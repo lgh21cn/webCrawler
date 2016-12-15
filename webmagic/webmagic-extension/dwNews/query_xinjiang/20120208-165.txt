@@ -1,0 +1,36 @@
+<ID>20120208-165
+<DATE>20120208<\DATE>
+<URL>
+http://www.dw.com/en/the-two-hus-and-the-tibet-conundrum/a-15727179
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+The two Hus and the Tibet conundrum
+<\TITLE>
+<ABSTRACT>
+Neither repression nor investments from Beijing can turn Tibetans into patriotic Chinese citizens. And the unrest which continues to flare up has an effect on party politics.
+<\ABSTRACT>
+<CONTENT>
+ The unrest flaring up in Tibet and Xinjiang since last year has presented a tough challenge to the Chinese Communist Party (CCP) leadership, which is obsessed with upholding stability in the run-up to the all-important 18th Party Congress later this year. The situation is particularly serious in the Greater Tibet Region - the Tibet Autonomous Region (TAR), home to about 2.7 million Tibetans, as well as Tibetan counties in the four neighboring provinces of Sichuan, Gansu, Qinghai and Yunnan, where close to 3.5 million Tibetans live.
+ According to international watchdogs, since mid-2011, up to 100 instances of protests and disturbances have erupted in the Greater Tibetan Region, particularly western Sichuan. These have included some 19 cases of self-immolation involving 18 monks and one nun. Several riots broke out in at least two Tibetan counties in western Sichuan during the long Chinese New Year vacation which started on January 23.
+ 
+ People's Armed Police (PAP) officers opened fire on the demonstrators and 20-odd Tibetans were reportedly shot dead or injured. Taken together, these mishaps have amounted to the most severe outbreak of disorder since the spate of rioting in March and April 2008 in the TAR, Sichuan and Gansu. Given that the 2008 disturbances were just a few months before the Beijing Olympic Summer Games, the Central Military Commission, headed by President Hu Jintao, responded by sending heavy reinforcements of troops, PAP and police officers particularly to TAR and western Sichuan.
+ The number of military and security personnel has again been increased since the middle of last year. In an apparent show of force, the Tibet District of the PLA last month launched its first-ever maneuvers of jetfighters in the Tibetan Highlands. However, the display of hard power has failed to cow the spirit of dissent among both monks and the deeply religious Tibetan public. 
+ 
+ In late 2011, the CCP leadership also tried a softer approach by replacing the long-time hawkish party secretary of Tibet, Zhang Qingli, with a more moderate cadre, Hebei Governor Chen Quanguo. Deemed an ally of Executive Vice-premier Li Keqiang, Chen has since his arrival in Lhasa concentrated on economic matters, including promoting social welfare benefits among Tibetans both in and out of the TAR. Chen has also persuaded more small to medium-sized enterprises in Sichuan and other neighboring provinces to move to TAR. However, the “economic card” does not seem to have produced results in terms of winning the hearts and minds of Tibetans.
+ The crux of the Tibet conundrum is that despite guarantees of religious freedom - and the rights of ethnic minorities - in the Chinese Constitution, the monks and nuns in the Greater Tibet Region have been subjected to tight control by PAP and state-security agents. The situation has markedly deteriorated since March 2008. PAP officers and plainclothes police are permanently stationed in monasteries. Monks are forced to undergo “patriotic education” and their normal interactions with ordinary Tibetans are often monitored by police.
+ Beijing's official line is that the security forces are hitting hard at “secessionists” who are acting in collusion with “anti-Chinese forces in the West.” However, international human rights organizations have provided convincing evidence that ordinary Tibetans' basic religious freedom has been seriously undermined. Moreover, both in Tibet and Xinjiang, Beijing is persevering with its Sinicization policy - encouraging Han Chinese businessmen and workers to migrate to the western areas. Sinicization has been largely successful in eastern Xinjiang, where Han Chinese already outnumber native Uighurs by a large margin. The Sinicization strategy, however, is less successful in Tibet because most Han Chinese cannot adapt to the low-oxygen life in the Tibetan highland.
+ 
+ The Tibet disaster has stark ramifications for both President Hu and his key protégé, Hu Chunhua, 48, Party Secretary of Inner Mongolia. In theory, Jia Qinglin, Chairman of the Chinese People's Political Consultative Conference, is the most senior decision-maker on Tibet by virtue of his being Head of the CCP Leading Group on Tibet. However, President Hu has been the highest-level arbiter of Beijing's Tibet policy thanks to his being party boss of TAR from 1988 to 1992. In fact, Hu's role in suppressing the Lhasa riots of March 1989 was seen as a precursor to the Tiananmen Square massacre three months later. Hu's “bold and resolute action” in Tibet won unreserved praise from Deng Xiaoping, who in 1992 designated Hu, then 49, as successor to ex-president Jiang Zemin. This was the beginning of the tradition of the so-called cross-generation designation of leaders in recent Chinese history. 
+ The Tibet contretemps - if they are not rectified soon enough - would also affect the promotion prospects of Hu Chunhua, Hu Jintao's favorite among Sixth-Generation (6G) Communist Youth League cadres. A former Party Secretary of the CYL, the younger Hu (who is not related to his patron) served in Tibet for 19 years immediately after his graduation from Peking University in 1983. He rose to become First Deputy Party Secretary of Tibet in 2005, when he was merely 42 years old. Given that Hu Chunhua is identified with Beijing's draconian Tibetan policy, he will suffer at least political damage simply because this tough line has failed to uphold political stability.
+ Hu Jintao is most impressed with Hu Chunha's ability and political rectitude. Hu Jintao is trying his best to maneuver him into the Politburo Standing Committee (PBSC) at the 18th CCP Congress. Owing to the recent troubles in Tibet, however, it is more likely that Hu Chunhua can only become an ordinary Politburo member, not a member of the PBSC. At the end of the day, the CCP leadership has to face the fact that exacerbated contradictions in Tibet and Xinjiang have become a time bomb that could tear asunder the country's already much strained ethnic fabric.
+ Author: Willy Lam Editor: Sarah Berning
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

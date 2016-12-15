@@ -1,0 +1,51 @@
+<ID>20131030-147
+<DATE>20131030<\DATE>
+<URL>
+http://www.dw.com/en/china-arrests-suspects-calls-tiananmen-crash-terrorist-attack/a-17194188
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China arrests suspects, calls Tiananmen crash 'terrorist attack'
+<\TITLE>
+<ABSTRACT>
+Chinese state media has declared Monday's mystery car crash on Tiananmen Square a "terrorist attack,' saying arrests have ensued. Five people, including three occupants, were killed in the incident.
+<\ABSTRACT>
+<CONTENT>
+
+ Reports from China's state-run CCTV on Wednesday say that Chinese authorities 
+made the arrests in Beijing ten hours afterMonday's car crash 
+.
+
+ The news station's report said the three people in the car, who died in the 
+attack, and the five suspects who had been arrested belonged to the same family.
+
+ CCTV also referred to the incident as a "terrorist attack" for the first time.
+
+An accident or an attack?
+
+ Initially, it was unclear whether the crash had been an accident or a 
+deliberate attack on the infamous square in China's capital city.
+
+ The Chinese government's official news agency, Xinhua, quoted a police 
+spokesperson as saying the crash was a "planned, organized, premeditated, 
+violent terrorist act."
+
+Chinese police announced on Tuesday 
+
+ that they were looking for two suspects from the restive, predominantly Muslim 
+province of Xinjiang in connection with the crash.
+
+ It occurred near the main entrances to Beijing's Forbidden City when a white 
+sport-utility vehicle (SUV) ploughed into pedestrians at Tiananmen Square and 
+caught fire.
+
+ mz/ipj (dpa, AFP, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

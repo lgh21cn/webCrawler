@@ -1,0 +1,40 @@
+<ID>20100628-161
+<DATE>20100628<\DATE>
+<URL>
+http://www.dw.com/en/uneasy-calm-in-urumqi-one-year-after-ethnic-riots/a-5739475
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uneasy calm in Urumqi one year after ethnic riots
+<\TITLE>
+<ABSTRACT>
+A year after bloody riots broke out between Han Chinese and Uighurs in Urumqi, it seems relatively calm. However, mutual suspicion and a lack of employment prospects threaten to break the peace.
+<\ABSTRACT>
+<CONTENT>
+The atmosphere is pleasant and peaceful at this market in south Urumqi. Uighur traders sell anything members of their community might need – melons and T-shirts for example. A jade trader from northern Xinjiang, called Daot* says there is a lot of mutual distrust. 
+Many Uighurs were arrested arbitrarily last year. People are constantly asked to show their papers, even today.
+Daot says that all Uighurs are considered by the authorities as potential rioters. He is angry that he has fallen prey to this prejudice: "I came home one day and there was nothing left. I have no idea who took my things."
+
+In the run up to the anniversary of the riots, men in uniform, carrying sticks, have been patrolling the streets. Army trucks have been blaring out slogans about ethnic harmony. Daot is sad that the patrol teams include Uighurs. This means that members of the same community cannot even trust each other, he says.
+Some Han Chinese also wonder whether money alone will be able to appease the tense relations with the Uighurs.
+"In the current situation, we have to face it," says Zang Fuchong, a student "First we need interaction, we need a common language. If we do not interact, we cannot understand each other. If we do not understand many things, this will create misunderstandings. Because our customs are different in many fields, our lifestyle and also some religious beliefs."
+
+To aid interaction and understanding, the authorities not only want to boost economic aid but to introduce more language courses so that the Uighurs’ grasp of Chinese improves. 
+"The Chinese say we need more workers but when our people go for a job you have to speak Chinese," says Memet, who works as a guard in a bank in another city in Xinjiang, north of Urumqi."If you don’t know Chinese, there’s no way."
+Memet speaks good Chinese but most of his relatives do not. Most of them are unemployed. They live in the southern part of the city like the other Uighurs, in houses made of mud and grass, where there is no running water or electricity. There are no Han Chinese here and nobody to practice Chinese with.
+
+One employment option is to set up a stall on a market but Memet says even this is not easy because "the city officials tell us to go and if you do they take everything, they chase you away, and don't let you sell your things on the market. If they catch you, you get fined."
+He says the Chinese just want to drive the Uighurs into the ground. He tells the story of his niece who speaks perfect Chinese and English and has a tourism management diploma. After being rejected by all the hotels in Urumqi because she was a Uighur, she now sells ice cream.
+Memet is bitter and has few expectations from the politicians: "A new secretary replaced Xinjiang Party Secretary Wang Lequan. He has said many good things about Xinjiang. But who knows what will happen tomorrow, the day after or next year?"
+Observers say that if there is not more exchange and attempts at mutual understanding, new riots could easily break out again.
+Author: Ye Zhiliang (act)Editor: Thomas Baerthlein
+*None of the names in this article are real
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

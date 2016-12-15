@@ -1,0 +1,45 @@
+<ID>20100820-34
+<DATE>20100820<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-two-suspects-for-Aksu-bomb--19240.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, two suspects for Aksu bomb 
+<\TITLE>
+<ABSTRACT>
+7 people were killed in the blast and another 14 were injured. Of the two suspects, one apparently died in the blast. Motive for attack still unknown. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Authorities in the northern province of 
+Xinjiang have identified two suspects in the bombing that yesterday hit Aksu, a 
+Northern province. Two people, a man and a woman, were identified although the 
+second seems to have died in the blast, which caused seven deaths and 14 
+wounded.
+
+Regional government spokesman Hou Hanmin, stated the male author of the 
+attack, who belongs to the Muslim Uyghur minority, has been arrested. According 
+to the spokesman, the man threw a three-wheeled bicycle packed with explosives 
+at a group of people in a street in the suburb of Aksu, 50 meters from Duolang 
+bridge.
+
+Hou said that it is unclear if the attack is linked to ethnic tensions, but 
+added that most of the victims were Uyghurs or from other minorities. Witnesses 
+report that several policemen were wounded in their attempt to stop the man. 
+The police also closed the area and the city centre, inspecting the bags of all 
+passersby. However, Hou denies that martial law is in force.
+
+Xinjiang is home to a minority of eight million Uyghurs out of a population of 
+20 million people. Last year the region was the scene of violence between 
+Uyghurs and Han Chinese which caused the deaths of at least 200 people.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

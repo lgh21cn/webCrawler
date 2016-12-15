@@ -1,0 +1,37 @@
+package com.lgh.webcrawler.prj;
+
+import java.util.Map;
+
+import us.codecraft.webmagic.ResultItems;
+import us.codecraft.webmagic.Task;
+import us.codecraft.webmagic.pipeline.Pipeline;
+
+public class FirstWebCrawlerPipeline implements Pipeline {
+
+	@Override
+	public void process(ResultItems resultItems, Task task) {
+		// TODO Auto-generated method stub
+		System.out.println("Get page: "+resultItems.getRequest().getUrl());
+		
+		String time,title,content;
+		
+		for (Map.Entry<String, Object> entry: resultItems.getAll().entrySet()) {
+//			System.out.println(entry.getKey()+":\n"+entry.getValue());'
+			if("time".equals(entry.getKey())||"title".equals(entry.getKey())||"content".equals(entry.getKey())){
+				time=(String) entry.getValue();
+			}else
+				throw new Exception();
+		}
+		System.out.println("Time:\n"+time);
+
+		System.out.println("Title:\n"+title);
+
+		System.out.println("Content:\n"+content);
+		
+//		FileUtils.writeContent("sinablog_test.txt", resultItems.get("time"), resultItems.get("title"), resultItems.get("content"));
+		FileUtils.writeContent("sinablog_test.txt", time, title, content);
+	}
+	
+	
+
+}

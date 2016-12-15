@@ -50,7 +50,7 @@ public class PhantomJSDownloader extends AbstractDownloader {
 
     @Override
     public Page download(Request request, Task task) {
-        if (logger.isInfoEnabled()) {
+        if (logger.isInfoEnabled()){
             logger.info("downloading page: " + request.getUrl());
         }
         String content = getPage(request);

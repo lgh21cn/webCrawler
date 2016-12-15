@@ -1,0 +1,76 @@
+<ID>20100702-55
+<DATE>20100702<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-one-year-on:-the-world-could-do-more--18828.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang one year on: the world "could do more" 
+<\TITLE>
+<ABSTRACT>
+Rebiya Kadeer, the exiled Uyghur leader in the United States, protests: "There is more attention, but the economic power of Beijing prevents nations from doing anything concrete for us". Thousands of Uyghur arrested during the riots of July 5still imprisoned were. Worldwide event for the first anniversary of the massacre. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - The world "shows more attention to the Uyghur 
+cause in China, but could do much more for us”, says Rebiya Kadeer, the Uyghur 
+leader exiled in the United States to commemorate the first anniversary of one 
+of the bloodiest ethnic riots to take place in the Asian country. Meanwhile, to 
+control the situation, the central government has installed 40 thousand cameras 
+in the provincial capital Urumqi.
+
+A year ago, in fact, an ethnic Uyghur Muslim community residing in the 
+northern province of Xinjiang challenged the domination of central government 
+in Beijing.  During the clashes, according to official sources, 200 people were 
+killed. A further 1,700 were wounded, while the number of arrests is unknown: 
+according to dissident leader, there are tens of thousands detained.
+
+The Uyghur are not asking for independence from Beijing, but demand greater 
+autonomy. Although Xinjiang - the dissidents call the region East Turkistan - 
+is one of the provinces with special status created by Mao Zedong, residents 
+accuse the authorities of banning education in the local language and customs, 
+in favour of the dominant Chinese Han ethnicity. The latter, supported by 
+authorities, also enact a kind of "economic racism" which tends to keep the 
+natives of the region far from the centres of power.
+
+Rebiya Kadeer, a 63 year old mother of 11 children, spent many years in prison 
+because of her opposition to the Chinese regime but - before the confrontation 
+- tried to use the "institutional" channels to advance the cause of her people. 
+She was a deputy at the National People’s Assembly in Beijing and was a 
+successful business woman. Today, in exile in the U.S., she says: "I'm just an 
+ordinary woman, but I fear the government.This shows that my demands are just. "
+
+China “accuses the Uyghur of being Islamic extremists, but has no evidence to 
+support these false accusations. What it does have is an enormous economic 
+power, which allows it to silence the protests of Western governments and the 
+Muslims". Beijing announced it would invest about 10 billion Yuan (1 billion) 
+in the region by 2011, to "improve the Uyghur’s living conditions".
+
+According to Kadeer, this announcement “is part of Chinese trade policy. If 
+they really want to change things, they must release the innocent people they 
+have detained and apologized for what they have done not only to the Uyghur, 
+but all the people of East Turkestan". In any case, it seems that Beijing's 
+attitude is not destined to change.
+
+On the anniversary of the massacre, which falls on 5 July, the police have 
+locked down the capital. Forty thousand cameras have been installed on public 
+buses, stations, along 4 thousand streets, 270 schools and 100 supermarkets. 
+According to authorities, the electronic eyes are "to ensure safety in most 
+important public places and allow all people of all ethnic groups, to enjoy 
+government services".
+
+Against Chinese repression, the World Uyghur Congress (Association which 
+gathers dissidents’ from the ethnic group from around the world) has organized 
+an international event for the anniversary. Protest marches are planned in 
+front of Chinese embassies in the United States, Japan, Germany, Britain and 
+Turkey.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,7 @@
+AsianewsPageProcessor.java中有个bug，暂时无解，原因在于内部解析<a href="url">的问题
+List<String> urls=page.getHtml().xpath("//td[@class='testo']/a").links().all();
+例子：
+http://www.asianews.it/news-en/Rebiya-Kadeer-slams-Beijing's-repression-during-the-sacred-month-of-Ramadan-25466.html
+
+
+目前正在做Url文件载入工作（完成）

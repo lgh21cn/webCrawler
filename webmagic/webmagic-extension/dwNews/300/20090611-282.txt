@@ -1,0 +1,88 @@
+<ID>20090611-282
+<DATE>20090611<\DATE>
+<URL>
+http://www.dw.com/en/germany-wont-commit-to-new-us-request-to-take-in-gitmo-inmates/a-4319339
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Germany won't commit to new US request to take in Gitmo inmates
+<\TITLE>
+<ABSTRACT>
+The US has issued a second request to Germany to take in prisoners from Guantanamo. But the government says it needs more details before it can make a decision.
+<\ABSTRACT>
+<CONTENT>
+
+The interior ministry said on Thursday that it was unable to accept the US 
+request based on the data provided.
+
+"We're examining two new cases," ministry spokesman Stefan Paris said in 
+Berlin. "The information provided by the United States is not sufficient for 
+now for us to give the green light for taking in the two men."
+
+The interior ministry would need to check whether the prisoners represented a 
+security risk, he said. Also, Berlin needed to know why the men could not be 
+taken in by the US and what ties they had to Germany.
+
+Paris would not disclose the nationality of the two men. Security sources said 
+one was Syrian, the other Tunisian.
+
+Resistance at home and abroad
+
+In April, the US made an initial request, presenting the German government 
+with a list of nine Chinese Uighur detainees for Berlin to "consider."
+
+Palau is offering 17 Uighers a new temporary home
+
+Interior Minister Wolfgang Schaeuble had also replied in that case that the 
+information provided was insufficient to warrant a positive reply.
+
+US President Barack Obama has pledged to close the facility at the US naval 
+base at Guantanamo Bay, Cuba by early next year. Many of the inmates have 
+already been cleared for release.
+
+But US officials are having difficulty finding countries that will take them 
+in, and meeting resistance at home to housing them on US soil.
+
+The tiny Pacific nation Palau on agreed Wednesday to take in up to 17 Uighur 
+Guantanamo detainees. Four further Uighur men who had been held at the prison 
+camp were sent to Bermuda on Thursday.
+
+Sharp political debate
+
+German politicians have disagreed on the issue. Foreign Minister Frank-Walter 
+Steinmeier, the Social Democrat candidate to challenge Chancellor Angela Merkel 
+in September's federal election, has spoken in favor of accepting inmates. But 
+Interior Minister Schaeuble has voiced skepticism.
+
+On a visit to Germany last week, Obama said after talks with Merkel that he 
+had neither asked for nor received any hard commitments from Berlin on taking 
+Guantanamo detainees. He said Merkel had been "very open" to discussions on the 
+issue.
+
+Opposition politicians have been very critical of the government's stance.
+
+Claudia Roth, co-leader of the Green Party, said Schaeuble was using "stalling 
+tactics."
+
+"He's acting on the maxim: we don't know anything, we have to check things 
+first, we have to deliberate so long until someone else takes this decision of 
+our hands," Roth said in reference to the Uighur case.
+
+Michael Leutert, the human rights spokesman for the Left party's parliamentary 
+group, said accepting the inmates was "a simple humanitarian act."
+
+"It is not plausible that two people proven innocent pose an uncalculated 
+security risk for Germany," Leutert said. He said the German government needed 
+to promptly "consider favorably" the US request.
+
+sac/AFP/Reuters/dpa
+Editor: Chuck Penfold
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

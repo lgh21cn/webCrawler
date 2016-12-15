@@ -1,0 +1,48 @@
+<ID>20150706-132
+<DATE>20150706<\DATE>
+<URL>
+http://www.dw.com/en/what-to-expect-from-the-sco-brics-summits-in-russia/a-18564835
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+What to expect from the SCO, BRICS summits in Russia
+<\TITLE>
+<ABSTRACT>
+Often portrayed as a challenge to a Western-led order, this year's simultaneous SCO and BRICS summits are set to reveal Chinese and Russian plans for closer political and economic engagement in Eurasia. DW examines.
+<\ABSTRACT>
+<CONTENT>
+ With a broad range of issues on the agenda - from the war on terror to economic development - Russian President Vladimir Putin will be hosting both the Shanghai Cooperation Organization (SCO) and BRICS summits (an acronym standing for Brazil, Russia, India, China and South Africa) on 9-10 July in the Russian city of Ufa.
+ Often seen as either too politically divided to warrant attention or, alternatively, considered as posing a great challenge to the Western-dominated world order, analysts believe the upcoming summits will offer an opportunity for both Russia and China to showcase both their resilience and intentions to play an increasing role in global financing and international politics.
+ The SCO, which groups China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan, is expected to announce a rare expansion, with India and Pakistan (two of currently six states with "observer status") on schedule to become new members - the first countries outside Central Asia since the institution was founded in 2001.
+ Analysts argue that this year's meetings - which come amid a series of crises, including a worsening security environment in Afghanistan and the volatile situation in Ukraine - will demonstrate the fact that, despite all the differences between the countries involved, there are aspects where they agree and where experts see room for tangible progress.
+ 
+ So what exactly do Russia and China want? "There seems to be an attempt to boost cooperation between the SCO and the BRICS. Especially a 90-minute session between the leaders of the Eurasian Economic Union (EEU), BRICS and SCO as well as from Azerbaijan and Turkmenistan, is a sign that Russia is aiming for political block-building," Moritz Rudolf, a China foreign policy expert at the Berlin-based Mercator Institute for China Studies (MERICS), told DW.
+ The BRICS and the SCO are widely viewed as the two most prominent non-western groupings at the moment, so the alignment of the meetings will tend to place even greater emphasis on some important trends such as China's grand ambitions to reshape the economic geography of Eurasia, and the rise of new non-western financing and development institutions.
+ For Beijing, an increased focus on the region is likely to not only strengthen its ties with these states, but also help to ease the pressure it is feeling to its east and south over territorial disputes with Japan, Vietnam and the Philippines.
+ Russia, on the other hand, will likely use the fact that the summits will be held simultaneously to send a diplomatic response to Western attempts to politically isolate Russia. "Hosting the heads of state from the most important emerging countries is a clear sign that Russia has not been completely isolated after all," said Rudolf.
+ 
+ In terms of economic development, the BRICS recently launched their New Development Bank, and the members of the two groups are also among the largest shareholders in the newly established China-led Asian Infrastructure Investment Bank (AIIB), placing financing and infrastructure plans high on the agenda of the two-day summits.
+In fact, China will be looking to consolidate support for its ambitious Silk Road schemes, the so-called "One Belt, One Road Initiative" which composes Chinese President Xi Jinping's signature foreign policy initiative, as Andrew Small, a fellow with the Asia program of German Marshall Fund of the United States, told DW.
+ "Many of the new financing instruments that the summits will showcase are going to be directly involved in these plans, and a number of the infrastructure projects under discussion will fall under the auspices of the scheme. The SCO's members and observers compose almost all the important countries along the land routes running from China to Europe, making it the ideal setting for many of these discussions."
+ Analyst Rudolf has a similar view: "Formally linking the 'Silk Road Economic Belt' with the EEU under the SCO umbrella is one of the primary goals of Xi's Ufa visit. Beijing will encourage BRICS states to endorse its initiative, possibly in return for generous infrastructure investments," he said, adding that other likely outcomes on the economic front will be additional incremental steps to remove obstacles for interregional border trade.
+ The Chinese leadership also seems set on strengthening the economic dimension of the SCO. There has been talk of establishing a SCO development bank - about which Russia had formerly been skeptical. "Generally speaking China considers the BRICS and SCO groupings as important parallel-structures to existing US-led institutions. Strengthening these institutions will help Beijing in its pursuit to establish a multi-polar world," said the MERICS expert.
+ Moreover, the BRICS may advance cautiously on other elements of an agenda designed to strengthen the non-western-led financial system, including an alternative to SWIFT (the Belgium-based secure messaging system that facilitates cross-border financial transactions) aimed at reducing dependencies from the West. China could also propose more application of local currencies in intra-BRICS trade and even the financial fate of Greece may feature in the discussions, say analysts.
+ 
+ But in order to achieve these economic goals, there are a number of security concerns that first need to be addressed. China, for instance, is keen on stabilizing its western periphery in order to minimize the spillover of militant threats into Xinjiang, and developing alternative transportation corridors that reduce its exposure to key maritime routes.
+ "China's hope is that a grand-scale set of infrastructure investments will help to develop its western provinces, build new markets, outsource excess industrial capacity, provide more viable economic connections to its major markets and resource suppliers, and bring development to an unstable arc of countries - quite a challenge," said analyst Small.
+ This is why, given the spread of the "Islamic State" to Central Asia, Beijing will also be looking to have the SCO step up its involvement in the region, particularly in Afghanistan following the NATO drawdown and an increase in deadly attacks by the militant Taliban throughout the war-torn nation.
+ Russia's plans are less dramatic - it has less money to play with - and its security goals are more about retaining Russian influence than stabilizing Afghanistan. But while there may be differences in the two nations' security concerns in Eurasia, analyst Small explains that Russia and China have always seen the SCO as a vehicle for consolidating their political model - still perhaps the most important ultimate security objective for the leadership in both capitals.
+ 
+ But are these countries better off following the Chinese or Russian model? Given that most Central Asian states are known to act pragmatically when pursuing their own political and economic ambitions, analysts argue it doesn't make that much of a difference whether they decide for Beijing's or Moscow's development model.
+"While countries may benefit from Chinese investments, especially in the infrastructure sector, they also profit from better trade-conditions with Russia as members of the EEU. In terms of investments and loans China has more to offer than Russia," said Rudolf, adding that improving ties with either Beijing or Moscow can also turn into a valuable bargaining chip for these countries vis-à-vis the US. "This, in turn, can lead to more attention by the West, and result in more economic support," he added.
+ And while there may have been discreet tensions between China and Russia over the Silk Road schemes and the EEU, Russia's challenged economic circumstances have forced the country into a closer embrace of China. There are already a host of indications that the rupture between Russia and the West stemming from the Ukraine crisis has led Moscow to look east and expand ties with Asia, especially China. This became clear with President Vladimir Putin's visit to China on May 20, during which a multi-billion dollar gas supply deal was signed, among other things.
+ "Moscow's approach has been provisionally to acquiesce to the Chinese initiative. In some respects there is an even greater risk that if Russia treats the projects purely as competitors, the EEU will be weakened even more quickly than if it bandwagons with Beijing's agenda. Russia is also set to benefit from Chinese investments that will support many of its own infrastructure plans," said Small.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

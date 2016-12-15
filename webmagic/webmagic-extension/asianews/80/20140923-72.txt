@@ -1,0 +1,69 @@
+<ID>20140923-72
+<DATE>20140923<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-Ilham-Tohti-sentenced-to-life-imprisonment-32228.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: Ilham Tohti sentenced to life imprisonment
+<\TITLE>
+<ABSTRACT>
+The intellectual, an ethnic Uyghur, has long called on Beijing to open a channel of dialogue for peace in Xinjiang. The Intermediate People's Court of Urumqi convicted him for "separatism." One of his lawyers announces that he would appeal. The sentence causes outrage among activists for human rights in China.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - The Intermediate People's Court of Urumqi in Xinjiang 
+found Uyghur intellectual Ilham Tohti guilty of "separatism" and sentenced him 
+to life in prison.
+
+An economics professor at Beijing-based Minzu University, Tohti has strongly 
+denied charges of separatism saying in a closing statement that "he loved his 
+country . . . and that it was always his opinion that it was in the best 
+interests of Uighurs to remain in China".
+
+Liu Xiaoyuan, one of his defence lawyers, announced that his client would 
+appeal against the ruling.
+
+Tohti was arrested last January 
+
+ after he criticised Beijing's policy followingan attack in Tiananmen Square 
+
+ in October 2013, blamed on some Uyghurs.
+
+The government's response to the attack was to boost repression in the 
+Xinjiang region.
+
+For years, Tohti has called on the government to engage in a real dialogue 
+with the Uyghurs and understand their difficulties. For this reason, in 2005 he 
+launchedUyghur Online, a website to improve understanding between Uyghurs and 
+ethnic Han Chinese. However, according to his accusers, the website itself was 
+evidence of the academic's "separatism".
+
+Among activists for human rights in China, his trial has sparked outrage.
+
+"Tohti has consistently, courageously and unambiguously advocated peacefully 
+for greater understanding and dialogue between various communities, and with 
+the state," said Sophie Richardson, China director at Human Rights Watch. "If 
+this is Beijing's definition of 'separatist' activities, it's hard to see 
+tensions in Xinjiang and between the communities decreasing."
+
+Tohti's views are summarised in an article by his friend Tibetan writer 
+Tsering Woeser 
+
+, published in February shortly after his arrest.
+
+"Ilham was only exercising his right to free expression, for which he should 
+not be imprisoned," said Renee Xia, international director Chinese Human Rights 
+Defender. "The government is trying to lay blame on him for recent violent 
+incidents and divert attention from its own policy failures that have 
+contributed to rising ethnic tensions."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

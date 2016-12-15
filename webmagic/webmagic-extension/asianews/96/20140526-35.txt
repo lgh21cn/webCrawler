@@ -1,0 +1,65 @@
+<ID>20140526-35
+<DATE>20140526<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-more-than-200-Uighurs-arrested-in-connection-with-the-Urumqi-attack-31183.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: more than 200 Uighurs arrested in connection with the Urumqi attack
+<\TITLE>
+<ABSTRACT>
+The government announces the results of the raid launched after Thursday's attack at the Urumqi Railway Station. Some 23 extremist groups have been broken up and more than 200 explosive devices seized. Islamist ideology is spreading to the province through the internet.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) - More than 200 people were arrested and 23 
+extremist groups broken, state media report after Chinese authorities launched 
+a massive campaign in Xinjiang province, following anattack at Urumqi railway 
+station 
+
+ on Thursday that left 34 people dead.
+
+According to the Xinhua news agency, police arrested many suspects in their 
+20s and 30s since Friday.
+
+They learnt how to make explosives through the internet and undertook physical 
+training by watching online videos. Equally, they used text messages and social 
+media to chat about how to make explosives and spread "jihad".
+
+During their crackdown, police also seized more than 200 explosive devices. 
+For the authorities, those responsible for the spread of Islamic extremism are 
+all ethnic Uighurs, with contacts in Turkmenistan. All those arrested were also 
+Uighurs.
+
+For years, Xinjiang, a region inhabited by the Uyghur, a Turkic Muslim ethnic 
+minority, has been rocked by riots and tensions. The Uighurs accuse Beijing of 
+colonising their homeland and demand greater autonomy.
+
+The government, which has moved millions of ethnic Han Chinese settlers to 
+Xinjiang and boosted its military presence, has accuses Uighurs of separatism 
+and Islamic terrorism.
+
+In order to end the violence, the authorities have been quick to impose the 
+death penalty and have denied local Muslims their religious freedom.
+
+In a previous incident at the end of April, two suspected suicide bombers 
+detonated explosives at the exit to the Urumqi train station 
+
+, killing themselves and one other person. Another eight people attacked 
+passengers with knives, leaving 79 injured.
+
+The violence came just a few hours after President Xi Jinping ended his visit 
+to the region.
+
+In recent months, attacks with bombs and knives have also occurred in 
+Guangzhou and Kunming, which the government don Islamic separatists in Xinjiang.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

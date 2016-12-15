@@ -1,0 +1,155 @@
+<ID>20140409-166
+<DATE>20140409<\DATE>
+<URL>
+http://www.dw.com/en/china-and-the-us-seek-military-dialogue/a-17552980
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China and the US seek military dialogue
+<\TITLE>
+<ABSTRACT>
+For years, China has been involved in territorial disputes with its neighbors. But the United States now fears that allies such as Japan and the Philippines might be drawn into a conflict with Beijing.
+<\ABSTRACT>
+<CONTENT>
+
+ At the start of his three-day trip to China on April 7, US Secretary of 
+Defense Chuck Hagel (pictured left) traveled to the eastern port city of 
+Qingdao to pay a visit to the symbol of China's military rise, the aircraft 
+carrier Liaoning. China purchased the 60,000-ton carrier in 1998 from Ukraine 
+and has been retrofitting it ever since.
+
+ Although experts believe it may take years for the carrier to be fully 
+operational, the naval vessel underlines China's military ambitions. The 
+appearance of the US Defense Secretary as a guest on the aircraft carrier was 
+an important symbol, according to Asia expert Gerhard Will. "The gesture shows 
+that the two sides want to ease tensions and communicate with each other at the 
+highest military level,"he said.
+  
+The symbol of China's military rise: the aircraft carrier Liaoning
+
+ Sino-American ties have been challenged for several years, especially due to 
+China's rise and the resulting power shifts in East and Southeast Asia. China's 
+heightened geopolitical status runs parallel with increases to its military 
+expenditure. In 2014, Beijing's defense budget increased by 12 percent, making 
+it the second largest in the world, second only to Washington's. The US 
+responds to China's growing clout by increasing its engagement in the region.
+
+ Security expert Michael Paul, of the German Institute of Security and 
+International Affairs (SWP), says that the rise of China and the American 
+"pivot" to Asia could eventually "lead to a direct confrontation."
+
+Territorial disputes 
+
+ Conflicting claims between China and its neighbors over vast swathes of 
+territory in the South and East China Seas could trigger such a confrontation. 
+For instance, in the East China Sea, Japan and China claim ownership of the 
+Senkaku / Diaoyu islands, a chain of uninhabited rocks believed to be rich in 
+natural gas reserves.
+
+ At the same time, in the South China Sea China, Beijing lays claim to an area 
+that is almost one-and-a-half times the size of the Mediterranean. The 
+territory encompasses countless islands that are believed to be rich fishing 
+grounds with abundant ambient oil and natural gas deposits. Vietnam and the 
+Philippines strongly oppose many of China's assertions in the South China Sea.
+
+DW recommends
+
+US and Japan send message to China
+
+The US is stepping up efforts to defend Japan against threats from North Korea 
+and China. Several disputed islands in the South and East China Sea have the 
+potential to threaten the stability of the entire region. (09.04.2014)
+  
+Obama to tour Asia amid rising regional tensions
+
+Six months after scrapping a trip to the region, US President Obama has 
+announced a four-nation tour of Asia aimed at quelling doubts about his 
+commitment to a part of the world increasingly marked by security tensions. 
+(19.02.2014)
+ 
+
+Analysts fear escalation of China-Japan dispute
+
+Analysts from Japan's National Institute of Defense Studies call on Tokyo and 
+Beijing to discuss a shared crisis management system, arguing that increased 
+regional tensions may cause minor incidents to escalate rapidly. (02.02.2014)
+ 
+
+Southeast, East Asia build up naval capabilities
+
+Due to a lack of security agreements and codes of conduct, East Asian 
+countries continue their naval arms race, increasing the risk of a military 
+confrontation as rapidly expanding economies vie for scarce resources. 
+(13.01.2014)
+ 
+
+ As a long standing ally of both Japan and the Philippines, the US could be 
+forced to take action in the event of a conflict. Before landing in China, 
+Hagel had visited Japan where he underlined China as a great power and said 
+that Beijing had a great responsibility.
+
+ Regarding the territorial disputes, Hagel said: "You cannot go around the 
+world, redefine boundaries and violate territorial integrity and the 
+sovereignty of nations by force, coercion or intimidation, whether it's in 
+small islands in the Pacific, or in large nations in Europe." The US Defense 
+Secretary also called for more transparency in order to "prevent 
+misinterpretations and misunderstandings and, ultimately, to reduce the risk of 
+a conflict."
+
+ The state-affiliated Chinese news agency Xinhua called on Hagel to 
+acknowledge Washington's China-friendly intentions and said that the two 
+largest economies in the world could not afford confrontation. Nevertheless, 
+the Chinese Defense Minister Chang Wanquan stressed that although Beijing would 
+not provoke a conflict, all military options would remain on the table for the 
+defense of China's territorial sovereignty.
+
+Drawing parallels
+
+ However, Asia expert Will disapproves of the parallel drawn by Hagel and 
+others between the crisis in Ukraine and the conflicts in the East China Sea. 
+He argues, for instance, that China would view referendums such as the one held 
+in Crimea as threats, especially if conducted in regions like Tibet or Xinjiang 
+where ethnic groups are striving for independence.
+
+ Instead, security expert Michael Paul sees some similarities between the 
+current stand-off and the political constellation shortly before the outbreak 
+of World War I in 1914. In a recently published study, Paul points to four 
+major developments in the German Reich which preceded the outbreak of the war: 
+Germany's fear of encirclement, fantasies to become the dominant power in 
+Europe, nationalism and the build-up of the navy.
+
+ All of these factors can be applied to modern-day China. "Nowadays, the 
+People's Republic of China is striving to play a dominant role in Asia, and - 
+similar to the German thirst for power back then - the Chinese are resorting to 
+naval might to achieve this," Paul said.
+  
+The territorial disputes between China and neighboring countries have sparked 
+protests
+
+ The expert added that for years Beijing has been feeling increasingly 
+encircled and staking everything on the nationalist card. According to the 
+latest version, China fears it is being encircled by "the missile defense 
+systems of the US and its allies, which stretch from Japan over the South China 
+Sea all the way to India," Paul said.
+
+Trade is no guarantee for peace
+
+ The analyst stressed that the similarities between today and 1914 don't 
+necessarily mean that war is inevitable, but he also pointed out that peace in 
+the Pacific was "by no means certain."
+
+ Asia expert Will told DW that "trade relations alone cannot replace a 
+security architecture." In this context he pointed to the situation in Europe 
+just before World War I, arguing that the fact that the German Reich had close 
+economic ties with its European neighbors wasn't enough to prevent war. "This 
+is why it is important to study the story of the events unfolding in Southeast 
+Asia," he said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

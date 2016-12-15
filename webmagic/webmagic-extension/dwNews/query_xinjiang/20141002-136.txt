@@ -1,0 +1,38 @@
+<ID>20141002-136
+<DATE>20141002<\DATE>
+<URL>
+http://www.dw.com/en/oslo-pulls-out-of-2022-winter-olympics-bidding/a-17969835
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Oslo pulls out of 2022 Winter Olympics bidding
+<\TITLE>
+<ABSTRACT>
+The Norwegian capital couldn't secure the full backing of its Conservative-led government for a bid for the 2022 Winter Games. Beijing and Almaty are the two remaining bidders.
+<\ABSTRACT>
+<CONTENT>
+ Norwegian capital Oslo has decided not to bid for the 2022 Winter Olympic Games, citing finances as its sole reason for withdrawing. Only China's Beijing and Kazakhstan's Almaty remain in the 
+ Norway has a proud connection to the Winter Olympics, winning more medals than any other country, whilst hosting the event on two occasions in 1952 and 1994. The country's Conservative Party has been split on whether to sanction 35 billion kroner ($5.4 billion) in funding to support the bid for the event.
+ "There isn't a big enough support to carry out such a big project," Prime Minister Erna Solberg told Norwegian public broadcaster NRK. "We've received clear advice and there is no reason not to follow this advice. A big project like this, which is so expensive, requires broad popular support and there isn't enough support for it."
+ Christoph Dubi, meanwhile, the IOC's (International Olympic Committee) Executive Director for the Games, accused the Norwegian parliament of not briefing its politicians on the full details of Oslo's potential bid.
+ "This is a missed opportunity for the city of Oslo and for all the people of Norway who are known worldwide for being huge fans of winter sports," said Dubi in a statement. "And it is mostly a missed opportunity for the outstanding Norwegian athletes who will not be able to reach new Olympic heights in their home country."
+Oslo follows Stockholm (Sweden), Krakow (Poland), Lviv (Ukraine), Munich (Germany) and St Moritz (Switzerland) in withdrawing plans to host the Winter Olympics in 2022.
+ 
+ It's another blow for the reputation of the IOC and the Winter Olympics with both China and Kazakhstan breaching human rights, according to the Human Rights Watch (HRW).
+ Kazakhstan's human rights record has sharply deteriorated in recent years with "authorities cracking down on free speech."
+ China's human rights record falls into the spotlight after already hosting the 2008 Olympic Games in Beijing with little social and political benefits materializing.
+ The "authoritarian" government carries "repressive policies in ethnic minority areas in Tibet, Xinjiang, and Inner Mongolia," according to HRW, with the spotlight currently on the handling of public protests in Hong Kong.
+ The IOC moved last month to crackdown on 'anti-discriminatory policies' in or around future events with the addition of a new binding clause added to contracts between the IOC and budding host cities.
+ "An express reference was included to the prohibition of any form of discrimination, using the wording of Fundamental Principle Six of the Olympic Charter," Budi said.
+ Chapter Six reads that, "any form of discrimination with regards to a country or a person on grounds of race, religion, politics, gender or otherwise is incompatible with belonging to the Olympic Movement."
+ The bidders for the 2022 Games have until January 7, 2015 to submit official bids before evaluations of each candidate take place in February and March. A final decision will be taken by the IOC in July, 2015 in Kuala Lumpur, Malaysia.
+ rd/msh (AP, AFP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,69 @@
+<ID>20150417-129
+<DATE>20150417<\DATE>
+<URL>
+http://www.dw.com/en/opinion-gao-yu-verdict-sends-clear-message-to-regime-critics-in-china/a-18388877
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: Gao Yu verdict sends clear message to regime critics in China
+<\TITLE>
+<ABSTRACT>
+Chinese journalist Gao Yu has been sentenced to seven years in prison. This again shows how the authorities in Beijing deal with critics of the regime, writes the head of DW's Chinese department, Philipp Bilsky.
+<\ABSTRACT>
+<CONTENT>
+
+ Over the past few months it seemed like the Chinese government was delaying a 
+decision in the "Gao Yu case."The verdict was postponed twice 
+
+, which is rather unusual for Chinese courts. "The political leadership has not 
+decided yet," one of the judges admitted in an informal conversation. Optimists 
+took that to be a good sign. Their hope was that the verdict might not turn out 
+as harsh as they feared. But not even the most optimistic observers saw a 
+chance for acquittal.
+
+ In April 2014 the 71-year-old was arrested by Beijing police. She was accused 
+of having leaked state secrets. But there were no details concerning which 
+documents Gao had allegedly actually provided. Observers conjectured that the 
+file in question could be the so-called "Document No. 9." That document warns 
+of Western ideas such as the concept of parliamentary democracy or freedom of 
+the press as threats to the Communist Party and suggesting a more rigorous 
+ideological stance. Details from the text had appeared first on several foreign 
+websites then on Chinese sites as well.
+
+ Now the verdict has been issued: Gao is to spend seven years in prison. The 
+court confirmed the indictment that she had illegally passed on state secrets 
+to foreigners. The defense's arguments were discarded, according to Gao's 
+lawyers. The verdict is a clear signal to all those who are critical of the 
+Chinese government.
+ 
+
+For months Beijing repeatedly cracked down on critics. A recent example being 
+the arrest offive feminists 
+
+ who had wanted to protest against sexual harassment on public transport. The 
+protesters were released on bail, but their legal cases are still pending. That 
+case seemed particularly absurd because the Communist Party likes to portray 
+itself as a champion of women's rights. Obviously only one thing counts for the 
+Chinese government: Stifling any form of dissent.
+
+ And there are many more examples: The arrest of human rights lawyer Pu 
+Zhiqiang, for instance. In May 2014, he was charged with "agitation." Amongst 
+other things, Pu Zhiqiang had defended the artistAi Weiwei. 
+ Or 
+the verdict against the Uighur academic Ilham Tohti in September. He was one of 
+the more moderate representatives of that ethnic minority in China's Xinjiang 
+province. Now he is serving a life sentence in prison.
+
+ The verdict against Gao Yu fits into this pattern. The Chinese government 
+clearly wants to quickly suppress everything that could be a challenge to 
+President Xi Jinpin's "Chinese Dream." The ice in China has become very thin 
+for those who have a critical point of view.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

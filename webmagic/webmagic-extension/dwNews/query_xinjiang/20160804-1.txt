@@ -1,0 +1,42 @@
+<ID>20160804-1
+<DATE>20160804<\DATE>
+<URL>
+http://www.dw.com/en/china-launches-regional-alliance-to-combat-islamist-militancy/a-19449601
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China launches regional alliance to combat Islamist militancy
+<\TITLE>
+<ABSTRACT>
+Afghanistan, Pakistan and Tajikistan have joined a security alliance headed by China. Concerned about an Islamist insurgency in its Xinjiang region and Afghanistan, Beijing is seeking to increase regional cooperation.
+<\ABSTRACT>
+<CONTENT>
+ Military leaders from Pakistan, Afghanistan and Tajikistan met with their Chinese counterparts in the Muslim-majority Xinjiang region Wednesday to announce the formation of the Quadrilateral Cooperation and Coordination Mechanism alliance.
+ The four countries pledged to work together to counter terrorism and share intelligence.
+ "All parties reaffirmed they would cooperate to respond to these (terrorist) forces, and safeguard all member countries' peace and stability," the official Xinhua news agency said Thursday.
+ 
+ In the past few years, the Chinese government has acted strictly against the Muslim separatists in Xinjiang.
+ In 2014, the Chinese government blamed Xinjiang Islamists and separatists for a spate of violent attacks at transport hubs throughout China. Chinese President Xi Jinping vowed to follow a "strike-first approach against terrorists in the region," stating that long-term stability in the region was "vital to the whole country's reform."
+ Beijing is equally worried about the  and a surge in violence in the war-torn country. It believes that the Taliban and other radical groups in Afghanistan are providing assistance to Xinjiang militants.
+ "China is worried about IS gaining a permanent foothold in Afghanistan, and establishing links to Uighur militants," Wahid Mazhdah, a former employee of the ousted Taliban regime, told DW.
+ Uighur Muslims, a Turkic-speaking minority in China's northwestern Xinjiang province,  by the country's communist authorities. They are a distinct and mostly Sunni Muslim community and one of the 55 recognized ethnic minorities in China. However, Uighurs feel increasingly oppressed and view Beijing as a "colonizing power" attempting to undermine their cultural identity, political rights and religion and to exploit their region's natural resources.
+ Faiz Mohammad Zaland, a Kabul University lecturer who recently met with a Taliban delegation in Qatar, has a similar view. "China wants to make sure Uighur militants do not have sanctuaries in Afghanistan and Pakistan. Beijing wants this issue to be part of the negotiations," Zaland told DW.
+ 
+ Experts say these are the reasons behind Beijing's offer to support the Afghan government in  Media reports said a Taliban delegation had held talks with Chinese officials on two occasions in June.
+ Chinese Foreign Minister Wang Yi said last year in December that his country was seeking a leading role for Islamabad to resolve conflicts in Afghanistan, pointing out that "Pakistan is an important nation for Afghanistan" and "has a special reach there."
+ "Broad-based and inclusive national reconciliation" was necessary to ensure Afghanistan's durable stability, Yi commented, and the country would need international support in the process.
+ China and Pakistan are close allies, and with the Islamic country's frayed ties with Washington, Beijing is exerting its influence on Pakistani authorities.
+ "Obviously, the Chinese want to challenge the American hegemony in the region and this looks like their stamp of authority on some sensitive matters," Talat Masood, a retired Pakistani army general and security expert, told the DPA news agency.
+ 
+ Experts say that another important reason behind the diplomatic push may be China's level of economic engagement in these two countries. For instance, China signed deals worth $46 billion (41.3 billion euros) with Pakistan last year. President Xi Jinping also inaugurated the  designed to create a network of roads, railways and pipelines linking China's restive west to the Arabian Sea through Pakistan.
+ According to Afghan experts, Chinese officials are striving to keep the situation in Pakistan and Afghanistan under control so Beijing can implement its economic projects and protect its investments.
+ "China's primary goal for its increased involvement in the Afghan peace process is to secure its economic interests in the region," analyst Zaland said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

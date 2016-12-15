@@ -1,0 +1,84 @@
+<ID>20081021-74
+<DATE>20081021<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=13541
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/China-calling-for-international-help-to-arrest-eight-“Muslim”-terrorists-13541.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China calling for international help to arrest eight “Muslim” terrorists
+<\TITLE>
+<ABSTRACT>
+An eight-name list of alleged Xingjian terrorists is released. They are accused with carrying out attacks during the Olympics. But for experts Beijing has failed so far to come with any evidence. The Uyghurs living in the oil- and mineral-rich region have been victims of a virtual cultural genocide.
+<\ABSTRACT>
+<CONTENT>
+   
+
+
+Beijing (AsiaNews/Agencies) – In an unprecedented move Chinese authorities 
+today released a wanted list of eight Xingjian “terrorists” it said had carried 
+out attacks aimed at the Beijing Olympics, calling on the international 
+community for help in capturing them. 
+“The eight are all key members of the ETIM, and all participated in the 
+planning, deployment and execution of all kinds of violent terrorist activities 
+targeting the Beijing Olympics” and foreign objectives, said Wu Heping, a 
+spokesman with the Ministry of Public Security, who did not however go into 
+details about they are supposed to have done. The ETIM stands for the East 
+Turkestan Islamic Movement and, according to Beijing, is linked to al-Qaeda.
+
+One of the suspects, Memetiming Memeti, is considered the ETIM leader. A 
+police statement said that he received help from “certain western Asian 
+countries”, including explosives to carry out terror attacks on targets in 
+China and overseas. The other suspects were involved in attacks as well as 
+training and recruiting terrorists.
+
+Strategically located resource-rich Xingjian has been rocked by attacks this 
+year, including the killing of 16 armed police just before the August Olympics. 
+Beijing blames Islamic militants for the incident.
+
+In April mainland authorities also arrested tens of alleged terrorists 
+accusing them of being involved in terror plots targeting the Olympics, 
+including suicide bomb attacks and the kidnapping of athletes. None of these 
+claims could be independently verified.
+
+China has in turn been accused of carrying out cultural genocide in the region 
+by trying to eliminate the language and culture of indigenous Uyghur to the 
+benefit of ethnic Han immigrants who hold positions of power and privilege. The 
+end result of this policy has turned the Uyghurs into a minority, eight million 
+of the region’s 19 million people or 46 per cent.
+
+Beijing has also issued a series of edicts that have made life difficult for 
+Muslim Uyghurs. For example, sermons at Friday prayers cannot run longer than a 
+half-hour. Prayers in public areas outside the mosque are forbidden. Government 
+workers and non-religious people cannot be "forced" to attend mosque services—a 
+generous wording of a law that prohibits government workers and Communist Party 
+members from going at all. Imams may not teach the Qur’an in private. Studying 
+Arabic is allowed only at special government schools. Students and government 
+workers are compelled to eat during Ramadan. Passports have been confiscated to 
+force Uyghurs to join government-run hajj tours rather than travelling 
+illegally to Makkah. And when they can travel official trips can cost US$ 
+3,700. And last but not least, anyone applying for Hajj must be vetted by 
+police and show that they have the means to go.
+
+For Dilxat Raxit, spokesperson for the World Uyghur Congress, the terrorist 
+“list has political motives [. . .].  They [Chinese authorities] have produced 
+no evidence to support these claims.”
+
+For the same reason the United States has refused to repatriate about 255 
+Chinese Muslim Uyghur who fled Afghanistan to Pakistan after the US attacked it 
+in October 2001.
+
+After their capture they were sent to Guantanamo where they have been held for 
+years. But now they are on the verge of being freed but will not be repatriated 
+for fear that China might jail them without cause.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,96 @@
+<ID>20100708-289
+<DATE>20100708<\DATE>
+<URL>
+http://www.dw.com/en/suspected-terrorists-arrested-in-germany-norway/a-5773862
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Suspected terrorists arrested in Germany, Norway
+<\TITLE>
+<ABSTRACT>
+Police say three men were arrested in Germany and Norway who are thought to be linked with the terrorist organization al Qaeda. The detainees are reported to have been planning a bomb attack in Oslo.
+<\ABSTRACT>
+<CONTENT>
+
+Three suspected al-Qaeda members have been arrested for allegedly preparing a 
+major bomb attack, Norway's Police Security Service (PST) said Thursday.
+
+
+"Three people suspected ... of preparing a terrorist act and who have links to 
+al-Qaeda have been arrested today," Janne Kristiansen, the head of the PST, 
+confirmed reporters in Oslo.
+
+
+National prosecutor Jan Glent told the press conference that the three had 
+been "charged with having entered into a partnership to commit a terrorist act."
+
+
+"We also think they have links to al-Qaeda and to similar attempts [at terror 
+attacks] in New York and Manchester," he added.
+
+
+Kristiansen said that two of the men had been arrested in Oslo and one in 
+Germany after an extensive investigation lasting over a year. The police force 
+would not give details as to the men's suspected plans, but reports say they 
+were preparing a bomb attack in the Norwegian capital using portable bombs 
+similar in design to those used in recently-thwarted attacks in New York City 
+and Manchester, England.
+
+Police refused to give the names of the suspects, but Kristiansen said one was 
+a 39-year-old Norwegian citizen of Chinese Uighur origin. Another was a 
+37-year-old Iraqi Kurd and the third had come to Norway from Uzbekistan as an 
+asylum-seeker. Both foreign nationals, she said, were legal residents of Norway.
+
+Kristiansen said the international arrests were the result of cooperation 
+between Norwegian and other European intelligence agencies, although she would 
+not say which.
+
+Europe's war on terror
+
+
+
+Europe hasn't experienced a major terrorist attack since London bombings in 
+2005
+
+Terrorism expert Rolf Tophoven of the Institute for Terrorism Research and 
+Security Policy, told Deutsche Welle that Thursday's arrests were "evidence" 
+that Europe's intelligence agencies were on "highest alert."
+
+Tophoven likened the fight against terrorism to an Olympic marathon that never 
+ended, with both intelligence forces and terrorists constantly gaining speed.
+
+He added that, because of interagency communication, he believed the fight 
+against terrorism was more effective in Europe than in the United States, where 
+intelligence agencies like the FBI and the CIA notoriously compete with each 
+other.
+
+Terrorism expert David Schiller agrees.
+
+"There's much more sharing of information and intelligence than there was in 
+the 1980s and 1990s," he said. "[September 11] did bring home the lesson that 
+one nation alone can not stand up against that type of threat, so we have to 
+cooperate and we have to share information."
+
+Europe needs united policies
+
+Norwegian authorities stressed that the threat of terrorism in Norway was 
+normally low and remained low.
+
+Schiller believes that to truly fight terrorism, Europe must have stronger, 
+more united policies on its handling of the nations that support terrorists.
+
+These arrests, he said, are a "tactical event" but "in the long run, 
+[arresting people alone] is not a strategy."
+
+Author: David Levitz 
+
+Editor: Martin Kuebler
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

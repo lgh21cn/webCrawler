@@ -1,0 +1,54 @@
+<ID>20131106-146
+<DATE>20131106<\DATE>
+<URL>
+http://www.dw.com/en/bombs-kill-one-injure-eight-in-north-china/a-17208964
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Bombs kill one, injure eight in north China
+<\TITLE>
+<ABSTRACT>
+Chinese officials say several small bombs have exploded in front of Communist Party headquarters in the northern city of Taiyuan, killing one person. No explanation for the attack has been given.
+<\ABSTRACT>
+<CONTENT>
+
+ Officials said the explosions occurred early on Wednesday morning local time 
+outside an office building of the Shanxi Provincial Committee of the Communist 
+Party in Taiyuan, the capital of Shanxi province.
+
+ One person was killed in the blasts, and eight people injured, one of them 
+seriously, according to official media.
+
+ "Judging from the scattering of small metal balls, it is suspected that 
+improvised bombs exploded," the state-run news agency Xinhua reported.
+
+ Xinhua quoted residents as saying that there were as many as seven blasts.
+
+Regular revenge attacks
+
+ There was no information about the presumed target or perpetrators. However, 
+the attack bore the hallmark of the kind of attack occasionally carried out in 
+China by citizens angered at perceived injustices.
+
+ Shanxi, which lies in China's coal belt, has a relatively large wealth divide 
+between rich owners of mines and the poorer people who work them.
+
+ Wednesday's incident comes after an attack in Beijing last week  
+
+in which three people drove through crowds to Tiananmen Gate before setting 
+their vehicle alight.
+
+ Five people, including three inside the vehicle, were killed. The attack has 
+been blamed on extremist separatists from the restive Xinjiang region, home to 
+the mostly Muslim Uighur minority.
+
+ tj/mkg (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

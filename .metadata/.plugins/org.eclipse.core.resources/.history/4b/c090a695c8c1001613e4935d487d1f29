@@ -1,0 +1,171 @@
+package us.codecraft.webmagic.newscrawler;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.HashSet;
+import java.util.Set;
+
+public class FileNumberVerifier {
+
+	public static final String VERIFIED_SUCCESS_DOWNLOAD_LOG_PATH = ".//asianews/verified_success_download_log.txt";
+	public static final String VERIFIED_SUCCESS_CRAWLER_LOG_PATH = ".//asianews/verified_success_crawler_log.txt";
+
+	public static void verifyFileNumber(String need, String download) {
+		File needFile = FileUtils.getFile(need);
+		File downloadFile = FileUtils.getFile(download);
+
+		HashSet<String> needSet = new HashSet<String>();
+		loadFile(needFile, needSet);
+		System.out.println("Need Set is " + needSet.size());
+
+		HashSet<String> downloadSet = new HashSet<String>();
+		loadFile(downloadFile, downloadSet);
+		System.out.println("Download Set is " + downloadSet.size());
+		
+		Set<String> unmatchSet=new HashSet<String>();
+		loadFile(needFile, unmatchSet);
+		System.out.println("Un Match Set is " + unmatchSet.size());
+
+		needSet.removeAll(downloadSet);
+		needSet.remove(unmatchSet);
+		System.out.println("Remain Set is " + needSet.size());
+
+		StringBuilder sb = new StringBuilder();
+		for (String url : needSet) {
+			sb.append(String.format(URL_TAG_START + "%s" + URL_TAG_END1 + "\n", url));
+		}
+
+		FileUtils.writeErrorLog(VERIFIED_SUCCESS_DOWNLOAD_LOG_PATH, sb.toString());
+
+	}
+
+	private static final String URL_TAG_START = "<URL>";
+	private static final String URL_TAG_END1 = "</URL>";
+	private static final String URL_TAG_END2 = "<\\URL>";
+	private static final String CONV_URL_TAG_START = "<CONVURL>";
+	private static final String CONV_URL_TAG_END = "<\\CONVURL>";
+
+	public static void loadFile(File file, Set<String> set) {
+		FileInputStream fis = null;
+		InputStreamReader isr = null;
+		BufferedReader br = null; // 用于包装InputStreamReader,提高处理性能。因为BufferedReader有缓冲的，而InputStreamReader没有。
+		try {
+			String url = "";
+			fis = new FileInputStream(file);// FileInputStream
+			// 从文件系统中的某个文件中获取字节
+			isr = new InputStreamReader(fis);// InputStreamReader 是字节流通向字符流的桥梁,
+			br = new BufferedReader(isr);// 从字符输入流中读取文件中的内容,封装了一个new
+											// InputStreamReader的对象
+			while ((url = br.readLine()) != null) {
+				url = removeURLTag(url);
+
+				set.add(url);
+			}
+			// System.out.println(str1);// 打印出str1
+		} catch (FileNotFoundException e) {
+			System.out.println("找不到指定文件");
+		} catch (IOException e) {
+			System.out.println("读取文件失败");
+		} finally {
+			try {
+				br.close();
+				isr.close();
+				fis.close();
+				// 关闭的时候最好按照先后顺序关闭最后开的先关闭所以先关s,再关n,最后关m
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public static String removeURLTag(String url) {
+		if (url.contains(URL_TAG_START)) {
+			url = url.replace(URL_TAG_START, "");
+		}
+
+		if (url.contains(URL_TAG_END1) || url.contains(URL_TAG_END2)) {
+			url = url.replace(URL_TAG_END1, "");
+			url = url.replace(URL_TAG_END2, "");
+		}
+		
+		if (url.contains(CONV_URL_TAG_START)) {
+			url = url.replace(CONV_URL_TAG_START, "");
+		}
+
+		if (url.contains(CONV_URL_TAG_END)) {
+			url = url.replace(CONV_URL_TAG_END, "");
+		}
+
+		return url;
+	}
+
+	public static String retrieveUrlFromFile(String fileName) {
+		String content = FileUtils.readFile(fileName);
+		if (content.contains(CONV_URL_TAG_START)) {
+			int start_index = content.indexOf(CONV_URL_TAG_START);
+			int end_index = content.indexOf(CONV_URL_TAG_END);
+			return start_index <= end_index ? content.substring(start_index + CONV_URL_TAG_START.length(), end_index)
+					: "";
+		} else {
+			int start_index = content.indexOf(URL_TAG_START);
+			int end_index = content.indexOf(URL_TAG_END1);
+			if (end_index == -1)
+				end_index = content.indexOf(URL_TAG_END2);
+
+			return start_index < end_index ? content.substring(start_index + URL_TAG_START.length(), end_index) : "";
+		}
+	}
+
+	public static void verifyFileUrl(String need, String download,String unmatch) {
+		File needFile = FileUtils.getFile(need);
+		HashSet<String> needSet = new HashSet<String>();
+		loadFile(needFile, needSet);
+		System.out.println("Need Set is " + needSet.size());
+
+		Set<String> subFileNames = new HashSet<String>();
+		FileUtils.readFileNames(download, subFileNames);
+
+		Set<String> downloadSet = new HashSet<String>();
+		for (String name : subFileNames) {
+			String url = retrieveUrlFromFile(download + name);
+			downloadSet.add(url);
+		}
+		System.out.println("Crawler Set is " + downloadSet.size());
+		
+//		Set<String> subFileNames = new HashSet<String>();
+		Set<String> unmatchSet=new HashSet<String>();
+		
+		subFileNames.clear();
+		FileUtils.readFileNames(unmatch, subFileNames);
+		
+		for (String name : subFileNames) {
+			String url = retrieveUrlFromFile(unmatch + name);
+			unmatchSet.add(url);
+		}
+		
+		System.out.println("Un Match Set is " + unmatchSet.size());
+
+		needSet.removeAll(downloadSet);
+		needSet.removeAll(unmatchSet);
+		
+		System.out.println("Remain Set is " + needSet.size());
+
+		StringBuilder sb = new StringBuilder();
+		for (String url : needSet) {
+			sb.append(String.format(URL_TAG_START + "%s" + URL_TAG_END1 + "\n", url));
+		}
+
+		FileUtils.writeErrorLog(VERIFIED_SUCCESS_CRAWLER_LOG_PATH, sb.toString());
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		verifyFileNumber("./tmp_url_removed.txt", NewsCrawlerProcessor.SUCCESS_LOG_PATH,NewsCrawlerProcessor.MATCH_PATH);
+		verifyFileUrl("./tmp_url_removed.txt", ".//asianews//",NewsCrawlerProcessor.MATCH_PATH);
+	}
+
+}

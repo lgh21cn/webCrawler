@@ -1,0 +1,97 @@
+<ID>20090707-26
+<DATE>20090707<\DATE>
+<URL>
+http://www.dw.com/en/tension-remains-high-in-xinjiang/a-5213600
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tension Remains High in Xinjiang
+<\TITLE>
+<ABSTRACT>
+A night-time curfew was imposed on the capital of China’s western region of Xinjiang on Tuesday after police clamped down on clashing Han Chinese and Uighur protesters. Over a thousand people have been arrested since riots, in which more than 150 people died, erupted on Sunday.
+<\ABSTRACT>
+<CONTENT>
+
+Security was tight in Urumqi on Tuesday. The atmosphere was tense. Thousands 
+of protesters from China’s predominant Han ethnic group took to the streets 
+with chains, steel bars and other weapons, calling for revenge against the 
+Muslim Uighurs -- claiming they incited violence against them in the weekend 
+protests. Police fired tear gas to disperse the crowd and the authorities 
+imposed a curfew until Wednesday morning.
+
+Henrik Bork, a journalist from the German Süddeutsche Zeitung daily was among 
+a group of foreign journalists invited by the government to visit the city on 
+Tuesday.
+
+He described the situation: “The city is in chaos. We just saw a big group of 
+Han Chinese trying to enter a mosque. They threw stones but the police stopped 
+them.”
+
+Earlier on in the day, hundreds of Uighur women had also gone out onto the 
+streets. They demanded the release of family members who have gone missing 
+since Sunday. More than 1,400 people are believed to have been arrested.
+
+Bork said: “When they saw us, some Uighur women came running and screaming 
+towards us. They had children with them. They said their family members had 
+been arrested in the night but they hadn’t done anything. Suddenly the police 
+arrived. The women started demonstrating again. This went on for about 1.5 
+hours. It was very tense. But because there were over 100 of us foreign 
+journalists the police did not use force.”
+
+Ethnic tensions run high
+
+The region has been simmering since a factory brawl in the southern Chinese 
+city Shaoguan. last month that killed two Uighurs. Activists say that on 
+Sunday, peaceful Uighur demonstrators went out onto People’s Square in Urumqi 
+to demand an investigation into the deaths. They accuse the authorities of 
+clamping down on them with violence.
+
+The authorities say that the protesters themselves were violent, attacking 
+people on the streets, destroying shops and setting fire to cars.
+
+Xinjiang is ethnically divided between Han Chinese and Muslim Uighurs. The 
+latter claim they are discriminated against. “In Urumqi and other places, you 
+have Uighurs living in a quarter of the towns and these have been completely 
+sealed by the police,” said Rudolf Wagner from the University of Heidelberg. 
+“So you get into a situation where the original population is ghettoised.”
+
+Internet and phone lines down
+
+Some parts of Urumqi have been totally cut off from the rest of the world 
+since Sunday. The authorities have blocked access to the internet and cut 
+telephone lines. They have justified these measures by saying they will prevent 
+the spread of violence.
+
+The Chinese authorities have accused exiled Uighurs of using electronic means 
+to incite violence. The spokesman for the Chinese foreign ministry Qin Gang 
+addressed reporters in Beijing on Tuesday: “The truth will come to light. The 
+authorities will soon reveal the figures and provide evidence. We hope that 
+other countries will see the true face of the separatists and will stop 
+supporting them.”
+
+International community expresses concern
+
+World Uyghur Congress leader Rebiya Kadeer has denied these claims and has 
+demanded an international investigation into the deaths.
+
+The international community has expressed its concerns about the unrest. On 
+Tuesday, Navi Pillay, the UN High Commissioner for Human Rights called on the 
+Chinese authorities and on ethnic groups in Xinjiang to refrain from using 
+further violence. She also urged the authorities to treat those arrested in 
+line with international law.
+
+German Chancellor Angela Merkel also said she would raise the matter during 
+her meeting with Chinese President Hu Jintao at the G8 summit in Italy later 
+this week.
+
+Author: Disha Uppal
+Editor: Anne Thomas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

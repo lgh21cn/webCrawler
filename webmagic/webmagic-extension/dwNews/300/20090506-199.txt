@@ -1,0 +1,61 @@
+<ID>20090506-199
+<DATE>20090506<\DATE>
+<URL>
+http://www.dw.com/en/german-politicians-split-on-guantanamo-detainee-request/a-4230422
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+German politicians split on Guantanamo detainee request
+<\TITLE>
+<ABSTRACT>
+Now that the US request for Germany to accept as many as 17 Uighur detainees from Guantanamo Bay is official, reaction from across the political spetrum has been mixed.
+<\ABSTRACT>
+<CONTENT>
+
+German Chancellor Angela Merkel has said that Germany has an obligation to 
+help US President Barack Obama in his efforts to close the American military 
+prison camp at Guantanamo Bay, Cuba. But reservations about accepting former 
+detainees have been expressed, even from within her own Christian Democratic 
+Union party.
+
+Lower Saxony Interior Minister Uwe Schuenemann (CDU) told Die Welt newspaper 
+that "security must come before diplomacy."
+
+Dissent within CDU
+
+Members of the CDU's Bavaria-based sister party, the Christian Social Union, 
+have also voiced concerns. Senior CSU politician Peter Ramsauer said on Tuesday 
+in Berlin that Germany is neither politically nor legally bound to take in the 
+prisoners. "We are not ready to either help or support the government on this 
+issue," he said.
+
+On Tuesday, Saxony-Anhalt Interior Minister Holger Hoevelman from the CDU's 
+coalition partners, the Social Democrats, told theFrankfurter Rundschau 
+newspaper that the detainees were an American problem. He had "no interest in 
+adding a potential risk to the country by taking in the prisoners," he said.
+
+Munich, Bavaria at odds
+
+In support of the resettlement efforts, German government spokesman Ulrich 
+Wilhelm noted that Munich would be the appropriate location to resettle the 
+prisoners as there is a large Uighur community there, and that the city council 
+had voted to accept the Uighurs back in February.
+
+In contrast, Bavarian Interior Minister Joachim Herrmann (CSU) said on Monday 
+that his state would not offer to welcome the detainees.
+
+The Uighurs are a Chinese Muslim minority from the remote northwestern 
+province of Xinjiang. The Obama administration says that the Uighurs cannot 
+return to China because they risk persecution as the Chinese government regards 
+them as terrorists.
+
+ The US government has classified the Uighurs as not posing a security threat.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

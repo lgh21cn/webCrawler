@@ -1,0 +1,51 @@
+<ID>20140621-36
+<DATE>20140621<\DATE>
+<URL>
+http://www.dw.com/en/chinese-police-shoot-dead-13-assailants-in-xinjiang-province/a-17726218
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese police shoot dead 13 assailants in Xinjiang province
+<\TITLE>
+<ABSTRACT>
+Police in China's restive Xinjiang province have shot dead 13 assailants, after they drove a vehicle into a police station and set off an explosion.
+<\ABSTRACT>
+<CONTENT>
+
+ Three police officers were also injured in Saturday's attack, the latest 
+incident in a wave violence that has gripped China's western Xinjiang province.
+
+ "The gangsters drove a vehicle to ram the building of the public security 
+bureau of Yecheng County in southern Xinjiang and set off explosives," reported 
+the state news agency, Xinhau.
+
+ Xinjiang is home to the predominantly Muslim ethnic Uighur community, which 
+has a tense relationship with Beijing. Many Uighurs accuse the Chinese 
+government of restricting their cultural and religious practices and 
+discriminating against them in favor of the Han ethnic group.
+
+ Beijing has blamed separatist Uighur militants affiliated with the East 
+Turkestan Islamist Movement for launching a series of lethal attacks recently.
+
+ Earlier this week, authorities executed 13 people for "terrorist attacks" in 
+Xinjiang. Beijing sentenced three others to death for an attack last October in 
+Tiananmen Square, in which assailants drove a car into a crowd, killing two 
+pedestrians and wounding 40 others.
+
+ Last month, assailants threw explosives and drove off-road vehicles through a 
+market in Xinjiang's provincial capital, Urumqi. At least 43 people died in 
+that attack.
+
+ In March, attackers armed with knives went on a stabbing spree in the 
+southwestern city of Kunming, killing 29 people and wounding 143 others.
+
+ slk/rc (AP, AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

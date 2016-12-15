@@ -1,0 +1,81 @@
+<ID>20131104-48
+<DATE>20131104<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-General-in-charge-of-security-removed-after-attack-on-Tiananmen--29442.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: General in charge of security removed after attack on Tiananmen 
+<\TITLE>
+<ABSTRACT>
+The authorities have removed Yong Peng from official duties. The decision after the terrorist attack on the heart of Beijing, which the Party claims is the work of Uyghurs from the western province. Analysts in agreement that the only independence movement left “unable to plan such attacks ."
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi ( AsiaNews / Agencies) - The Chinese government has removed Yong Peng 
+from office.  The communist General represents the highest military authority 
+in the western province of Xinjiang. Although the decision does not explicitly 
+mention it, the removal is linked to the terrorist attackwhich took place on 28 
+October in Tiananmen Square in Beijing 
+
+, during which 5 people were killed and another 38 were injured.
+
+ The central authorities have referred to the instigators and perpetrators of 
+the act as some ethnic Uyghur "pro-independence militants" from Xinjiang. In 
+the attack, carried out with an SUV that was detonated at the front door of the 
+Forbidden City, the bomber, his wife and mother died. General Peng Yong (see 
+photo) , writes thePeople's Daily, has been removed from the Provincial 
+Standing Committee of the Communist Party: in short, he no longer has any 
+authority.
+
+ In any case, the spotlight remains focused on the province, one of the most 
+turbulent in all of China.  It is home to the ethnic Uyghur , Turkic speaking 
+peoples of Islamic religion, who have always sought to gain independence from 
+Beijing. The central government, for its part, planted hundreds of thousands of 
+Han Chinese in the region to try to make them the dominant ethnic group.  It 
+also imposes serious restrictions on freedom of religion, the practice of 
+Islam, the teaching of the language and the local culture.
+
+ Even from the economic point of view there are various forms of 
+discrimination. The average wage for rural workers is 6,400 yuan per year 
+(about 550 Euros) : This is an increase compared to previous years, but is 
+still less than the national average 1,500 yuan. The social situation also 
+affects the labor market in the province, it is not hard to find job postings 
+that specify "Uyghurs will not be accepted ."
+
+ Since 2009 a special police and military system of control are in place, 
+imposed by Beijing after theriots in which nearly 200 people lost their lives 
+
+. As a result of the violence hundreds of custodial sentences and dozens of 
+death sentences were inflicted. The Chinese authorities believe that the 
+perpetrators of violence are Muslim extremists, but the exiles claim that 
+Beijing "is exaggerating " the threat of Islamic terrorism to justify the 
+repression against the Uyghur population .
+
+ Over the years, a single movement has really distinguished itself for its 
+independence activities. However, as pointed out by analysts and experts , the 
+"East Turkistan Islamic Movement ( Etim ) no longer has the ability to bring 
+about attacks even remotely similar to those in Tiananmen Square.  According to 
+a local expert, who requested anonymity , " the invasion NATO of Afghanistan 
+has stopped the past relations between Etim and the Taliban. Its impossible to 
+think that they are able to strike 2 thousand miles away from their home bases" 
+.
+
+ The World Uyghur Congress, an organization based in Germany that brings 
+together the diaspora, has asked for "honesty and transparency" in the inquiry 
+into the attack several times in recent days. After condemning the incident, 
+the Congress leader Rebiya Kadeer expressed the fear that "what happened could 
+lead to a new, fierce persecution against the ethnic group, increasingly 
+targeted by Beijing policies".
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

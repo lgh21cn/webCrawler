@@ -1,0 +1,124 @@
+<ID>20120306-194
+<DATE>20120306<\DATE>
+<URL>
+http://www.dw.com/en/stability-trumps-reform-at-chinas-parliamentary-session/a-15789717
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Stability trumps reform at China's parliamentary session
+<\TITLE>
+<ABSTRACT>
+As always, this year's NPC has opened with the Government Work Report of PM Wen Jiabao. And analysts have been pondering over the report to glean some insights into the workings of the Chinese government.
+<\ABSTRACT>
+<CONTENT>
+
+ Much of the world coverage of China's on-going National People's Congress 
+(NPC) session has focused on the 7.5 percent GDP growth rate stipulated by 
+Premier Wen Jiabao in his Government Work Report unveiled on Monday March 5.
+
+ This figure - the lowest since 2004 - indicates for many analysts that 
+Beijing is genuinely worried about the impact of the on-going international 
+financial crisis on China. In the past two decades, China has been accustomed 
+to growth rates well above 9 percent.
+
+ Yet another statistic is perhaps even more indicative of the reality of this 
+complex country: the budget forwei-wen (or upholding stability) for 2012 is set 
+at 701.7 billion yuan, or 11.5 percent above that of last year.
+
+ For the second year in a row, expenditures by the police, the state-security 
+agency, the quasi-military People's Armed Police (PAP) and other 
+law-enforcement agencies have exceeded that of the People's Liberation Army 
+(PLA).
+
+ In his speech to the 3,000-odd parliamentarians, Wen pledged to 
+"comprehensively build up a modernized PAP force" and that various government 
+departments would "resolutely complete tasks including fighting terrorism, 
+upholding stability and handling emergency incidents." "Emergency incidents" is 
+a standard euphemism for riots and disturbances, more than 120,000 cases of 
+which are thought to take place every year.
+
+Land rights
+
+ Apart from tens of thousands of "land grab" cases, which refer to the land 
+and apartments of peasants and urban residents being illegally expropriated for 
+redevelopment, the recent unrest in Tibet and Xinjiang has stained the façade 
+of the "harmonious society" that Premier Wen and President Hu Jintao are so 
+keen to proclaim.
+ 
+
+China will increase military spending
+
+ In his Government Work Report, Wen vowed to protect the land rights of 
+farmers and to "uphold the legal rights of religious groups and masses who are 
+believers [in religions]." However, no concrete measures have been announced to 
+help the victims of land grabs as well as sufferers of religious persecution.
+
+ A key plank of the nine-year-old Hu-Wen administration is, as Wen said this 
+week, "to effectively safeguard social equality and justice." To this end, the 
+central government has been earmarking more spending for social welfare, 
+including the construction of some 36 million subsidized apartments during the 
+2011 to 2015 period.
+
+Gap between rich and poor
+
+ However, the gap between rich and poor - and that between nouveau-riche 
+speculators with excellent political connections on the one hand, and ordinary, 
+law-abiding workers on the other - is getting wider.
+
+ A recent commentary in the China Newsweekly magazine pointed out that while 
+the assets of the super-rich had increased 70 fold from 2005 to 2011, the 
+income of the average worker and farmer had only increased by 2.07 times and 
+2.14 times respectively in the same period. "The tycoons are in effect ripping 
+off ordinary folks," the magazine claimed.
+
+ It also doesn't help that the NPC, which is supposed to be a "chamber of the 
+masses," has recruited the cream of the country's wealthiest entrepreneurs as 
+deputies. Several Chinese websites have carried the report by the US-based 
+"Business Day," that the net worth of the richest 70 NPC members amounted to 
+$85 billion (64.3 billion euros). By comparison, the total assets of all 
+members of the US Congress, the president and his cabinet members, as well as 
+the Supreme Court Justices came up to a mere $7.5 billion.
+
+Reform
+
+ Also significant are articles in the state media the past week that cited 
+"vested interest blocs" as the most formidable impediment to reform. For 
+example, Sun Jian, a researcher at the CCP journalSeeking Truth, noted that "we 
+must not allow interest groups to block reform."
+ 
+
+There has been a rise in the number of demonstrations
+
+ And He Chuiyun, a commentator for the China Business Times, wrote that 
+"unless we have the determination and courage to reform ourselves, it will be 
+difficult for us to break up the configuration of interest [groups] in the 
+country."
+
+ While talking to parliamentarians, Wen pointed out although this was the last 
+year of his administration, he would "summon even more courage to implement 
+reform," adding, "We must use enhanced determination and courage to continue to 
+push forward comprehensive reform of the economic and political structure."
+
+ However, apart from repeating standard, pro-forma references to "ensuring the 
+people's right to know, to take part [in politics], to express themselves and 
+to supervise [the government]," Wen said nothing new in his Government Work 
+Report about meaningful political or ideological reform.
+
+ Diplomatic analysts in the capital said most senior cadres were preoccupied 
+with jockeying for position at the 18th Chinese Communist Party (CCP) Congress 
+this October, which will usher in a new Politburo and Politburo Standing 
+Committee (PFSC). Competition among the different CCP factions for the nine 
+slots on the PBSC, China's supreme ruling council, is said to be getting more 
+acrimonious than ever.
+
+ Author: Willy Lam
+ Editor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

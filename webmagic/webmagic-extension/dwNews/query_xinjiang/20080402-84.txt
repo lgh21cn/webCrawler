@@ -1,0 +1,22 @@
+<ID>20080402-84
+<DATE>20080402<\DATE>
+<URL>
+http://www.dw.com/en/possible-rebellion-in-chinas-northwest/a-5213869
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Possible Rebellion in China's Northwest
+<\TITLE>
+<ABSTRACT>
+Suddenly not just Tibet, but other parts of China, such as the Muslim-majority Xinjiang region, are in focus. And other groups of people such as the Uighurs join the protests against Chinese rule.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

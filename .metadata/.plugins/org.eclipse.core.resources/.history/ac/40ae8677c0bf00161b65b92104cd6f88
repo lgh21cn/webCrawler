@@ -1,0 +1,14 @@
+package com.lgh.webcrawler.prj;
+
+import java.util.regex.Pattern;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Pattern pattern=Pattern.compile("http://blog\\.sina\\.com\\.cn/s/blog_(.*)\\.html");
+		String url="http://blog.sina.com.cn/s/blog_58ae76e80100hs00.html";
+		System.out.println("Matches:"+pattern.matcher(url).group(1));
+	}
+
+}

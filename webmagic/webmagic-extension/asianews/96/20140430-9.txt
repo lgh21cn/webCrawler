@@ -1,0 +1,60 @@
+<ID>20140430-9
+<DATE>20140430<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xi-Jinping-visits-Xinjiang,-the-front-line-against-Islamic-terrorism-30955.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xi Jinping visits Xinjiang, the "front line against Islamic terrorism"
+<\TITLE>
+<ABSTRACT>
+The Chinese president's first tour to the northern province, homeland of the Uyghur (Turkic and Muslim) peoples targeted by authorities for separatist and alleged terrorist activities. Soldiers in training asked to "sweat today not to bleed tomorrow on the field" while he stresses to teachers the importance of speaking the local language well "to improve teaching Mandarin to young people".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Kashgar ( AsiaNews) - Chinese President Xi Jinping has made his first visit to 
+the northern province of Xinjiang, which he called "the front line against 
+terrorism" because of the presence of ethnic Uyghur, a Turkic speaking Muslim 
+faith people, which the government is trying to control as possible. Xi 's 
+visit comes only a few weeks after the beginning of a political conference to 
+be held in June in Beijing, convened to decide the new policies to be applied 
+in the region.
+
+Xi visited an anti-terrorism military unit and training barracks: "You must 
+have the most effective means to deal with violent terrorists. The more you 
+sweat in training, the less you bleed in wartime".
+
+ The Communist leader also visited a village near Kashi to "experience" the 
+daily life of the Uyghurs. Speaking to primary school teachers he asked them to 
+"speak good Uyghur, in order to help young people to speak better Mandarin 
+Chinese. It's important to [have] bilingual education for minority children. 
+[They] will be able to find jobs easier in the future by mastering the Chinese 
+language, and more importantly they will contribute more to national unity".
+
+Xinjiang province is one of the most turbulent in all of China. It is the 
+homeland of ethnic Uyghurs, a Turkic-speaking, mostly Muslim people that has 
+always sought independence from Beijing.
+
+The central government has sent hundreds of thousands of Han Chinese to the 
+region to try to make them the dominant ethnic group. It has also imposed 
+serious restrictions on freedom of religion, Muslim practices, the teaching of 
+the indigenous language and the local culture.
+
+Since 2009, a special system of Chinese police and army control has been in 
+place, imposed by Beijingafter the riots in which nearly 200 people lost their 
+lives 
+
+. As a result of the violence, hundreds of people were detained and dozens were 
+sentenced to death.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

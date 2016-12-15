@@ -1,0 +1,46 @@
+<ID>20140923-103
+<DATE>20140923<\DATE>
+<URL>
+http://www.dw.com/en/uighur-scholars-life-sentence-triggers-widespread-condemnation/a-17941394
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uighur scholar's life sentence triggers widespread condemnation
+<\TITLE>
+<ABSTRACT>
+A Chinese court has sentenced prominent Uighur scholar Ilham Tohti to life in prison for "separatism." Rights groups have slammed the controversial trial as a "failure" of the justice system and demanded Tohti's release.
+<\ABSTRACT>
+<CONTENT>
+ The accused denied all the charges in court, but to no avail. The Urumqi People's Intermediate Court sentenced Uighur academic Ilham Tohti to life imprisonment and confiscated all his possessions, an unusually harsh punishment for someone widely regarded as a moderate critic. While the sentence was being read out on Tuesday, September 23, Tohti shouted "I refuse it," Li Fangping, one of Tohti's lawyers, told DW, adding that the defendant "will certainly appeal."
+ Following the two-day trial on charges of separatism, Jewher Ilham, Tohti's daughter told DW that her father never had "any thoughts of splitting the country" and was therefore innocent. "He has done nothing wrong. Putting him in prison would be a foolish act," said the 20-year-old who is currently studying in the United States.
+ Sophie Richardson, China director of Human Rights Watch (HRW), said the case exposed the "wholesale failure" of the Chinese judicial system, as authorities failed to show any understanding of or interest in constructive criticism and relations with ethnic minorities.
+ 
+ Born in 1969 in a small town in the western Chinese province of Xinjiang, Tohti moved to Changchun for higher education and from there to Beijing to advance his career as a renowned economist.
+ For several years, Tohti researched at Beijing's Minzu University, amongst other things, about the Uighurs' social standing in Xinjiang Province. He came to the conclusion that the Muslim minority in the province was not treated the same way as the majority Han Chinese. He also found that the Uighurs were being systematically discriminated by the Chinese authorities.
+ Tohti repeatedly criticized the central government's policies against the minority. However, Tohti is viewed by many as a moderate critic, always pushing for a better understanding between Uighurs and Han Chinese.
+ 
+ In 2006, Tohti founded "Uighur online," a website designed to address the minority group's issues. Two years later, Chinese authorities shut down the site and arrested Tohti on charges of promoting Uighur separatism. Following the 2009 Xinjiang riots, the scholar was repeatedly placed under house arrest.
+ In a 2013 DW interview, Tohti referred to himself as a "man in a cage." Just a few months later, on January 15, he was arrested at his home in Beijing and later sent to Xinjiang’s capital Urumqi - some 1550 miles away - where Chinese prosecutors indicted the 44-year-old with "separatism and inciting hatred."
+ Following Tohti's arrest, Chinese writer Li Jingrui wrote on her microblog: "While many wicked and messy problems are out there in Xinjiang, they chose to jail Ilham, the one who is most moderate and most keen on reconciliation and dialogue."
+ 
+ Although the case against the academic drew international attention, no details of the trial - except for the court's short messages - were published online in China, and most of the country's mainstream commentators remained silent on the issue.
+ Tohti's lawyers said the prosecution cited the 44-year-old's online writings and statements made in the classroom as evidence that he had fomented ethnic hatred in Xinjiang. But the scholar rejected all the allegations, stating that he had neither committed separatist actions nor had any such intentions, said Li.
+ After the trial, the court posted a message on its social media account, saying "the rights of the defendant and his lawyers had been fully protected according to law during the court proceedings."
+ 
+ China's resource-rich western province of Xinjiang is home to about 10 million Uighurs, who are mostly Sunni Muslims. Ethnic tensions have been simmering there for years and escalated into several deadly conflicts in the recent past.
+ On September 21, for instance, three explosions killed at least two people and injured many others in central Xinjiang. Over the past couple of months, dozens have been killed in riots in the restive province. In addition, the attacks have grown in scale and spilled into other parts of China.
+ Beijing has made "terrorists and separatists" responsible for the rising tensions in the region and reacted by tightening its already rigid control over Xinjiang. Chinese authorities have vowed to quell the violence by stepping up security measures and imposing religious restrictions.
+ However, many rights groups and scholars believe that countering violence with violence is counter-productive and that the government should rather promote ethnic integration to restore the peace. They also blame the authorities for fuelling resentment through what they see as Beijing's oppressive cultural and religious policies in Xinjiang.
+ 
+ Ilham Tohti is one of these scholars who has "consistently, courageously, peacefully, and unambiguously advocated for greater understanding and dialogue between various communities, and with the state," said HRW's Richardson. "If this is Beijing's definition of 'separatist' activities, it's hard to see tensions in Xinjiang and between the communities decreasing."
+ In the meantime, the United States, the European Union and several rights groups have called for Tohti's release. "The life sentence handed down to prominent Uighur academic Ilham Tohti on charges of 'separatism' is an affront to justice," said Amnesty International (AI), adding that the 'shameful judgment' has no basis in reality.
+ Tohti worked to peacefully build bridges between ethnic communities and for that he has been punished through politically motivated charges, said William Nee, AI's China Researcher, demanding the scholar's immediate and unconditional release. The European Union also called for the scholar's release after slamming the life sentence as "completely unjustified." The EU argued that the due process of law was not respected, in particular with regard to the right to a proper defense.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>
