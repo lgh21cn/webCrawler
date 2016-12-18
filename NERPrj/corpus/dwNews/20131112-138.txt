@@ -1,0 +1,37 @@
+<ID>20131112-138
+<DATE>20131112<\DATE>
+<URL>
+http://www.dw.com/en/chinas-elite-opts-for-more-market-but-gives-little-detail/a-17220550
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China's elite opts for 'more market' but gives little detail
+<\TITLE>
+<ABSTRACT>
+China's official news agency Xinhua says Communist Party leaders have ended a secluded four-day meeting by elevating market economics to a "decisive" role in their reform thinking. The cryptic message gave few details.
+<\ABSTRACT>
+<CONTENT>
+ China's Communist Party ended a closely watched meeting of its 376-member Central Committee on Tuesday, saying it had approved "comprehensive deepening reforms."
+ Market economics, which had a "basic role" over the past two decades, would be elevated to a "decisive role," Xinhua said.
+ State ownership would remain a pillar of China's economy, but private businesses were "important components," the communiqué said, adding that people's livelihoods and social stability had to be ensured.
+ 
+ "The core is to handle the relationship between government and market, and let the market play the decisive role in allocating resources, and to better play the government role," it said.
+The message gave no indication on whether party leaders had agreed to reformists' calls to curb the status of state companies. They control vast swaths of China's economy, including banking, energy and telecommunications.
+ 
+ The communiqué issued via Xinhua also said China needed to "effectively prevent and end social disputes and improve public security."
+ That comes two weeks after a fiery vehicle crash in front of the iconic Tiananmen Square that killed two tourists and wounded dozens.
+ The government belatedly described the incident as "terrorism" and blamed separatists from Xinjiang, the far-western region that is home to China's mostly-Muslim Uighur minority.
+ A state security committee would be set up to "improve systems and strategies to ensure national security," Xinhua said, but without giving details.
+ 
+ The Central Committee meeting, known as the Third Plenum, was widely seen as setting China's course over the next decade. In 1978, a similar meeting ushered in a switch from a Communist-style command economy to one driven by exports and investment.
+ In 2012 China's growth rate was 7.7 percent - seemingly high but the lowest rate in 13 years.
+ ipj/ng (AP, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

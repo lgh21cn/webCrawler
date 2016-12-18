@@ -1,0 +1,63 @@
+<ID>20080617-170
+<DATE>20080617<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=12527
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/The-Olympic-Torch-arrives-in-Xinjiang,-as-the-death-sentence-awaits-the-Uyghurs-12527.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+The Olympic Torch arrives in Xinjiang, as the death sentence awaits the Uyghurs
+<\TITLE>
+<ABSTRACT>
+Tight security measures are put in place in the Muslim region for fear of terrorist attacks. Beijing claims sound relations between minorities but the Uyghur’s seek autonomy and greater freedom from Chinese colonisation. Dozens of Uyghur’s charged with “terrorism” await trial and the death sentence.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) – The Olympic torch today began its three day tour 
+of Xinjiang region, where Beijing fears terrorist attacks from local Muslim 
+minorities. The torch’s itinerary, which takes in four cities, started out 
+today in Urumqi’s central peoples’ square, amidst police security checks and 
+crowds controlled by metal detectors.  The local government advised people not 
+to participate in the event but to watch it on the TV from the safety of their 
+homes.  Of the 3 thousand people who made their way to the square, the vast 
+majority were Chinese, with very few Uyghur’s, the original local Muslim 
+population.   Before the commencement of ceremonies a minutes silence was 
+observed in memory of the victims of the Sichuan earthquake. Banners and signs 
+proclaimed that the minorities present in the region “get along well”.
+
+The reality is that the situation in Xinjiang closely resembles that of Tibet. 
+ The 9 million Uyghur’s of Turkmen origin who have their own language and are 
+of Islamic religion seek greater autonomy and more influence on the economic, 
+political and social well being of the region, currently dominated by colony’s 
+of Han (ethnic Chinese). For decades Beijing has exercised a violent control 
+policy on the mosques, schools and people, justifying its actions with its fear 
+of terrorism. Months ago the Chinese government accused groups of planning 
+terrorist attacks in the run up to the Olympics. But local and exiled Uyghurs 
+claim the declarations are false and that they aim to justify China’s heavy 
+handedness in the region.
+
+The testimonies of some Uyghurs reveal that police have stopped thousands of 
+Muslims confiscating their passports.
+
+The Hong Kong based human rights and democracy centre reports that there are 
+at least 65 activists from Xinjiang awaiting trial and being held on terrorism 
+charges. The human rights group confirms that these people have been charged 
+with plotting to sabotage the Olympic Games adding that at least 20 of these 
+risk the death penalty.
+
+Tomorrow the torch arrives in Kashgar; later in the week it will pass through 
+the cities of Shihezi and Changji.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

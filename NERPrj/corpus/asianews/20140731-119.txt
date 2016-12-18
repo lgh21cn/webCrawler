@@ -1,0 +1,66 @@
+<ID>20140731-119
+<DATE>20140731<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=31770
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-in-lock-down-following-riots-31770.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang in lock down following riots 
+<\TITLE>
+<ABSTRACT>
+The catalyst that sparked the violence in the province, which killed dozens of people, is still unknown. Military patrol streets and authorities shut down communications with the outside world. Formal charges of "separatism" against Ilham Tohti, a scholar who defends the Uyghur minority. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - China's central government has ordered the 
+authorities of Xinjiang "to secure" the province afterthe violence on July 28 
+
+, which resulted in dozens of deaths and injuries. The streets of Kashgar and 
+Yarkand County, say local sources, are "full of soldiers, policemen and armed 
+checkpoints".
+
+The internet has been cut off and the phones are tapped to prevent contact 
+with the outside. At the same time, the government formally charged Ilham 
+Tohti, a Uyghur academic who campaigns for respect for minority rights in China.
+
+ The Xinjiang region is one of the most turbulent in all of China. Its Uyghur 
+Muslim minority, who number about nine million, have long sought independence 
+from China. The central government, for its part, has brought in hundreds of 
+thousands of settlers to make Han Chinese the dominant ethnic group. At the 
+same time, it has severely curtailed Muslim religious worship as well as the 
+teaching of the local language and culture.
+
+The dynamics of the attack against the government structures that took place 
+on Monday and were termed "terrorist" by the authorities are still unclear: 
+mainstream media reported the violence days later and local officials refuse to 
+answer the questions of the few foreign journalists in the area.
+
+What is certain is that both Chinese Han and Uyghurs died in the clashes. 
+According to some sources quoted by newspapers close to the Communist Party, it 
+all started after the discovery of a "large quantity of explosives" in the 
+house of a separatist Uyghur. Members of the minority deny this and talk of 
+clashes provoked by Chinese repression during the month of Ramadan.
+
+
+ Despite the high tension, the central government has, however, decided to 
+announce formal charges against Ilham Tothi, an ethnic Uyghur economics 
+professor and famous activist for the rights of minorities living in China. The 
+academichas been in jail 
+
+since last January: Beijing accuse him of "separatism" a crime that carries the 
+death penalty, and added that his trial will begin "very soon".
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

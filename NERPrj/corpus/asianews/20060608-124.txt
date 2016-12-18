@@ -1,0 +1,53 @@
+<ID>20060608-124
+<DATE>20060608<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=6388
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/New-bird-flu-outbreak-6388.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+New bird flu outbreak
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  Bird flu has stricken China once again: Beijing 
+today admitted the outbreak of new infection among poultry in the northern 
+Xinjiang province.
+
+The official Xinhua newsagency said China's Ministry of Agriculture confirmed 
+that poultry on a farm in Hetian county had died from the virus. Traces of the 
+H5N1 virus  the carrier of bird flu  were found in their animals. The report 
+does not specify how many birds have been infected.
+
+The Agriculture Ministry said it had already dispatched experts to Hetian to 
+control the outbreak; right now they are inspecting and disinfecting people and 
+vehicles passing through of the stricken area.
+
+China has reported about 40 outbreaks of bird flu in birds across a dozen 
+provinces over the past year; 12 people have died, according to official data.
+
+Since late 2003  the year when bird flu exploded  more than 120 people, 
+mostly in Asia, have died from the disease.
+
+Experts fear contact between infected birds and human beings could lead the 
+virus to mutate, changing the type of routes of transmission of infection. At 
+the moment, there is no proof of direct human transmission: given its airborne 
+spread, should the H5N1 virus mutate into such a form, a bird flu pandemic 
+could fellow.  
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

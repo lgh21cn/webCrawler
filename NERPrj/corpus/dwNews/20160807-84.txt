@@ -1,0 +1,43 @@
+<ID>20160807-84
+<DATE>20160807<\DATE>
+<URL>
+http://www.dw.com/en/millions-gather-in-istanbul-for-raucous-democracy-rally/a-19455006
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Millions gather in Istanbul for raucous democracy rally
+<\TITLE>
+<ABSTRACT>
+More than 2 million people have gathered in Turkey for a "democracy and martyrs" rally to condemn the failed coup attempt on July 15. DW's Tom Stevenson reports from Istanbul.
+<\ABSTRACT>
+<CONTENT>
+ Sunday's rally in Istanbul's Yenikapi park was but the latest in a string of public events promoted by the Turkish government following a failed coup attempt on July 15.
+ By its sheer size, it was a demonstration unlike any other in Turkey's recent history. People traveled by bus or train from across the city and beyond, creating a sea of people, banners and posters. Some estimates put the number of rallygoers at 3 million or more.
+ When the ample area of Yenikapi park was full, and closed by the police for fear of overcrowding, undeterred throngs massed at the gates and around the park.
+ The people gathered were not only there to support the government in the wake of the military coup. They also protested the widely reviled Turkish preacher Fetullah Gulen, who has lived in self-imposed exile in Pennsylvania since 1999 and has been locked in a feud with President Recep Tayyip Erdogan and the ruling Justice and Development Party (AKP) for the past three years. The president has blamed Gulen's followers for launching the coup.
+ "I express my gratitude to our people who laid down their lives to stop helicopters and guns," Erdogan told the rally on Sunday. "They have written their names in gold into our history." The president also pledged to push for the reintroduction of the death penalty in response to what he said were popular calls for its return.
+ Those in attendance ranged from the staunchly religious to the staunchly secular, from supporters of the government to supporters of the opposition.
+ "The Turkish people have rejected this sect, and we are here to show that we are Muslims and we will not accept military rule in Turkey," said Mehmet Cagi, a 23-year-old from a local Salafi religious group.
+ In addition to the thousands of Turkish flags were the standards of Saudi Arabia, Pakistan, Egypt, Azerbaijan and Libya, along with Uighur and Syrian opposition flags. Even a flag from Somaliland, a substate territory seeking independence from Somalia, was visible.
+ "It's great to be here," said Muhumed Mohamed, the bearer of the flag of Somaliland, and one of four students from the territory attending the rally while studying in Turkey. "We are here to support democracy."
+ "You know, some values in this world are universal, and democracy has to be the first one," Mohamed said.
+ The mood turned celebratory after a minute's silence had been observed for the more than 250 civilians and loyalist forces killed in last month's coup attempt.
+ Breaking with tradition, the opposition leaders Kemal Kilicdaroglu, of the Republican People's Party, and Devlet Bahceli, of the Nationalist Movement Party, attended the rally and even spoke alongside Erdogan and Binali Yildirim, the leader of the ruling AKP.
+ Army chief of staff General Hulusi Akar, who was kidnapped during the coup, also addressed the rally in an unplanned speech.
+ The crowd appeared to be constituted by a solid pro-government, religious majority, and the loudest chants entering the rally were religious calls and response and the declaration of faith, the Shahada, in Arabic with a clear Turkish accent. But Turks from all walks of life attended.
+ Conspicuously absent were representatives of the pro-Kurd Peoples' Democratic Party (HDP), which, despite opposing the coup attempt, has been excluded from recent anti-coup rallies and was refused an invitation by the ruling AKP. The government has been locked in military campaigns in the Kurdish southeast of Turkey for the past year.
+ "The exclusion of HDP is a very bad, very regrettable decision, and it is a waste," said Hisyar Ozsoy, the party's vice chairman. "The government could have used this opportunity to restart the peace process with the Kurdish movement."
+ "It's clear that they are trying to build a nationalist alliance, and in doing so they are following the logic of the coup plotters," Ozsoy said. "This attitude is the root of nearly every problem in Turkey."
+ Sentiments expressed were not purely position. One man carried an effigy of a lynched man with the words "death to FETÖ," a Turkish acronym meaning "Fetullah Gulen Terrorist Organisation."
+ Some in attendance freely expressed their frustrations with the perceived lackluster support for Turkey's government following the coup from the international community and Europe in particular.
+ "Outside, in Europe, everyone thinks of terrorists when they think of Turkey, but this is the real Turkey," said 36-year-old Safar Engin.
+ "We've been trying to get into Europe for 30 years and been denied, but then there is a coup and where is Europe?" Engin said. "Nowhere. No, we are the ones standing for democracy."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

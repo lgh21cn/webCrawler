@@ -1,0 +1,65 @@
+<ID>20110915-130
+<DATE>20110915<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=22639
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Four-Uyghurs-sentenced-to-death-in-Xinjiang-22639.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Four Uyghurs sentenced to death in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Two others get 19 year in prison. All of them are accused of terrorism, murder and arson. However, Uyghurs say that the police crackdown transformed their peaceful demonstrations into a confrontation. The four sentenced to death were tortured and their lawyers allowed to see them only an hour before their trial.
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews/Agencies) – Chinese authorities have sentenced to death four 
+ethnic Uygur accused of terrorism, but activists believe the condemned did not 
+receive a fair trial.
+
+ The four were found guilty on Wednesday for allegedly setting up and running 
+terrorist organisations, illegally making explosives, murder and arson. Two 
+others were jailed for 19 years.
+
+ Sentences stem from three terrorist attacks following a harsh crackdown in 
+July by Chinese authorities (see “Xinjiang, Chinese police kill dozens of 
+Uyghurs,” inAsiaNews 
+
+, 19 July 2011, and “More deaths in Xinjiang, Beijing announces tough measures 
+during Ramadan,” InAsiaNews 
+
+, 1 August 2011).
+
+ Beijing blamed such attacks on “terrorists” but according to the Uyghurs, 
+police violence transformed peaceful demonstrations into clashes with security 
+forces.
+
+ A spokesman for the World Uygur Congress, a Germany-based exile group, said 
+that the suspects did not receive a fair trial.
+
+ He accuses Chinese authorities of torturing the prisoners and denying them 
+the right to choose their own lawyers. Government assigned attorney were able 
+to meet their clients just an hour before trial.
+
+ Beijing continues to justify its iron fist in its westernmost region by 
+accusing the Uyghurs of extremism, separatism and terrorism. For Chinese 
+authorities, local radical Muslims are tied to al Qaeda.
+
+ In reality, Uyghurs want political and economic autonomy, accusing Beijing of 
+colonising their region.
+
+ The crackdown by China’s central authorities extends to the practice of 
+religion. For instance, minors are not allowed to go to the mosque, whilst 
+imams and Qur‘anic schools are controlled.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

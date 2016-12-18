@@ -1,0 +1,27 @@
+<ID>20120712-14
+<DATE>20120712<\DATE>
+<URL>
+http://www.dw.com/en/tff-rudolstadt-a-big-festival-without-big-names/a-16091076
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+TFF Rudolstadt: A big festival without big names
+<\TITLE>
+<ABSTRACT>
+What kind of rock music is China making, and what do hip-hop and old English dance styles have in common? The 22nd edition of the TFF Rudolstadt festival had some answers - and much more.
+<\ABSTRACT>
+<CONTENT>
+ Joy    .                         
+      .       , devoting it to their colleague.
+ nd    (TFF Rudolstadt), which                     There are probably two         and                                   , . Gong Linna also took part in an orchestral     
+  Even for   are countless           and play along.          s, percussion   s    street music     
+Ruth  name of the  presented    ,               at his age he prefers to write songs about death or women than about current political affairs.           ,   , -filled  with backing from wind players.  There are very few big names in Rudolstadt, even among the prize-winners, but the festival doesn't live from star power. There are, however, a few exceptions in each year's program, like German reggae superstar Gentleman or American singer-songwriter Alison Krauss in 2012.  The draw of Rudolstadt lies much more in the discovery of the new, and in being part of a spring-up community that is singular in Germany's festival season.  Author: Matthias Klaus / gsw Editor: Kate Bowen
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

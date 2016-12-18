@@ -1,0 +1,66 @@
+<ID>20140226-78
+<DATE>20140226<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=30407
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/China,-Uyghur-professor-charged-with-inciting-separatism-30407.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China, Uyghur professor charged with "inciting separatism"
+<\TITLE>
+<ABSTRACT>
+The Chinese government has formalized the charges against Ilham Tohti, an economics professor and well-known ethnic Uyghur activist for the rights of minorities living in China, who was arrested in January. Place of detention unknown. Human rights groups urge international community to intervene.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing ( AsiaNews / Agencies) - More than a month after his arrest, the 
+Chinese authorities have formalized the charges against Ilham Tohti, an 
+economics professor and well-known ethnic Uyghur activist for the rights of 
+minorities living in China. His wife Guzaili Nu'er confirms that the academic 
+has been accused of "inciting separatism" and points out that at the moment "it 
+is not possible to know" where her husband is being held prisoner. Overseas 
+Uyghur groups have condemned the decision and called on the international 
+community to intervene for Tohti's release.
+
+ Tohti, 45, was arrested on 15 January. The academic is famous for his public 
+speeches in favor of the Uyghur cause. This ethnic group lives in the northern 
+autonomous region of Xinjiang, is of the Turkish language and the Muslim faith, 
+and denounces a strong linguistic, cultural and religious repression by the 
+Chinese central government. Over the years there have been numerous violent 
+clashes between the two sides: Beijing argues the region is home to Islamic 
+extremists and separatists, while local activists pointing the finger at ethnic 
+tensions caused by the Chinese control and "racist" policies in implemented by 
+the central government.
+
+ Dilshat Rexit, spokesman for the World Uyghur Congress led by well-known 
+activist Rebiya Kadeer, said: "China's accusations of separatism are merely an 
+excuse for suppression of those with different political opinions. We call on 
+the international community to monitor China and free this Uyghur scholar". 
+Both the U.S. and the European Union condemned the Chinese government following 
+his arrest.
+
+ Several human rights activists argue that an article written by Tohti to 
+contest the charges against the Uyghur minority after the attack onTiananmen 
+Square in October 2013 
+
+ is behind the arrest: "Even on other occasions we have been referred to as 
+perpetrators of serious acts, only to discover that we had nothing to do with 
+them". The day before his arrest, he posted on his mobile social media account: 
+"The Uygur people have become outsiders in the development of their own 
+homeland and survival," It is here that the people's anger begins to grow. 
+Uygur people need an avenue to express their aspirations and protect their 
+rights".
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,77 @@
+<ID>20091217-16
+<DATE>20091217<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=17144
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Moscow’s-arrogance-leads-to-Turkmen-gas-flowing-towards-China-17144.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Moscow’s arrogance leads to Turkmen gas flowing towards China
+<\TITLE>
+<ABSTRACT>
+The new gas pipeline will bring natural gas to Xinjiang. It represents a slap in the face of Russia’s approach to energy politics in Central Asia. For months, Turkmenistan and Russia were at loggerheads over gas prices. China is the big winner.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Ashgabat (AsiaNews) – The Kremlin is in a tight spot and must rethink its 
+approach to Central Asia energy, this according to some Russia newspapers that 
+commented Monday’s inauguration of the new Turkmenistan-China gas pipeline. The 
+new facility is crucial to the geopolitics of the Caspian Sea and more broadly 
+Asia. It reinforces China’s presence in the region at the expense of Russia, 
+which hitherto had held a stranglehold over gas exported from the former Soviet 
+republics. 
+Once it is in full operation in 2013, the US$ 20 billion pipeline will stretch 
+1,883 kilometres. It will have a capacity to deliver 40 billion cubic metres a 
+year to China’s Xinjiang province, through Uzbekistan and Kazakhstan. A deal 
+between China National Petroleum Corporation (CNPC) and KazStroyService will 
+however allow Kazakhstan to keep 10 billion cubic metres.
+
+Chinese President Hu Jintao, his Turkmen counterpart, Gurbanguly 
+Berdymukhamedov, as well as the Presidenta of Kazakhstan, Nursultan Nazarbaev, 
+and Uzbekistan, Islam Karimov, were present at the inauguration ceremony of the 
+Trans Asian Gas Pipeline (TAGP) in Saman-Depe.
+
+This structure is a very important element in Asia’s energy equation, 
+especially since it is the first to bypass Russia.
+
+For Turkmen President Berdymukhamedov himself, the pipeline is more than about 
+economics, it is a signal to Russia that Turkmenistan wants closer ties to 
+China, one of the guarantors of global security.
+
+Why did Moscow’s relations with its former satellites sour? Its arrogance. In 
+July 2008, Gazprom signed an agreement to buy Turkmen gas at higher, European 
+prices, but in April of this year, the Russian energy giant shut down Turkmen 
+supplies after a gas pipeline exploded in that country.
+
+For the Turkmen, Moscow was behind the incident because it reduced pressure in 
+the pipeline, causing the explosion. This came after Turkmenistan increased gas 
+prices and threatened to ban its resale, which would have made the gas deal 
+worthless from Gazprom’s perspective.
+
+After months of tensions, Moscow relented and allowed the gas to flow again, 
+but the atmosphere between the two countries was no longer the same.
+
+China is taking advantage of Russia’s arrogance, profiting from a softer but 
+more incisive diplomacy. Beijing gave Ashgabat a US$ 4 billion loan this year.
+
+The CNPC is the only foreign company with exploration rights in Turkmenistan’s 
+gas fields.
+
+Russia’s Gazprom has failed to invest in the country, choosing instead to get 
+cheap Turkmen gas in order to resell it at a higher price. Now however, 
+Moscow’s approach is showing its limits, Vitaly Bushuyev, head of the Energy 
+Strategy Institute, said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

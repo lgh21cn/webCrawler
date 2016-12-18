@@ -1,0 +1,33 @@
+<ID>20100430-182
+<DATE>20100430<\DATE>
+<URL>
+http://www.dw.com/en/a-win-win-situation-for-australia/a-5524679
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+'A win-win situation for Australia'
+<\TITLE>
+<ABSTRACT>
+China and Australia are highly interdependent economically, but human rights issues have led to tension on several occasions.
+<\ABSTRACT>
+<CONTENT>
+Australia is a country rich in raw materials - coal, iron ore and natural gas, to name a few. And China, with its rapid growth, has a voracious appetite for these natural resources. In this respect, the countries are a good match. China is Australia's second largest buyer of exports, right after Japan, with 14.6 percent of Australian exports going to China. 
+Many Australians believe it is China's consumption that saved Australia from the global economic crisis and Radio Australia's Linda Mottram is one of them. "There is no question that purely on the numbers, Australia has been lifted up by China. Were it not for China's very quick recovery and its resumption of very vigorous purchases of Australian commodities, then Australia's economy would be in a far worse situation than it is at the moment."
+The economic situation is a positive side for Australia. But it is not the only factor that shapes Sino-Australian relations. Mottram says there are other fundamental issues, such as human rights, on which the two sides have difficulty agreeing. Overall, she believes, Australians hold a "kind of contradictory view of China – it is very difficult to reconcile because on the one hand there is a great strength in the economic relationship, and there is the view that Australia is benefitting from that, but on the other hand, there are those very complex and fundamental issues of core values."
+
+The issue of core values was questioned again in March, when coverage of the Rio Tinto trial dominated Australian media. Stern Hu, an Australian national and executive of the Australian Rio Tinto mining giant, had been charged and was later convicted in a Chinese court on charges of corruption and industrial espionage. 
+Throughout the case, China was criticized largely by the Australian public and also by Australian Prime Minister, Kevin Rudd, for its handling of the case, especially for holding trials in secret and not allowing the presence of the media or Australian officials. "It was seen as a classic example of China's lack of transparency, a weak legal system and perhaps political manipulation," says Mottram.
+A further area of concern for Australia is China's military spending. Professor Carl Thayer from the University of New South Wales says China is sometimes a cause for concern for Australia because of its geographical proximity: "There are always reservations on the defense side and it echoes US concerns about greater transparency in rising Chinese budgets: why is china spending so much on defense? Australia cannot be happy when China acquires military capabilities that can take out American satellites, that can destroy aircraft carriers and prevent the United States e.g. from coming to Taiwan's aid in a crisis."
+
+Thayer says there are a variety of separate issues which aggravate relations between the two countries on a minor level, for example the showing of a Uighur film at an Australian film festival last year and official visits to Australia by the Dalai Lama. But Thayer sees no need to worry. "We call that smoke and mirrors. China goes through stamping on the stage, expressing its anger and then it blows over."
+Thayer believes these other issues do not overshadow the prominent factor in relations between the two countries. "The larger view is that it's a win-win for Australia: we get locked in economic deals with China, China is investing in this country, there is tourism in both directions. Australia sees itself as part of Asia and sees China generally as a positive force there. And would want to encourage China to become a responsible stakeholder, rather than antagonize or take on China."
+Author: Sarah BerningEditor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

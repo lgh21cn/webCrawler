@@ -1,0 +1,33 @@
+<ID>20141113-228
+<DATE>20141113<\DATE>
+<URL>
+http://www.dw.com/en/opinion-china-is-shying-away-from-responsibility/a-18061038
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: China is shying away from responsibility
+<\TITLE>
+<ABSTRACT>
+Since the APEC Summit, all attention has been directed at the world's new superpower, China. But Beijing's dominance seems disproportionate when compared to what the country has to offer, says DW's Rodion Ebbighausen.
+<\ABSTRACT>
+<CONTENT>
+ For China, the recent APEC Summit was a big success. President Xi Jinping, the conference's host, was able to present his country to the world as a rising world power. Commentators and analysts now admire the ascent of the East Asian country. China has indeed joined the ranks of the great nations, but the surprising thing is that nobody seems to be asking an obvious question: What does this new power have to offer the world?
+ For quite some time, China has been exploiting a number of countries under the guise of development cooperation. There has been a constant pattern to it. Firstly, Beijing engages with the elites of a country, irrespective of the legitimacy of their rule - their human rights record is of no concern to the Chinese leadership.
+In the next phase, hundreds of thousands of Chinese migrant workers pour into the recipient nation to help build its infrastructure, but without employing the local population. Then, the country's raw materials are transported to China. In the end, cheap Chinese products flood the country's market, partially ruining the local economy.
+ Let's then turn to the Asian giant's domestic politics: There are strong restrictions on the freedom of press and expression in China. The great firewall is considered the most effective filter in the world, obstructing any diversity of opinion and pluralism.
+ Criticism is only allowed as long as the system is not questioned or high-ranking officials are unaffected. For instance, the Chinese authorities tell the people on the mainland that the democracy movement in Hong Kong democracy is a rebellion triggered by anarchists.
+ For decades, the central government in Beijing has been harassing the ethnic minorities in Tibet and Xinjiang. The authorities have dealt strictly with the social upheaval in the country's far west, partially triggered by the massive influx of Han Chinese to the region.
+ When it comes to the South China Sea, Beijing has shown it doesn't place much value on international law. It bullies its smaller neighbors and expands its sphere of influence by implementing salami tactics. China also refuses to take part in a case filed by the Philippines in the Permanent Court of Arbitration.
+ In the United Nations Security Council, China mostly stands out for a lack of constructive contributions as well as for almost always insisting on the principle on non-intervention. Exceptions such as the 2009 UN resolution against North Korea's nuclear program confirm the rule. In reality, China holds a protective hand over North Korea's terror regime.
+ The pursuit of one's own advantage and the maximization of profits are core values of the government in Beijing. These are not generally reproachable aims, as other countries also strive for power and profits. But the difference is that in countries such as the United States or European Union Member States the pursuit of power and profits is often confronted by other forces.
+ For instance, these countries allow the work of NGOs such as Human Rights Watch or Transparency International. They also have a civil society and an open debate about what is desirable and what is not. These are all elements which ultimately also have an impact on foreign policy.
+ But China doesn't have any of this. The Chinese elites suppress dissent in order to maintain power. They fear transparency and are not accountable to the people, but only to the party. This view of politics is also reflected in the country's foreign policy, which is either indifferent or primarily guided by economic interests. This is why China is a big world power that shies away from its responsibilities. It doesn't offer the world much more than a giant marketplace.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

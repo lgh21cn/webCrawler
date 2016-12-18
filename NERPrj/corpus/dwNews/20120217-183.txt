@@ -1,0 +1,37 @@
+<ID>20120217-183
+<DATE>20120217<\DATE>
+<URL>
+http://www.dw.com/en/interview-xi-jinpings-upcoming-ireland-visit-surprises-many/a-15748982
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Interview: Xi Jinping's upcoming Ireland visit surprises many
+<\TITLE>
+<ABSTRACT>
+Chinese Vice President Xi Jinping is expected to visit Ireland on Saturday after he finishes his high-profile US tour.
+<\ABSTRACT>
+<CONTENT>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

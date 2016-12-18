@@ -1,0 +1,34 @@
+<ID>20161212-211
+<DATE>20161212<\DATE>
+<URL>
+http://www.dw.com/en/opinion-trump-is-miscalculating/a-36739693
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: Trump is miscalculating
+<\TITLE>
+<ABSTRACT>
+President-elect Trump seems to want to fiddle with the long-established "one-China" policy. For him, politics appear to be a matter of business. But he's wrong. China will not engage in any deal, says Rodion Ebbighausen.
+<\ABSTRACT>
+<CONTENT>
+Even before taking office as US President, Donald Trump has managed to attack the foreign policy foundations shared by the US and the People's Republic of China. He did that by throwing into doubt Washington's commitment to the so-called "one-China" policy, according to which there is only one China in the world and the government in Beijing is its true representative. Any country that wants to establish diplomatic relations with the People's Republic must recognize the one-China policy and relinquish official ties with Taiwan. The US has complied with these demands for the past 37 years. 
+Since his surprise victory in the US presidential elections, Trump's statements and gestures have struck a raw nerve in China. In an infraction of diplomatic protocol, he entertained a telephonic conversation with Taiwan's leader Tsai Ing-wen. This was then followed by a tweet, "Did China ask us if it was OK to devalue their currency (making it hard for our companies to compete), heavily tax our products going into their country (the US doesn't tax them) or to build a massive military complex in the middle of the South China Sea? I don't think so!"
+And in an interview on Sunday with Fox News, he said: "but I don't know why we have to be bound by a 'one China' policy unless we make a deal with China having to do with other things, including trade."
+
+The comment shows how Trump sees the world: For him, politics is all about trade, big business and deal-making. But he has to understand that international relations are not solely about doing business and making money.
+By questioning the one-China policy, Trump has targeted one of China's core interests. A pillar on which the ruling Communist Party's legitimacy rests is the defense and preservation of the country's territorial integrity. And Hong Kong, Macau, Tibet, Xinjiang and, in particular, Taiwan are - from Beijing's point of view - inalienable parts of China.
+ Any deviation from this point of view would call into question the political narrative that the Communist Party has propagated and solidified over decades. There is even the danger of a revolt by a hyper-nationalistic population, whose nationalism has been stoked by the party for years, particularly over the Taiwan issue.
+Taiwan is at the core of China's national interests. And no country stands ready to trade away its core national interests, certainly not for some business deal.
+
+Trump's move is a dangerous misjudgment, and it's hard to see anyone gaining anything from it. Because of their extensive economic ties, both the US and the People's Republic of China would suffer massively from a worsening of relations, which could even lead to a trade war between the two sides. And Taiwan faces the threat of becoming a pawn in the geopolitical game between the two Pacific powers.
+There are already many unresolved crises in the world. And it is completely incomprehensible why Trump wants to create another one without any need.
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

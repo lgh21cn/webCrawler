@@ -1,0 +1,59 @@
+<ID>20140825-164
+<DATE>20140825<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=31975
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-8-executions-held:-Tiananmen-attackers-also-killed-31975.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, 8 executions held: Tiananmen attackers also killed
+<\TITLE>
+<ABSTRACT>
+The Chinese government has revealed the identity of 7 terrorists killed for crimes that range from terrorist attacks to having watched online video on religious extremism. Uyghur dissident: "Clearly politically motivated executions to weaken the spirit of the province". 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - The Chinese government has carried out 8 death 
+sentences for "terrorism" in the north-western province of Xinjiang. The 
+prisoners who were executed include the 3 held responsible for theattack in 
+Tiananmen Square last October 
+
+, which killed 5 people. The others were instead found guilty of crimes ranging 
+from "arson" to the manufacture of explosive material for terrorist activities.
+
+At the time of their execution, the state news agency Xinhua disclosed the 
+identity of the three Tiananmen attackers: Huseyin Guxur, Yusup Wherniyas and 
+Yusup Ehmet. Rozi Eziz was instead executed for attacking police officers in 
+2013; Abdusalam Elim for leading an unspecified terrorist organization; Memet 
+Tohtiyusup for murder (the victim's name unknown) and for watching online video 
+on religious extremism; Abdumomin Imin for being "terrorist ringleader". The 
+name of the eighth prisoner that was executed is unknown.
+
+Dilxat Raxit, a spokesman for the World Uighur Congress exile group, called 
+the executions "a typical case of the law serving political ends". According to 
+the dissident, in fact, the sentences are part of a campaign launched by 
+Beijing to weaken the strength of spirit in the province, which has long been 
+seeking "genuine autonomy" from the central government.
+
+The Xinjiang region is one of the most turbulent in all of China. Its Uyghur 
+Muslim minority, who number about nine million, have long sought independence 
+from China. The central government, for its part, has brought in hundreds of 
+thousands of settlers to make Han Chinese the dominant ethnic group. At the 
+same time, it has severely curtailed Muslim religious worship as well as the 
+teaching of the local language and culture.
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

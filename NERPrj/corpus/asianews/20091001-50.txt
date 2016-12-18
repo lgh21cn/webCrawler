@@ -1,0 +1,80 @@
+<ID>20091001-50
+<DATE>20091001<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16471
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Tibetans-and-Indians-rally-against-60-years-of-Chinese-violence-16471.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tibetans and Indians rally against 60 years of Chinese violence
+<\TITLE>
+<ABSTRACT>
+The heavy presence of China’s military in Tibet constitutes a threat to India’s sovereignty and economy. Beijing’s policies vis-à-vis minorities are “wrong and disastrous”.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Dharamsala (AsiaNews) – The celebration by the People’s Republic of China’s of 
+60 years of Communist Party rule celebrates “60 years of violence, lies and 
+oppression against the people of Tibet, East Turkistan and China,” the leaders 
+of the Tibetan Youth Congress (TYC) said. The TYC is an exile group fighting 
+for the rights of the Tibetan people. In New Delhi, thousands of Indians and 
+Tibetan rallied against Beijing’s violent protest. 
+Just like the Beijing Olympics, this new show put forth by the Communist Party 
+is another attempt to improve China’s image in the world and win recognition 
+for China as a world leader in global affairs.
+
+China will showcase its finest and most advanced military weapons in its 
+televised National Day parade. Its constant race to acquire and build its 
+military hardware is not only alarming; it is a warning to the world of China’s 
+so-called “peaceful rise”.
+
+Today Beijing is celebrating China’s might, economic miracle, military prowess 
+and space programmes. But in New Delhi, thousands of Indians and Tibetans have 
+organised a protest against the Chinese Communist regime.
+
+For TYC leaders, the heavy presence of China’s military in Tibet, represents 
+“a direct threat to India on security, economy and environment.” For them, the 
+“continuing and ever-increasing Chinese infiltrations and incursions on Indian 
+soil” are motive for deep concern.
+
+For the youth group, not only has the Chinese government “illegally occupied 
+and colonised Tibet, East Turkistan and Southern (Inner) Mongolia; it has 
+carried out many wrong and disastrous policies that have resulted in the death 
+of over 30 million Chinese people.”
+
+The Communist Party has held onto political power through the “use of brute 
+force”, and lost “the respect of its own people.” The Tiananmen Square massacre 
+of 1989 and the ongoing human rights violation in Tibet, Xinjiang, Manchuria 
+and Inner Mongolia are cases in point, which often come close to resembling a 
+“policy of genocide conducted with impunity”.
+
+According to the TYC, the rapid transfer of millions of Han Chinese to Tibet 
+marginalises the indigenous population, turning Tibetans into a minority in 
+their own country.
+
+More than 500,000 troops and a network of railways, roads, bridges and tunnels 
+support a vast military infrastructure built in Tibet to clamp down, among 
+other things, on any form of dissent.
+
+The “Chinese government lacks legitimacy in Tibet and exercises control over 
+Tibet through military force,” the TYC said. For the group, this belies China’s 
+commitment to a harmonious society, so dear to President Hu Jintao.
+
+“China voted to adopt the Universal Declaration in 1948, and pledged to uphold 
+human rights [. . .]. However, it continues to ignore and violate all the 
+articles of the Universal Declaration of Human Rights and other Covenants it 
+has signed,” the TYC noted. Unless the voice of “Tibetans, Uyghurs, and Chinese 
+[. . .] is respected and not silenced, China’s celebrations will only be in 
+vain.” NC)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

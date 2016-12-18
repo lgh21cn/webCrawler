@@ -1,0 +1,50 @@
+<ID>20150902-12
+<DATE>20150902<\DATE>
+<URL>
+http://www.dw.com/en/bangkok-bombing-probe-turns-to-sympathizers-of-uighur-muslims/a-18689836
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Bangkok bombing probe turns to sympathizers of Uighur Muslims
+<\TITLE>
+<ABSTRACT>
+The arrest of a Turkic-speaking man in connection with the Bangkok bombing has fueled speculation the blast may have been a revenge attack for Thailand's deportation of ethnic Uighurs to China in July. DW examines.
+<\ABSTRACT>
+<CONTENT>
+ Thai authorities claim to have made significant progress towards finding the perpetrators of last month's deadly Bangkok bombing, after stating that the fingerprints of one the suspects arrested in connection with the blast match those found in another suspect's flat where the authorities had discovered stacks of fake passports, TNT, C4 and fertilizer.
+ On Wednesday, September 2, police said the man, who was arrested less than a kilometer from the Cambodian border, speaks Turkish, and was in the same area where the massive explosion occurred. An arrest warrant was also issued for a Turkish man who police believe is in his home country and married to a Thai woman already being sought by the authorities. She had rented a room in a second Bangkok building raided by police, where bomb-making materials were also found.
+ 
+ The latest developments come some two weeks after the Southeast Asian nation suffered the deadliest attack in its recent history, and the first in the capital, when a bomb exploded on August 17 at the Erawan Shrine, a popular tourist site, killing 20 people - more than half of them foreigners - and injuring more than 120.
+ The police investigation has gained momentum since the weekend raids, but no one has yet publicly claimed responsibility for the blast. Thai authorities have stated they believe the suspects belong to "a very large network" comprised of both Thai and foreign elements.
+ But the recent police findings have also led analysts to speculate that the attack might be linked to a group seeking to avenge Thailand's forced repatriation of 109 ethnic Uighurs to China back in July, particularly as Thai media circulated a picture of a Chinese passport they say was found on the latest suspect, stating the man's name as Yusufu Mieraili and his birthplace as Xinjiang.
+ 
+ But in order to understand this potential connection it is important to take a broader look at recent events. Xinjiang is a province in north-western China and home to the country's Uighurs, a Turkic-speaking Muslim minority who many scholars and rights groups say are oppressed by the Chinese authorities.
+ Hundreds, possibly thousands, have fled unrest in the region over the past years where attacks have prompted a crackdown by Beijing. It is very difficult to obtain data on the actual number of Uighur migrants as many transit illegally either without documentation or forged papers.
+ Michael Clarke, an associate professor at the Australian National University and an expert in politics of Asia and the Pacific, told DW that the major cause behind Uighur migration is disaffection with Chinese rule.
+ "This is a complex combination of economic, demographic, and cultural/religious marginalization of the Uighur in Xinjiang due to Beijing's heavy-handed approach in the region, which has tended to equate outward manifestations of Uighur identity as a direct threat to China's hold on Xinjiang."
+ The destination most Uighurs seek is usually Turkey. There are two main reasons for this, says Clarke. First, there is a well-established Uighur exile community in the country - especially in Istanbul - largely as a result of an initial wave of migration after the Chinese communists "peacefully liberated" Xinjiang in 1949. But perhaps more importantly, the Turks have a sympathetic attitude to the plight of the Uighurs whom they view as a fellow Muslim and Turkic people being repressed by a non-Muslim and non-Turkic state.
+ 
+ But where does Thailand come in? Uighurs used to reach Turkey clandestinely via Central Asia. But given the ongoing instability in the area and China's development of close security agreements with many Central and South Asian states - which have resulted in the deportation of Uighur "terrorists" back to Xinjiang - many Uighurs have had no other choice but to make the perilous journey through Southeast Asia.
+ But as Clarke explains, Beijing seems to have also been extending its anti-Uighur policies to Southeast Asia since the mid-2000s. "The first reported episodes of Uighurs being forcibly deported back to China took place in Cambodia in 2008/09 and Vietnam and Laos in 2010/11. One suspects a similar strategy was just recently applied by Thailand in the deportation of 100 or so Uighurs back to China."
+ The forced repatriations in July triggered international outrage and saw protesters smash windows and ransack parts of the Thai consulate in Istanbul. At the time, the Thai government defended their decision by claiming that the alleged Uighurs- these individuals claimed to be Turkish - had their nationality verified as coming from China.
+ 
+ However, many experts, including Maya Wang, China researcher at Human Rights Watch, criticized the deportations at the time as illegal. "Thailand is obligated under international law to respect the principle of non-refoulement and to ensure that no one in its custody is forcibly sent to a place where they would risk persecution torture, or other serious human rights violations," the rights expert told DW, adding that Uighurs forced to return to China had faced arbitrary arrest, detention, and criminal prosecution in the past. The UNHCR also condemned the Thai government's move.
+ But the key question is whether this would this be enough to justify such a brutal attack on a Bangkok shrine. Experts have different views as to the extent of a potential Uighur connection to the attack. For instance, Zachary Abuza, an independent researcher on Southeast Asian security, told DW that it was increasingly likely that radical Turk nationalists and Uighurs could be behind the bombing.
+ "Although Thailand claims that the forced repatriation of the refugees was legal and within international norms, the images that came out of that rendition were absolutely shocking. The 109 were filmed, hooded and bound, with a Chinese policeman on either side."
+ 
+ Anthony Davis, a Bangkok-based veteran security analyst with IHS-Jane's, goes even further, saying he believes the evidence found thus far points to a "direct link" between the July deportations and the Bangkok attack.
+ The expert sees an alliance between Bangkok-based elements of a smuggling network operating in Southeast Asia - which until recently trafficked people from Xinjiang via Thailand into Turkey - and a well-organized and sophisticated terrorist group based outside of Thailand which seems to have carried out the bombing to avenge the forced repatriations in July.   "All the evidence so far indicates that these two component groups involved in the attack are of the same ethnic background, namely Turkic. We don't know whether they are all Uighur, or if some of them are Turkish. But what we do know is that the Uighur element is central to this whole tragedy" Davis told DW.
+ 
+ Analyst Abuza is more cautious, saying that while there appear to be some links to Turkish nationals and a possible inclusion of ethnic Uighurs, very few facts have been made available. And despite the arrest of two foreigners, their nationality remains uncertain. Nevertheless, he says, a Uighur connection would represent a very significant escalation.
+ "There have always been small numbers of Uighurs who have sought to form alliances with transnational terror groups for training and development. But this might be different in that it appears the relationship is not to transnational jihadists or 'Islamic State,' but to radical ethno-nationalists," said Abuza.
+ Paul Chambers, director of research at the Institute of Southeast Asian Affairs in Chiang Mai, agrees that a Uighur connection would represent an entirely new pattern in terrorism, especially as attacks attributed to the Muslim minority usually take place within China.
+ However, Chambers also has doubts. He told DW that Thai authorities may also be using Uighurs as "convenient scapegoats," and that it was still too soon to rule out other potential suspects, such as Malay-Muslim insurgents (though this would be very unlikely) or even members of the Thai police or military seeking to discredit the ruling military junta given that, as security officials, they have the highest capacity for carrying out such a bombing.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

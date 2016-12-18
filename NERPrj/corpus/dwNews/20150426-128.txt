@@ -1,0 +1,41 @@
+<ID>20150426-128
+<DATE>20150426<\DATE>
+<URL>
+http://www.dw.com/en/activists-murder-spotlights-armys-abuses-in-pakistans-balochistan/a-18409895
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Activist's murder spotlights army's abuses in Pakistan's Balochistan
+<\TITLE>
+<ABSTRACT>
+Pakistani military's alleged rights abuses in western Balochistan province have come under scrutiny after the killing of activist Sabeen Mahmud in Karachi. Mahmud held a talk on the issue right before she was shot dead.
+<\ABSTRACT>
+<CONTENT>
+  on Friday has turned the spotlight on Pakistan's conflict-ridden Balochistan province and the Islamic country's powerful army's human rights violations in the region.
+ Balochistan, which borders Afghanistan and Iran, is rich in oil, gas, and minerals, yet it remains Pakistan's poorest province. Rebel groups have waged a separatist insurgency in the province for decades, complaining that the central government in Islamabad and the richer Punjab province unfairly exploit their resources. In 2005, Islamabad reacted to the insurgency by launching a military operation in the province.
+ Mahmud, the 40-year-old civil liberties activist and social worker was director of The Second Floor (T2F), a community space for open dialogue. On Friday, T2F organized a talk called "Unsilencing Balochistan Take 2," featuring two prominent Baloch rights activists - Mama Abdul Qadeer and Farzana Baluch - who have been campaigning for . Rights groups say these people have been .
+ Local rights groups have the details of 8,000 people who they say have been disappeared over the past ten years and have not been seen since. According to the Asian Human Rights Commission (AHRC), 23 bullet-riddled bodies of these missing persons were discovered in different parts of Balochistan in January 2012. From August 2011 to January 2012, 56 Baloch people are known to have been murdered and dumped on roadsides, according to AHRC.
+ Pakistani security agencies claim these people were arrested on terrorism charges. However, the whereabouts of these people are kept secret from the public; they have not been presented to local courts for a proper trial.
+ Observers say that Balochistan, despite major development projects initiated by Islamabad, including the recently-signed $46 billion , remains a no-go area for the media. The local media rarely reports about the rampant rights abuses in the province, whereas Baloch activists are constantly harassed and kidnapped by security agencies, say analysts.
+ Qadeer and Baluch had originally been scheduled to speak at a seminar titled 'Unsilencing Baluchistan' at the Lahore University of Management Sciences some weeks ago. The event was canceled, reportedly after pressure from Inter Services Intelligence (ISI), Pakistani army's spy agency. That's when Mahmud decided to invite the two Baloch nationalists to a seminar at T2F, defying the pressure from the authorities.
+ But it seems that Mahmud's death has broken the silence surrounding Balochistan, as more Pakistanis are talking about the province.
+ Pakistan's Nobel laureate for Peace, Malala Yousafzai, also condemned Sabeen's murder.
+ So did Pakistan's Prime Minister Nawaz Sharif. In a statement released by prime minister's office on Saturday, Sharif said he was ordering a high-level investigation into Mahmud's killing.
+ The Islamic country's ubiquitous army, too, condemned the activist's assassination.
+ 
+ The China-Pakistan economic corridor deal has raised the stakes for the Pakistani government in Balochistan. The CPEC would link Pakistan's southern Gwadar port in Balochistan on the Arabian Sea to China's western Xinjiang region. It also includes plans to create a road, rail and oil pipeline links which would improve connectivity between China and the Middle East.
+ , Brahamdagh Bugti, leader of the Baloch Republican Party living in exile in Switzerland, and grandson of slain nationalist leader Akbar Bugti, says that the multi-billion dollar economic corridor deal between China and Pakistan could spur rights violations in Balochistan.
+ "I think there will be massive human rights abuses in Balochistan because of this deal. To secure their financial interests in the province, Islamabad is likely to intensify its military operation there. They will do so in the name of providing security to the multinational and Chinese companies that are investing in the project. They would not even allow peaceful demonstrations and protests against the CPEC," said Bugti.
+ Development analyst Maqsood Ahmad Jan told DW the CPEC would turn Pakistan into "China's economic colony."
+ With money pouring in from China for the establishment of the economic corridor, those demanding more transparency about the Balochistan province are likely to face .
+ "The deep state already controls media in reference to Balochistan coverage," wrote Pakistani novelist and journalist, Mohammed Hanif, referring to Islamabad's policy to look for strategic and geo-political depth in Afghanistan and Balochistan to thwart India's potential influence. "Now Baloch voices can't (even) be heard in private spaces," he added, alluding to Mahmud's murder.
+ Islamabad-based journalist, Abdul Sattar, however, was optimistic about the situation: "Sabeen Mahmud was a courageous woman who dared to voice against all kinds of extremism. She dared to talk about Balochistan when most people chose to remain silent and save their lives. We should not let her death go in vain. Let's talk about Balochistan more vociferously than ever," he told DW.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,63 @@
+<ID>20050712-148
+<DATE>20050712<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=3688
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Mine-explosion-kills-65-3688.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Mine explosion kills 65
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+ 
+
+Fukang (AsiaNews/SCMP)  A gas blast in a coal mine in Shenlong, 38 km east of 
+the city of Fukang (Xinjiang province) has killed 65 people with an additional 
+18 listed as missing, said officials with the State Administration of Work 
+Safety. Only four people were found alive after the blast, they added.
+
+Local and Work Safety authorities are still investigating possible causes for 
+the disaster, but rescuers at the scene said the blast destroyed the mine's 
+ventilation system and the density of gas at the site was six times higher than 
+normal. It took rescue crews five hours to get the ventilation system working 
+again.
+
+A Fukang Work Safety Bureau official said that "[t]his region has not seen 
+such a serious disaster for years."
+
+The mine is privately run by the Fukang Shenlong Coal Mine Co and has an 
+annual capacity of 600,000 tonnes.
+
+Under national safety standards, it is rated as a Class B coal mine, meaning 
+that it had good safety conditions.
+
+Coal provides for 70 per cent of China's energy needs, but the country's mines 
+are among the most dangerous in the world.
+
+Official statistics released yesterday indicate that coal mine disasters have 
+contributed more to mass deaths on the mainland than fires and traffic 
+accidents.
+
+According to government figures, work-related deaths reached 6,000 last year, 
+but unofficial sources put the number at at least 20,000.
+
+In the first four months of this year, the official death toll for mining 
+accidents stood at 1,113, a 20 per cent increase over last year.
+
+Incidents leading to structural mine damage rose 44 per cent this year over 
+last.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>
