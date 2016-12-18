@@ -1,0 +1,83 @@
+<ID>20090729-97
+<DATE>20090729<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15911
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer-says-10,000-people-disappeared-in-one-night-in-Urumqi,-complains-about-US-silence-15911.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer says 10,000 people disappeared in one night in Urumqi, complains about US silence
+<\TITLE>
+<ABSTRACT>
+Accused by Beijing of masterminding the violence in Xinjiang, Uyghur leader calls for an international inquiry to see who was behind the clashes and deaths in Urumqi. China says US agrees the matter is an internal Chinese matter. Beijing criticises Japan and Australia for hosting Kadeer.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Tokyo (AsiaNews/Agencies) – Exiled Uyghur dissident Rebiya Kadeer accused China 
+today of trying to lay a veil of silence over the disappearance of “about 
+10,000 people” during the unrest in Urumqi, Xinjiang. The head of the World 
+Uyghur Congress has also reproached the United States for its silence over the 
+matter as well. Ms Kadeer arrived yesterday in the Japanese capital to urge the 
+international community to provide support to her people, “massacred” by the 
+Chinese. 
+“About 10,000 people disappeared in Urumqi in one night. Where have they gone? 
+If they are dead, where are they” now, she said during a press conference 
+through an interpreter.
+
+In early July protests by Uyghurs in Urumqi turned into clashes with police 
+and ethnic Han Chinese.  
+
+According to the Chinese government 197 people died as a result of the 
+violence, mostly Han Chinese. Uyghur dissidents claim instead that thousands of 
+people have probably died.
+
+Beijing has accused the World Uyghur Congress of masterminding the unrest and 
+has labelled Ms Kadeer the “black hand” that seeks the independence of Xinjiang 
+with the help of “terrorists”.
+
+The Uyghur leader has dismissed these charges and always rejected appeals from 
+al-Qaeda to resort to violence. Instead she believes Chinese police and 
+government are responsible for the clashes.
+
+“The responsibility lies with the authorities who transformed what had been a 
+peaceful demonstration into violent unrest,” she said.
+
+The dissident leader also called for an international inquiry into the 
+demonstrations and clashes.
+
+Ms Kadeer said she was “perplexed and disappointed” by the “cool response of 
+the United States” towards the Xinjiang problem. “I would like to believe that 
+the United States will not remain impassive,” she said.
+
+She also urged the US administration to open a consulate in Urumqi.
+
+Yesterday after two days of Sino-American economic talks, Wang Guangya, 
+China's vice foreign minister,thanked the United States for taking a "moderate" 
+line on recent ethnic violence in Xinjiang.
+
+“The United States unequivocally said that this incident is entirely a 
+domestic affair of China,” he said.
+
+By contrast, China criticised Japan for granting Ms Kadeer a visa. 
+
+Some news agencies have reported that Beijing has blocked Japanese TV 
+programmes reporting the arrival of the Uyghur leader.
+
+After Japan, Kadeer is expected to travel to Australia for the premiere of a 
+film on her life.
+
+Even on this occasion Chinese authorities have tried everything in the power 
+to have the movie pulled from theMelbourne International Film Festival which 
+will be held next month.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

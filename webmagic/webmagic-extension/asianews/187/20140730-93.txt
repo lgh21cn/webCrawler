@@ -1,0 +1,82 @@
+<ID>20140730-93
+<DATE>20140730<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=31758
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/More-violence-in-Xinjiang:-police-shoot-and-kill-dozens-of-terrorists-31758.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More violence in Xinjiang: police shoot and kill "dozens of terrorists" 
+<\TITLE>
+<ABSTRACT>
+The clash took place in Shache county, but the details are unclear. According to the government, a group of "terrorists" attacked local government offices and police station; another reported to have attacked the inhabitants of Huangdi. Authorities respond immediatly: dozens of dead, wounded and arrested. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Chinese police have responded to an alleged terrorist 
+attack on government buildings, killing and injuring dozens of people - ethnic 
+Uyghur and Han - in the remote western province of Xinjiang. The operation took 
+place yesterday morning, but state media only reported the news in the late 
+evening. According to Xinhua, a group of assailants "armed with knives and 
+axes" attacked the government office and the police station Elixku, County 
+Shache. At the same time another group attack the inhabitants of Huangdi town 
+near Elixku.
+
+Local police said they had "shot and killed dozens of assailants" in what it 
+called a premeditated and organized "terrorist attack". During the violence 6 
+cars were torched and 25 more nearly destroyed. The authorities have not 
+provided data on the number of victims or injured, and have accused the Uyghur 
+minority - Turkic and Muslim - for what happened.
+
+ Dilxat Raxit, spokesman for the World Uyghur Congress based in Germany, says 
+that more than 20 Uyghurs were killed by the police, while 10 others were 
+seriously injured. 13 police officers were killed or wounded, while "about 67 
+people" were arrested after the attack.
+
+ The Xinjiang region is one of the most turbulent in all of China. Its Uyghur 
+Muslim minority, who number about nine million, have long sought independence 
+from China. The central government, for its part, has brought in hundreds of 
+thousands of settlers to make Han Chinese the dominant ethnic group. At the 
+same time, it has severely curtailed Muslim religious worship as well as the 
+teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out. Chinese 
+authorities blame Muslim extremists for the wave of violence. Uyghur exiles 
+claim instead that Beijing is "exaggerating" the threat of Islamic terrorism to 
+justify repression against indigenous Uyghurs.
+
+For Beijing, Uyghurs are responsible for the recent spate of violent attacks, 
+including the 1 March 2014attack at the Kunming railway station 
+
+ by knives-wielding men that left 29 people dead and more than 150 wounded, and 
+the 28 October 2013 incidentwhen a SUV plunged into a crowd in Tiananmen Square 
+
+, then burst into flames, killing three people. Finally, May 1, 2014 an attack 
+onthe train station in Urumqi - the Capital of Xinjiang - shortly 
+
+ after the departure from the President Xi Jinping caused 3 dead and 79 wounded.
+
+ 
+
+ 
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

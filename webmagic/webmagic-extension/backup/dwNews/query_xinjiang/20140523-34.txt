@@ -1,0 +1,31 @@
+<ID>20140523-34
+<DATE>20140523<\DATE>
+<URL>
+http://www.dw.com/en/one-year-crackdown-in-chinas-xinjiang-region-after-bomb-attacks/a-17657024
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+One year crackdown in China's Xinjiang region after bomb attacks
+<\TITLE>
+<ABSTRACT>
+A one year crackdown has been announced for the Xinjiang region in western China following the worst attack on Chinese soil in years left 31 people dead. China called the attack a "serious violent terrorist incident."
+<\ABSTRACT>
+<CONTENT>
+ China staged a military show of strength with a thousand personnel in military and police vehicles in Urumqi, capital of the Xinjiang region on Friday.
+ It followed an  on Thursday when unknown assailants in two vehicles drove into shoppers and traders before throwing explosives at a street market. 31 people were killed and more than 90 were injured. The state-run Global Times reported Friday that five attackers died at the scene of Thursday's attack.
+ A similar display was held in Urumqi last June after clashes left 35 people dead.
+ Security was tight at the Traditional Chinese Medicine Hospital, where many of the more than 90 wounded were being cared for. An armoured vehicle was parked outside, surrounded by six paramilitary police holding rifles with fixed bayonets.
+ President Xi Jinping pledged to "severely punish violent terrorists", and "crack down on them with a heavy fist." Domestic security chief Meng Jianzhu said he would strengthen a crackdown on the "arrogance of terrorists."
+ Washington condemned what it called a "horrific terrorist attack" and UN Secretary General Ban Ki-moon said there was "no justification for the killing of civilians."
+ Urumqi is home to a large Muslim Uihgur minority. The attack on Thursday happened in a largely Han neighbourhood, but some of the traders and a few of the customers were Uighur.
+ Critics of Beijing's policies in Xinjiang say that  have been driven by intrusive security measures, as well as immigration by majority Han Chinese.
+ jm/jh (Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

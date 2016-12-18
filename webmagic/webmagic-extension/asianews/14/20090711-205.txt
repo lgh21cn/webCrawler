@@ -1,0 +1,83 @@
+<ID>20090711-205
+<DATE>20090711<\DATE>
+<URL>
+http://www.asianews.it/news-en/Erdogan:-Xinjiang-is-nearly-genocide.-But-the-Islamic-world-remains-cautious-15757.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Erdogan: Xinjiang is "nearly genocide." But the Islamic world remains cautious
+<\TITLE>
+<ABSTRACT>
+The Turkish premier wants to push the UN Security Council to address the crisis in Xinjiang. But Beijing could block it. The Turkish foreign minister calls for a boycott of Chinese goods. Demonstrations of Uyghurs in Istanbul, Canberra, Holland, Germany. Nothing new from the Organisation of Islamic Conferences or Iran. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Ankara (AsiaNews / Agencies) - The Islamic world feels little solidarity it 
+seems, with fellow believers in Xinjiang. Among governments, however, Turkey 
+has distinguished itself. Yesterday, Premier Recep Tayyip Erdoğan defined what 
+is happening in China as "nearly genocide." The Turkish prime minister made 
+this statement at the end of the G8 in L'Aquila, where the heads of nations did 
+not mention events in Xinjiang at all, though President Hu Jintao cancelled his 
+presence at the summit as a result of the demonstrations and subsequent clashes 
+between Uyghurs and police and between Han and Uyghurs in recent days.
+
+
+"On the one hand - said Erdogan - we talk about universal human rights, but on 
+the other hand, we have to witness something like this." Stating that he has 
+expressed his concerns to the heads of state and ministers of the G8, the 
+Turkish premier added: "I have used the word ‘atrocity’ before…… no other word 
+can describe a situation which is nearly genocide in which hundreds have been 
+killed and more than 1,000 others wounded".
+
+Erdogan also said that Turkey is considering putting the issue of the Uyghurs 
+on the agenda of the Security Council, but it is almost certain that China 
+would block the step, it being a permanent member of the Council and stating 
+that Xinjiang is an internal problem.
+
+In the Islamic  world there are some demonstrations in favour of the Uyghurs. 
+Yesterday in Istanbul about 5 thousand people demonstrated in front of the 
+Fatih mosque after Friday prayers shouting "No to ethnic cleansing” and burning 
+Chinese products. Two days ago, Nihat Ergun, the Turkish trade minister called 
+on his fellow countrymen to boycott Chinese goods. The population of Turkey has 
+historical, linguistic and ethnic bonds with the Uyghurs.
+
+The demonstrations and protests worldwide that have occurred in recent days 
+are all due to the exiled Uyghur community.  In Canberra (Australia) 200 people 
+gathered in front of the parliament shouting "death to Chinese terrorists".   
+In Holland, in The Hague other exiled Uyghurs launched stones against the 
+Chinese embassy; other exiles in Berlin staged a sit-in in front of the embassy.
+
+Many ordinary Muslim people have expressed sorrow for what is happening in 
+Xinjiang, but governments are being lukewarm in their reactions.
+
+The Organization of Islamic Conferences has condemned the use of 
+"disproportionate" force and called on China for an "honest" inquiry into the 
+incidents.
+
+
+
+The Iranian foreign minister, Manuchehr Muttaki said that he will telephone 
+his Chinese counterpart to discuss the situation in Xinjiang with him.
+
+China is the main trading partner of the Arab countries, surpassing the United 
+States. Between 2004 and 2008 trade between China and Arab countries came to 
+about 100 billion dollars.
+
+Beijing has also long secured the friendship of Saudi Arabia and Iran. China 
+has increasingly large economic ties with them, with its ever-growing need for 
+oil. In return, Beijing has become their advocate in the international 
+community, putting a stop to certain points of the UN embargo against Tehran 
+and willingly closing a eye on the world’s criticism of Saudi Arabia’s human 
+rights record.
+
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

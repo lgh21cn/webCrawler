@@ -1,0 +1,62 @@
+<ID>20070310-127
+<DATE>20070310<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=8702
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/“Open”-trials-for-17-“Uygur-terrorists-promised-8702.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+“Open” trials for 17 “Uygur terrorists" promised
+<\TITLE>
+<ABSTRACT>
+Arrested in January for suspected links to Al-Qaeda, the proof of charges against them has yet to be revealed. Authorities insist on the terrorist threat, but refuse to provide any explanation pertaining to activities against the Uyghur.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – It will possibly be a public trial against the 
+17 Uyghur, presumed to be terrorists, who were arrested in January during a 
+police raid on the Pamir highlands of Xinjiang, near the Pakistan border.  The 
+authorities insist they represent a terrorist threat but refuse to supply 
+explanations regarding their actions against the local population.  
+
+Shi Dagang, party secretary of the Kashgar district in Xinjiang, was unclear 
+when the trials would be held and who would be allowed to attend, but Mr Shi 
+described them as "open". Speaking to the press, Shi said the suspects were 
+arrested in a training camp of the eastern Turkestan Islamic Movement (Etim), 
+that they were being trained by the Taliban and in contact with al-Qaeda in 
+view of a terrorist attack in China.   Despite this not a single foreigner was 
+found by police during their raid, which resulted in the death of 18 presumed 
+terrorists and one officer.  According to Shi, more than 1,500 partly assembled 
+grenades and a large amount of explosives and weapons were seized from the 
+camp. Beijing has long accused Etim of links to Islamic terrorism.
+
+This notwithstanding Ismail Tiliwaldi, chairman of the Xinjiang Uygur 
+Autonomous Region, said there was increasingly less room for East Turkestan 
+militants to operate in Xinjiang.  Speaking to journalists from the South China 
+Morning Post, he failed to clarify the position of Ablikim Abdiriyim, son of 
+well known activist Rebiya Kadeer, who is in forced exile following years of 
+incarceration for his defence of Uygur rights.  Amnesty International has 
+denounced that he is suffering serious ill health and that he is being denied 
+medical care, following his sentencing on charges of “subversion” in a closet 
+door trial.    
+
+Various sources, including the United Nations accuse Beijing of using 
+terrorism as a pretext for persecuting the Uygur ethnic population.  The 
+regional Office for Religious affairs limits the population’s religious 
+practice and bans women and children from Mosque attendance.  Islamic schools 
+are also banned.  According to a local daily paper, in 2005 China arrested over 
+18,227 Uyghur on charges of representing “a threat to national security”.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

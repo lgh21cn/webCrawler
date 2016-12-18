@@ -1,0 +1,33 @@
+<ID>20141024-147
+<DATE>20141024<\DATE>
+<URL>
+http://www.dw.com/en/sierens-china-party-convention-chinese-style/a-18020318
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Sieren's China: Party convention, Chinese style
+<\TITLE>
+<ABSTRACT>
+For the first time China's Communist party has discussed the rule of law at its annual assembly. There are improvements, but they are unlikely to change the mood among the Chinese people, says DW's Frank Sieren.
+<\ABSTRACT>
+<CONTENT>
+ It has by now acquired a reputation as one of the world's most important political meetings: the assembly of the Central Committee of the Chinese Communist Party, which usually convenes every fall to discuss new policies. The main issue of the fourth convention of the 18th Central Committee, which drew to a close on October 23, was the modernization of the judicial system. For the first time in the history of the party, the agenda was set by the assembly, which is a step forward in itself. Head of state and party leader Xi Jinping had already set the tone prior to the meeting, not leaving any doubt that he was determined to make headway on the issue. He said he intended to lock "power in a cage" and establish the rule of law. His demand for "constitutional governance" caused a similar sensation.
+ Even so, it would have been wrong to expect too much from the assembly. After all, it had to deal with a contradiction at the core of China's political system: On the one hand, there are the power claims of the party as the decisive political force. On the other, there is a judicial system in which laws are supposed to be adhered to, independent of party interests.
+ Slowly, too slowly - and not just for Western tastes - the great party is moving the vast country towards a more independent judicial system. Unlike a bicycle, an oil tanker is simply unable to take a quick turn. Lack of will may be playing its part here, but first and foremost it is all down to the laws of physics. The consequences of the decisions made will only be visible after some time has elapsed.
+ 
+ However, in future the party intends to punish those who exert influence on court decisions. In addition, such people will find themselves on a kind of blacklist. Certainly this applies only to the kind of influence which cannot be overseen by party leaders; for instance, if a local cadre wants to cover up local problems. If the party decides to clamp down, for example, on the Uighurs, the cadre responsible for implementing this decision will certainly not find himself on one of the blacklists. So this decision is, simultaneously, about obedience to the party and independence of the judicial system.
+ It is easier for the Chinese citizen than for foreign observers to see this as a step forward. But the question remains: Are those decisions in line with the expectations of the modern man and woman in China's capital? People do support the anti-corruption campaign, but they are also left bewildered, realizing that trials of corrupt cadres are impenetrable. It is not even clear why one is arrested while another remains at large. Xi believes the Chinese judicial system is still in its infancy, admitting to its considerable flaws, and he demanded, shortly after taking office, that no one put themselves above the law.
+ 
+ It took four assemblies to get this far. The first assembly, which took place in 2012, was devoted to the election of its members. This was followed by a special assembly in spring 2013, focussed on changing governments, and the usual autumn assembly which kickstarted the new policy as a whole. Now, a year later, the party is able to set priorities and achieve progress in specific areas.
+ Thus, in the medium term, an independent anti-corruption office is going to be set up, which - being independent of local governments - has to answer directly to the disciplinary commission. Furthermore, more lawyers are going to be trained and their education improved. In addition, there are plans to further separate local courts from their respective governments and put them under direct control of the Supreme Court in Beijing.
+ Ideally, this could lead to bribed cadres being exposed by the disciplinary committee. They would then be turned over to the nascent Chinese state under rule of law, which in turn is left with the task of enforcing fair and transparent lawsuits. But this is not going to happen in the near future. The fourth assembly has, nevertheless, achieved remarkable progress. But this progress is not far-reaching enough to alleviate the feeling of anxiety, even fear, among the population. It is the kind of fear that spreads in the face of non-transparency. Even those cadres who have done nothing wrong have started to feel uncomfortable.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

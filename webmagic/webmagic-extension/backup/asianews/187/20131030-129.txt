@@ -1,0 +1,59 @@
+<ID>20131030-129
+<DATE>20131030<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=29416
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/First-terrorist-suspects-arrested-over-Tiananmen-Square-attack-29416.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+First 'terrorist' suspects arrested over Tiananmen Square attack
+<\TITLE>
+<ABSTRACT>
+For the first time the explosion of an SUVs in the heart of Beijing is described as a "terrorist attack" on state television. The police announce first arrests, but continues to look for vehicles with Xinjiang license plates. Uyghur leader calls for "calm and transparency " in investigations.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing ( AsiaNews) - Chinese authorities have arrested "some suspects" 
+believed to have been involved in the crash and subsequent explosion of an SUV 
+in Tiananmen Square , the heart of Beijing. The explosion, defined by police 
+for the first time as "a terrorist attack", killed 5 people, including a 
+Chinese man from Guangdong and a Philippine doctor touring the capital, 
+wounding at least 38. The arrests, announced on CCTV (China Central 
+Television), occurred 10 hours after the incident.
+
+ According to a police statement, seven of wanted persons come from the 
+autonomous region of Xinjiang , home to the Uyghur minority, Turkish-speaking 
+Muslims , who denounce a strict linguistic , cultural and religious repression 
+by the Chinese central government .
+
+ The eighth is reportedly Han (ethnic majority in China ) and comes from the 
+Sichuan province in the southwest of the country, but is resident in Xinjiang. 
+The age of the suspects range from 21 to 70 years. Investigators are also 
+looking for five vehicles with license plate from Xinjiang , including a 
+motorcycle : the police have ordered mechanics and auto-repair shops to report 
+"every car with these details".  Check points have also been set up at 
+airports, with passengers travelling to Urumqi - the provincial capital - being 
+questioned for hours by the security forces .
+
+ The World Uyghur Congress , an organization that brings together the ethnic 
+diaspora led by Rebiya Kadeer , call for "calm and transparency" during the 
+investigation . Kadeer, who was deputy to the Chinese people's National 
+Assembly for years and is now in exile, added : "I fear now more than ever for 
+the fate of my people . Beijing will not hesitate to use this tragedy to crush 
+Xinjiang even more" .
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

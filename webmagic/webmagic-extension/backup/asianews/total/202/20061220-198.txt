@@ -1,0 +1,66 @@
+<ID>20061220-198
+<DATE>20061220<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=8045
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/China-Pakistan-armies-“ready-to-defeat-terrorism-together”-8045.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China-Pakistan armies “ready to defeat terrorism together”
+<\TITLE>
+<ABSTRACT>
+After 10 days of joint military exercises, leaders of the armed forces of China and Pakistan have said they are ready for joint action to eradicate terrorism, extremism and separatism in their territories. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Islamabad (AsiaNews) – China “is ready to conduct an anti-terrorism drive in 
+Asia withPakistan for lasting peace and mutual prosperity”, said the Chinese 
+General Lu Dengming, Chief of Staff of the Chendu military region. He was 
+speaking at the concluding session of 10 days of joint military exercises 
+betweenPakistan and China.
+
+The general said: “For many years Pakistan and China have remained focused on 
+economic development and regional stability; at the same time we are 
+confronting three evil forces – terrorism, extremism and separatism.”
+
+In such a scenario, “the whole world must benefit each other and enhance 
+cooperation to combat these evils.Beijing is against all forms of terrorism and 
+insists on international cooperation and the conducting of anti-terrorism 
+campaigns.”
+
+Li said the Pakistani army is “highly professional: it has advanced 
+technological arms and dedicated troops. We were impressed by the high quality 
+of the exercises.”
+
+The statements made by the Pakistani Corps Commander, General Tariq Majid, 
+were in the same vein. He told a press conference: “Our country andChina have 
+many shared enemies: standing united, we can eliminate the menace of terrorism, 
+which is affecting the entire fabric of human society.” The issue of terrorism 
+is keenly felt byBeijing that is trying in all ways possible to prevent what it 
+calls “popular uprisings” in the northern region of Xinjiang, the homeland of 
+the ethnic Uighurs of Muslim faith.
+
+The region borders Afghanistan, Pakistan, Russia, Mongolia and three ex-Soviet 
+Republics of centralAsia.  Many human rights activists insist “terrorism” is 
+used as an excuse by the Communist government to persecute the Uighur minority.
+
+The decision to hold the exercises was taken during the visit in Pakistan of 
+the Chinese president Hu Jintao and they follow another set held inChina in 
+2004. The recent drills were unique because they marked the first time Chinese 
+troops left their country to do exercises abroad.
+
+Beijing is the main supplier of conventional arms to Pakistan but many 
+analysts claim the Chinese government also backsIslamabad’s nuclear and missile 
+programmes.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

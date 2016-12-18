@@ -1,0 +1,33 @@
+<ID>20090916-192
+<DATE>20090916<\DATE>
+<URL>
+http://www.dw.com/en/cologne-cinema-shows-visions-of-china/a-5214128
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Cologne Cinema Shows "Visions of China"
+<\TITLE>
+<ABSTRACT>
+After Bollywood and Hollywood, China is the third biggest movie producer in the world. Despite problems with copyright infringement, it is also fast emerging as one of the biggest markets for the industry. World famous directors such as Zhang Yimou have contributed greatly to the revival of Chinese film with successes at major international festivals. At this year's Chinese Film Festival in Cologne, it was the turn of other talented Chinese filmmakers to try to make a name for themselves.
+<\ABSTRACT>
+<CONTENT>
+The Chinese movie industry is growing steadily. More than 500 films are produced each year – mainly in Shanghai and Beijing.
+Cologne’s Filmhaus chose the title “Visions of China” for its third Chinese film festival. The annual festival offers young Chinese directors to show their work to a wide audience. 
+17 full-length films as well as several short films are being shown this year. The organisers have focused on works that deal with ethnic minorities with, for example, films about Inner Mongolia and the Muslim area of Xinjiang. 
+“We did not get a general overview of Chinese cinema but only saw a small selection of the films that are produced there,” said Dirk Werner, one of the festival’s curators. “Then, we made a further selection and we decided to show films from different parts of China. We also decided to show films from remote provinces.”
+
+Chinese cinema has developed rapidly in the past few years and more and more films have found their way to international film festivals, where they are proving to be very popular and receiving good reviews. They also have a huge amount of fans. 
+Zheng Yi, a 28-year-old director in Cologne to show his films, does not think the new developments are only positive: “I think that in recent years Chinese movies have become more and more commercial. There is no filmmaking without money. It is not like drawing, where all you need is a pencil and some paper. The movie business has changed as China has developed economically. Many see movies as an investment.”
+Zheng Yi did acknowledge, however, that the developments also mean that more directors can make films as there are more and more film studios and production companies.
+
+There are no commercial films to be seen at Cologne’s festival. Instead, it offers viewers the chance to see films that have been censored by the Chinese authorities and banned in China. 
+“We are not toeing the party line and only showing what China has approved,” insists Werner. “We didn’t do it last time either. We want other voices also to have a chance to be heard.”
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

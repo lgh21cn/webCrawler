@@ -1,0 +1,99 @@
+<ID>20060908-175
+<DATE>20060908<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=7159
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijings-suffocating-control-over-Xinjiangs-Muslim-Uighurs-7159.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing's suffocating control over Xinjiang's Muslim Uighurs
+<\TITLE>
+<ABSTRACT>
+Young people and teachers are denied the right to worship. A mosque is torn down to leave space for a shopping mall. For experts the region's energy resources are behind China's policies.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/F18)  In China's north-western Xinjiang Uighur Autonomous 
+Region, control over the Uighurs continues to be much stricter than over other 
+Muslim ethnic groups and comes close to being persecution. For Beijing 
+separatism is the reason, but that has not stopped it from exploiting the 
+region's wealth for the benefit of its richer eastern provinces and keeping the 
+Uighur population backward.
+
+According to Forum 18, tight control is exerted on imams and the youth. The 
+morning of every Friday, the Muslim day of rest, local imams are obliged to go 
+to the local state Religious Affairs Bureau to discuss the text of their Friday 
+sermon with officials and receive "general instructions".
+
+Every religious group must be registered with their Nation-Religious Committee 
+and the appointment of leaders must be approved by the authorities. Religious 
+leaders have to attend meetings of the national-religious committees, where 
+officials tell them what policy they must pursue with believers. Believers may 
+not hold a senior position in a state organisation, or be a school teacher. And 
+young people under 18 are not allowed to attend places of worship.
+
+Shi Si Shin, deputy head of the national religious committee in Urumqi, told 
+Forum 18 that minors are not allowed to attend places of worship because they 
+"need to finish their education and develop their personalities before they can 
+make an informed decision as to whether they are believers or atheists".
+
+The ban is especially strict in the most religious districts like Hotan and 
+Kashgar, where the police prevents young people and public servants from going 
+to the mosque or attend madrassahs (Islamic religious schools). During the 
+Islamic fasting month of Ramadan, the authorities even force Muslim 
+schoolchildren to have lunch.
+
+Similarly, Muslim places of worship or buildings used by Muslims have been 
+expropriated or demolished. Three years ago near Kashgar's main Id-ha mosque, 
+the authorities tore down many small mud-built restaurants and tea houses where 
+Muslims met to talk after prayers.
+
+In Urumqi the old mosque was torn down and rebuilt as part of shopping mall, 
+located somewhere between a Kentucky Fried Chicken restaurant and a Carrefour 
+supermarket. Worshipers complain that they cannot hear their own prayers 
+because of the music and singing from the bazaar.
+
+The authorities have also banned Sufism and Wahhabism and writers inspired by 
+these Islamic movements, concerned of their possible political connections.
+
+But according to Forum 18, other Chinese Muslim ethnic groups are not as 
+tightly controlled. For instance, the authorities' power over mosques used by 
+ethnic Dungans, who hail from central Asian states, is less strict. The 
+situation is such that many Uighur parents often take their children to other 
+parts of China, where they can study freely at a madrassah.
+
+For some experts, the anti-Uighur persecution is essentially economic in 
+nature. Chinese authorities want to wipe out the identity of the Uighur 
+population in order to better take control of the region's oil ad natural gas. 
+To achieve this goal, Beijing has for years encouraged the immigration of 
+ethnic Han Chinese.  
+
+Hans are now a slim majority among Xinjiang's 19.3 million people, but 
+dominate in trade and the administration. Uighurs, 42 per cent of the 
+population, are largely farmers.
+
+Since January 2000, the central government has been pursing a 'Develop the 
+West programme' to overcome the region's relative backwardness compared to 
+eastern regions. Building rail and roads, hydroelectric dams, and oil pipelines 
+is part of the programme.
+
+"Among the key projects of the Develop the West programme, the majority only 
+benefits the east," said Zhao Baotong, who heads the Economics Institute at the 
+Shaanxi Academy of Social Sciences in the western city of Xian. "These projects 
+are transporting electricity, natural gas and other resources from the west to 
+the east to fuel development there. Almost none of these projects are aiming at 
+developing local manufacturing industry in the west." (PB) 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

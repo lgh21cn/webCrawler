@@ -1,0 +1,53 @@
+<ID>20150620-100
+<DATE>20150620<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=34568
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Al-Azhar-calls-on-Beijing-to-lift-restrictions-on-Muslims-during-Ramadan-34568.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Al-Azhar calls on Beijing to lift restrictions on Muslims during Ramadan
+<\TITLE>
+<ABSTRACT>
+The leading Sunni institution slams the ban on fasting and religious activities imposed on Muslim Uighurs in Xinjiang. It appeals to the international community, the UN and human rights groups to end violations by the Chinese government in the province.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Cairo (AsiaNews/Agencies) – Al-Azhar, the leading Muslim seat of learning, 
+condemned China for imposing restrictions on fasting inXinjiang 
+
+ during the holy month of Ramadan.
+
+Based in Egypt, the Sunni institution has called on Beijing to allow the 
+Muslim community in the province to observe the fast and participate in 
+religious activities during the holy month.
+
+Out of Xinjiang’s 22 million people, almost nine million are indigenous Muslim 
+Uighurs. Deemed a hotbed of terrorism, the region has seen rising tensions due 
+to Beijing’s restrictive ethnic and religious policies.
+
+Over the years, clashes and violent incidents have broken out between native 
+Uighurs and ethnic Han Chinese settlers brought in by the Chinese government to 
+swamp the indigenous population.
+
+“Al-Azhar and its grand imam, Ahmed Al-Tayeb (pictured), condemn the Chinese 
+authorities’ ban on Muslims from fasting and practicing their religious rituals 
+during Ramadan in some parts of the western Xinjiang region,” said a statement 
+from the Cairo-based Al-Azhar.
+
+“Al-Azhar rejects all forms of oppression practiced against Uighur Muslims in 
+China that affect their religious rights and personal freedoms,” said the 
+prestigious institution, which called on the international community, the 
+United Nations and human rights groups to end these violations.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

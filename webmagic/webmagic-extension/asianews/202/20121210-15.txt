@@ -1,0 +1,69 @@
+<ID>20121210-15
+<DATE>20121210<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=26583
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Police-chief-sacked-in-Xinjiang-as-more-sex-scandals-break-out-in-China-26583.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Police chief sacked in Xinjiang as more sex scandals break out in China
+<\TITLE>
+<ABSTRACT>
+He used his power to hire his mistresses, two twin sisters, as police officers despite their lack of experience. Meanwhile, the "fight against corruption" continues inside the party, which extols a moral conscience and integrity it does not have.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Despite the great firewall of China, internet users 
+appear more apt at uncovering corrupt Communist officials than the party 
+itself. Following the cases ofabuses of power in Chongqing and Henan 
+
+, the police chief in Usu, the western autonomous region of Xinjiang, was 
+sacked days after he was accused online of keeping twin sisters (pictured) as 
+mistresses.
+
+Qi Fang was removed as head of the Public Security Bureau in Usu on Saturday. 
+This came after the nation's new leadership vowed last month to implement 
+tougher anti-graft measures,Xinhua reported. However, it took someone posting 
+details of the case on news portal Iyaxin.com to launch the investigation.
+
+The post said the twins, 31, were hired by the bureau five months after Qi was 
+promoted to police chief in June last year. One of the women was made 
+vice-captain of special operations, whilst the other was made an assistant 
+police officer in the traffic department. Nothing indicated that either had any 
+previous work experience with the police.
+
+The post also alleged that Qi was renting a luxury apartment in the city's 
+high-end area, paid for by the bureau.
+
+Qi is the latest high-ranking official accused online of corruption in the 
+past month to be promptly investigated. Lanzhou Mayor Yuan Zhanting was accused 
+of buying at least five luxury watches with public funds.
+
+In Taiyuan, Shanxi, the police chief was suspended and placed under 
+investigation a day after a video circulated showing his drunken son, who is 
+also a policeman, attacking a colleague after being caught drink-driving.
+
+Li Chuncheng, a former deputy party secretary of Sichuan, fell from grace 
+because of corruption allegations.
+
+For some analysts, the crackdown has two purposes.
+
+On the one hand, the new leadership can project an image of moral integrity 
+that it does not have since they have some skeletons in their own closets (Xi's 
+family has accumulated wealth estimated to be around a billion dollars).
+
+On the other, as the Hu Jintao's administration winds down, people are likely 
+to be targeted to enable the new rulers to flex their muscles against the 
+party's fractious factions and gain the most from the new balance of power.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

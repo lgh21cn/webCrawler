@@ -1,0 +1,62 @@
+<ID>20151125-119
+<DATE>20151125<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=35972
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-government-claims-some-Party-members-support-Uyghur-terrorists-35972.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang government claims some Party members support Uyghur terrorists 
+<\TITLE>
+<ABSTRACT>
+Charge laid by Xu Hairong, regional anti-corruption chief, certain that some high ranking members "promote violent terrorist attacks" in the region with special status, to maintain economic benefits. "Some Party officials do not believe in Marxism but in ghosts." Over the last two months clashes have increased between Beijing and the Muslim minority. Police killed more than 40 "terrorists" in one week.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Some members of the Communist Party would 
+support the terrorist bombings that have taken place in recent months in 
+Xinjiang, the Special Administrative Region in northwest China. This is the 
+charge laid by Xu Hairong, head of anti-corruption department of the region, 
+who claims that some political leaders in Xinjiang are benefitting from the 
+clashes between Uyghur separatists and the government in Beijing.
+
+Speaking to the state-run China Dicipline Inspection News, Xu said: " Some 
+communist cadres . . . even support or take part in violent terrorist attacks", 
+and added that they " wavering on the big issues of opposing anti-separatism 
+and maintaining ethnic unity". Xu did not give further details on the matter.
+
+ The Uyghurs, a Turkic speaking Muslim ethnic group and the majority in 
+Xinjiang, are seeking cultural and religious autonomy from Beijing. The Chinese 
+central government, however, has made clear on several occasions that it aims 
+to defeat "at any cost" the "three evils" afflicting the Xinjiang: terrorism, 
+separatism and religious extremism.
+
+Ethnic tensions in the region often result in violence. On 18 September, some 
+Uyghurrebels attacked a coal mine 
+
+leaving 50 victims. On November 18, Beijing announced that it had identified 
+and eliminated the leaders of the attack and their families, a total of 17 
+people 
+
+. Just a few days ago that the Chinese police killed another 28 members of a 
+Uyghur "terrorist group".
+
+ The Communist Party, of atheist ideology, prohibits members from belonging to 
+a religion. This also applies to the Uyghurs, who are banned from any public 
+demonstration of their faith. Communist Party schools and offices suppress the 
+celebration of Ramadan. According to Xu Hairong, some officials persist in 
+their beliefs despite the ban: "Some are undecided in their ideals, confused in 
+their beliefs. They do not believe in Marxism-Leninism but in ghosts, and lack 
+in loyalty to the Party. "
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

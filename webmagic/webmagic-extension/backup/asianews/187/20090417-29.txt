@@ -1,0 +1,72 @@
+<ID>20090417-29
+<DATE>20090417<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15012
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-man-sentenced-to-ten-years-in-prison-for-talking-to-friends-about-protest-15012.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur man sentenced to ten years in prison for talking to friends about protest
+<\TITLE>
+<ABSTRACT>
+Jamal, 24, sent via mobile phone sounds and comments about a shopkeepers’ protest against local authorities. He was eventually arrested for separatism and leaking state secrets.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – On 28 February 2008 the People’s Intermediate 
+Court in Turpan sentenced Ekberjan Jamal, 24 and a member of the region's 
+mostly Muslim Uyghur minority, to ten years in prison for alleged separatism 
+and leaking state secrets. 
+Using a mobile phone Jamal had sent some friends in the Netherlands the sounds 
+of a November 2007 protest by local shopkeepers in Turpan, 180 kilometres east 
+of the Xingjian regional capital, Urumqi.
+
+The shopkeepers had taken to the streets against local authorities on 1, 17 
+and 18 November for the latter’s failure to restore their businesses and 
+compensate them for lost income after a fire on 3 October 2007 at the Turpan 
+Grand Bazaar (pictured). The fire killed one person and destroyed about 1 
+million yuan worth of merchandise.
+
+The sounds Jamal shared by cell phone were of police sirens, voices, and his 
+own voice explaining what he was witnessing. Radio Free Asia’s Uyghur service 
+received the tape of the phone conversation and used it in its broadcast.
+
+On 25 December 2007 Chinese authorities arrested Jamal, accusing him of trying 
+to break up the country.
+
+Jamal, who lost his father, is the main support for his mother and two younger 
+sisters.
+
+Now his mother, Ibadethan Jamal, said she wants to launch an appeal on her 
+son's behalf and explain, even via websites, that “Our family is not 
+anti-government. We don't have any complaints about the government."
+
+She added that her son was not tortured and that she can see him once a month.
+
+Xingjian is home to some eight million Uyghurs who are mostly Muslim. 
+
+Exiled Uyghur groups have criticised the Chinese state for heavily 
+discriminating against the indigenous population and favouring the mass 
+immigration of ethnic Han Chinese.
+
+What is more, not only are Uyghurs already a minority in their own country, 
+but they have to endure restrictions on their religion as well as their 
+language and traditions.
+
+Many have protested against this kind of treatment. 
+
+Recently Chinese authorities have in fact reported an increase in the number 
+of attacks. They also announced police reinforcement and a tougher crackdown 
+against all activities they deem dangerous to “state security”.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

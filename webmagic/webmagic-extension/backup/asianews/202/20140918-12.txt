@@ -1,0 +1,58 @@
+<ID>20140918-12
+<DATE>20140918<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=32191
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/For-Beijing,-Scottish-independence-threatens-unity-and-stability-32191.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+For Beijing, Scottish independence "threatens unity and stability"
+<\TITLE>
+<ABSTRACT>
+The Global Times comes out against today's vote because of its "potential impact on developments in Tibet, Xinjiang and Hong Kong." For the Chinese paper, "China cannot afford to play this British game".
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies) - Scottish independence is "seen as a disruptive 
+force that threatens unity and stability, to be condemned," this according to 
+an editorial inThe Global Times that appeared on the day 4 million Scottish 
+voters are set to cast their ballot to decide whether to separate from the 
+United Kingdom after more than 300 years.
+
+The thrust of the opinion is not its rejection of Scottish independence, but 
+its rejection of British-style referendums per se. in fact, forThe Global Times
+, the Scottish independence referendum has pushed the union to the cliff's edge.
+
+If Scotland became independent, David Cameron would go down in history as a 
+"criminal" who presided over a break-up. Conversely, if the bid is rejected, 
+Cameron's government has to stop the independence movement and prevent its 
+serious consequences.
+
+For the Beijing-based newspaper, the democratic choice of the referendum is 
+like a baby tantrum, warning that "if a child knew it could get milk by 
+crying", this could became normal behaviour in British politics. Thus, the 
+country would "never have peace".
+
+Going a step further, the paper clearly indicated not only its support for 
+British union over Scottish independence, but also stressed its rejection of 
+the referendum per se.
+
+Deploying the same terms and expressions that the Chinese communist government 
+often trots out in its propaganda on national unity, the editorial warned of 
+the poll's potential impact on developments in Tibet, Xinjiang and Hong Kong, 
+insisting that "With its complex history and ethnic diversity, China cannot 
+afford to play this British game [of independence]".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

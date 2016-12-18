@@ -1,0 +1,60 @@
+<ID>20141025-48
+<DATE>20141025<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=32523
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-coal-mine-collapses:-16-miners-dead,-11-injured-32523.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, coal mine collapses: 16 miners dead, 11 injured 
+<\TITLE>
+<ABSTRACT>
+The tragedy occurred overnight near the provincial capital of Urumqi. The local government and the National work safety watchdog "are investigating." Families of the workers who "escaped" arrive at the site. Coal mining confirmed as China’s most dangerous job. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - The collapse of a coal mine in the western province of 
+Xinjiang has killed 16 miners and seriously injured other 11. The tragedy 
+occurred last night in Tiechanggou - a town near the local capital Urumqi - but 
+official news has only now began circulating. There was a total of 33 workers 
+inside the mine at the time of the collapse: according to the authorities, the 
+six who are missing "fled".
+
+ The police report into the incident has not named the coal mine.  Moreover it 
+merely states that "the causes of the accident are currently under 
+investigation." Even the National Work Safety Watchdog said it had opened an 
+investigation, without giving further details. The families of the miners and 
+some local reporters rushed to the scene but were turned away by security 
+agents.
+
+ Coal mining is the most dangerous job in all of China, which relies on the 
+fuel for 70% of its energy needs. Despite the central government's rhetoric and 
+promises, which has repeatedly declared it will pace stringent safety measures 
+on mining activities, illegal mines have sprouted throughout the country. Often 
+the owners do not follow safety rules, and send unprepared people with outdated 
+equipment underground.
+
+ According to the latest government statistics, in 2012 1,384 people were 
+killed in mines. In 2011, 1,973 more died, all in accidents in coal mines, a 
+reduction of 19% over the previous year. But human rights groups and Chinese 
+scholars say the figure is much higher: many mine owners, in fact, do not 
+report incidents for fear of economic losses, fines or plant closures.
+
+ Very often local authorities are corrupted by bribes to turn a blind eye to 
+the lack of security policies. Mine closures are, under the new President Xi 
+Jinping, another part of the anti-corruption campaign launched by Communist 
+officials.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

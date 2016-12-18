@@ -1,0 +1,57 @@
+<ID>20140627-136
+<DATE>20140627<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=31470
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-dissident-Ilham-Tohti-in-China-jail-without-food-and-shackled-31470.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur dissident Ilham Tohti in China jail "without food and shackled"
+<\TITLE>
+<ABSTRACT>
+It is revealed by his lawyer, who could meet him for the first time after his detention last January. The academic was denied food after an attack on a Kunming train station in March. Beijing blames Uyghur separatists for the attack.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - Ilham Tothi was denied food for more than a week 
+and his legs have been shackled for the past few weeks, his lawyer says. Mr. 
+Tothi, an economics professor and well-known ethnic Uyghur activist for the 
+rights of minorities living in China,has been detained 
+
+ since January. His lawyer Li Fangping met him for the first time this week.
+
+The academic was denied food after an attack on a Kunming train station in 
+March that killed 29 people. The attack was blamed on Uyghur separatists by the 
+Chinese authorities.
+
+Tohti, 45, is famous for his public speeches in favor of the Uyghur cause. 
+This ethnic group lives in the northern autonomous region of Xinjiang, is of 
+the Turkish language and the Muslim faith, and denounces a strong linguistic, 
+cultural and religious repression by the Chinese central government.
+
+However there is no record 
+
+ of Tohti's support the cause of separatism and he maintains his innocence. "He 
+believes that in his words and deeds, he has always sought to work for the 
+country's national interests and the organic integration of the Han Majority 
+and Uyghur minority," said Li.
+
+The lawyer added that Tohti went on a hunger strike in January for 10 days to 
+protest against being served food that did not follow Islamic dietary laws. 
+Authorities force-fed him milk when his organs started bleeding.
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

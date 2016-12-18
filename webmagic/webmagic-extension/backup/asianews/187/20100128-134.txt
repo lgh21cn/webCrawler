@@ -1,0 +1,87 @@
+<ID>20100128-134
+<DATE>20100128<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=17471
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-like-Tibet:-more-money-and-police-controls-17471.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang like Tibet: more money and police controls
+<\TITLE>
+<ABSTRACT>
+Five more people, probably all Uyghurs, have been sentenced to death for their involvement in last July’s riots. The authorities also announce more investments in the province. Experts say the money will likely benefit ruling groups whilst ethnic Uyghurs will be further dispossessed of their natural riches.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Four more Uyghurs have been sentenced to death 
+for their involvement in last July’s riots in the Xinjiang capital of Urumqi. 
+The Chinese government has also announced plans to increase investments in the 
+region. Experts however expect the surge in money to benefit ethnic Han Chinese 
+settlers at the expense of indigenous Uyghurs. 
+On Tuesday, a court in Urumqi sentenced four more people to death for 
+''extremely serious crimes'', said Ma Xinchun, director of the Urumqi 
+government's press office, who did not elaborate more on the issue. A fifth 
+defendant was also sentenced to death but was given a two-year reprieve—a 
+penalty usually commuted to life in prison. Based on their names, all those 
+given death sentences appeared to be Uyghurs.
+
+This verdict brings to 26 the number of death penalties imposed following the 
+July riots; some have already been carried out.
+
+Uyghurs have become a minority in their own land (46 per cent of 21 million 
+residents) after China adopted a policy of mass immigration of ethnic Han 
+Chinese into the region. By and large, newcomers get special treatment in 
+business and government employment.
+
+On 5 July 2009, some Uyghurs attacked ethnic Han Chinese, rioting and burning 
+cars. In the next two days, Han Chinese struck back, targeting Uyghurs. At 
+least 197 people were killed in the clashes with many thousands more injured, 
+partly as a result of police repression. Based on the available evidence, 
+almost all of those arrested or sentenced to death are ethnic Uyghurs.
+
+Meanwhile, senior Communist Party leader Zhou Yongkang said the party's 
+Politburo would hold a conference later this year ''to make a plan to support 
+the development of Xinjiang and promote the long-term stability and prosperity 
+of Xinjiang.''
+
+In Beijing, Chinese leaders discussed the Xinjiang problem for two days. 
+Developing the region’s oil and gas reserves was one of the issues on the 
+table. Xinxiang’s economy grew by 8 per cent last year.
+
+Like a recent meeting on troubled Tibet, which lies next to Xinjiang, this 
+meeting underscored Beijing's belief that the cure to ethnic strife lies in 
+faster economic development, rather than a rethink of strict, top-down 
+political controls, said Nicholas Bequelin , a researcher on China with Human 
+Rights Watch.
+
+Tibet and Xinjiang have many things in common. In both regions, Chinese policy 
+is one of persecution of the indigenous population through repression and 
+discrimination as well as large-scale investments designed to encourage 
+settlers (see Willy Wo-lap Lam, “New policy on Tibet: repression and 
+modernization,” inAsiaNews 
+, 26 January 2010).
+
+In Xinjiang, indigenous Uyghurs have long complained that economic development 
+has disproportionately benefited ethnic Han Chinese who hold all the key 
+positions in government and business. What is more, the region is being 
+stripped of its natural riches to the benefit of China’s coastal provinces.
+
+“Xinjiang is much more important than Tibet in high politics in Beijing, 
+because of its oil and gas and strategic importance,” said Bequelin. It is in 
+fact a key transit point for pipelines coming from Iran and Central Asia.
+
+In early January, funding for public security in Xinjiang was nearly 
+doubled—from 1.54 billion yuan to 2.89 billion yuan (from US$ 225 million to 
+US$ 425 million)—for 2010.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,82 @@
+<ID>20141212-27
+<DATE>20141212<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-want-to-ban-burqa:-Could-spark-unrest-32945.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang want to ban burqa: Could spark unrest
+<\TITLE>
+<ABSTRACT>
+The burqa, a garment worn by Muslim woman to cover themselves from head-to-toe, is considered a symbol of religious extremism by the local authorities. Authorities already said they would ban the practice of religion in government workplaces, public schools and state-owned enterprises from next year.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) - A proposed burqa ban in the capital city of 
+Xinjiang province could spark further unrest in the troubled region, experts 
+warn.
+
+The Urumqi People's Congress Standing Committee voted yesterday in favour of 
+banning people from wearing the garment in public, the local news website 
+Tianshan.net reported.
+
+The proposal must now be reviewed by the regional People's Congress Standing 
+Committee before it is implemented, though the report - later deleted from the 
+site - did not specify when this would happen.
+
+The burqa, a garment worn by Muslim woman to cover themselves from 
+head-to-toe, is considered a symbol of religious extremism by the local 
+authorities.
+
+"Burqas are not a traditional Muslim garment in Xinjiang," said Jiang 
+Zhaoyong, a Beijing-based expert on ethnic affairs. "The ban has been issued 
+following public security concerns. Some people are wearing it not because of 
+their religion, but to act out their resentments against society."
+
+Beijing blames religious extremists for a series of attacks that have killed 
+hundreds of people in Xinjiang over the past few years.
+
+Xinjiang launched a "beautifying project" in 2011 to discourage women from 
+covering their faces and wearing the burqa. Several campaigns against 
+producing, selling or wearing the garments have been mounted by county and 
+district-level governments in the province.
+
+Last month, Xinjiang said it would ban the practice of religion in government 
+workplaces, public schools and state-owned enterprises from next year.
+
+The province is one of the most turbulent in all of China. Its Uighur Muslim 
+minority, who number about nine million, have long sought independence from 
+China.
+
+The central government, for its part, has brought in millions of settlers to 
+make Han Chinese the dominant ethnic group.
+
+At the same time, it has severely curtailed Muslim religious worship as well 
+as the teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out.
+
+Chinese authorities blame Muslim extremists for the wave of violence. Uighur 
+exiles claim instead that Beijing is "exaggerating" the threat of Islamic 
+terrorism to justify repression against indigenous Uighurs.
+
+ 
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

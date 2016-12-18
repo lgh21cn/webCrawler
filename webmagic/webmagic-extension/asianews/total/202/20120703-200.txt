@@ -1,0 +1,66 @@
+<ID>20120703-200
+<DATE>20120703<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=25183
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-two-Hotan-hijackers-die-under-suspicious-circumstances-25183.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: two Hotan "hijackers" die under suspicious circumstances
+<\TITLE>
+<ABSTRACT>
+Six Uyghurs were arrested last Friday accused of trying to hijack a plane. Two have died under police guard. Uyghur groups based abroad say they were tortured after they got involved in an interethnic row. The "authorities captured six people and had a chance to bring them to court to show what really happened in the incident. If China were a country ruled by law, they could have done this."
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Two of the six Uyghur men who allegedly tried to hijack a 
+plane in China's troubled northwestern Xinjiang region have died in hospital 
+under police guard from the injuries they sustained when passengers subdued 
+them. Exile groups have disputed the official version of event, blaming torture 
+instead.
+
+According to Chinese officials, the six tried to hijack a plane after it took 
+off from Hotan airport bound for Urumqi, in the Xinjiang Autonomous Region, but 
+were stopped by passengers and crew. The plane returned to the Hotan airport 
+and the six were taken into police custody.
+
+The Germany-based World Uyghur Congress (WUC), which monitors human and 
+religious rights in Xinjiang, has a different version of events, saying that 
+the plane turned around after a fight broke out between Uyghur and Han Chinese 
+passengers over seating arrangements.
+
+The "authorities captured six people and had a chance to bring them to court 
+to show what really happened in the incident. If China were a country ruled by 
+law, they could have done this," WUC general secretary Dolkun Isa said.
+
+The northern province of Xinjiang has been a sore spot for China's Communist 
+government. Since it was annexed under Mao Zedong, its largest group, ethnic 
+Uyghur Muslims, have sought to re-establish the region's independence as East 
+Turkestan. Beijing has countered this push by a policy of total control, 
+banning the local language and preventing minors from attending mosques.
+
+The six suspects-Musa Yusup, Ababekri Ibrahim, Ershidinqari Imin, Memeteli 
+Yusup, Yasin Memet, and Omer Imin-are all from the southern city of Kashgar, 
+ranging in age between 26 and 30 years. The names of the two who died have not 
+been released. Various sources claim they died under torture in an attempt to 
+extract a confession of terrorism.
+
+On 1 July, Zhou Yongkang, head of the Political and Legislative Affairs 
+Committee of the Communist Party of China Central Committee, condemned in a 
+speech suspicious deaths in prison and the use of violence against detainees. 
+For him, "law enforcement must always and under all circumstances uphold the 
+positions of the central government, centred on President Hu Jintao."
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

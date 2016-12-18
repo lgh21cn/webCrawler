@@ -1,0 +1,61 @@
+<ID>20110714-183
+<DATE>20110714<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=22097
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-students-expelled-from-school-for-praying-“illegally”-22097.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur students expelled from school for praying “illegally”
+<\TITLE>
+<ABSTRACT>
+In order to hold back separatism in Xinjiang, the homeland of Turkic-speaking Muslim Uyghurs, Beijing is forcing young Uyghurs to study far from home. At the same time, it is preventing them from praying or fasting for Ramadan.
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews) – School authorities have expelled two Muslim Uyghur 
+students in the eastern province of Zhejiang because they were involved “in 
+illegal religious activities”. They were attending a high school linked to the 
+Hangzhou Normal University and were thrown out because they were caught 
+attending a Muslim prayer. “The school said that they had been engaged in 
+illegal religious activities,” an overseas Uyghur website reported.
+
+ One of the students was from Ili Prefecture, the other from Shache County. 
+Their place of origin is important because it shows that Beijing is trying to 
+re-educate Uyghurs, this according to Dilxat Raxit, representative for the 
+Munich-based World Uyghur Congress. Most Uyghurs, who are predominantly Muslim 
+and Turkic in language, live in Xinjiang province.
+
+ Local Chinese authorities have been forcibly sending students to other parts 
+of China. The province itself has been the scene of anti-Han Chinese 
+demonstrations and unrest.
+
+ Uyghur students have been denied the right to participate in religious 
+activities, including celebrations based on their calendar. When they do, their 
+parents have been given steep fines.
+
+ This is true for Xinjiang as well. "Every year in Urumqi there are high 
+school students who are expelled from school," Raxit said, because they fast 
+“during [the Muslim holy month of] Ramadan”.
+
+ China’s Communist government is very concerned about the Uyghurs, who are 
+about 16 million and connected by language and religion to other Central Asian 
+peoples. Despite their incorporation into the People’s Republic of China, they 
+have never accepted their total subordination to Beijing.
+
+ Like in other sensitive regions, China has undertaken a policy of demographic 
+colonisation of the Uyghur homeland. Han Chinese, who were just 6 per cent of 
+the population in Xinjiang in 1949, now constitutes 40 per cent. In the 
+regional capital of Urumqi, they are actually 80 per cent.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

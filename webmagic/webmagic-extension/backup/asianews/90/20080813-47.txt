@@ -1,0 +1,74 @@
+<ID>20080813-47
+<DATE>20080813<\DATE>
+<URL>
+http://www.asianews.it/news-en/Organized-terrorism-not-behind-three-attacks-in-Xinjiang-12993.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Organized terrorism not behind three attacks in Xinjiang
+<\TITLE>
+<ABSTRACT>
+This is the opinion of experts, who say there is widespread dissatisfaction with China among the population. The region is poorly developed, although it is rich in oil and gas. Significant Han immigration is creating clashes with the Uygurs. Beijing must "address the political causes behind the violence".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - The four security guards stabbed yesterday 
+(three died) at a checkpoint in Yamanya, a county in Shule about 30 kilometers 
+from Kashgar, were the victims of the third attack in Xinjiang in one week.
+
+The four or five aggressors got out of a vehicle that had been stopped for a 
+routine check, and attacked the guards, all of whom were young Uygurs. On 
+August 4, a "homemade" bomb in Kashgar killed 16 guards and wounded another 16, 
+and on the 10th, a series of bombs exploded at public buildings, shops (in the 
+photo) and hotels in the county of Kuqa (400 kilometers from Kashgar) killed 11 
+people, including 10 attackers.
+
+The authorities say there are no connections among the three attacks, although 
+the victims are all soldiers in the Chinese army.
+
+ Experts like John Harrison of the Singapore-based International Centre for 
+Political Violence and Terrorism Research doubt that there is a connection with 
+the Islamic Movement for Eastern Turkestan, a known terrorist group in Xinjiang 
+that the Chinese authorities have identified as responsible for the first 
+attack. Harrison says there is widespread dissatisfaction among the Uygur 
+population, and says that in the long term, China "should address the political 
+causes behind the violence", which he identifies in cultural, religious, and 
+ethnic differences between the Uygurs, the native people of the area who are 
+still in the majority, and the ethnic Han Chinese whose immigration Beijing 
+strongly favors.
+
+ But in the short term, security measures should be reviewed, since "new 
+attacks are likely, as long as there is media attention on the Olympics". The 
+methods used suggest poorly organized groups striking victims at random.
+
+Li Wei, an anti-terrorism expert for the China Institute for Contemporary 
+International Relations, tells theSouth China Morning Post that there are also 
+economic reasons, especially "the imbalanced development between other areas 
+and Xinjiang, as well as the southern and northern parts within the region". 
+Xinjiang is rich in energy resources, which in general are exploited to the 
+advantage of the rich southern provinces. This discontent, combined with ethnic 
+and religious differences, means that "Uygurs, particularly the young, will 
+easily be irritated and provoked to take radical action".
+
+ Groups of exiled Uygurs have distanced themselves from these actions. Dilxat 
+Raxit of the World Uighur Congress says that 90 people have been arrested and 
+tortured in prison over the attacks, without any proof. The groups of Uygur 
+exiles accuse Beijing of arresting more than 100 people each year, and 
+torturing them in prison.
+
+ The authorities of Kashgar have so far downplayed the attacks. After the 
+first one, Shi Dagang, head of the communist party in Kashgar, called it a 
+"minor incident" and insisted that most of the population is against terrorism. 
+Yesterday, Yusufujiang Memet, head of the county of Kuqa, expressed his concern 
+that "the terrorist attacks will definitely have a negative effect on tourism 
+development in Kuqa", a spot on the ancient silk road.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

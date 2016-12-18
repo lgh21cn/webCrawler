@@ -1,0 +1,69 @@
+<ID>20100107-41
+<DATE>20100107<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=17283
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Free-Liu-Xiaobo,-Vaclav-Havel-says-in-letter-to-Hu-Jintao-17283.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Free Liu Xiaobo, Vaclav Havel says in letter to Hu Jintao
+<\TITLE>
+<ABSTRACT>
+Former Czech president and co-author of Charter 77 goes to the Chinese Embassy in Prague with two other prominent dissidents to demand China respect the human rights of the author of Charter 08 and his right to a fair appeal.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Prague (AsiaNews/Agencies) – Former Czech dissident and Velvet Revolution 
+leader Vaclav Havel and other Communist-era dissidents went to Chinese Embassy 
+in Prague to hand over a letter demanding the release of Chinese human rights 
+activist Xiaobo. Professor Liu, a co-author of Charter 08, was sentenced to 11 
+years in prison for “inciting subversion of state power.” 
+Havel was accompanied by actor Pavel Landovsky and bishop Vaclav Maly, two 
+major figures in the anti-Communist struggle of the 1980s.
+
+“We are here to ask the Chinese president and through him the Chinese 
+government . . . not to persecute rights fighters who have their legitimate 
+demands backed by international pacts,” Havel told reporters.
+
+Havel, who was president of Czechoslovakia and then the Czech Republic between 
+1989 and 2003, was one of the authors of Charter 77. Published exactly 33 years 
+ago, the manifesto called on the Communist regime in the Central European 
+country to respect human rights.
+
+Liu co-authored Charter 08, a manifesto modelled on Charter 77 that demands 
+democracy and respect for human rights as the basis for a truly integrated 
+development of China.
+
+In the letter, the trio of former dissidents said Liu's trial was “the result 
+of a political order” and that it was “chiefly meant as a stern warning to 
+others not to follow his path.”
+
+The letter also called on President Hu Jintao to “secure a fair and genuinely 
+open trial for Liu Xiaobo when the court hears his appeal.”
+
+“We are also asking you and your government to end the house arrests and 
+police surveillance which have been imposed on other Charter 08 signatories” 
+and ¨to end the criminalisation of free speech, and to release all prisoners of 
+conscience,” the letter added.
+
+Last September, the former dissident angered Beijing when he invited the Dalai 
+Lama, Tibet's spiritual leader, and Rebiya Kadeer, an exiled Uygur leader, to a 
+conference in Prague.
+
+After ringing the bell several times without getting a response, Havel put the 
+letter in a letterbox.
+
+“I doubt the ambassador would have time [to meet us], but I would at least 
+expect a doorman to be here and take the envelope,” Havel said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

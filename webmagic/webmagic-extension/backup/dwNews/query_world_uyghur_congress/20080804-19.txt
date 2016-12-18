@@ -1,0 +1,31 @@
+<ID>20080804-19
+<DATE>20080804<\DATE>
+<URL>
+http://www.dw.com/en/attack-in-kashgar-kills-16-chinese-policemen/a-5213791
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Attack in Kashgar Kills 16 Chinese Policemen
+<\TITLE>
+<ABSTRACT>
+Only four days ahead of the Beijing Olympics, unknown attackers have killed 16 policemen in the remote western Chinese city of Kashgar, populated mainly by the Muslim Uighur minority. The police suspect it was a terrorist act.
+<\ABSTRACT>
+<CONTENT>
+The attack in Kashgar on Monday morning was the most serious incident of anti-government violence in China’s Xinjiang Autonomous Region for years. According to the official Xinhua news agency, two men, arriving in a truck, threw grenades at members of the Armed Police, killing 16 of them. Another 16 were injured. Other sources have confirmed the attack. 
+China has repeatedly accused Uighur Islamists from Xinjiang of planning and conducting terrorist attacks aimed at disrupting the Olympics. Chinese terrorism expert Li Wei says: "This incident in Xinjiang was planned by a terrorist organization. Their attack was directed against the Armed Police which is upholding the stability of society in Xinjiang."
+
+Muslim Uighurs, who speak a Central Asian Turkic language very similar to Uzbek, have a history of resisting Chinese rule. In the 1930s and the 1940s, there were several attempts to proclaim an independent "East Turkestan Republic" in Xinjiang. After the Communist takeover in 1949 and especially in order to exploit the natural resources in Xinjiang, millions of ethnic Han Chinese immigrants arrived in to Xinjiang, where the Uighurs today account for only half of the population. The capital Urumqi, for example, is a mainly Han Chinese city, whereas the old Silk Road oasis of Kashgar, close to the borders with Pakistan and Tajikistan, remains predominantly Uighur.
+Many Uighurs complain that they don’t have the same job opportunities as Han Chinese in Xinjiang, and that their language, culture and religion are discriminated against. Critics of the Chinese government have long maintained that it is deliberately exaggerating the religious aspect in this ethnic conflict in order to discredit Uighur separatists. Dilxat Raxit, the Sweden-based spokesman of the World Uighur Congress, an organization of exiles, claims:
+"China has succeeded in misusing the international war on terror and the upholding of law and order for the Olympics to systematically suppress the Uighurs. And this continuing oppression has forced the Uighurs to take up militant ways of resistance. We don’t want to see this happen, and we are rather worried about this."
+
+It is extremely difficult to estimate how many Uighurs have actually taken up arms to fight Chinese rule. Dilxat Raxit is worried that the conflict will lead to more violence in the future. "The international community has a responsibility to immediately apply diplomatic pressure on China and force it to immediately stop its policy of systematic oppression in Xinjiang," he says.
+But so far, Western countries have not shown the same desire to support the Uighurs as they have for their southern neighbours, the Tibetans. This might be because the Uighurs lack a charismatic leader such as the Dalai Lama; but it might also be due to the fear that Islamist militancy could spread further in already volatile Central Asia.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

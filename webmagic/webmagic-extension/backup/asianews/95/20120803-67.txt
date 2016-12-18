@@ -1,0 +1,57 @@
+<ID>20120803-67
+<DATE>20120803<\DATE>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer-slams-Beijing's-repression-during-the-sacred-month-of-Ramadan-25466.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer slams Beijing's repression during the sacred month of Ramadan
+<\TITLE>
+<ABSTRACT>
+Uyghur leader slams recent convictions of 20 Uyghurs on terrorism charges as well as the central government's restrictions on Uyghurs in Xinjiang during the sacred month of Ramadan.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Arrests and sentences against the Uygur people are part 
+of a Chinese plan to strike at ethnic Uyghurs during Ramadan because they think 
+they are weak, but that is not the case. The international community must force 
+Beijing to stop its repressive policies, said Rebiya Kadeer, exiled Xinjiang 
+Uygur leader about the recent convictions of 20 Uyghurs.
+
+Three courts in Kashgar, Akesu and Xinjiang capital Urumqi handed down the 
+sentences (of up to15 years) after finding the 20 accused guilty of various 
+crimes, some related to "organising terrorist attacks" in the region.
+
+According to the Uygur World Congress, the accusations are a baseless 
+fabrication. Moreover, the accused were not given an opportunity to defend 
+themselves.
+
+A campaign of relentless repression has been underway in Xinjiang, in 
+north-western China, against ethnic Uyghurs. Chinese authorities have imposed a 
+series of restrictions on local Muslims, including on the right to fast during 
+Ramadan and take part in religious activities, Kadeer noted.
+
+Government websites have urged local Communist Party leaders to impose further 
+restrictions on religious activity during the sacred month, not only in 
+relation to fasting but also access to mosques.
+
+Some 9 million Turkic-speaking Uyghur Muslims live in Xinjiang. For years, 
+they have been fighting to obtain autonomy from the Chinese state and stop 
+Chinese repression.
+
+As part of its campaign, the central government has urged local officials to 
+give village chiefs gifts of food to ensure they do not fast during Ramadan.
+
+A spokesperson for German-based Uygur World Congress warned that restrictions 
+will incite "the Uighur people to resist [Chinese rule] even further," as China 
+is using its administration to force Uyghurs to break their fast and eat.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

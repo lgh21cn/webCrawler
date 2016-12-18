@@ -1,0 +1,58 @@
+<ID>20080220-96
+<DATE>20080220<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=11569
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-defends-its-right-to-root-out-terrorism-in-Xinjiang-11569.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing defends its right to root out terrorism in Xinjiang
+<\TITLE>
+<ABSTRACT>
+At least two dead and dozens arrested in a recent police raid in Urumqi. But human rights groups denounce that it is a pretext to undermine aspirations for independence. The survival of an entire ethnic group at risk.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – The Chinese government has defended its right to 
+“battle terrorism” in Xinjiang, saying its stance was “no different from the 
+rest of the world”. But human rights organisations denounce that the 
+annihilation of an entire population is underway in the region.
+
+State agency Xinhua reported that on January 27th in the Xinjiang capital 
+Urumqi, the largest anti terrorism operation in over a year was carried out 
+resulting in the death of 2 terrorists and 15 arrests, accused of collaborating 
+with the Islamic movement of eastern Turkestan, an organisation which the 
+United Nations has branded as terrorist. Instead Hong Kong’s Sing Tao Daily 
+reports that at least 18 people were killed.
+
+No further news is to be had regarding the episode because Beijing has imposed 
+rigid control on all information from the region, considered essential given 
+its vast energy resources and strategic position in central Asia. However some 
+critics – among them the United Nations– accuse China of using terrorism a san 
+excuse to quash peaceful aspirations for independence and to pursue a 
+systematic elimination of the local people, the Uyghur, followers of Islam with 
+their own language and traditions. Beijing gas favoured the immigration of 
+millions of ethnic Han, conceding them trade incentives and access to positions 
+of power. These have hit out at the local language and traditions and place 
+obstacles in the way of the practise of the Islamic faith: women and minors are 
+not allowed to enter mosques and Islamic schools are forbidden.  Moreover they 
+have vastly reduced the number of pilgrims allowed to journey to Mecca.  The 
+episodes of terrorism, which have been isolated, are being used as a pretext to 
+deny vast swathes of the population their basic human rights.
+
+In 2005 18,227 Uyghur were arrested because they “they were a threat to 
+national security”.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

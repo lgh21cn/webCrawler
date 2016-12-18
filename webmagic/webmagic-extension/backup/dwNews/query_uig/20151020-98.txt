@@ -1,0 +1,36 @@
+<ID>20151020-98
+<DATE>20151020<\DATE>
+<URL>
+http://www.dw.com/en/the-chinese-president-visits-london-no-criticism-in-the-new-golden-age/a-18794279
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+The Chinese president visits London: No criticism in the new 'golden age'
+<\TITLE>
+<ABSTRACT>
+The British government and the Queen are receiving the Chinese president with honors. The most important aspect of his visit is monetary investment; human rights issues are being discreetly swept under the red carpet.
+<\ABSTRACT>
+<CONTENT>
+ It has been 10 years since a Chinese leader visited Great Britain. In 2005, then Prime Minister Tony Blair welcomed Chinese President Hu Jintao. Now Hu's successor Xi Jinping will visit the United Kingdom for four days. He will be received by his hosts with full honors: a dinner with the Queen is scheduled, as well as a visit to parliament and of course meetings with Prime Minister David Cameron at No. 10 Downing Street. The Chinese guest will be lodging at Buckingham Palace for the duration of his stay. 
+ "For Xi, the images that his Chinese audience will see are especially important," says Steve Tsang from the University of Nottingham in an interview with DW. "There is no more optically impressive state visit than a reception by Queen Elizabeth II."
+ 
+ The reason for the British charm offensive: London is hoping to secure billions of euros in Chinese investment. During Xi's visit, the two nations are scheduled to sign an agreement paving the way for Chinese investment in a nuclear reactor in southern England. Thereafter, China itself could begin building nuclear reactors in Great Britain, as was recently hinted at by the Chancellor of the Exchequer, George Osborne. However, security experts have vehemently warned against turning over such strategically important infrastructure projects to the Chinese.
+ The British are also soliciting Chinese investment for a high-speed rail project between the capital and the country's north. Further, the government seeks to establish London as the leading hub for Chinese financial transactions outside of China - a position that, among others, the German financial center of Frankfurt also seeks.
+ According to Prime Minister Cameron's office, Xi's visit represents the possibility of deals worth some 40 billion euro ($45 billion) and the creation of nearly 4,000 jobs. "This will be a very important moment for British-Chinese relations," said Cameron ahead of the visit. "It is a real opportunity to deepen our relationship." 
+ 
+ Relations between Great Britain and China have been strained over the last few years. In 2012, Prime Minister Cameron met with the Dalai Lama, much to the chagrin of the Chinese government. Cameron was labelled persona non grata in Beijing for a year and a half after that. London was surprised at the magnitude of the chill in relations. A high-ranking government official was quoted by the BBC as saying, "We were in the corner longer than the foreign office had predicted."
+ Meanwhile, the situation has relaxed. The Chinese ambassador in London, Liu Xiaoming, even speaks of the beginning of a new "golden age" in relations between the two countries. That has to do primarily with Chancellor Osborne's policies toward China. Great Britain was one of the first Western countries to become a member of the Asian Infrastructure Investment Bank (AIIB). By taking that step, the British knowingly accepted the discontent of their most important ally, the United States. The AIIB, initiated by China, stands in direct competition with the World Bank and the International Monetary Fund (IMF).
+ On his visit to China in September, Osborne said that Great Britain wanted to be "China's best partner in the West." Among other things, the chancellor visited China's turbulent Xinjiang region. The region is often the scene of clashes between members of the Uighur Muslim minority community and Chinese security forces. The Uighurs see themselves as culturally, socially and economically disadvantaged, and increasingly marginalized by the systematic settlement of ethnic Han Chinese in the region. The government in Beijing claims that they have afforded the Uighurs many freedoms and have elevated the standard of living in Xinjiang. At the same time, leadership accuses Uighur groups of fomenting separatism and terrorism.
+ In Xinjiang, Osborne said that Great Britain sought to support development in the region - in exactly the same year that moderate Uighur civil rights activist Ilham Tohti was sentenced to life imprisonment by a Chinese court. However, he refrained from criticizing the Chinese government on the matter. Osborne himself then had to suffer very loud criticism from human rights organizations. The British media spoke of kowtowing to the Chinese government. 
+ 
+ Downing Street is also being criticized ahead of Xi's visit. Media outlets, human rights groups and the Labour Party are accusing the government of not making an issue of injustice in China. The "Times" commented that "Closer economic relations with China are in Great Britain's interest. Yet, no relationship is worth betraying British values." Various protests are planned to take place during Xi's visit. Prince Charles, a friend of the Dalai Lama, will not attend the state banquet.
+ Nevertheless, the Chinese side has self-confidently made it clear that criticism is unwanted. After Labour Party Leader Jeremy Corbyn announced that he would broach the subject of human rights at the state banquet, he was promptly invited to meet with Ambassador Liu Xiaoming. In an interview with the BBC, Liu said: "I think the British are gentlemen and are very clever. They know how to behave at such events. Do you believe that the Labour Party will bring up human rights at a state banquet? I don't think so."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

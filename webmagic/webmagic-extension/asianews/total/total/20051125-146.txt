@@ -1,0 +1,93 @@
+<ID>20051125-146
+<DATE>20051125<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4720
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/UN-official-investigating-torture-unable-to-visit-Shandong-for-lack-of-time-4720.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+UN official investigating torture unable to visit Shandong for lack of time
+<\TITLE>
+<ABSTRACT>
+Millions of Falun Gong members are victims of relentless persecution in this province. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+
+
+Beijing (AsiaNews/SCMP)  UN special rapporteur on torture yesterday said he 
+was unable to visit Shandong province to investigate claims of torture mostly 
+against Falun Gong practitioners during his China tour because of time 
+constraints.
+
+Manfred Nowak, the first UN official invited to visit Chinese prisons, said he 
+cancelled yesterday's trip to Jinan, the capital of Shandong, because he needed 
+to spend more time in Beijing and Tibet.
+
+"I had to take this decision because there are so many people who want to see 
+me in Beijing," he said. "I really wanted to go to Shandong, but I think this 
+was a good decision."
+
+Falun Gong is a spiritual movement that involves meditation and practices 
+inspired by Buddhism and Taoism such as callisthenics and breathing exercises 
+to improve health and seek immortality, peace and harmony.
+
+On April 15, 19999, more than 10,000 adepts demonstrate peacefully in Beijing 
+against the violation of their rights. But beginning in July of that year on 
+the urging of the President Jiang Zemin a vicious persecution was launched 
+against the group, which at the time had about 100 million followers, on the 
+grounds that it was an "evil cult" that "threatened social and political 
+stability".
+
+Since then Falun Gong members have been defamed, imprisoned and tortured (more 
+than 38,000 documented cases according to the Falun Gong); some have even been 
+killed.
+
+Between July 1999 and April 2005 Falun Gong collected the names of 1,880 
+victims, including details about the circumstances of their death, often a 
+result of physical and psychological torture. However, the total number is 
+probably higher since such deaths are deemed state secrets and releasing any 
+information about them constitutes a crime punishable by incarceration.
+
+Hundreds of thousands of followers, including whole families, are in fact in 
+prison, and more than 200,000 have been sent without trial to labour camps for 
+re-education.
+
+Many have been sent to mental hospitals and subjected to virtual 
+"brainwashing" and medication dangerous to the nervous system in order to get 
+them to forsake the movement.
+
+After deciding against finding the truth in Shandong, Mr Nowak arrived today 
+in Lhasa, Tibet's capital, where he is scheduled to visit prisons, government 
+staff and civilians. He will then travel from Lhasa to Xinjiang.
+
+The United Nations insisted on visiting these two autonomous regions known for 
+the violence security forces visit upon local prisoners accused of separatism.
+
+The UN envoy announced that he was going to stay on in Beijing because of 
+statements received from different sources according to which people who were 
+willing  to testify were placed under house arrest or taken away.
+
+"Such statements are hard to prove and I am trying to solve the problem with 
+Foreign Ministry," Nowak said.
+
+But the ministry itself has been co-operating with him since his arrival on 
+November 21.
+
+The two-week trip is scheduled to end on December 2 when he will hold a press 
+conference to take stock of the situation.
+
+A written report should be ready next year for the UN Commission on Human 
+Rights.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

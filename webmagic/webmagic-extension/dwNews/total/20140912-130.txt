@@ -1,0 +1,37 @@
+<ID>20140912-130
+<DATE>20140912<\DATE>
+<URL>
+http://www.dw.com/en/chinas-commitment-to-anti-is-campaign-not-unconditional/a-17919210
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China’s commitment to anti-IS campaign not unconditional
+<\TITLE>
+<ABSTRACT>
+China might be prepared to join the US campaign against IS, but Washington shouldn’t get its hopes up too high, writes DW columnist Frank Sieren.
+<\ABSTRACT>
+<CONTENT>
+ Exactly 13 years after 9/11, the US is once again seeking recruits for a coalition of the willing. This time, the enemy is not Al-Qaeda but the even more radical extremists of the Islamic State that has established itself in Syria and Iraq. Three years after America pulled its last troops out of Iraq, it is being forced back into combat by IS, for the simple reason that it is most suited to the job. But the Americans are less keen than ever on going it alone. And the more countries it can enlist, the clearer it becomes that it is still a world power.
+ Ten Arab states have already declared their intention to stand by the US. France and Britain are not ruling out air strikes and at first glance, it seems that even China, the only serious rival to US global power, is prepared to join the international campaign against the jihadist fighters. On her trip to China this week, Barack Obama's national security adviser Susan Rice asked Beijing where it stood and was told on Thursday by the Chinese foreign minister that it was prepared to offer assistance – on condition that international law be respected, as well as the sovereignty, autonomy and territorial integrity of the participating countries. Thereby ensuring it doesn't need to get its fingers burnt if it doesn't want to. 
+ 
+ Beijing has a vested interest in the matter. On the one hand, it has economic interests to protect. After the US helped free Iraq from Saddam Hussein's dictatorship, the Chinese snapped up oil drilling rights from under the Americans‘ noses and now control around 50 percent of oil production in the country. Its three largest oil fields - Rumaila, Halfaya and West Qurna – are either operated by the Chinese outright or are joint ventures with non-American companies.
+ But now that IS troops have hoisted their black flag in various Iraqi cities and introduced Sharia law, even Beijing is getting nervous – although most of its oil fields are in the south of the country, which IS has not yet reached.
+ But Beijing is presumably more worried about the threat of domestic terrorism than its oil fields. Barely a month goes by without yet another act of terrorism shaking the troubled western Chinese province of Xinjiang. These might be merely harbingers of IS terror, but the evidence is mounting that the militant Islamist group has every intention of expanding into China. It features in IS statements, with the group‘s leadership placing China at the top of a list of countries where Muslims are persecuted. Chinese terrorism experts have also voiced concern about the risk to China, Russia and Central Asia posed by jihadists returning from Arab countries.
+ 
+ Many of them could easily go underground in Xinjiang, where the people share more common cultural ground with Ankara than Beijing. So China's leadership can no longer afford to simply sit tight and wait and see what happens. Tensions are rising, as illustrated by recent comments made by President Xi Jinping such as “We should …make terrorists as unpopular as the rats crossing the street that we would like to squish.” He urged the country's troops to expend more sweat in training since that was better than letting blood in battle.
+ Terrorism is no longer a problem restricted to far-flung provinces, but has long reached the cities in the east of the country. Support for the extremist elements among the Uighurs has already filtered across the border from neighboring Pakistan.
+ But despite these very real threats, China will never stand shoulder to shoulder with the US in a fight against terrorism. While the US has also pledged to widen its air strikes in Syria, Beijng cannot begin to contemplate a similar military deployment. China has always opposed intervention in the Syrian civil war and China now fears that Obama will use the campaign against IS to bolster opposition forces in their fight against Bashar al-Assad.
+ Beijing was quick to note that western interventions in Iraq, Afghanistan, Libya and Egypt were not wholly successful. A commentary released this week by state news agency Xinhua was ample proof that China has little interest in getting involved in military deployments, specifically asking why international terrorism is on the rise even though the US has been fighting it for over a decade.
+ 
+ The breeding grounds for terrorists have grown, the commentary read, because the US first took on the regime of Saddam Hussein in Iraq, then that of Gaddafi in Libya and is now in the midst of destabilizing Assad in Syria. It is an argument that cannot be simply dismissed, the article goes on: 13 years after 9/11, the US still appears unable to face up to the real cause of terrorism.
+ It's all too easy to pass judgment from afar. But China won't be able to avoid taking a stand for much longer. Beijing's fallback option of solving conflicts with negotiations is unlikely to prove helpful this time – unless Beijing has special ties to IS. Beijing is not in the least interested in joining forces with the US to launch military strikes. These would inevitably follow American rules – which China is no longer willing to play by. 
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

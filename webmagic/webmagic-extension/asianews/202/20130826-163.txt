@@ -1,0 +1,68 @@
+<ID>20130826-163
+<DATE>20130826<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=28834
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-more-violence:-15-Uyghurs-killed-by-police-for-terrorism-28834.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, more violence: 15 Uyghurs killed by police for "terrorism"
+<\TITLE>
+<ABSTRACT>
+A group of natives of the northern province had gathered in a desert area near Yilkiqi: according to the authorities they were engaged in training activities, other sources say a prayer meeting. Area increasingly troublesome, risk of further clashes.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Police in the northern province of Xinjiang opened fire on 
+a group of Uyghurs gathered in an isolated area of ​​the region killing "at 
+least 15", in what authorities describe as "an anti-terrorism" operation. The 
+bodies were buried at the scene, even evidence of this has yet to be presented 
+as reported by Radio Free Asia, citing local sources.
+
+ According to these sources, on August 20, a group of anti-terrorism squad 
+police from prefecture of Kashgar surrounded "at least 28 Uyghurs" who were in 
+a desert area near the town of Yilkiqi. According to authorities, these were 
+engaged in "illegal religious activities and terrorist exercises". After 
+surrounding them they opened fire: one Han policeman died in the shootout.
+
+ Some witnesses, anonymous for security reasons, dispute the official story: 
+"We were meeting in a desert area, but only to pray without having to account 
+to the officials. Religious practice is increasingly controlled, and many of us 
+do not want to have to report to the government even what we are saying to God. 
+"
+
+ The raid was confirmed by the head of the municipal police, Osman Batur: "We 
+have successfully conducted an anti-terror operation, destroying violent 
+terrorist cells." However, the officer would not confirm the number of victims, 
+"Many came from outside and had no identity documents."
+
+ The province is one of the most turbulent in all of China: It is home to the 
+ethnic Uyghur, Turkic speaking peoples of the Islamic religion, who have always 
+sought to gain independence from Beijing. The central government has sent 
+hundreds of thousands of Han Chinese to the region to try to make them the 
+dominant ethnic group. It also imposes serious restrictions on freedom of 
+religion, Muslim practices, the teaching of the language and the local culture.
+
+ Since 2009 a special system of Chinese police and army control is in place, 
+imposed by Beijing after theriots in which nearly 200 people lost their lives 
+
+. As a result of the violence hundreds of custodial sentences and dozens of 
+death sentences were meted out. The Chinese authorities believe that the 
+perpetrators of violence are Muslim extremists, but exiles claim that Beijing 
+is "exaggerating" the threat of Islamic terrorism to justify the repression 
+against the Uyghur population. Even the latest violence (in chronological 
+order) was reported in different ways by the authorities and diaspora.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

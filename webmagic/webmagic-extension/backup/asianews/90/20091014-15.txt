@@ -1,0 +1,65 @@
+<ID>20091014-15
+<DATE>20091014<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-14-Uyghurs-go-on-trial-after-six-are-sentenced-to-death-16586.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: 14 Uyghurs go on trial after six are sentenced to death
+<\TITLE>
+<ABSTRACT>
+New trial might also end with death penalty. For Rebiya Kadeer, executions will increase poplar anger.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) –The trial of 14 people accused of involvement in 
+ethnic unrest that shook China's far western Xinjiang region in July opened 
+today, authorities said, two days after six Uyghur men were sentenced to death 
+for the same offences. 
+The defendants are charged with murder, robbery, arson and vandalism, Xinhua 
+news agency reported, in connection with the violence that broke out after a 
+peaceful demonstration got out of hand and turned into a race riot between 
+Muslim Uyghurs and ethnic Han Chinese.
+
+A late intervention by police and the military ended the unrest that left 
+almost 200 people dead and led to a thousand arrests.
+
+For Beijing, demonstrations and clashes were orchestrated by the Uyghur 
+Diaspora, led by Rebiya Kadeer. For China, the exiled Uyghur leader is a 
+terrorist.
+
+The 14 were part of a group of 21 people charged with offenses relating to the 
+unrest. Six have already been given the death penalty; a seventh was sentenced 
+to life in prison.
+
+In criticising the court’s decision, Rebiya Kadeer said, “This is not going to 
+create peace and stability in the region; this will further enrage the Uyghur 
+people.”
+
+Ms Kadeer, who an important leader of the World Uyghur Congress, also said she 
+feared that many of the arrested (in addition to those who were sentenced to 
+death) were tortured and that others simply disappeared.
+
+For more than half a century, Uyghurs have been demanding greater autonomy 
+from China’s central government.
+
+Some groups in the Islamic Movement of Turkistan have successfully carried out 
+terrorist attacks against China.
+
+However, China has wielded an iron fist in the province, arresting and 
+sentencing hundreds to death per year.
+
+On the pretext of stopping “terrorism”, Beijing has also placed the Uyghurs’ 
+religious life under tight control. This includes monitoring imams’ speeches, 
+banning young people from attending Friday prayers in mosques, and demolishing 
+mosques and Islamic schools.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

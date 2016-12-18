@@ -1,0 +1,54 @@
+<ID>20140926-21
+<DATE>20140926<\DATE>
+<URL>
+http://www.asianews.it/news-en/Death-toll-in-Xinjiang-attacks-jumps-to-50-32257.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Death toll in Xinjiang attacks jumps to 50
+<\TITLE>
+<ABSTRACT>
+Of the victims, 40 were "terrorists" killed in the explosions; six civilians; two police officers and two security agents. Chinese authorities have imposed a curfew and closed schools and offices. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - The death toll from a spate of bombings 
+September 21 has jumped to 50 people.  Theseries of explosions 
+
+ targeted police stations and public buildings in the Bugur county (Xinjiang). 
+The hike in the number of dead was reported by the state news portal,Tianshan, 
+which, has given no reason for the delay in reporting the news.
+
+The explosions occurred at around 17 (local time) in front of two police 
+stations, an outdoor market and a shop. Of the 50 victims, 40 were "terrorists" 
+killed in the explosions; six civilians; two police officers and two security 
+agents. Two other alleged attackers were caught by the police. The number of 
+wounded has been reduced from 100, as reported yesterday, to 54, all of whom 
+are civilians.
+
+ According to the Tianshan report, the main suspect is a man named Mamat 
+Tursun, who has been "operating as an extremist since 2003."
+
+ The Chinese authorities have imposed a curfew in the areas affected by the 
+violence, ordering the closure of schools and offices. According to Beijing, 
+the attackers are separatists from the Uyghur minority.  The Turkic and Muslim 
+ethnic group from Xinjiang has been calling for greater autonomy or 
+independence from China.
+
+ Meanwhile, on September 23 a court in Urumqi sentenced Uyghur intellectual 
+Ilham Tohti 
+
+ to life imprisonment for "separatism": a ruling that has sparked outrage from 
+human rights activists in China.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

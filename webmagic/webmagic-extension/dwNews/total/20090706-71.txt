@@ -1,0 +1,30 @@
+<ID>20090706-71
+<DATE>20090706<\DATE>
+<URL>
+http://www.dw.com/en/german-european-officials-react-to-riots-in-china/a-4460693
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+German, European officials react to riots in China
+<\TITLE>
+<ABSTRACT>
+EU leaders have spoken out against riots in China's Xinjiang region that have claimed the lives of at least 150 people. Authorities say the initially peaceful protest turned violent when police attempted to break it up.
+<\ABSTRACT>
+<CONTENT>
+
+
+
+Guenther Nooke: We have not been in a position to come to an official assessment because not enough information has been made available yet, but of course we know that there have been ongoing problems with the Uighurs because they are seen by the leaders in Beijing, and by the Chinese in general, as suspected terrorists. This has led to tensions between the Han Chinese and the Uighurs.
+
+I think we have to call on the Beijing leadership to act in accordance with the rule of law, even if there are grey areas, and properly investigate situations like the one in the toy factory in southern China, which seems to have sparked the unrest, and that they refrain from reacting with disproportionate force. That is unacceptable, no matter what factors may have contributed to it, including the possibility that demonstrators committed acts of violence. 
+Interview: Dirk Jacobs (mrm)
+Editor: Chuck Penfold
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

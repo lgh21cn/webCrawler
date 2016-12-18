@@ -1,0 +1,119 @@
+<ID>20051118-177
+<DATE>20051118<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4661
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/More-outbreaks-and-human-bird-flu-cases-expected-in-China-4661.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More outbreaks and human bird flu cases expected in China
+<\TITLE>
+<ABSTRACT>
+The World Health Organisation (WHO) expects things to get worse in China. Two new outbreaks reported in Hubei and Xinjiang provinces. Indonesia asks for the world's help. Tamiflu is under probe in Japan.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  After one death and two new human bird flu 
+cases, China is expecting things to get worse. Indonesia openly acknowledges it 
+is unable to cope with the emergency and asks for help. In Japan authorities 
+start probe into possible Tamiflu side effects.
+
+China. The death of Zhou Maoya, a woman from Anhui province, and the 
+confirmation of two other human cases of bird flu (a little boy in Hunan and 
+woman farmer in Liaoning) have set off more alarm bells.
+
+State-owned media reported that Ms Zhou, 24, was a poultry worker from Yantan 
+village, Zhoutan County, (Anhui). She fell ill on November 1 and was admitted 
+to a hospital in Tongling city on November 6 after developing a fever, a cough 
+and difficulty in breathing. She died on November 10.
+
+Zhou's family told a Hong Kong paper that for a while she had been working in 
+Jiangsua province where no outbreaks had been recently reported and returned 
+home a month ago to prepare for her wedding.
+
+Guan Yi, a virologist from Hong Kong University, said Zhou's case could be 
+linked to fake vaccines, which can keep chickens infected by H5N1 alive and are 
+widely used in mainland China.
+
+The Ministry of Agriculture named Xiaogan city in Hubei province on November 
+5, and Hetian city in Xinjiang on November 10 as the latest bird-flu-infected 
+areas.
+
+A total of 88,937 birds within a three km radius of the two cities were culled.
+
+The two latest outbreaks bring the total number of cases, reported by the 
+government since October 19, to 13.
+
+"We expect there will be more poultry outbreaks," said Henk Bekedam, the chief 
+WHO representative in Beijing, adding that this could lead to a rise in human 
+infections in winter.
+
+More optimistic, China's Prime Minister Wen Jiabao said that "we can 
+definitely conquer bird flu",
+
+Indonesia. Tests performed on a 20-year-old woman and a 16-year-old girl who 
+died a few days ago came back positive for the H5N1 bird flu virus, said Sari 
+Setiogi, WHO spokeswoman.
+
+Indonesian President Susilo Bambang Yudhoyono had already warned yesterday of 
+the devastating effects of a human pandemic.
+
+"Our worst nightmare now would be if the avian flu virus finds a way to mutate 
+by swapping human genetic code, which would allow human-to-human transmission," 
+he said. "The impact on our economies would be catastrophic. None of us can 
+afford this."
+
+According to both experts and government, Indonesia is unable to cope alone 
+with the problem.
+
+"We have many international commitments, but we need immediate action," senior 
+Indonesian Health Ministry official Hariadi Wibisono said. "We have the health 
+workers, what we urgently need is equipment and capacity building."
+
+Japan. There are growing concerns after the deaths of 12 children who had been 
+using the anti-influenza drug Tamiflu. The US Food and Drug Administration 
+(FDA) wants to investigate the deaths to ascertain the drug's potential risks.
+
+Tamiflu's maker, Roche, has been asked to provide more information about the 
+deaths.
+
+The FDA also said it was also concerned that 32 psychiatric events, such as 
+hallucinations and abnormal behaviour, have been reported in children who took 
+Tamiflu, which is in high demand because it is considered to be one of the best 
+defences against bird flu in people.
+
+ However, the FDA acknowledged that is was "extremely difficult to interpret" 
+the causes of death listed for the 12 children, mostly cardio-respiratory 
+arrest, because of limited data.
+
+The FDA's investigation comes after reports on Saturday that two teenage boys 
+in Japan exhibited abnormal behaviour after taking Tamiflu then committed 
+suicide.
+
+In one case, a junior high school student apparently fell from the ninth floor 
+of his apartment building in February this year.
+
+In the second case, a 17-year-old high school student who was at home alone 
+ran out of the house and jumped over a railing into the path of a truck in 
+February 2004 shortly after taking the medicine.
+
+Roche has denied that the incidence of Tamiflu-related deaths and 
+neuropsychiatric problems has increased.
+
+Vietnam. Four outbreaks hit Phu Tho and Hoa Binh provinces, with several 
+thousand chickens, ducks and geese found dead or slaughtered by health workers. 
+Since October the virus has spread to 16 of the country's 64 provinces. (PB) 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

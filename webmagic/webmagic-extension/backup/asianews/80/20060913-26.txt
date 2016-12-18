@@ -1,0 +1,67 @@
+<ID>20060913-26
+<DATE>20060913<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing-accuses-Nobel-peace-candidate-Rebiya-Kadeer-of-terrorism-7196.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing accuses Nobel peace candidate Rebiya Kadeer of terrorism
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews)  China's Foreign Ministry spokesman, Qin Gang, yesterday 
+accused an exiled politician Rebiya Kadeer, a candidate for the 2006 Nobel 
+Peace Prize, of maintaining links with terrorist organisations and attempting 
+to undermine China's stability.
+
+Qin said Kadeer  who belongs to the member of the Turkic-speaking Uighur 
+minority  was seeking to divide the northern province of Xinjiang from the 
+rest of China together with "known terrorist organizations".
+
+The spokesman said: "She was arrested for endangering national security and 
+sentenced. She connives with terrorist forces abroad and engages in 
+anti-Chinese secessionist movements."
+
+Rebiya Kadeer was released from imprisonment in China on 17 March 2005, 
+whereupon she asked for and obtained refugee status in the United States, where 
+she now lives. The 58-year-old woman was the director of an established trade 
+company as well as member on the Chinese People's Political Consultative 
+Conference for Xinjiang. She was arrested in 1999 for spreading news abroad 
+that was defined by China as "material containing state secrets".
+
+Condemned to eight years in prison, she was released a few days before the 
+visit of the American Secretary of State to Beijing, just when America declared 
+it would not present a motion critical of China at the United Nations Human 
+Rights Commission in Geneva.
+
+Although the prison guards never laid a finger on her, she described the abuse 
+of other political prisoners, who were beaten until they were lame. After her 
+release, she recalled a 96-year-old Uighur woman who was in prison without 
+knowing why. The guards would torture prisoners within earshot to frighten her.
+
+To hit back at the woman because of her continued denunciations from abroad, 
+on 11 May last year, Chinese police arrested two employees of her firm, the 
+Kadeer trade centre, and a few days later, one of her sons, Ablikim Abdiriyim, 
+disappeared. He had already been imprisoned in a laogai from 1999 to 2001.
+
+Xinjiang has 19 million inhabitants, including eight million Uighurs. They are 
+calling for more autonomy but some groups want to restore the independence 
+enjoyed by the region from 1938 to 1949, when it was called East Turkestan. 
+Beijing cracks down on all separatist groups with implacable violence, accusing 
+them of collusion with Islamic fundamentalism coming from Pakistan and 
+Afghanistan.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

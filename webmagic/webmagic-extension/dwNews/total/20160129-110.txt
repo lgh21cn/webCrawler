@@ -1,0 +1,40 @@
+<ID>20160129-110
+<DATE>20160129<\DATE>
+<URL>
+http://www.dw.com/en/what-does-china-want-from-the-afghan-peace-process/a-19011501
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+What does China want from the Afghan peace process?
+<\TITLE>
+<ABSTRACT>
+China is one of four countries directly involved in talks aimed at resuming the stalled peace process between the Afghan government and the Taliban. DW takes a look at what's driving Beijing's diplomatic push.
+<\ABSTRACT>
+<CONTENT>
+ Although China didn't take part in the US-led invasion of Afghanistan in 2001 - which toppled the Taliban regime - Beijing hasn't remained completely on the sidelines. For instance, the Chinese have long been interested in tapping into the South Asian nation's mining sector, signing various multibillion dollar deals with the Afghan government in Kabul. And since 2010, they have been stepping up diplomatic efforts in a bid to start a peace process between Kabul and the Taliban insurgents.
+ In fact, in early 2015, Beijing said it was ready to support Kabul in facilitating reconciliation discussions with militant Islamic groups, with Chinese Foreign Minister Wang Yi stressing that "broad-based and inclusive national reconciliation" was vital to sustained stability in the conflict-ridden country.
+ More recently, China's special envoy to Afghanistan, Deng Xijun, has attended two rounds of four nation talks - involving Pakistan, Afghanistan, China and the United States - aimed at reviving the Afghan peace process.
+ 
+ Experts argue that Beijing's increasing involvement in Afghan politics is driven not only by economic reasons, but also by China's own domestic problems with Islamic extremism in the form of Uighur militants from China's restive Xinjiang province.
+ "China is worried about 'Islamic State' (IS) gaining a permanent foothold in Afghanistan, and establishing links to Uighur militants," Wahid Mazhdah, a former employee of the ousted Taliban regime, told DW.
+ The Uighurs, mostly Sunni Muslims, feel Beijing is attempting to undermine their cultural identity, political rights, religion and exploit what they view as their region's natural resources. This has pushed many Uighurs towards radicalization and militancy, say experts.
+ Siegfried O. Wolf, director of research at the Brussels-based South Asia Democratic Forum (SADF), said the claims by some Chinese sources that Uighur militants use fake Turkish passports to enter Afghanistan and Pakistan to join extremist groups makes Beijing increasingly concerned about the long war in Afghanistan.
+ "In the Afghan and Pakistani camps, which are heavily funded by Saudi Arabia, Uighurs receive ideological indoctrination as well as military training," said the analyst.
+ Faiz Mohammad Zaland, a Kabul University lecturer who recently met with a Taliban delegation in Qatar, has a similar view. "China wants to make sure Uighur militants do not have sanctuaries in Afghanistan and Pakistan. Beijing wants this issue to be part of the negotiations," Zaland told DW.
+ 
+ Another important reason behind the diplomatic push may be China's level of economic engagement in these two countries. For instance, China signed deals worth $46 billion with Pakistan last year. President Xi Jinping also inaugurated the China-Pakistan Economic Corridor designed to create a network of roads, railways and pipelines linking China's restive west to the Arabian Sea through Pakistan.
+ China has also signed multibillion dollar deals with Afghanistan, some of which involve the extraction of copper from the Mes Aynak mine in Logar Province - believed to be worth $10 billion. State-owned company China Metallurgical Group Corporation acquired the extraction rights of the mine in 2007 for $3.5 billion (2.6 billion euros), but the project has never actually kicked off given the deteriorating security situation and poor infrastructure in Afghanistan.
+ According to Afghan experts, Chinese officials are striving to keep the situation in Pakistan and Afghanistan under control so Beijing can implement its economic projects and protect its investments.
+ "China's primary goal for its increased involvement in the Afghan peace process is to secure its economic interests in the region," Zaland said.
+ However, Zhu Yongbiao, an associate professor at the Institute for Central Asian Studies of Lanzhou University, disagrees. He says China's economic, security and geopolitical interests in Afghanistan are overstated by Western and Chinese media, and hence calls on Beijing to "keep its distance from Afghanistan's security-related issues."
+ "In the recent years, China's interests in Afghanistan have been exaggerated, thus making Chinese officials overestimate the impact of the country's situation on China," Yongbiao said.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

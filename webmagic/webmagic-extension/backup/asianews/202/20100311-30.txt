@@ -1,0 +1,59 @@
+<ID>20100311-30
+<DATE>20100311<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=17861
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/The-Dalai-Lama-close-to-the-Uyghurs-scares-Beijing-17861.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+The Dalai Lama "close to the Uyghurs' scares Beijing 
+<\TITLE>
+<ABSTRACT>
+The Chinese central government and the administration of Tibet strongly attack the speech given yesterday by the Buddhist leader: "It distorts reality and foments separatism within China." 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - In Tibet, "there is no serious problem, 
+despite what the Dalai Lama says." This is the declaration of the new president 
+of the Autonomous Region of China Padma Choling, refuting accusations made 
+yesterday by the Tibetan leader in exile, according to who Beijing “is trying 
+to wipe out Buddhism. "Yesterday, on the 51st anniversary of the uprising of 
+1959 and the second anniversary of the 2008 protests that occurred in many 
+parts of China that is home to Tibetan people, there were no reported incidents.
+ 
+
+"In Lhasa - said Padma, the so-called " hawk " of the Tibetan Administration - 
+you can see monks and nuns everywhere. In Tibet there are about 1,700 religious 
+sites home to 46 thousand monks."
+
+In his speech the Nobel Peace Laureate accused the Chinese central government 
+of having reduced the monks to a state of "semi-slavery" and expressed his 
+support for the peoples of Eastern Turkestan - the Uyghur, considered a 
+separatist group by Beijing - and for those intellectuals who criticize the 
+regime. This is a clear reference to Liu Xiaobo, the Chinese dissident author 
+of "Charter '08" who has been sentenced to 11 years in prison.
+
+The regional president criticized the Dalai Lama for having called the Chinese 
+region of Xinjiang "East Turkistan", using the term coined by local 
+anti-Chinese nationalists. “He should not foment rebellion in our country", 
+said the local leader. According to Tibetan exiles, about 200 people died in 
+the 2008 protests while the government says that the victims were "little more 
+than twenty."
+
+The central government has also attacked the Buddhist leader. According to the 
+Foreign Ministry spokesman in Beijing, Qin Gan, "the Dalai Lama destorts" the 
+real situation in Tibet. Furthermore, according to Qin, his support for the 
+Uyghur "is a demonstration of his desire to harm the national unity of China 
+and his separatism".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

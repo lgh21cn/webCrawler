@@ -1,0 +1,72 @@
+<ID>20071119-91
+<DATE>20071119<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=10830
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-brick-factory-closed-down-for-“slavery”-10830.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang brick factory closed down for “slavery”
+<\TITLE>
+<ABSTRACT>
+It stands accused of forcing workers, many of them children and mentally disabled, to over 20 hours of labour a day. Overtime was not paid and wages were months behind. The factory has been closed down and investigations are underway. A lawyer: the problem is the “laxity” of those who should be protecting workers rights.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) –The Xiangtai brick factory in Xinjiang has been 
+closed down.  It is accused of forcing its workers, children and the mentally 
+disabled of working up to 20 hours a day without pay.  Lin Zhonggeng, head of 
+Urumqi County’s Labour Supervision Team, said the Xiangtai brick factory 
+operated illegally and had no records of employees, labour contracts, social 
+security payments or paying overtime wages.
+
+ 
+
+A former worker has told a local paper that “They hired more than 40 peasants, 
+including a child about 13 year’s old and handicapped people, to work in the 
+factory”. “We were forced to work from 5am to 2am the next day. We were often 
+beaten for not doing things as well as the overseers wanted”. “More than half 
+of us could not tolerate it any more and ran away without getting months of 
+unpaid wages”.
+
+ 
+
+Another worker confirms that in the factory “They employed mentally 
+handicapped workers. Most of the mentally disabled could not get paid even 
+though they were forced to work like machines all day”. But Lin insists “No 
+mentally disabled worker was found at the scene while authorities were there”. 
+The factory has now been ordered to shut down and pay the backlog of wages.
+
+ 
+
+But Gan Weidong from the Xinjiang Xinnan Law Firm told the South China Morning 
+Postthat “Supervision and enforcement of relevant laws is too lax to protect 
+workers”.  He observes that although Premier Wen Jiabao has spared no effort to 
+protect workers' basic rights since taking office five years ago, “regional law 
+enforcement is not strict enough in enforcing relevant laws”. “That's the root 
+of the problem”.
+
+ 
+
+Last June in Shanxi and in Henan the exploitation of hundreds, some say 
+thousands, of “slaves” was denounced.  Forced to work in the brick factories 
+all day barely being fed, they were controlled by guards and dogs to prevent 
+them fleeing.  Their numbers included kidnapped children and the mentally 
+disabled.  But after a few weeks of clamour nothing more was heard of the 
+problem.
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

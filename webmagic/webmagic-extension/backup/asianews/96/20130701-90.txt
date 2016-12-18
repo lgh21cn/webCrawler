@@ -1,0 +1,64 @@
+<ID>20130701-90
+<DATE>20130701<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang;-army-returns-to-the-streets-after-ethnic-unrest-28341.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang; army returns to the streets after ethnic unrest
+<\TITLE>
+<ABSTRACT>
+Last week’s violence caused dozens of casualties and arrests: the central government now claims to be "ready for anything" to stop "terrorist groups in the area." Beijing fears the approach of July 5, the fourth anniversary of the 2009 riots that claimed the lives of more than 200 people.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - After the violence of the past week, the 
+Chinese central government has sent paramilitary troops to the western province 
+of Xinjiang, the scene of clashes between the local ethnic Uyghur and Han, the 
+majority in China, who emigrated en masse to the region. During the latest 
+episode of unrest, the worst in four years, 35 people have died: it is not yet 
+clear who started the violence and for what reasons.
+
+On 26 June, a crowd attacked a government building and a police station in 
+Lukquan, the police opened fire killing dozens of protesters. Two days later, 
+an armed group tried to replicate the clashes in Hotan, but was stopped - 
+apparently without victims - by anti-terrorism agents. At least 19 people were 
+detained for "spreading alarming news" with their mobile phones.
+
+ The Ministry of Public Security has confirmed on its website the deployment 
+of the military: Beijing fears the approach of July 5, the fourth anniversary 
+of the violent upheavals of 2009 that claimed the lives of more than 200 
+people. Yu Zhengsheng, member of the Standing Committee of the Politburo in 
+charge of Xinjiang and Tibet, said: "We will take any decision needed to stop 
+terrorist groups and extremist organizations in the area."
+
+The province has long been the epicenter of violence and tensions between the 
+ethnic Uyghur - once the majority in the area - and Han. The central government 
+in Beijing has encouraged the emigration of Han to the province in an attempt 
+to "even out" the social reality of Xinjiang, but the ongoing fighting is proof 
+that the experiment has failed.
+
+ The Uyghur are Turkic-speaking Muslims and: for several decades have an 
+adversarial relationship with the Chinese central government. After a few 
+(unsuccessful) attempts to gain independence as "East Turkestan", the ethnic 
+leaders have asked Beijing for the possibility to safeguard their language, 
+culture and local religion. The Chinese government - while granting tax and 
+social welfare breaks - decided instead to use a heavy hand and launched a 
+campaign of repression and control in the whole area.
+
+The heavy hand of the regime is felt even on the Islamic religious community, 
+suspected of forming young people to a terrorist and fundamentalist version of 
+Islam. There is control and censorship of Islamic publications control over the 
+sermons of imams, young people under 18 are banned from attending the mosque.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

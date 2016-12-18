@@ -1,0 +1,52 @@
+<ID>20091204-87
+<DATE>20091204<\DATE>
+<URL>
+http://www.asianews.it/news-en/Five-more-Uyghurs-sentenced-to-death-in-Xinjiang-17042.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Five more Uyghurs sentenced to death in Xinjiang
+<\TITLE>
+<ABSTRACT>
+For Rebiya Kadeer, they “will face the same fate of the nine men executed in November if the world remains silent”. In the aftermath of July unrest, China continues its crackdown on the province’s indigenous population.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) – A people’s court in Xinjiang province sentenced 
+five ethnic Uyghurs to death and another two to life imprisonment for their 
+roles in deadly unrest in July. Six others were given varying jail terms.Xinhua 
+identified the five sentenced to death as Memeteli Islam, Mamattursun Elmu, 
+Memeteli Abburakm, Kushiman Kurban and Helil Sadir, all Uyghur by the name. 
+Rebiya Kadeer, the Washington-based leader of the World Uyghur Congress who 
+spent six years in a Chinese prison in Urumqi, slammed the decision. “The 
+Chinese government has brazenly ignored all standards of due process of law in 
+a campaign to silence and intimidate the Uyghur population through executions 
+and mass detentions,” Ms Kadeer said in a statement. “I fear that these five 
+Uyghurs will face the same fate of the nine men executed in November if the 
+world remains silent.”
+
+Ethnic tensions exploded on 5 July when a peaceful Uyghur demonstration caused 
+by the forced closure of a Muslim bazaar degenerated into ethnic clashes 
+between indigenous Muslim Uyghurs and ethnic Han Chinese.
+
+During the unrest, about 200 people were killed and 1,600 were injured before 
+police and the army were able to clamp down and arrest thousands of people.
+
+Uyghurs accuse Han Chinese of colonising their country, monopolising commerce 
+and the public administration
+
+For decades, indigenous Uyghurs have suffered under heavy-handed Chinese 
+military control. The energy-rich province is strategically located and China’s 
+military is ubiquitous, preventing locals from exercising their civil liberties 
+and enjoying religious freedom, often done in the name of the fight against 
+Islamic terrorism.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

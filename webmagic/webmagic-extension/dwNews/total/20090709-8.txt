@@ -1,0 +1,22 @@
+<ID>20090709-8
+<DATE>20090709<\DATE>
+<URL>
+http://www.dw.com/en/a-tentative-calm-reigns-over-urumqi/a-5213598
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+A Tentative Calm Reigns Over Urumqi
+<\TITLE>
+<ABSTRACT>
+Chinese President Hu Jintao said that rioters in the western Xinjiang region would be "severely punished" on Thursday. He described last Sunday's ethnic violence as a "serious and violent crime, masterminded and organised by forces from abroad and at home". Itwas Hu’s first official statement on the riots since he cut short a visit to Italy where he was due to attend the G8 summit. Meanwhile, Chinese state media claimed that the regional capital Urumqi had returned to normal.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

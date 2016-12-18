@@ -1,0 +1,36 @@
+<ID>20151120-111
+<DATE>20151120<\DATE>
+<URL>
+http://www.dw.com/en/sierens-china-terrorism-is-the-enemy-of-humanity/a-18865730
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Sieren's China: Terrorism is the 'enemy of humanity'
+<\TITLE>
+<ABSTRACT>
+"Islamic State" militants have killed a Chinese national for the first time. Beijing has reacted - but not with military force in Syria, writes DW's Frank Sieren.
+<\ABSTRACT>
+<CONTENT>
+ On Thursday, the noon edition of China's state CCTV channel announced the death of Chinese national Fan Jinghui and Norway's Ole Johan Grimsgaard-Ofstad. Both fell into the hands of "Islamic State" (IS) terrorists in as-yet unknown circumstances and were killed with shots to the head. In the latest issue of the English-language online propaganda magazine "Dabiq," IS published images of the two hostages and said they had been killed "after being abandoned by kafir [infidel] nations and organizations."
+ The messages of Chinese President Xi Jinping and Premier Li Keqiang were as clear as those of French President Francois Hollande: "Terrorism is the public enemy of humanity" and "We must bring these criminals to justice."
+ 
+ Fan, a 50-year-old resident of Beijing, was taken hostage by IS extremists at the beginning of September. The terrorists demanded ransom money for him and his 48-year-old Norwegian co-hostage. Chinese Foreign Ministry spokesman Hong Lei said that Beijing had done everything to rescue them.
+Prime Minister Li has said that Beijing wants to boost protection of Chinese nationals and organizations abroad, as the terror threat continues to mount. Even though no Chinese citizen died in Paris last week, the latest issue of "Dabiq" legitimized the attacks with the headline "Just terror." Anyone who happened to be in Paris could have died. The murder of Fan Jinghui, however, must be seen as a clear, specific message.
+ The government in Beijing is aware that Chinese citizens are increasingly likely to fall victim to terrorism in crisis-ridden regions. In 2013, 18 Chinese citizens were taken hostage. The figure rose to at least 47 last year, and there could well be more as-yet unknown cases.
+ The Chinese government has denounced the attacks in Paris just like other states in the world, but it does not want to use military force in Syria, as opposed to Russia, France and the US. Instead, like Germany, it favors negotiations in the UN. Beijing has always been in favor of involving Syrian President Bashar al-Assad in the talks.
+ Berlin has now come around on this point: When she was in Beijing earlier this month, Chancellor Angela Merkel did not contradict Prime Minister when he said it was important to "seize the opportunity to implement a political resolution and to set up an equal, inclusive and open political dialogue." On the other hand, since 2011 China and Russia have vetoed a resolution against Syria four times in the UN Security Council on the grounds that the West was interfering too much.
+ As opposed to Moscow, Beijing has stopped providing arms to Syria. China supplied anti-aircraft systems and missile technology until 2011, but since then no arms deliveries can be proven. It must be said, however, that Tehran has supplied arms developed in China but produced in Iran.
+ 
+ Now that a Chinese national has been murdered, Beijing is calling for attacks by Muslim Uighurs in China's conflict-ridden northwestern province of Xinjiang to be categorized as international terrorism.
+ For years, the Chinese government has been fighting against radical elements of the Muslim Uighur minority, who train as terrorists in neighboring Afghanistan and Pakistan and also cooperate with the "Islamic State." Last year, China's state media announced that more than 300 Chinese nationals had travelled to Syria and Iraq to join the ranks of IS.
+ On the other hand, exiled Uighurs have complained that their freedom of religion is becoming more and more restricted and that suspects are not given adequate means of legal defense. One thing is certain: The life of Uighurs in China will get tougher because of IS terrorism.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

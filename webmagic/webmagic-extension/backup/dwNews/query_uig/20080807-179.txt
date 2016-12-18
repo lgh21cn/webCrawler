@@ -1,0 +1,52 @@
+<ID>20080807-179
+<DATE>20080807<\DATE>
+<URL>
+http://www.dw.com/en/protestors-rally-in-europe-on-eve-of-china-olympics/a-3545274
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Protestors Rally in Europe on Eve of China Olympics
+<\TITLE>
+<ABSTRACT>
+A day before the Olympics open in Beijing, protestors demonstrating for human rights rallied in front of Chinese embassies in several European cities with the exception of France where authorities banned protests.
+<\ABSTRACT>
+<CONTENT>
+In Berlin, demonstrators representing Tibetan groups, Uighurs, Mongolians and the Falun Gong spiritual movement gathered in front of the Chinese embassy on Thursday, Aug 7, waving flags and holding banners. 
+The protest was one of a series of events planned in several European cities on the eve of the prestigious Olympic Games to draw world attention to China's continuing human rights violations.
+Protests were planned in Lisbon and in Porto in Portugal, candle vigils were planned in several Swiss cities and one in Norway, while in London the Free Tibet campaign was to hold a protest in front of the Chinese embassy on Friday.
+
+In Paris, authorities banned rights groups from demonstrating outside the Chinese embassy on Thursday and Friday.
+News agency AFP reported that a ruling ruling sent to media watchdog Reporters Without Borders (RSF) bans "all gatherings" from Thursday at 7:00 am (0500 GMT) to Friday at midnight (2200 GMT) within a fixed perimeter surrounding the Chinese embassy and consulate.
+RSF had called for a rally outside the embassy at 1:00 pm Friday, to coincide with French President Nicolas Sarkozy's arrival in Beijing for the three-hour-long Olympic opening ceremony.
+The media watchdog has challenged the ruling in court, with a decision due Friday at 10:30 am, AFP reported.
+RSF head Robert Menard voiced outrage at the demo ban, saying similar rallies were allowed to go ahead in six other European countries.
+"Does this mean that it is the Chinese embassy that decides who has the right to demonstrate in Paris?" he asked.
+Rowdy protests by activists angry at China's crackdown in Tibet seriously disrupted the Olympic flame's Paris leg in April, with images of the chaotic event provoking a wave of anti-French protests in China.
+
+In Berlin, demonstrators tried -- and failed -- on Thursday to hand over a petition signed by 10,000 people calling for greater human rights in China organised by a local non-governmental organisation.
+According to the Goettingen-based human rights group, Society for Threatened Peoples, the diplomatic delegation would not grant an appointment, despite multiple requests. 
+By handing over the petition the organization wanted to once against demonstrate against the increasing persecution of ethnic groups and religious communities. 
+The Society for Threatened Peoples' secretary general, Tilman Zülch, told German news agency DPA the Olympics would not be a “Games of Peace” for Tibetans, Uighurs, Mongolians and Falun Gong members. 
+“They’ve already suffered too much repression in the past months for that,” he added.
+Zülch also told news agency DDP that the Olympics in China were “comparable with the games from 1936 in Berlin,” when Nazi Germany hosted the sporting event. “These aren’t the games of openness and friendship, but rather the games of repression,” he said, adding that China was a ruled by a totalitarian regime that committed human rights abuses.
+China has painted the Games as a celebration of three decades of economic reforms and hopes the event will showcase a rapidly modernizing country. 
+
+Some 100 participants took park in the demonstration in Berlin which couldn’t take place directly at the embassy due to police barriers. They held up banners with Chinese characters written on them, expressing their hope for improvement of human rights. 
+The protestors also took lit torches, emblazoned with the Olympic rings, and put them out in giant tubs of water. With this symbolic gesture, the demonstrators wanted to make clear that Beijing has failed to honor the promises made leading up to the games to better human rights in the country. 
+According to human rights organizations, more than 1,000 Tibetan were taken into custody during the unrest and mass arrests in March 2008 and are still missing. 
+More than 1,500 Uighurs have been arrested in recent weeks for political reasons, and members of the Falun Gong sects have been victims of torture and murder. 3,160 of them have meet grisly deaths while in the custody of the security forces, they say.
+
+Pro-Tibet groups are planning to hold Germany-wide demonstrations in order to call attention to the constant violations of human rights in China. 
+Over the next 17 days, some 50 campaigns are planned to take place in 30 different cities, including Berlin, Munich and Frankfurt. 
+One group of Tibet activists plan to hold a “protestival” at Berlin’s landmark Brandenburg Gate to call attention to the “ongoing bad human rights situation” in the Chinese-controlled province.
+Germany's human rights commissioner, Guenter Nooke who has been in the Chinese capital since Tuesday, said on Thursday that the decision to let Beijing host the Games has failed to improve the human rights situation in the country. 
+Planning for the Games has improved the mood of the city and brought new construction but the ruling party still tolerates no criticism or press freedoms, Nooke told news agency AP.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

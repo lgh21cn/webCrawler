@@ -1,0 +1,75 @@
+<ID>20090717-27
+<DATE>20090717<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15815
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Eerie-Friday-in-Urumqi:-under-tight-army-control-mosques-remain-almost-deserted-15815.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+ Eerie Friday in Urumqi: under tight army control mosques remain almost deserted
+<\TITLE>
+<ABSTRACT>
+No fresh violence has been reported but tensions remain high in the Xinjiang capital. Many mosques are closed. In others administrators tell worshippers to stay at home for prayer. Authorities announced new arrests in riot-related incidents.
+<\ABSTRACT>
+<CONTENT>
+   
+
+
+
+Beijing (AsiaNews/Agencies) – Chief Prosecutor Hamsi Mamuti said the people 
+responsible for the outbreak of unrest in Urumqi (Xinjiang) on 5 July had been 
+identified and “arrest warrants will be issued soon” so that the “violent 
+elements” can “be severely punished.” The city of Urumqi itself is patrolled by 
+thousands of soldiers and tensions remain high as fear grips residents, scaring 
+many away from Friday prayers in their local mosque
+
+Chinese authorities are on the record saying that those who are behind last 
+week’s troubles will be severely dealt with.Li Zhi, the highest-ranking Party 
+official in Urumqi, said that those found guilty of the most serious crimes 
+might even be executed. He added however that many of the rioters didn't 
+understand what they were doing and would thus be treated leniently.
+
+According to state media, more than 1,400 people were detained last week in 
+connection with the inter-ethnic riots. The clashes claimed at least 192 lives, 
+with 1,721 people sent to hospital, this according to official sources. A total 
+of 331 shops and 627 vehicles were also burnt in the unrest.
+
+Even today tensions were palpable as thousands of soldiers walked the streets, 
+harassing reporters and stopping anyone from taking a picture.
+
+Yesterday security forces even demanded that a group of journalists stop 
+taking photos of a camel and a man who was playing a traditional string 
+instrument near the main bazaar, a major tourist site, because troops were 
+nearby.
+
+Now city residents, especially Uyghurs, are trying to avoid causing tensions 
+and are refusing to talk to the media.
+
+Today is Friday, the traditional day of rest for Muslim Uyghurs, a day usually 
+celebrated in the mosque, but in many administrators told worshippers to go 
+home and avoid creating large gatherings.
+
+Mosques run by another local ethno-religious minority, the Hui Muslim 
+community, were closed.
+
+In a recent report Xinhua blamed three people for inciting worshippers in a 
+mosque to start a holy war.
+
+Two days ago al-Qai‘da said that it would retaliate against Chinese workers 
+and companies in Algeria for the persecution of the Uyghurs.
+
+Beijing immediately alerted its diplomatic missions to take greater security 
+measures.
+
+In Algeria al-Qai‘da’s is powerful and has already clashed with police.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,36 @@
+<ID>20140616-11
+<DATE>20140616<\DATE>
+<URL>
+http://www.dw.com/en/pakistani-fighter-jets-pound-insurgents-in-north-waziristan-offensive/a-17710298
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Pakistani fighter jets pound insurgents in North Waziristan offensive
+<\TITLE>
+<ABSTRACT>
+Pakistani fighter jets have launched a bombing campaign aimed at flushing Islamist militants out of a tribal region near the country's border with Afghanistan. Dozens are reported to have been killed in the offensive.
+<\ABSTRACT>
+<CONTENT>
+ Pakistan's army said on Monday that at least 27 militants had been killed in the airstrikes launched in the early hours of the morning, targeting six hideouts in the Shawal area of North Waziristan
+ "In these precise strikes, 27 terrorists were killed. There is no (civilian) population in the area," a statement released by the army said. It added that the operation was "progressing as per plan."
+ The DPA news agency cited a military spokesman, Major General Asim Saleem Bjawa , who said at least 140 militants had been killed in the Degan-Boya area of North Waziristan on Sunday.
+ "Most of those killed are Uzbeks. Many ETIM East Turkestan Islamic Movement terrorists and their affiliates have also been killed in the strikes. It was a massive blow to the terrorists and one of their main communication centers has been dismantled," Bjawa said.
+ The Pakistani army, meanwhile, has sustained its first casualties  with six soldiers being killed and three others wounded in a roadside bombing in the district.
+ The military also said its soldiers had cordoned off all known militant bases and was providing extra security for urban areas and sensitive installations.
+ Thousands of civilians were also reported to be fleeing from the region.
+ 
+ Shahidullah Shahid, a spokesman for the Taliban in Pakistan, called on all international organizations to leave Pakistan, saying if they failed to do so, they would be considered fair game.
+ "All international investors, airlines and institutions should immediately suspend all relations with Pakistan and leave the country, or they will be responsible for any loss or harm to them," said Shahid, who also vowed to hit the cities of Islamabad and Lahore, which until now have been largely free from the sort of bombings and shootings that plague Karachi and Peshawar.
+ Pakistan's northwest is a largely lawless region used by insurgents both as a training base and a staging area from which to attack NATO and Afghan troops across the border in Afghanistan.
+ The United States has for years complained that the Pakistani authorities were failing to tackle the militants in its northwest and has  in the region. 
+ The offensive comes a week after an  Pakistan's busiest, for more than 12 hours.
+ pfd/slk (dpa, Reuters, AP, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

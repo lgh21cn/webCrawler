@@ -1,0 +1,29 @@
+<ID>20110915-47
+<DATE>20110915<\DATE>
+<URL>
+http://www.dw.com/en/china-sentences-four-to-death-for-violence-in-xinjiang/a-6618204
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China sentences four to death for violence in Xinjiang
+<\TITLE>
+<ABSTRACT>
+China has sentenced four people to death over unrest in the ethnically-torn Xinjiang region after vowing to crack down on "terrorism" in the troubled far-western area.
+<\ABSTRACT>
+<CONTENT>
+Two courts in Xinjiang have sentenced four people to death after they were found guilty of masterminding and engaging in terrorist organizations, illegally making explosives, murder and arson. The official Chinese Xinhua news agency has reported that two others have received 19 years in prison for their participation in violent outbreaks in Xinjiang. Protests had broken out in July among the mainly Muslim Uighur minority against Chinese rule.
+The rulings related to a July 18 assault on a police station in Hotan which killed four people, as well as two further attacks which happened on July 30 and 31 in Kashgar and left 13 dead, Xinhua said. The wave of unrest killed at least 21 people, including eight suspects allegedly involved in the attacks, prompting the top official in Xinjiang to vow a tough crackdown. An elite police counter-terror squad, the Snow Leopard Commando unit, was sent to the area in August. Zhang Chunxian, Communist Party chief for Xinjiang, had vowed a "strike-hard policy in the crackdown against terrorists."
+
+Beijing has blamed much of Xinjiang's unrest on the "three forces" of extremism, separatism and terrorism and said Pakistan-trained Muslim separatists were behind the latest attacks. 
+But many experts doubt that terror cells operate in Xinjiang, where Uighurs are Sunni and practice a moderate form of Islam. They say the government has produced little evidence of an organized terrorist threat in the region, and argue its sporadic bouts of unrest stem more from long-standing local resentment.
+Xinjiang, a resource-rich and strategically vital region that borders eight countries, is home to roughly nine million Turkic-speaking Uighurs who have long bridled under what many see as government oppression. An influx of ethnic Han Chinese has fuelled anger, with some Uighurs complaining that their culture is being deliberately diluted. They also claim that Han Chinese citizens get better jobs and pay.
+Author: Manasi Gopalakrishnan (AFP, AP)Editor: Sarah Berning
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

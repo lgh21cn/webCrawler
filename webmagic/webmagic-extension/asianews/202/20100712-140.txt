@@ -1,0 +1,71 @@
+<ID>20100712-140
+<DATE>20100712<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=18908
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Kashgar-Gwadar-railway-line-would-give-Beijing-a-window-on-the-Persian-Gulf-18908.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Kashgar-Gwadar railway line would give Beijing a window on the Persian Gulf
+<\TITLE>
+<ABSTRACT>
+Such a railway line would allay China’s greatest fear, a naval blockade that could stop oil shipments from Africa and the Middle East. However, major political, technical and financial problems remain, including India’s opposition.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Pakistani President Asif Ali Zardari and Chinese 
+President Hu Jintao met last Wednesday during an official visit of the 
+Pakistani leader to the mainland. They discussed plans to build a railway line 
+from Kashgar in China’s Xinjiang province to the Pakistani port of Gwadar. This 
+could give China direct access to the Persian Gulf and make Pakistan an 
+alternative route for Chinese goods and Middle East and African oil, which 
+currently have to go around India. 
+The ambitious plan has been on the drawing boards for many years. It has 
+advantages for both parties. Beijing would have direct access to the Arabian 
+Sea; currently, 80 per cent of China’s oil travels through the Indian Ocean and 
+the Strait of Malacca, an area plagued by piracy. More importantly, in case of 
+war, China’s enemies could easily block its oil supplies. Pakistan would 
+especially benefit from increased traffic in the Gwadar port, which was built 
+with Chinese capital and assistance and opened in 2008.
+
+Now the railway, which until recently appeared to be technically impossible 
+because of the difficult terrain, at 5,000 metres above sea level, could be 
+built thanks to the experience and knowledge China has accumulated during the 
+construction of the Qinghai-Tibet railway.
+
+However, Professor Wang Mengshu, a rail expert at Beijing Jiaotong University, 
+said that the Kashgar-Gwadar project would be "more difficult than the one in 
+Tibet" because Chinese surveyors and mappers will not have as good an 
+understanding of the local terrain as they did in Tibet.
+
+This would also create uncertainties about the cost, which Wang estimates 
+would be around 200 million yuan (US$ 30 million) per kilometre, a bill too 
+great even for Beijing.
+
+In addition, India is not going to look favourably at closer Sino-Pakistani 
+relations. New Delhi has always regarded Islamabad as its main adversary and 
+Beijing as its main rival.
+
+In fact, the proposed railway would have to pass through Pakistan-administered 
+Kashmir, a territory claimed by India, and would thus undermine the latter’s 
+its claim. Indeed, important Indian newspapers have described the project as a 
+serious threat to India's security.
+
+However, the idea still has many supporters in China and many see its 
+completion as only a matter of time.
+
+People's Liberation Army Navy Rear Admiral Yin Zhuo said China relied too 
+heavily on sea transportation for its oil imports. Hence, "We must either build 
+a much more powerful navy or find alternative transportation channels."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

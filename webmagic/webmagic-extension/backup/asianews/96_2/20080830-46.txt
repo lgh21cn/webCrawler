@@ -1,0 +1,46 @@
+<ID>20080830-46
+<DATE>20080830<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=13094
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-police-raid-against-Muslim-rebels,-six-killed-13094.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: police raid against Muslim rebels, six killed
+<\TITLE>
+<ABSTRACT>
+New violence in the western Chinese province, the theater of clashes between Beijing officers and Muslim separatists. The police say they reacted to an attack by the group of Muslims; an association that defends the rights of the Uyghurs instead speaks of a "deliberate attack".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - Six dead and three arrested: the tally is from 
+an operation carried out by Chinese police in the western province of Xinjiang, 
+a majority Muslim area inhabited by ethnic Uyghurs, which for some time has 
+seen episodes of violence between separatists and the central government.
+
+ According to the initial version of events, late yesterday evening in Kasghar 
+a police patrol came across nine suspects. The group is believed to have 
+reacted to the command to halt from the agents by pulling out knives; the 
+officers opened fire, killing six people and wounding three.
+
+ Sources from the World Uygur Congress, an association that defends the rights 
+of the Muslim minority, based in Germany, affirms that the police deliberately 
+fired on the group after they decided to surrender.
+
+ It is not the first time that the province, once known as eastern Turkestan, 
+has seen episodes of violence between pro-autonomy Islamic groups and the 
+Chinese army, conducting a genuine colonization of the region. Beijing accuses 
+the Uyghurs of promoting terrorist attacks, and decided to conduct yet another 
+security crackdown in view of the Olympics.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

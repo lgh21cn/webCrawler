@@ -1,0 +1,73 @@
+<ID>20090728-111
+<DATE>20090728<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15900
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-leader-Rebiya-Kadeer-in-Japan,-Beijing-protests-15900.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur leader Rebiya Kadeer in Japan, Beijing protests
+<\TITLE>
+<ABSTRACT>
+Exiled leader will hold a press conference and might meet lawmakers from Japan’s ruling party. China responds by saying that visit could jeopardise bilateral relations. Meanwhile internet is restored in Xinjiang but only for government sites.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Tokyo (AsiaNews/Agencies) – Exiled Uyghur leader Rebiya Kadeer has arrived in 
+Japan despite China’s displeasure. Beijing had called on Japan to deny her a 
+visa. In Xinjiang, which is still under martial law, internet access has been 
+restored but only for pro-China sites. 
+Ms Kadeer came from the United States, where she lives in exile, on a five-day 
+visit and is expected to hold a much awaited press conference tomorrow.
+
+She is likely to talk about the unrest in Xinjiang earlier this month. China 
+claims that almost 200 people, mostly ethnic Han Chinese, died; Ms Kadeer said 
+that thousands have died, killed on masse by police.
+
+She is also expected to meet members of Prime Minister Taro Aso's party, but 
+the contact will be unofficial for security reasons.
+
+Beijing had called on Tokyo to deny Ms Kadeer the entry visa. 
+
+Through its spokesman Qin Gang, China’s Foreign Ministry expressed its 
+dissatisfaction with the trip.
+
+For Beijing Ms Kadeer is a dangerous terrorist, involved in separatist 
+activities who masterminded this month’s violent protests in Xinjiang.
+
+Because of similar charges she spent around six years in a Chinese prison 
+before being released under international pressure in 2005.
+
+China's ambassador to Japan, Cui Tiankai, also warned that a visit by this 
+“criminal” would damage relations between the two countries.
+
+By contrast, in recent weeks Japan criticised China’s bloody crackdown in 
+Xinjiang, calling on Chinese authorities to protect the human rights of Uyghur 
+people.
+
+In the meantime in Xinjiang access to the internet and text messaging has been 
+restored only today.
+
+Yang Guoqing, a spokesperson for the provincial government news center, said 
+the government is now sending text messages to citizens to inform them “about 
+the latest situation”.
+
+Internet has been restored as well but only to a few select government and 
+business-related Web sites; all the other are still being blocked.
+
+Well-known social networking sites like Facebook and Twitter have been blocked 
+nationwide for weeks.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,100 @@
+<ID>20151211-17
+<DATE>20151211<\DATE>
+<URL>
+http://www.dw.com/en/chinese-human-rights-lawyer-to-stand-trial/a-18912287
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese human rights lawyer to stand trial
+<\TITLE>
+<ABSTRACT>
+Once again, a human rights lawyer is being tried in China. The charge against 50-year-old Pu Zhiqiang is that he disturbed peace and incited hatred. He can face up to eight years in prison if convicted.
+<\ABSTRACT>
+<CONTENT>
+
+ Pu Zhiqiang, who is awaiting trial, has already been behind bars for 587 
+days. It is a case amongst peers, as all parties involved are deeply familiar 
+with every detail of the Chinese legal system, as well as its recesses.
+
+ In the only three page criminal complaint against him, the state prosecutor 
+has accused the human rights lawyer of "inciting hatred among ethnic groups" 
+within the country and being a "public troublemaker."
+
+ On Monday, December 14, the case will be heard by Beijing's Second 
+Intermediate People's Court.
+
+ Last year in March, nine people clad in black indiscriminately attacked 
+pedestrians with machetes at a railway station. Twenty-nine people were killed 
+and several hundred were wounded in the attacks. The perpetrators belonged to 
+the ethnic Uyghur group, a Turkic-speaking minority based in western China. 
+Chinese authorities describe them as "terrorists" and "separatists."
+  
+Twenty-nine people died during a terrorist attack in Kunming, China
+
+ After the assault, Pu allegedly published eight short messages on the 
+Internet, which, the prosecutor says, incited hatred and tensions between the 
+ethnic communities. The officials also claim that many Internet users said that 
+Pu's messages were damaging for the solidarity between China's ethnic groups.
+
+Seven posts as proof?
+
+ The three page indictment report does not explicitly state which of Pu's 
+messages are being investigated. Seven Weibo messages - which Pu allegedly 
+posted between 2011 and 2014 - have been circulating online and may now prove 
+to be his downfall.
+  
+Pu protesting at Tiananmen Square in 1989
+
+Following the attacks in Kunming, Pu allegedly wrote: "The act of terrorism is 
+the result, not the cause." Pu also supposedly wrote on the subject of Tibet: 
+"In the Tibetan areas, all temples should demonstrate nine things, namely, 
+portraits of the four major Chinese leaders (Mao Zedong, Deng Xiaoping, Jiang 
+Zemin and Hu Jintao), the national flag, a map, tap water, radio and TV, 
+cinema, a library, and newspapers. And in the city of Yinging (in the 
+predominantly Muslim Xinjian autonomous region), beards and face veils are 
+forbidden. These measures should weaken religious consciousness. Are the Han 
+Chinese crazy? Or is it, rather, their leadership?"
+
+Beijing's 'Nemesis' 
+
+ Pu was always a problem for the government in Beijing. As a student, he 
+called for more democracy at Tiananmen Square in 1989. He went on a hunger 
+strike and participated in a sit-in, but he was not arrested.
+
+ After graduating with a degree in law from Beijing, he passed the state 
+examination and was licensed as a lawyer and university lecturer. Among his 
+clients were critical journalists, farmers whose land was expropriated, and 
+victims of torture. In 2011, he represented the renowned artist Ai Weiwei who 
+had come to the attention of the authorities for alleged tax evasion.
+
+ In 2013, Pu accused Zhou Yongkang, a retired permanent member of the 
+Politburo, of abuse of office on his social network account. Something no one 
+previously dared to do. Two years later, Zhou was sentenced to life in prison 
+for corruption and abuse of office.
+  
+Germany's Human Rights Commissioner Straesser praised Pu for his 'commitment 
+to enhancing the rule of law'
+
+International criticism
+
+ Christoph Straesser, Germany's Human Rights Commissioner, criticized the 
+lawsuit currently opened against Pu. According to Straesser, Pu stood up for 
+the rule of law "within the context of his legal profession and on the basis of 
+the applicable laws."
+
+ The US State Department also called Pu "a courageous defense attorney 
+recognized around the world for his tireless work in support of the rule of law 
+in China."
+
+ Many of Pu's fellow lawyers in China are carefully following his public 
+trial. But Courtroom Number 6, where Pu will stand trial on Monday, is one of 
+the smallest out of the 35 courtrooms available.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

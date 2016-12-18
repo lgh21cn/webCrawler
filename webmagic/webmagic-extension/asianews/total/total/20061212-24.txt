@@ -1,0 +1,57 @@
+<ID>20061212-24
+<DATE>20061212<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=7971
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Christians-tortured-in-Xinjiang,-Anhui-church-forcibly-shut-down-7971.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Christians tortured in Xinjiang, Anhui church forcibly shut down
+<\TITLE>
+<ABSTRACT>
+Arbitrarily arrested, four Christians were detained and tortured for 32 days. The Anhui Religious Affair Bureau shut down a house church set up 53 years ago. 
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Qingshuihe (AsiaNews) – After 32 days in prison, four unofficial Christians 
+from northern Xinjiang province were released on 26 November. They were 
+tortured by prison guards and by convicts sharing their cells throughout their 
+detention.
+
+On the same day, the Religious Affair Bureau forcibly shut down a house church 
+inAnhui that had been set up 53 years ago by the charismatic pastor Wang. 
+Further, the bureau threatened around 200 Christians who used to attend the 
+church with “serious repercussions” if they did not accept to be subject to the 
+government-approved Movement of the Three Autonomies (MTA).
+
+This was denounced by China Aid Association (CAA), a US-based non-governmental 
+organisation that lobbies for religious freedom inChina.
+
+The CAA said that “without giving any reasons for their arrest or release”, 
+the authorities of northern Xinjiang province freed all the Christians who had 
+been arrested last month in Qingshuihe in the eastern part of the province.
+
+Four detainees were imprisoned for 32 days without charge and now they are in 
+hospital.
+
+One told how he was “tortured every day. The guards beat me if I ate the food 
+or did not eat the food, ate too much or too little, went to the toilet or did 
+not go to the toilet! They just beat me for no reason.”
+
+Another, Tan, said he was put in the same cell as homosexual convicts. “The 
+guards put me there on purpose.I was humiliated physically and psychologically. 
+I would not come out alive if I had been with them any longer.”
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

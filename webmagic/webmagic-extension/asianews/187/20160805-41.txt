@@ -1,0 +1,69 @@
+<ID>20160805-41
+<DATE>20160805<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=38232
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Christian-activist-sentenced-to-three-years-for-subversion-38232.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Christian activist sentenced to three years for "subversion"
+<\TITLE>
+<ABSTRACT>
+  
+<\ABSTRACT>
+<CONTENT>
+   
+
+Tianjin (AsiaNews / Agencies) - Protestant Christian human rights activist,Gou 
+Hongguo, was sentenced this morning to three years in prison for attempting to 
+"subvert state power". The sentence was suspended for three years.
+
+According to the indictment, Gou - who was part of Hu Shigen's community, also 
+sentenced days before 
+
+- took part in a meeting of interracial leaders in Taiwan. There were 
+supporters of independence from Xinjiang, Tibet and Inner Mongolia.
+
+The prosecutor acknowledged that the meeting wanted to implement a non-violent 
+resistance and push for social and democratic change in China. But this entails 
+an end to the supremacy of the Communist Party, which led to the charge of 
+"subversion". Gou was also accused of having associated with protests related 
+to workers' rights, that challenge Communist Party rule.
+
+The arguments of the defense, that Gou had gone to Taiwan without knowing who 
+the guests were and on his return did not publish any information about the 
+gathering, were to no avail. The defense lawyer also noted that the meeting 
+only involved 15 people and Gou had a marginal role.
+
+Gou's ruling is the latest of four, which took place this week against human 
+rights lawyers and activists arrested in July 2015. 
+
+
+Yesterday Zhou Shifeng, the former director of the Fengrui law firm,was also 
+sentenced.
+
+Fengrui took on about 100 lawyers and handled many sensitive cases: it 
+represented the victims of the scandal of the melamine milk; the artist Ai 
+Weiwei; the blind activist Chen Guangcheng, now in exile in the United States; 
+the Christian lawyer Gao Zhisheng; Uighur academic Ilham Tohti.
+
+The court ruled that Zhou has repeatedly expressed comments online and in 
+person "attacking the socialist system, the one country two systems policy 
+[that exists in Hong Kong], and incited people to go against state power".
+
+His trial ended with an ironic scene: Zhou spoke for 10 minutes, then stopped 
+by the judges. He "apologized to all 90 million members of the Communist Party" 
+and the government, adding that "the legal system and democracy in China is 
+greater than that of the state of Western law and above all far beyond that of 
+the United States".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

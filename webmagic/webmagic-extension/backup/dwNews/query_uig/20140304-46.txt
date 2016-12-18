@@ -1,0 +1,28 @@
+<ID>20140304-46
+<DATE>20140304<\DATE>
+<URL>
+http://www.dw.com/en/opinion-oppression-is-the-wrong-response/a-17472404
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Opinion: Oppression is the wrong response
+<\TITLE>
+<ABSTRACT>
+It is still not clear who is responsible for the bloody attack at Kunming's train station. But the tragedy shows that China's policies on minorities needs an overhaul, writes DW's Matthias von Hein.
+<\ABSTRACT>
+<CONTENT>
+ Until now, Kunming has been known as "the City of Eternal Spring." But after Saturday evening, the capital of the southeastern province of Yunnan will be better known as the site of the bloodiest terror attack in recent Chinese history. Attackers wielding knives ran amok at Kunming train station, creating a bloodbath that left over 30 people dead and over 140 wounded.
+ Chinese authorities didn't hesitate to blame "separatist terrorists" from northwestern Xinjiang province for the violence. The region - which is over 2,000 kilometers from Kunming - has been the scene of bloody conflicts between the native Uighurs, a Muslim minority, and the Han Chinese majority a number of times in the past years.
+ Whoever carried out the terrorist attack should know: nothing could ever justify such a blind act of aggression against innocent passengers. The international community has rightly condemned the attack and the German government has expressed its sympathy for the victims.
+ This terrorist attack was carried out at a politically sensitive time, just days before around 3,000 delegates are scheduled to meet for the yearly National People's Congress. Usually security forces are particularly vigilant during the Congress to prevent anything from disturbing the strictly choreographed demonstration of national unity and prescribed harmony.
+ It would be helpful if the Chinese leadership and the handpicked delegates at the National People's Congress thought about whether the dissatisfaction of national minorities such as Xinjian's Muslim Uighurs, or the Tibetans and Mongolians, should always simply be suppressed. But such a change in official attitudes is unlikely. Just last week, the detained Uighur scientist Ilham Tohti was accused of fostering separatism - a charge that can carry the death penalty in China. In his push for equality between Han Chinese and Uighurs, Tohti has actually been a moderate voice. Arresting people like him will only drive others into the arms of extremists.
+ Last year, there was a brief glimmer of hope that the treatment of national minorities in China might change when the head of an influential Beijing think tank for religious and ethnic questions commented on Tibet in an interview with a Hong Kong magazine. In the interview, she concluded that the current policy of economic development paired with continuing political repression doesn't work and would have to change. The same conclusion applies when it comes to Xinjiang and the Uighurs.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

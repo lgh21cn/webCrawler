@@ -1,0 +1,82 @@
+<ID>20051116-99
+<DATE>20051116<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4637
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/China-admits-to-first-human-case-of-bird-flu-4637.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China admits to first human case of bird flu
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  China has admitted to a probable case of human 
+infection of bird flu while the virus continues to invade new regions. This is 
+the first case since 2003.
+
+China. Preliminary testing reveals that He Junyao, a nine-year-old boy from 
+Wantang, Xiangtan county in Hunan, has contracted bird flu. Previous tests, 
+undertaken by the local health department, "were negative" said Qi Xiaoqiu, 
+director of the health ministry's department of disease control. "But the 
+results from the Chinese Centre for Disease Control and Prevention (CDC) are 
+positive", even if further testing is required to confirm the results. The 
+World Health Organisation's (WHO's) Beijing spokesman, Roy Wadia, said he was 
+"not surprised" even if he is waiting for confirmation, expected within days. 
+Meanwhile, WHO experts are currently in Xiangtan to conduct confirmatory tests 
+while their colleagues study lab samples of suspect cases in Beijing.
+
+The boy fell ill on 13 October together with his sister He Yin at the same 
+time as an infection outbreak among birds in the village. His sister died 
+within a few days and her body was cremated before any accurate testing could 
+be carried out. The official diagnosis for both cases was of "pneumonia caused 
+by unknown factors", but 11 days after the media raised doubts about this, the 
+Health Minister requested WHO intervention. The boy was discharged from 
+hospital last week. Now Qi admits that the previous tests "may not have been 
+appropriate" even because "it was the first time the local laboratory conducted 
+such tests, and their quality is limited." A 36-year-old teacher fell ill with 
+identical symptoms at around the same time in a neighbouring village, but 
+official health sources excluded infection, without giving any further 
+explanations.
+
+Yesterday two outbreaks of infection were reported in the remote north-west 
+region of Xinjiang where more than 6,500 birds were infected and 320,000 culled 
+in the capital Urumqi and Zepu county. The authorities have admitted to 11 
+outbreaks since October (in Mongolia Interior, Liaoning, Anhui, Hubei and 
+Henan). China has announced that it will vaccinate all poultry stocks, more 
+than 14 billion animals. In Heishan county in Liaoning, Zhao Yonghe, head of 
+the Badaohao Township Animal Husbandry Station, was arrested for certifying 
+infected chickens as healthy.
+
+Vietnam. The media has reported two other suspect cases of infection 
+hospitalized in Hanoi with typical symptoms: a 15-year-old girl and a 
+71-year-old woman. Testing is under way. The Agriculture Minister reported new 
+outbreaks of the H5N1 virus in three other provinces, the central Quang Ngai 
+and the northern Vinh Phuc and Bac Ninh provinces. In a bid to contain the 
+infection, massive culling of poultry continues. Hanoi breeders said they 
+receive 15,000 dong (around 95 cents of a US dollar) for every duck slaughtered 
+but it costs 40,000 dong to raise one. However in the city of Ho Chi Minh, 
+where a ban on poultry breeding is on, animals found in people's homes are 
+culled and no compensation is given.
+
+Scientists in Vietnam are undertaking continuous testing on birds in which 
+they have identified a type of influenza virus, although it does not appear to 
+be dangerous to man. The fear is that some strains could evolve into forms and 
+pathogenes which endanger human beings. Today Vietnam announced it will produce 
+its own vaccine to protect poultry.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

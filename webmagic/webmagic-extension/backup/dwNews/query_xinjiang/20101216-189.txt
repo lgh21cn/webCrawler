@@ -1,0 +1,35 @@
+<ID>20101216-189
+<DATE>20101216<\DATE>
+<URL>
+http://www.dw.com/en/wen-jiabaos-south-asia-visit-a-tightrope-walk/a-6348479
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Wen Jiabao's South Asia visit: a tightrope walk
+<\TITLE>
+<ABSTRACT>
+As the Chinese Prime Minister visits India and Pakistan, he has a delicate task of improving ties with India without displeasing Pakistan. Wen is starting the second leg of his South Asian tour in Pakistan on Friday.
+<\ABSTRACT>
+<CONTENT>
+China has a reputation of being an 'all-weather' partner of Pakistan. However, it has recently moved closer towards Pakistan's arch-rival India. As the Chinese premier Wen Jiabao signs bumper trade deals with New Delhi on his India visit, Pakistan too is hoping to receive maximum trade benefits to aid its frayed economy. China's closer ties with India are looked at in Islamabad with some suspicion. India, too, is critical of China's various proposed contracts with Pakistan that are going to be finalized during Wen Jiabao's visit to Islamabad. 
+India views the proposed one-gigawatt nuclear plant deal between Pakistan and China with a lot of concern. China's investment in the nuclear facilities of Pakistan, whose track record in nuclear non-proliferation has been marred by controversies, is enough to raise the eyebrows of Western powers. Besides, Pakistan is not a signatory to the nuclear non-proliferation treaty (NPT). 
+But according to Moonis Ahmar, professor of international relations at Karachi University, the NPT is irrelevant in the case of the Sino-Pakistani nuclear deal, as its purpose is to generate energy. "It is true that Pakistan's nuclear record has been controversial, particularly in the case of A.Q. Khan, but the fact is that Pakistan faces a serious energy deficit, and that is the reason Pakistan and China are going to sign a deal," Ahmar told Deutsche Welle.
+India, too, has not signed the NPT. Islamabad believes that if the US could give nuclear concessions to New Delhi, it has an equal right to attain nuclear energy, and if it does not come from the US, China has been a tried and tested regional ally. 
+China is the major supplier of conventional weapons to Pakistan, and it is also believed that it helped Pakistan in building its nuclear weapons program.
+India is unhappy about China's practice of giving stapled visas to travelers from Jammu and Kashmir, as well as China's role in building dams in Pakistan-administered Kashmir. India wants China to be more sensitive on the Kashmir issue. However, many in Pakistan point out that Beijing has already changed its stance.
+"China has somehow amended its position on Kashmir. 35 to 40 years ago, China was openly supporting Pakistan on the issue of Kashmir, but now it advises Pakistan to resolve the conflict through dialogue and negotiations, and avoid any kind of militaristic adventure. So it is a different policy on Kashmir now," said Moonis Ahmar. 
+According to Pakistan's foreign office spokesman Abdul Basit, the Chinese premier is expected to sign 36 development projects in Pakistan, which will include projects in energy, infrastructure, and finance. The Pakistani government has also approved the licence of the Industrial and Commercial Bank of China (ICBC). 
+In the face of a severe economic crisis and massive floods, Pakistan is looking to China for greater economic support. The annual bilateral trade between Pakistan and China was about $6.8 billion in 2009 and the two countries aim to increase it to $15 billion by 2011. 
+India wants China to play a role in curbing Islamist militancy and hopes that the Chinese PM will use his influence on Pakistan, which is regularly blamed by India for cross-border terrorism. 
+China, too, has concerns about the issue of Islamist militancy in its northwestern Xinjiang region, bordering Pakistan. China has been urging Pakistan to take action against Uighur militants who have possible links with the Islamists in Pakistan and Afghanistan. 
+Islamabad denies any connections with Islamist militants. 
+Author: Shamil ShamsEditor: Thomas Baerthlein
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

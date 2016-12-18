@@ -1,0 +1,82 @@
+<ID>20161008-87
+<DATE>20161008<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=38802
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-mercenaries-a-growing-presence-among-jihadists-in-Mosul-38802.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+ Uyghur mercenaries a growing presence among jihadists in Mosul
+<\TITLE>
+<ABSTRACT>
+ 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Mosul (AsiaNews) – More and more Asian fighters speaking Chinese are seen in 
+the streets of Mosul, jihadi Uighur mercenaries who came to Syria through 
+Turkey at the start of the war. In the last few months, they and their families 
+have moved from Rakka in Syria – the Islamic State’s capital – to Iraq.
+
+In April 2015, many of them went from Turkey to Azerbaijan to attack targets 
+in Nagorno Karabakh 
+
+ in what came to be known as the ‘Four-day War’.
+
+Armenian intelligence informed the West and Russia that Uyghur, Turkmen and 
+Chechen fighters left Azerbaijan for Turkey.
+
+Dubbed Daesh’s police, the Uyghurs can be seen everywhere in Mosul. Deployed 
+in markets, intersections, and government buildings, their task is to police 
+the capital of the Islamic Caliphate.
+
+According to information from Mosul, Caliph al-Baghdadi also gave Uyghurs the 
+important mission of securing the plains lying to the right of Mosul.
+
+For years, Turkey has backed Turkic-speaking Muslim Uyghurs in their struggle 
+to secede from China. It is also common knowledge that Ankara brought in and 
+trained Uyghurs fighters before sending them to Syria.
+
+Now the Uyghurs have "voluntarily" moved from Syria to Iraq with Daesh at a 
+time when Turkey, as its only supporter, threatens to participate in the ground 
+assault to free Mosul from Daesh, “which has nothing to do with Islam."
+
+Two days ago, Turkish foreign minister Mevlüt Çavuşoğlu, who also said that 
+Daesh has "nothing to do with Islam”, noted that "We are fighting armed men 
+from dozens of countries who joined Daesh".
+
+Scores of reports suggest however that Turkey has allowed jihadist fighters 
+and weapons to enter Syria and, through the latter, Iraq.
+
+Iraqi Popular Forces Commander Karim Al Nuri, told a Pan-Arab television 
+network that “we shall liberate Mosul with Iraqi groups" and that "we cannot 
+allow Mosul to become a platform for Turkish President Erdogan’s ambitions."
+
+Nuri was referring  to statements by the Turkish president 
+
+ announcing a few days ago that Turkey would take part in the offensive against 
+the jihadists of the Islamic State (IS) in Mosul. According to Erdogan, only 
+"Sunni Arabs and Kurds, and Turkmen" should remain in Mosul.
+
+Speaking on the matter, Nuri welcome international efforts in favour of Iraq 
+but stressed that “Turkey’s (military) intervention in Iraq is a violation of 
+international law”.
+
+In view of this, he called on the Turkish president to change plans, 
+describing “Turkish presence in Iraq is no different to Daesh occupation”.
+
+"We want to liberate Mosul and reiterate its Arab character. Those who think 
+they can act as guardians of Turkmen” are mistaken. “Turkmen are Iraqi 
+citizens, and we shall not allow them to become someone’s else pawns.” (P.B.)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

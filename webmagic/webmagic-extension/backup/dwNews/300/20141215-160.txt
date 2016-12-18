@@ -1,0 +1,151 @@
+<ID>20141215-160
+<DATE>20141215<\DATE>
+<URL>
+http://www.dw.com/en/chinas-long-farewell-to-coal/a-18133113
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China's long farewell to coal
+<\TITLE>
+<ABSTRACT>
+At the Lima climate conference, China promised to reduce its greenhouse gas emissions. But it has a long road ahead to free itself from its dependence on coal. Future climate stability depends on how fast it succeeds.
+<\ABSTRACT>
+<CONTENT>
+
+ China produces around 30 percent of global emissions of carbon dioxide - more 
+than any other country. It is the world's largest greenhouse gas polluter and 
+the country most responsible for any global temperature increase that might 
+result. But until now, Beijing has shown little interest in combating climate 
+change.
+
+ With some justification, the Chinese leadership has long said that since the 
+long-industrialized countries created their wealth at the expense of the 
+environment, they have an obligation to be the primary actors on decarbonising 
+their economies. China's position was one of several key reasons for the 
+failure of the 2009 climate summit in Copenhagen.
+
+ Shortly before the Lima climate talks began, President Xi Jinping signaled a 
+new attitude in ajoint statement with US President Barack Obama 
+ 
+at the APEC Summit in Beijing: China plans to reach peak annual CO2 emissions 
+by no later than 2030, and decrease emissions year-on-year thereafter.
+
+ President X also said China would use non-fossil energy sources for 20 
+percent of its total energy needs by that year.
+
+How quickly? 
+  
+China is coming under increasing pressure from environmental groups
+
+It was an announcement that sent a strong signal. If China does not take 
+action, all climate efforts are doomed to failure. While the EU and - to a 
+lesser extent - the US are taking steps to cut emissions, China has increased 
+its output this year by 500 million tons - making China "a unique global 
+threat," as "The Economist" put it.
+
+ What matters is how fast and how comprehensively China can become independent 
+of coal. Even Germany, which sees itself as a leader of the green energy 
+revolution, is making this transition only slowly.
+
+ At present, China produces about 75 percent of its electricity from coal. In 
+Germany, the figure is 44 percent. China faces the bigger technical challenge, 
+since its total energy demand is greater and still growing fast - its demand 
+for electricity is expected to grow by over 70 percent by 2035.
+
+ It's an open question as to whether China can break the link between economic 
+growth and consumption of coal - and thus carbon dioxide emissions.
+
+ "It won't be possible to shake the dominance of coal in China's energy system 
+for a long time," environmental expert Björn Conrad, analyst at the 
+Berlin-based Mercator Institute for Chinese Studies (MERICS), wrote in a recent 
+study. Although China is developing renewable energy sources on a large scale, 
+leaving coal behind will require decades of effort, he said.
+
+Signs of a turnaround
+  
+But Li Shuo, a climate and energy campaigner at Greenpeace East Asia, is 
+optimistic that this is possible. "In the first three quarters of 2014, China 
+experienced a decline in coal consumption by 1-2 percent, while economic growth 
+was still at around 7 percent," Li told Deutsche Welle. For the first time, 
+coal consumption has declined in absolute terms, he said.
+
+ And while this is not an energy transition on the German model, it could the 
+"be the beginning of an ambitious turnaround," Li said, calling the next 
+Five-Year Plan, from 2016 to 2020, "absolutely critical."
+
+ Li expects that the plan will include a cap on coal consumption - thus 
+reducing CO2 emissions before 2030. "There is therefore a lot of scope for 
+China to reach its emissions peak much earlier," he said.
+
+ Speaking in Lima, German Environment Minister Gerd Müller put it in similar 
+terms: "China has now made environmental protection its number-one topic, 
+because the people demanded it. I think the Chinese will be much more ambitious 
+than they are announcing now."
+
+Solar and wind energy not used efficiently
+  
+Little is being done to stop pollution in China
+
+Beijing's withdrawal from coal has less to do with fear of climate change than 
+the Communist Party leadership's fear of mass discontent over deadly smog, like 
+that which smothered Beijing in January 2013.
+
+ Catastrophic air quality also has a negative effect on investment in China. 
+The leadership has realized that it cannot go on this way - and for that 
+reason, it's increasingly looking to non-fossil energy sources.
+
+ In terms of new wind and solar power plants, China was the world leader in 
+2013. But power transmission faces a bottleneck: The grid cannot keep up with 
+the installed wind power capacity. Eco-friendly current generated in China's 
+interior is only partly able to reach coastal regions where demand is greatest.
+
+ China needs an intelligent power system that is compatible with clean energy, 
+Li said. But it is easier to move from zero clean energy to a 5 per cent 
+renewable electricity share, he added, than to go from 15 to 20 percent, which 
+would be the next step for China.
+
+A nuclear alternative
+  
+Wind power will require a new electric grid
+
+In addition to water, wind and solar power, China is also turning to a more 
+controversial alternative to coal: Nuclear energy. After the initial shock from 
+the Fukushima reactor meltdown abated, Beijing gave the green light for nuclear 
+power capacity to triple to 150 megawatts by 2020.
+
+ China's largest nuclear power company, CGN, with revenues of $3.2 billion, 
+had this year's second-largest IPO in the Asia-Pacific region when it began 
+trading on the Hong Kong Stock Exchange. Critics fear that with China's new 
+enthusiasm for "clean" nuclear energy, safety issues are bound to come up short.
+
+ Another alternative to conventional coal energy is coal gasification. This 
+technology has been known for decades, and Beijing plans to further promote and 
+use it for the electricity and gas supply to large cities. It could in part 
+replace conventional coal-fired power plants.
+  
+China is also turning toward nuclear energy
+
+But there's a catch, Li said: This energy-intensive technology produces even 
+more carbon dioxide than normal combustion of coal. In addition, water 
+consumption is very high, which is likely to become a major problem, especially 
+in the arid regions of central China and Xinjiang, where new plants are to be 
+built.
+
+ Germany's Siemens has built coal gasification plants in China, and is 
+planning more. The company says its operations are virtually carbon-neutral, 
+thanks to the latest technology. But these concepts are not currently being 
+implemented in systems delivered to China, a Siemens spokeswoman admitted to DW.
+
+ There are many signs China is trying to move beyond its conventional 
+coal-driven energy supply. Germany and China are currently pursuing an 
+"innovation partnership." But a great deal of innovation will be needed if 
+wind, water and solar power are to gain the upper hand.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

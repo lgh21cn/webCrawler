@@ -1,0 +1,65 @@
+<ID>20051004-184
+<DATE>20051004<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4259
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-wants-more-oil-out-of-Xinjiang-4259.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing wants more oil out of Xinjiang
+<\TITLE>
+<ABSTRACT>
+The province is rich in oil and gas hitherto held in reserve. Now authorities announce greater investments in exploration and refining capacity. But there is also greater fear about police repression.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  Beijing wants to develop the rich oil reserves 
+in Xinjiang Uygur Autonomous Region. For much of the history of the Chinese oil 
+industry, fields in eastern China have been the main contributors to 
+production, whilst those in Xinjiang took the role of a strategic substitutive 
+zone. But as oil prices and imports (now standing at 45 per cent of China's 
+needs) grow, the time has come for full developing domestic oil and gas 
+resources.
+
+In late June, Vice-Premier Zeng Peiyan and officials from the State 
+Development and Reform Commission, the Ministry of Land and Resources, and 
+China's top oil giants China National Petroleum Corporation (CNPC) and China 
+Petrochemical Corporation (SINOPEC) attended an oil and gas seminar in 
+Xinjiang, where they agreed to speed up construction of facilities to develop 
+Xinjiang's oil and gas resources.
+
+Xinjiang's Tarim, Junggar and Turpan-Hami basins are home to 20.9 billion tons 
+of oil resources and 10.85 trillion cubic meters of natural gas, respectively 
+accounting for 25.5 per cent of China's inland oil resources and 27.9 per cent 
+of the country's inland gas resources.
+In 2004, Xinjiang produced 22.60 million tons of crude oil. According to 
+CNPC's and SINOPEC's preliminary plans, the region's oil and natural gas output 
+will hit 30 million tons and 18 billion cubic meters, respectively, by 2010.
+
+Combined with the 20 million tons of crude oil imported from Kazakhstan via 
+pipelines, Xinjiang will become the country's largest oil and gas supply base 
+by then.
+
+Earlier, CNPC and SINOPEC announced that they would invest 20.85 billion yuan 
+this year in upstream oil and gas prospecting and exploration in Xinjiang.
+
+Similarly, the authorities are also speeding up the construction of facilities 
+for transmitting oil and gas from Xinjiang to other parts of the country.
+
+Expansion of the local oil and gas industry has been matched by statements 
+made in the last few months by the central authorities that local "separatism 
+and religious extremism" would be treated with greater "severity".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

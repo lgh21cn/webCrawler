@@ -1,0 +1,86 @@
+<ID>20070331-4
+<DATE>20070331<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=8884
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-aims-to-increase-its-control-of-ethnic-minorities-8884.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing aims to increase its control of ethnic minorities
+<\TITLE>
+<ABSTRACT>
+A plan announced yesterday will fund the economic development of ethnic minorities, often among the nations poorest peoples. But there will also be a system of social control of minorities to prevent protests. Particular attention is paid to the Uyghurs of Xinjiang and Tibet.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – The central government has issued a development 
+programme for to improve conditions for 55 minorities. They are among the 
+nations poorest social groups, and often their discontent has exploded into 
+violent street protest. But analysts maintain that Beijing merely wants to 
+install greater control mechanisms. 
+
+ 
+
+This is the first time the government has issued 11th five-year development 
+programme for its 55 minorities separately from the nation's overall five-year 
+plan. The programme sets goals to improve infrastructure and the environment, 
+support the development of specialised economies, relieve poverty, create 
+better welfare conditions and make ethnic relations "more harmonious".
+
+ 
+
+Speaking at a press conference yesterday, Danzhu Angben, a deputy director of 
+the State Ethnic Affairs Commission, said the 22 small minorities with 
+populations below 100,000, would receive 112 million Yuan from the Ministry of 
+Finance every year to relieve poverty for a total population of 630,000. He 
+insisted that “in China the ethnic groups are equal in status and live in 
+harmony.  There is no discrimination”.  
+
+ 
+
+The rapid economic development of the country has not stopped poverty from 
+spreading in rural areas where a lack of social services and grave pollution 
+has worsened it’s effects.  Now Beijing is claiming that social unrest, which 
+has increased over recent years transforming itself into violent street 
+protests, is due to the lack of economic development in some areas. But experts 
+observe that the protests are generally in reaction to violations of human 
+rights which happen in the same areas were the population is from the Han 
+ethnic group. Such as in Yunnan where protests by the ethnic minority were 
+against the building of a dam. 
+
+ 
+
+ 
+
+Moreover Beijing has long favoured the migration of the Han (which constitutes 
+over 90% of the population) to areas of different traditional and cultural 
+ethnic origins, for example Tibet and Xinjiang, often promoting the Han in 
+business and to positions of authority and even banning the use of local 
+languages.  To stave off  inevitable protests the government, while it promises 
+economic relief for these areas, now says that by 2010 it will create a 
+specific control system for these minorities, to “avoid separatist activities 
+and maintain national stability”. Meanwhile for the first time Beijing it will 
+“increase” the number of bilingual teachers in the schools, who will speak both 
+mandarin as well as the local language. 
+
+ 
+
+China claims that Xinjiang represents a possible source of extremist violence 
+as it is home to over 8 million Islamic Uyghurs who are linguistically and 
+traditionally linked to central Asia rather than the rest of the country.  
+Beijing also claims that it fears secession attempts by Tibet, under the 
+guidance of the exiled Dalai Lama, and punishes those who even carry his photo. 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

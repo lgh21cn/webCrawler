@@ -20,6 +20,15 @@ public class CorpusFormatter {
 	public static final String POS="<POS>"+CRLF+"%s"+CRLF+"<\\POS>"+CRLF;
 	public static final String NER="<NER>"+CRLF+"%s"+CRLF+"<\\NER>";
 	
+	public static final String TAG_URL_START="<URL>";
+	public static final String TAG_URL_END="<\\URL>";
+	
+	public static final String TAG_TITLE_START="<TITLE>";
+	public static final String TAG_TITLE_END="<\\TITLE>";
+	
+	public static final String TAG_ABSTRACT_START="<ABSTRACT>";
+	public static final String TAG_ABSTRACT_END="<\\ABSTRACT>";
+	
 	
 	public static String format(String id,String date,String url
 			,String category,String sentiment
@@ -32,7 +41,8 @@ public class CorpusFormatter {
 		builder.append(String.format(CorpusFormatter.CATEGORY, category));
 		builder.append(String.format(CorpusFormatter.SENTIMENT, sentiment));
 		builder.append(String.format(CorpusFormatter.TITLE, title));
-		builder.append(String.format(CorpusFormatter.ABSTRACT, abstracts));
+		if(abstracts!=null)
+			builder.append(String.format(CorpusFormatter.ABSTRACT, abstracts));
 		builder.append(String.format(CorpusFormatter.CONTENT, content));
 		builder.append(String.format(CorpusFormatter.POS, pos));
 		builder.append(String.format(CorpusFormatter.NER, ner));
@@ -53,7 +63,8 @@ public class CorpusFormatter {
 		builder.append(String.format(CorpusFormatter.CATEGORY, category));
 		builder.append(String.format(CorpusFormatter.SENTIMENT, sentiment));
 		builder.append(String.format(CorpusFormatter.TITLE, title));
-		builder.append(String.format(CorpusFormatter.ABSTRACT, abstracts));
+		if(abstracts!=null)
+			builder.append(String.format(CorpusFormatter.ABSTRACT, abstracts));
 		builder.append(String.format(CorpusFormatter.CONTENT, content));
 		builder.append(String.format(CorpusFormatter.POS, pos));
 		builder.append(String.format(CorpusFormatter.NER, ner));

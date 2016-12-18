@@ -1,0 +1,55 @@
+<ID>20150421-145
+<DATE>20150421<\DATE>
+<URL>
+http://www.dw.com/en/xi-visit-takes-sino-pakistani-ties-to-new-level/a-18396165
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xi visit takes Sino-Pakistani ties to new level
+<\TITLE>
+<ABSTRACT>
+As China's President Xi Jinping wraps up a historic two-day visit to Pakistan that saw the signing of deals worth $46 billion, DW talks to expert Andrew Small about what the trip means for bilateral ties and the region.
+<\ABSTRACT>
+<CONTENT>
+ In his maiden official visit to Pakistan - which ended on April 21 - Chinese President Xi Jinping signed 51 accords to inaugurate the China-Pakistan Economic Corridor (CPEC), which will create a network of roads, railways and pipelines linking China's restive west to the Arabian Sea through Pakistan. The deals are also expected to boost Pakistan's underperforming economy and generate employment opportunities in the country.
+ Xi also addressed the Pakistani parliament, pledging to work together with the South Asian nation and applauding Islamabad's efforts to curb terrorism and promised to stand by its neighbor in overcoming security challenges. A day earlier the leader of Asia's biggest economy was received with unprecedented fanfare in Islamabad. 
+ But despite the enthusiasm and the more-than-ever cordial Sino-Pakistani ties, analysts say that Beijing's main interest in the Islamic country is to expand its reach across Central and South Asia in order to counter the US and Indian influence.
+ In an interview with DW, China expert Andrew Small, a fellow with the Asia program of German Marshall Fund of the United States, says the Chinese investment could be a major boost for the ailing Pakistani economy but the authorities will face a number of logistical, political and security challenge in the implementation of projects.
+  
+ Andrew Small: It was an unusually important visit. Even if only some of the economic projects envisaged between the two sides succeed, it would be a major investment boost for the Pakistani economy and provide serious support towards addressing Pakistan's energy crisis.
+ Ideally, it would also help the country's transition towards becoming an economic hub and an emerging market, but that will be more challenging.
+ Many of the plans for the China-Pakistan Economic Corridor (CPEC) will take some time to come to fruition, so despite all the fanfare, the short-term political implications will be modest - but could be very significant over the long-term. It will also place China far closer to the political centre-stage in Pakistan.
+ When the relationship was very narrowly focused on military and security matters, it could be managed by a relatively small group of people on the two sides - now it brings a much wider group of actors into play and leaves China more exposed. Although the whole initiative is generally popular, there have already been political controversies about who will benefit, given the scale of investment involved.
+ 
+ The China-Pakistan Economic Corridor is often seen just as a set of infrastructure linkages between Xinjiang province, in northwest China, and the Pakistani port of Gwadar. That is part of the plan, but many of the projects under the auspices of the corridor are power plants, industrial ventures, and other economic initiatives in different parts of the country.
+ If the principal infrastructure plans succeed, they would develop Gwadar as a major Indian Ocean port for transshipment to China and connect up with pipelines to Iran, trade routes through Afghanistan, and potentially help to develop economic linkages with India in the end too.
+ But even if some of these plans do not come off, it will notably improve the land trade route between Pakistan and China, the infrastructure in Pakistan itself, and the country's capacity to generate sufficient power to address its energy needs. 
+ 
+ There are logistical, political and security challenges. The logistical challenges are significant. The Karakoram Highway has been closed for five years after a landslide caused a lake to flood stretches of the route, and the road and railway plans will be subject to similar threats from the natural environment in future.
+ Travel up the highway, and through the high mountain passes, it is tough to imagine it as a smoothly functioning trade artery. The political challenges are familiar ones in Pakistan – the capacity of the government to execute the plans, suspicions about whether some of benefits will be directed to politically connected companies and regions rather than the most effective economic partners, corruption problems and so on.
+ The security challenges are also familiar - groups in conflict with the Pakistani government will target the projects, whether that is Balochi nationalists or the Pakistani Taliban, and instability in specific parts of the country will make some the investments hard to pull off.
+ 
+ It's not really assistance - these are investments, and the Pakistani side has also provided part of the financing. But China's willingness to provide concessional loans does have several broader benefits in mind.
+ The CPEC forms part of the Silk Road Economic Belt and Maritime Silk Road, Xi Jinping's signature foreign policy initiative, which is intended to help drive growth in the Chinese interior through developing better infrastructure connections with South Asia, Central Asia, its principal markets in Europe and its natural resource suppliers in the Middle East.
+ Chinese companies that can no longer pursue large infrastructure investments in China, while the country shifts to a more consumption-driven growth model, are being pushed to do so abroad instead. But it is also a stabilization plan for China's western periphery – with the US withdrawal from Afghanistan and the worsening terrorist threat in Xinjiang, China has grown far more concerned about rising militancy in South and Central Asia.
+ These economic initiatives are supposed to help address that, including by stabilizing Pakistan itself, which has been a particular source of concern for China, given that Uighur militant groups have been based in the Pakistani tribal areas for much of the last decade.
+ 
+ Most of the strings for Chinese financing involve the bidding terms for contracts and the involvement of Chinese companies. Beyond that, Beijing doesn't demand much of Pakistan that it wouldn't receive anyway, given the two sides' longstanding and close security relationship.
+ In this instance though, there are expectations from China that Pakistan should ensure a stable environment for such a large set of investments – that doesn't just mean the protection of projects, it also means that Beijing wants Pakistan to stabilize its relationships with its neighbors, especially Afghanistan, and refrain from embroiling itself in any activities that might create security problems in the wider region. 
+ 
+ Some of the projects could certainly be impaired - Chinese companies have withdrawn after attacks and kidnappings before. If the transportation links are not secure then they won't be economically viable. But many of the projects have also been planned for less volatile parts of the country, or can be pretty well protected, so barring a serious deterioration in Pakistan's security a number of them will move forward anyway. 
+ 
+ The China-Pakistan Economic Corridor provides an incentive for Pakistan to improve its economic and political relations with its neighbors, and also some opportunities for them to use the corridor as part of their own trade linkages with China, especially in the case of Afghanistan and Iran.
+ India will be less comfortable with the infrastructure projects in Kashmir and the development of port facilities that could be used for military purposes too. The focus on economic relations during the public aspects of the visit has in some ways distracted attention from the fact that the China-Pakistan relationship is still underpinned by the militaries on the two sides.
+ Xi's visit will almost certainly have involved new defense agreements and cooperation plans too, much of which still has a traditional focus on Pakistan's balancing role vis-à-vis India. But the broad trajectory of the relationship, which involves a far more serious-minded focus on counter-terrorism issues than in the past, is one that should benefit even countries that are wary of the two sides' close security ties. 
+ .
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

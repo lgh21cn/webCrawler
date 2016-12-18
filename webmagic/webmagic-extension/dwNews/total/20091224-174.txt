@@ -1,0 +1,41 @@
+<ID>20091224-174
+<DATE>20091224<\DATE>
+<URL>
+http://www.dw.com/en/rights-situation-in-china-did-not-improve-in-2009/a-5213506
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rights Situation in China Did Not Improve in 2009
+<\TITLE>
+<ABSTRACT>
+On Oct. 1 2009, Beijing’s Tiananmen Square was transformed into a stage to celebrate the founding of the People’s Republic of China 60 years ago. There was a large military parade to demonstrate China's military might. Despite the country's economic strengths, it still has far to go in terms of human rights.
+<\ABSTRACT>
+<CONTENT>
+President Hu Jintao opened the 60th anniversary ceremony to firing canons, wearing a suit like Mao Zedong's. A two-hour parade, which included tanks and missiles, 8,000 soldiers, 60 floats and 100,000 well trained civilians symbolised the country’s growing military and economic might.
+But there was much criticism of China on the occasion. In Hong Kong, for example, there were massive demonstrations against the lack of progress on human rights and democracy.
+Earlier on in 2009, on the 50th anniversary of the failed Tibetan uprising in March, people all over the world demonstrated for Tibet’s autonomy. 
+After 50 years in exile, the Dalai Lama has not given up the fight. “The problem with the People’s Republic of China is that they consider me a trouble maker,” he said this year. “So it is my duty to create more trouble.”
+
+There was also “trouble” in China's north-western region of Xinjiang, where the Uighurs and majority Han Chinese clashed in July, causing some 200 deaths. The mainly Muslim Uighurs complain -- like many other minorities in China -- of cultural and religious repression.
+2009 also marked the 20th anniversary of the massacre on Tiananmen Square, which can arguably be considered the most potent symbol of Chinese repression in the country’s recent past. The Chinese media were banned from discussing it. 
+The British Human Rights Risk Atlas ranked China 12th “most risky country” overall for human rights this year. For child labour, forced labour, and violations of freedom of association, discrimination and working conditions, China ranked highest.
+
+Liu Xiaobo is one of China's most prominent dissidents and is currently awaiting sentencing on charges of subversion. 
+"I have lost faith,” his wife Liu Xia said in August. “There is absolutely no transparency here. If you live in a country in which freedom of speech isn’t worth a dime, anyone can be convicted.” 
+“I am very worried,” she continued. “They have accused him of felonies, for which he could receive up to 15 years in prison. He didn’t do anything, aside from telling the truth and stating his opinion. Here in China they call that ‘breaking the law’.”
+Liu Xiaobo's sentence is expected to be handed down on Christmas day.
+
+Although China was criticised for its human rights record, its economic situation in 2009 gave rise to hope. Despite world recession, China’s economy continued to grow at a rate of eight to 10 percent. The optimism expressed by many economists at the beginning of the year seems to have been vindicated.
+“The statistics are showing recovery in many sectors of the economy,” the head of the Chinese Central Bank, Zhal Xiaochuan, said in January. “This means that our economic stimulus programme is taking hold. The Chinese State Council has made it clear that our reaction to the crisis must be quick and resolute.”
+The positive signs in China's economy have been attributed to an increase in Chinese consumerism and lending and investments abroad. 
+With this strategy, experts say China is leading the world out of the financial crisis and will continue to do so in 2010. 
+Author: Sarah BerningEditor: Anne Thomas 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

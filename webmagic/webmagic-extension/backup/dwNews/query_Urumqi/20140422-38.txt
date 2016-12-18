@@ -1,0 +1,39 @@
+<ID>20140422-38
+<DATE>20140422<\DATE>
+<URL>
+http://www.dw.com/en/life-on-the-margins-for-chinas-uighur-minority/a-17582769
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Life on the margins for China's Uighur minority
+<\TITLE>
+<ABSTRACT>
+Members of China's Uighur minority have long complained they suffer cultural marginalization. Many now also say they are the victims of worsening repression, with accusations of serious human rights abuses.
+<\ABSTRACT>
+<CONTENT>
+ China is a multiethnic state. In addition to the overwhelming majority of Han Chinese are another 55 national minorities, mostly living on the periphery of the country. But some minorities also feel culturally and politically marginalized.
+ The Chinese government would like to paint a picture of harmonious coexistence among the country's various ethnicities. However, the extent to which this is in doubt for some 10 million people in China's northwestern Xianjiang region has been thrown into sharp focus once again.
+ In the city of Aksu earlier this month, a 17-year-old motorcyclist was shot by police after riding past a red traffic light. The subsequent protests were brutally suppressed, according to Radio Free Asia. 
+At the direction of the state information office, any kind of report about the death of the teenager was removed from Chinese websites, according to the China Digital Times online news service.
+ 
+ Many women are worried about their husbands who were taken away by the Chinese authorities after unrest in July 2009, in which more than 150 people died.
+ The tragic incident in Aksu formed part of the background for a conference of exiled Uighurs. The event was held under the title "Silenced Crimes Against Humanity: Enforced Disappearances, Arbitrary Arrests, and Extra-judicial Killings of Uyghurs in China."
+ Uighur delegates from 25 countries in met over three days in the conference room of Munich's Hotel Regent. On the wall hang the pictures of many of those who have died or disappeared. Alim Seytoff, a spokesperson for the World Uyghur Conference (WUC) told DW about the mass disappearances of Uighurs, on which the Chinese authorities have so far refused to prove any information.
+Seytoff complains that, since Chinese President Xi Jinping took office last year, there have been around a dozen extra-judicial killings of Uighurs. "The security forces often shoot dead Uighurs without any kind of trial or hearing. In the aftermath they simply label the victims separatists, terrorist or extremists."
+ It is Seytoff's wish that representatives of Western governments such as that of Germany or the US, as well as the European Union, open up a dialogue with their Chinese counterparts, possibly even during state visits.
+ Ulrich Delius, Asia consultant for the Society for Threatened Peoples said the situation of the Uighurs had become progressively worse. "On a daily basis, where the People's Republic of China is concerned, we have to contend with a repressive regime - one which uses all its might against not only Uighurs but also against Tibetans or Han Chinese who are asserting their human rights," said Delius. "We are dealing with an incredibly powerful opponent that has immense status - economically, politically and militarily. That is what makes the situation so difficult." 
+ The Chinese government believes the solution is to be even more repressive, according to Uighur spokesman Seytoff. The fact that even moderate critics of Beijing, like the Uighur Professor Ilham Tohti have found themselves indicted for alleged separatism appear to support this.
+Meanwhile, the delegates who gathered in Munich placed great emphasis on the rejection of violence. A terrorist stabbing attack at a train station in Kunming, in which more than 30 people were killed in March, was unanimously condemned.
+ As well as being a chance to exchange information and ideas, the Munich meeting was also an opportunity to prepare for the fifth anniversary of the outbreak of the Urumqi riots. At the gathering in Munich, however, witnesses reported that significantly more were killed.
+ 
+ The Bavarian capital was chosen to host the event because it is houses the offices of the WUC. There is a simple reason that the city became something of a capital for exiled Uighurs, according to WUC General Secretary Dolkun Isa: During the Cold War, the city was the base of the American foreign broadcaster Radio Liberty, which, at the time, had a dedicated Uighur program. As a result, the city attracted both Uighur journalists and activists.
+ Although Radio Liberty later moved to Prague, the Uighurs stayed in Munich. In May, the city plans to host to another conference that will focus on the religious oppression of the majority Muslim Uighurs.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

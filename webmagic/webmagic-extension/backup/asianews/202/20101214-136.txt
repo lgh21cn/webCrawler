@@ -1,0 +1,76 @@
+<ID>20101214-136
+<DATE>20101214<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=20249
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Enslaved-disabled-workers-found-in-Chinese-factory-20249.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Enslaved disabled workers found in Chinese factory
+<\TITLE>
+<ABSTRACT>
+Eleven mentally disabled workers forced to work in slave-like conditions in Xinjiang, fed the same food as dogs and beaten for every mistake they made, at no salary and unable to escape. Forced labour is still widespread in China, in what is tantamount to a modern version of slavery. The government says it is fighting the problem, but the latter has a way of reappearing on a regular basis.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Eleven disabled people were forced to work in 
+slave-like conditions at the Jiaersi Green Construction Material Chemical 
+Factory in Xinjiang, newspapers reported recently. The plant is now shut down 
+after police moved in, but many wonder how this could go on for so long, 
+especially in the wake of the Shanxi scandal of 2007 and the government’s 
+repeated claims of success in the fight against this modern form of slavery.
+
+Press reports said that the 11 workers at the building materials plant put in 
+long hours, suffered regular beatings and were given the same food as the dogs. 
+None were paid, some for up to four years. Anyone trying to flee the factory 
+was routinely beaten.
+
+According to factory owner Li Xinglin, the workers were legally contracted to 
+work at the facility by an aid agency for the disabled based in Sichuan. Li 
+claimed he paid the agency a lump sum of 9,000 yuan for five workers and then 
+an additional 300 yuan per worker per month. Police issued an arrest warrant 
+for the founder of the organisation, but he remains at large.
+
+Chinese authorities admit that human trafficking is a problem in the country; 
+one that police has failed so far to eradicate. However, the country’s Public 
+Security Ministry has claimed great victories in the fight against this form of 
+labour exploitation. Seventeen thousand children and women were freed by police 
+and 15,673 suspects arrested between April 2009 and September 2010, it reported.
+
+Between January and July of this year, 1,238 people were sentenced to death, 
+life in prison or jail terms greater than five years, this according to 
+People’s Supreme Court data. However, the numbers leave many questions 
+unanswered about slave workers, who appear to be popping up all over the place.
+
+In 2007, the authorities found thousands of people forced to work in brick 
+kilns in the provinces of Henan and Shanxi, subjected to regular beatings for 
+not working quick enough, living on near-starvation diets, sleeping in cold, 
+unheated rooms, closely watched by dogs and guards. At least one disabled 
+worker was beaten to death by a guard because he “did not work fast enough”.
+
+A parliamentary investigation found that some 53,000 migrant workers were 
+employed in more than 2,000 illegal brick kilns in Shanxi alone. Since then, 
+similar cases of slavery have been reported sporadically around China, 
+suggesting the problem has not been eliminated.
+
+In 2007, in some places local politicians were found to be directly involved 
+in brick kilns.
+
+In May of this year, police rescued 34 people forced to work at a brick kiln 
+in northern China's Hebei province.  
+
+Eleven people were detained for “using methods such as beating, electrocuting, 
+intimidating, and restrictions on freedom, to force migrant workers to engage 
+in heavy manual labour”. 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

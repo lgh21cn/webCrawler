@@ -1,0 +1,66 @@
+<ID>20131230-160
+<DATE>20131230<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=29925
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-authorities-try-to-force-six-women-to-abort-for-violating-one-child-policy-29925.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang authorities try to force six women to abort for violating one-child policy
+<\TITLE>
+<ABSTRACT>
+Despite Beijing's announced reforms, the authorities continue to abuse women in the name of family planning. One woman managed to escape, whilst the others received or will receive treatment. "My son was crying when he was born," one man said, but "the abortion drug [. . .] had already been injected" and he "died an hour after he was born." Local authorities confirm the facts.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - The authorities in China's predominantly Muslim Uyghur 
+northwestern province of Xinjiang planned to force six native women to undergo 
+an abortion for "violating" the government's one-child policy.
+
+Despite the new policy by the central government, easing the one-child policy, 
+doctors in Hotan Prefecture injected the women with a drug to induce 
+miscarriage.
+
+"We had planned to perform forced abortions on six women. Four of them have 
+already undergone the abortions," said Momin, deputy chief of Hotan's Arish 
+Township.
+
+"One more woman is waiting in hospital to undergo the abortion while another 
+woman has escaped before undergoing the process," Momin added.
+
+Awat Han, head of the family planning department in Arish Township, told RFA 
+that four forced abortions were carried out over the last week, saying she was 
+only following orders from higher authorities.
+
+In November, the Plenum of the Communist Party announced reforms in family 
+planning. Under the new rules, formally approved by the Standing Committee of 
+the National People's Congress on 28 December 
+
+, couples who are only children can have two children.
+
+When it comes to national minorities, China's demographic policies has not 
+changed; minority couples can have two children under certain circumstances.
+
+Although "My wife was injected by a doctor," said Memettursun Kawul, the 
+husband of one of the women forced to abort, "My son was crying when he was 
+born."
+
+When he heard the cries of his son and wife, Kawul then stormed into the 
+delivery room, grabbed the baby and took him to a nearby hospital in a bid to 
+save him.
+
+"The doctors in the hospital tried to save him but they failed, citing the 
+abortion drug that had already been injected. My son died an hour after he was 
+born."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,58 @@
+<ID>20110812-70
+<DATE>20110812<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=22359
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Islamabad,-extradites-5-Uyghurs-to-China:-among-them-a-woman-and-2-children-22359.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Islamabad, extradites 5 Uyghurs to China: among them a woman and 2 children 
+<\TITLE>
+<ABSTRACT>
+Shackled and hooded, the five - who had fled from the northern province of Xinjiang, China - have been put on a plane to return to China. There, Uyghur dissidents denounce, "torture and jail await them. Beijing continues its ferocious repression against us. " 
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews) - With the complicity of the Pakistani government, the 
+Chinese regime has deported five ethnic Uyghur who had fled from China and had 
+crossed the border into Pakistan. Among the five treated as terrorists, we are 
+a woman and two children, the extradition was imposed after the riots in recent 
+weeks that have taken place in the northern province of Xinjiang.
+
+ The Pakistani authorities handcuffed the five on the morning of August 9 and, 
+after being hooded, took them in the airport Benazir Bhutto international: here 
+they were boarded on a China Southern Airline flight. Among the five a women, 
+Manzokra Mamad, who was carrying the minor daughter and teenage son, was 
+identified by some dissidents,.
+
+ According to the World Uyghur Congress, the non-governmental organization 
+based in Germany that monitors the situation of compatriots in Xinjiang, 
+"extradition is illegal, cruel and shows hate towards minorities in Beijing. 
+Islamabad, then, is even more so: they know what happens to the Uyghurs who are 
+forcibly repatriated. They are tortured and thrown into jail for no reason. "
+
+ On August 1, Chinese police shot in cold blood two Uyghurs suspected of being 
+involved in the July 31 attack that caused the death of six people in a bar in 
+Kashgar. The two - Memtieli Tiliwaldi (29) and Turson Hasan (34) - were killed 
+in a cornfield and left there. Kashgar's government had put a bounty of 100 
+thousand yuan (about 10 thousand euros) for their capture.
+
+ Before this last episode bloody episodes erupted in the city of Hotan and in 
+the provincial capital, Urumqi. The ethnic Uyghur – Turkish speaking peoples of 
+Islamic religion – have languished under the heel of the Chinese government 
+since 1949 which has imposed a series of extreme religious and cultural 
+restrictions on the minority. Several groups claim independence and demand the 
+restoration of East Turkestan, but the majority of Uyghurs only want greater 
+autonomy.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,73 @@
+<ID>20110531-55
+<DATE>20110531<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=21703
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Tensions-and-repression-grow-in-Inner-Mongolia-21703.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tensions and repression grow in Inner Mongolia 
+<\TITLE>
+<ABSTRACT>
+Hundreds of police officers keep squares under surveillance, the Internet has been disconnected, young people are confined to their campuses. The Mongols criticize mining investments in the region (coal and rare minerals), which pollute their land and destroy the pastures and their daily lives. Party newspaper: These events are not similar to those of Tibet and Xinjiang. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Chinese authorities have tightened security 
+after a series of demonstrations seeking justice for the deaths of two ethnic 
+Mongols. Hundreds of policemen were deployed at various points of Hohhot, the 
+capital of the province, schools and universities are under under surveillance 
+and many young people can not leave the campus. The internet has been blocked 
+and news searches on Mongolia are obscured.
+
+Tensions escalated after the death of two people in two separate incidents. 
+The first occurred on May 10, a Mongolian shepherd was hit by a truck, driven 
+by a Han Chinese, carrying minerals through the pastures, ruining the grass and 
+the work of shepherds.
+
+On May 15, another ethnic Mongolian, was killed during a protest in front of a 
+mine.The Mongols, a minority in their homeland, accuse the government and its 
+mining policy of destroying the pastures, polluting the land and destroying the 
+peace.
+
+The ethnic Mongolians are only 20% out of a population of 24 million. In 
+recent years, the exploitation of coal and rare mineral mines has increased in 
+Inner Mongolia, which are highly polluting. The boom has brought workers from 
+other parts of China and Mongolia, mainly devoted to sheep farming, is now a 
+threatened minority, their work is also likely to be destroyed due to mining 
+and pollution.
+
+In recent days there have been demonstrations that have gathered thousands of 
+ethnic Mongolians in the capital and several other cities. Analysts say they 
+are more numerous than demonstrations over the past 20 years.
+
+To calm the public, the government has promised to prosecute the two Chinese 
+responsible for the deaths of two Mongols. Yesterday,Xinhua reported that a 
+Chinese man was tried for the death of Yan Wenlong, an ethnic Mongolian man 
+killed during protests at the mine.
+
+According to analysts, the riots in Inner Mongolia are similar to those in 
+Tibet and Xinjiang, where the Tibetan and Uighur minorities are fighting for 
+their survival. TheGlobal Times today (linked to the tabloid People’s Daily) 
+has now put on guard by the attempt to give meaning to political events in 
+Mongolia.
+
+" The Mongolian protests - says the newspaper - are not a politically-driven 
+demonstration. Some of their requests are reasonable, and should be responded 
+to by the local government”. But it rejected as “improper” any link between the 
+situation in the region bordering Mongolia and outbursts of ethnic turmoil in 
+Tibet in 2008 and in the remote northwestern region of Xinjiang in 2009.
+“Social conflicts are on the rise in China and ethnic minority areas are no 
+exception. But the incidents there should not be exaggerated or 
+over-interpreted,” it said. 
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

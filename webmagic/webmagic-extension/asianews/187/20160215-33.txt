@@ -1,0 +1,69 @@
+<ID>20160215-33
+<DATE>20160215<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=36686
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Bangkok-bombing:-Confession-of-guilt-extorted-under-torture-36686.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Bangkok bombing: Confession of "guilt" extorted under torture
+<\TITLE>
+<ABSTRACT>
+ 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Bangkok (AsiaNews) - Bilal Mohammed, the ethnic Uyghur who confessed to 
+involvement in theattack in Bangkok in August 2015, 
+
+ was reportedly tortured and forced to admit his guilt. This was stated by his 
+lawyer, Schoochart Kanpai, on the eve of the Mohammed’s appearance before a 
+military court. According to police, Mohammed and Yusufu Mieraili (only other 
+suspect detained), spontaneously confessed their role in the explosion of the 
+bomb which caused 20 dead and 100 wounded, including many tourists.
+
+At the time of the confession - the lawyer said after visiting his client in 
+prison - Mohammed "was tortured and put under pressure. This is why he 
+confirmed the charges. He goes on to say that he had no involvement in the 
+case. The only charge that he admits is that of illegal immigration. "
+
+Through its spokesman, the members of the ruling military junta said they were 
+"quite sure that nothing happened to the suspects while they were under arrest."
+
+Mihammed and Mieraili were indicted in 
+
+ November 2015 for 10 counts (including premeditated murder and conspiracy) but 
+not for terrorism. The Bangkok authorities, although the investigation 
+suggested it, immediately discarded the hypothesis of terrorism to avoid 
+affecting the tourism sector and damage the country's economy. During the 
+preliminary hearing he two neither confirmed nor denied the charges due to 
+translation problems.
+
+Last August’s attack has never been claimed. The fact the two leading suspects 
+were Uyghur increased suspicions that is was revenge for theforced extradition 
+
+ suffered by the Muslim minority in July.
+
+Police investigations have repeatedly been criticized by the population and 
+experts. While investigations were still ongoing, the first of September,police 
+pocketed the reward 
+
+ (85 thousand dollars). On September 29, the former head of the department Gen. 
+Poompunmuang declared the "case closed" and handed over another 82 thousand 
+dollars in prize money for his men.
+
+Moreover, the alleged "mastermind" of the attack, identified as Izaan, is 
+still at large along with 15 other suspects (all Uyghurs). For these reasons, a 
+BangkokAsiaNews source described the entire investigation "a joke".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

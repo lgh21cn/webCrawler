@@ -1,0 +1,63 @@
+<ID>20141220-23
+<DATE>20141220<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=33013
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Mongolian-rights-activist-Hada-released-after-20-years-33013.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Mongolian rights activist Hada released after 20 years
+<\TITLE>
+<ABSTRACT>
+Considered a prisoner of conscience by major human rights groups, he slams Chinese authorities for torturing him and for persecuting his family. He said he would "continue to fight against the oppression of the Mongolian nationality". Like Tibet and Xinjiang, Inner Mongolia has suffered for decades from the arrival of Han Chinese settlers, whose immigration is undermining local traditions and beliefs.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - Hada, an ethnic Mongol dissident and one of 
+China's longest-serving political prisoners, was released last week. During his 
+time in jail, he was tortured; since he was let out, he has been threatened.
+
+The Mongolian activist has spent much of the last two decades behind bars, 
+including the last four years in an extrajudicial "black jail", a detention 
+facility in which people are held incommunicado under police custody without a 
+court order.
+
+Hada was first arrested in in 1996. After his trial, he was sentenced to 15 
+years in prison for separatism, spying and supporting the Southern Mongolian 
+Democratic Alliance, an organisation that seeks greater rights for ethnic 
+Mongolians in China, but which Beijing considers a "terrorist" group".
+
+According to the dissident, the charges against him were trumped up. For 
+various NGOs and international organisations, he was and remains a "prisoner of 
+conscience".
+
+In his native province, decades of migration by China's dominant Han community 
+have left Chinese Mongolians a minority in their own land. Officially, they now 
+make up less than a fifth of Inner Mongolia's almost 24 million people.
+
+In view of the situation, the Mongolian community has been demanding greater 
+rights and protection for its traditions, something that Beijing has regularly 
+ignored, like in Tibet and Xinjiang.
+
+Despite ongoing threats, Hada plans to continue his struggle. "During these 19 
+years, in an effort to force me to abandon my beliefs, I was cruelly mistreated 
+and subjected to various forms of tortures and ploys," Hada said.
+
+"In particular, my wife and son have been subjected to false accusations, 
+enormous persecution and suffering. I myself have been disabled as a result of 
+torture and brutality".
+
+Yet, "My next step is to arrange my life and study, to continue to fight 
+against the oppression of the Mongolian nationality."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

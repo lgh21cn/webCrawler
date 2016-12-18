@@ -1,0 +1,124 @@
+<ID>20070212-132
+<DATE>20070212<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=8462
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Year-of-the-Pig:-State-TV-bans-piggies-out-of-respect-for-Islam-8462.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Year of the Pig: State TV bans piggies out of respect for Islam
+<\TITLE>
+<ABSTRACT>
+The central government order aims to show respect for minorities. However the move is also intended to put a stop to disagreements with the Han and to win the favour of oil-rich Muslim countries. There is the influence of astrology too, which predicts revolts and the overthrow of governments. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – In a week’s time, the Chinese world will 
+celebrate the New Year under the zodiac sign of the Pig. But for the Year of 
+the Pig, the Chinese government has banned all adverts showing this animal.
+Beijing is hoping to gain kudos from Islamic states for its sensitivity and 
+respect for their religious convictions even if it continues repressing the 
+Muslim minority, especially in Xinjiang.
+
+
+
+In letter to advertising agencies, the main state television CCTV warned that 
+“sinceChina is a multi-cultural country, out of respect for the religious 
+convictions of Muslims, images of pigs must be avoided in 2007.” TV sources 
+said: “This was indicated to us from top government quarters... to protect 
+harmony between different religions and ethnic groups”.
+
+
+
+It seems that the order has come from the Politburo Standing Committee of the 
+Communist Party that wants the Year of the Pig (starting on 18 February) to be 
+celebrated without offending the country’s 21 million Muslims.
+
+
+
+The order has created problems for big firms: they had already designed their 
+publicity spots, focused on the presence of pigs, but now they must create new 
+ones within a few days. Nestlé had prepared a cartoon of a beaming little pig 
+celebrating a “Happy Year of the Pig”. Coca Cola had two cartoons, one with a 
+panda and the other with a pig, but they will not broadcast the one with the 
+pig in areas with big Muslim communities.
+
+
+
+The media have given the news importance and reported the enthusiastic 
+response from Muslim communities. For example, Huo Engjie, director inShanghai 
+of the Association of Minorities, said: “Even if we [Muslims] are less than 2% 
+of the Chinese population, this ban shows how much the government respects us. 
+It’s really moving.”
+
+
+
+The Muslim population in China is divided into Hui – Chinese who have 
+converted to Islam – and Uighurs.
+
+
+
+The Hui, around 15 million, are present especially in Ningxia (Central China), 
+Shaanxi, Qinghai and Beijing. 
+
+
+
+Beijing has always displayed considerable tact towards them. For decades, 
+while Catholics were forbidden from going toRome, the government subsidized 
+Muslim pilgrimages toMecca. 
+
+
+
+However, China implements a repressive and colonizing policy towards the 
+Uighurs (of Turkish origin, around eight million), aimed at putting a stop to 
+autonomist aspirations and fundamentalist infiltrations fromPakistan and 
+Afghanistan. According to a Xinjiang daily, in 2005 China arrested 18,227 
+Uighurs on charges of “threatening national security”. Hundreds have been 
+condemned to death. In January, police attacked a training camp and killed 18 
+Muslim Uighurs, claiming without proof that that they were terrorists.
+
+
+
+For some years, tension has also been growing with the Hui, above all for 
+social reasons. The Han – the Chinese race par excellence – are preferred in 
+employment and trade and this has created resentment among the Hui and 
+consequent clashes. There has also been a growth of Muslim integralism among 
+the Hui, owing to the influence of pilgrimages and the meeting of the 
+“Chinesized” Islam of the Hui with more fundamentalist Pakistani and Saudi 
+doctors of the Koran.
+
+
+
+The decision to ban images of the pig is an attempt to show, at home and 
+abroad,China’s great respect for the Muslim world. After all, China buys plenty 
+of oil from Muslim countries in theMiddle East, central Asia and Africa so it 
+must be hoping this approach will draw appreciation from the Muslim world.
+
+
+
+The ban on images of the pig is being debated in many blog sites too. People 
+from the ethnic Hui group consider the ban to be an exaggeration and show 
+tolerance. “This New Year feast is a feast of the Han, it’s not ours. We know 
+how much importance the Han give to this animal [pig], it’s useless to ban it,” 
+said one woman.
+
+
+
+Some believe the reason behind the ban on images of the pig lies in the fear 
+that this year will be marked by clashes, conflicts and dynastical changes. 
+According to Chinese astrologists, 2007 is a year of the Pig marked by “fire 
+and water”, two contrasting elements that indicate the possibility of wars and 
+conflicts. “There will be much disharmony that could lead to tensions and 
+revolts to the point of overthrowing governments”.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

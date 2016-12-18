@@ -1,0 +1,69 @@
+<ID>20090905-172
+<DATE>20090905<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16243
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Normal-life-resumes-in-Urumqi,-a-day-after-threatened-ethnic-clashes-16243.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+"Normal" life resumes in Urumqi, a day after threatened ethnic clashes
+<\TITLE>
+<ABSTRACT>
+Tens of thousands of Han for 2 days took to the streets to protest against hundreds of mysterious attacks on bystanders stabbed with a syringe. Clashes and 5 deaths two days ago. The police have stopped more than 1,000 who were trying to penetrate Uyghur neighbourhoods. 
+<\ABSTRACT>
+<CONTENT>
+  
+ 
+
+Beijing (AsiaNews / Agencies) - Today in Urumqi, capital of Xinjiang, 
+restrictions on traffic have been removed: private cars and public transport is 
+moving regularly, many shops are open and many people have returned to the 
+streets. At least 600 police officers patrol the roads and thousands more are 
+ready to step in after protests caused violent clashes with at least 5 dead and 
+14 wounded two days ago. Hantenggeli mosque in the city centre, closed 
+yesterday despite the Islamic holidays, for fear of clashes, has been reopened.
+
+Tens of thousands protested on September 3, mainly ethnic Han, worried about 
+mysterious attacks by unknown persons armed with hypodermic syringes with which 
+they "stabbed" passersby. The media have spoken of 513 injuries since 
+mid-August. Assurance from authorities that no one has been infected or 
+poisoned, and that does not appear that the syringes contain harmful substances 
+has not been enough. There is no definite news of the clashes: the deputy mayor 
+Zhang Hong has only added that among the 5 "dead in the clashes," were "2 
+innocent people", without giving further explanation.
+
+Yesterday there were more protests and the police used barricades and launched 
+tear gas to prevent thousands penetrating Uyghur neighbourhoods.  
+
+Public opinion among Han and even local officials blame the attacks on the 
+minority Uyghur. The Minister of Public Security Meng Jianzhu, who was in 
+Urumqi yesterday to better monitor the situation, says that these attacks want 
+to damage the unity of the city and are "instigated by ethnic separatist 
+forces," as a continuation of protests in July. Then tens of thousands of 
+Uyghurs took to the streets to protest against their mistreatment and 
+marginalization. Peaceful demonstrations turned into open clashes with police 
+and the Han population, with nearly 200 deaths, mostly Han, and thousands 
+injured.
+
+The Chinese authorities have encouraged the immigration of Han to the region, 
+allocating them seats of power and facilitating them in trade. Now the Han are 
+in the majority in the province and the native Uyghur feel strangers in their 
+home and accuse Beijing of trying to force their language and traditions into 
+extinction and of taking away oil and other natural resources for the benefit 
+of other provinces. The tension between the ethnic groups has been growing for 
+years, but there had never been as violent protests as those in July.
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

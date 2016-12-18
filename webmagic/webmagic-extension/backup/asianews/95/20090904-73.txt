@@ -1,0 +1,68 @@
+<ID>20090904-73
+<DATE>20090904<\DATE>
+<URL>
+http://www.asianews.it/news-en/Police-patrolling-Urumqi-as-conflict-between-Han-and-Uyghurs-becomes-a-real-possibility-16237.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Police patrolling Urumqi as conflict between Han and Uyghurs becomes a real possibility
+<\TITLE>
+<ABSTRACT>
+The authorities are urging everyone to stay at home. Tens of thousands of Han Chinese marched against the provincial government for its inability to protect them. As a result of last July’s protests and clashes, tensions and violence between Han and Uyghur could escalate.
+<\ABSTRACT>
+<CONTENT>
+  
+ 
+
+Beijing (AsiaNews/Agencies) – An unreal sense of calm can be felt in Urumqi, 
+the capital of Xinjiang, as police in anti-riot gear patrol almost deserted 
+streets. For the past two days, majority Han Chinese demonstrated in the city’s 
+streets, calling for harsh punishment for Uyghurs. A conflict between the two 
+ethnic groups is now a real possibility. 
+Yesterday tens of thousands of Han Chinese brought the city to a halt in a 
+peaceful demonstration (pictured). They accused provincial government of being 
+“useless”, some even asking for the dismissal of regional Communist Party boss 
+Wang Lequan, who is thought to be an ally of President Hu Jintao.
+
+Waving banners carrying phrases such as ‘Severely punish criminals’ and ‘We 
+want stability’, and shouting slogans, the Han Chinese protesters accuse the 
+authorities of doing little to protect them.
+
+Today the authorities responded by asking residents to stay at home. The net 
+result is that the streets of the city are almost deserted. Tension remains 
+palpable however.
+
+In July indigenous Uyghurs and police violently clashed. At least 197 people 
+were killed (including many Han Chinese) and about 1,600 were injured, this 
+according to official figures. Unofficial sources claim that most of the dead 
+were Uyghurs. What is certain is that police arrested thousands of Uyghurs.
+
+Attacks on the public by unknown assailants wielding syringes triggered the 
+most recent protest. Reports by local TV said that 476 people were attacked 
+with hypodermic needles. Of these, 433 were Han Chinese, 19 Uyghurs and the 
+remainder from other ethnic groups. But many believe the number to be at least 
+twice as high.
+
+The authorities have denied that anyone injured was infected. State-owned 
+Xinhua news agency reported that 21 people were arrested in connection with the 
+attacks, but did not specify their ethnic group.
+
+Members of both ethnic groups now fear for their safety, concerned about 
+walking down the street, opening their store or sending their kids to school.
+
+In Xinjiang’s capital indigenous Uyghurs have become a minority following an 
+influx of Han settlers, drawn to the province by Beijing’s job offers and 
+business incentives.
+
+For some time now the Uyghurs have complained that they are being marginalised 
+in their own land as a result of policies designed to wipe out their culture 
+and exclude them from all positions of political and economic power.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

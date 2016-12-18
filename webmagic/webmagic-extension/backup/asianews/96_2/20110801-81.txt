@@ -1,0 +1,71 @@
+<ID>20110801-81
+<DATE>20110801<\DATE>
+<URL>
+http://www.asianews.it/news-en/More-deaths-in-Xinjiang,-Beijing-announces-tough-measures-during-Ramadan--22250.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More deaths in Xinjiang, Beijing announces tough measures during Ramadan 
+<\TITLE>
+<ABSTRACT>
+In recent days there have been a number of unprovoked attacks on passers-by, at least 14 dead and 40 wounded. The authorities announce clampdown on "illegal religious activities". Experts: greater respect for the rights of the Uyghur minority, if you want to avoid a crescendo of violence. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews / Agencies) - Beijing blames Islamic militants for attacks 
+on passers-by yesterday in Kashgar (Xinjiang) which have caused at least 14 
+dead and 40 wounded, and announced a crackdown against "illegal religious 
+activities", just as today Muslims began the holy month of Ramadan. Experts 
+urge China to respect the rights and culture of the Uyghur Muslims if it wants 
+to avoid an escalation of violence.
+
+ On the night of July 30, two men armed with knives attacked and killed a 
+truck driver, then drove the vehicle into pedestrians stabbed and killed six, 
+with at least 28 injured. The crowd surrounded and stopped the truck, one of 
+the attackers died and another was captured.
+
+ On the afternoon of July 31 an explosion killed three people. Then a dozen 
+men attacked passersby and police. Police shot and killed "4 suspects", as 
+reported by the state news agency Xinhua. Media sources reported clashes and 
+other incidents in the city, but the rigid censorship prevents clearer 
+information.
+
+ The attacks came after the violent clashes between crowds and police July 18 
+with at least four dead in Hotan, also in Xinjiang, home to the Uyghurs who are 
+Muslim. The authorities speak of a terrorist attack against the police, while 
+Uyghur sources accused them of having opened fire for no reason against 
+peaceful demonstrators.
+
+ China has encouraged immigration of ethnic Han to the area, to an extent that 
+the native Uyghurs are now a minority.
+
+ Zhang Chunxian, Communist Party chief of Xinjiang, has announced extensive 
+operations against the religious extremists and the "repression of illegal 
+religious activity." This raises fears that the police crackdown on the Muslim 
+community is a provocation, given the fact that it is the beginning of Ramadan, 
+the holy month of fasting and prayer for Muslims.
+
+ Many experts agree that the violence has no underlying strategy, rather it 
+expresses the widespread discontent among the Uyghurs at the lack of respect 
+for their rights, culture and religion.
+
+ Joseph Cheng Yu-shek, a professor of social and public administration at the 
+University of Hong Kong, explains that, to avoid growing protests, Beijing 
+should reconsider its policy towards Xinjiang, to date concerned only with 
+sending funds to promote its economic development. Instead it should pay 
+attention to respecting the rights of the Uyghurs, their culture, language and 
+religion of the minority. "The central government - said Cheng - has not 
+learned the lessons from previous incidents."
+
+
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

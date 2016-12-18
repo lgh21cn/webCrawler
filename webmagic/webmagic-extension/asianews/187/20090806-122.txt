@@ -1,0 +1,77 @@
+<ID>20090806-122
+<DATE>20090806<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15979
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer:-Beijing-is-psychologically-torturing-my-children-15979.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer: Beijing is psychologically torturing my children
+<\TITLE>
+<ABSTRACT>
+Two sons and a brother of the Uyghur leader have appeared on television reciting Chinese criticism against her: inciter of the Urumqi revolts, Xinjiang separatist. Beijing has criticized all the countries that sympathize with her: United States, Japan, Australia, Turkey. "Beijing wants to impose its authoritarianism throughout the world." 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Melbourne (AsiaNews / Agencies) - The Uyghur leader Rebiya Kadeer has accused 
+the Chinese government of "psychologically torturing" her children, who have 
+written open letters criticizing their mother, and even appeared on national 
+television to accuse her of having instigated Uyghur’s revolt in Urumqi last 
+July.
+
+Speaking with journalists, the Uyghur leader said her daughter Roxingul and 
+her son Alim were forced to accuse her, and bend to the will of Beijing: "The 
+method being used by the Chinese government is perhaps the worst kind of 
+violence against my children! to force them to speak against me ... I think 
+that this is a form of dictatorship imposed on them”.
+
+Two days ago, in the early evening the children and the brother of Kadeer 
+appeared on national television news. "The road my mother has chosen leads to a 
+bottomless hole," said her son Alim, 33, in prison for tax evasion. "With such 
+a strong nation [China], she will fail in her project of separatism."
+
+A day before the Chinese media gave extensive space to an open letter by her 
+children as they repeated the same accusations that Beijing has laid against 
+Kadeer: of being the cause of the Uyghur revolt in Urumqi and wanting to divide 
+the nation.
+
+The revolts began on July 5, then degenerated into ethnic clashes between 
+Muslim Uyghurs and Chinese Han, which led to the deaths of at least 197 people. 
+China has detained thousands of Uyghurs, but according to Kadeer "in one night" 
+at least 10 thousand people went missing.
+
+"It's hard for me to imagine what kind of psychological torture they are going 
+through right now," said the Uyghur leader. "When I was in prison, I was also 
+forced by the Chinese government to say things against my will, in a video 
+posted on a website."
+
+62 year old Rebiya Kadeer, once a successful businesswoman and member of the 
+Party, fell into disgrace when she began to seek more rights and autonomy for 
+the Uyghur criticizing the government’s policy of colonization. For this she 
+was imprisoned for 5 years. Released in 2005 thanks to international pressure, 
+she now lives in exile in the United States and is a member of the World Uygur 
+Congress.
+
+After a visit to Japan, she has recently arrived in Melbourne to attend the 
+International Film Festival, where a documentary about her life will be shown 
+for the first time.
+
+China initially tried to remove the film from the program, then, faced with a 
+no from organizers, withdrew all Chinese films. In the preceding weeks Beijing 
+also criticized Japan for having given an entry visa to Kadeer and reproached 
+Turkey for having defended the Uyghurs. "China - said the Uyghur leaders - has 
+also put pressure on the United States to curb my activities. I think that 
+because of me, the Chinese government is trying in practice to impose its 
+authoritarianism throughout the world. "
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

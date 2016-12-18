@@ -1,0 +1,65 @@
+<ID>20110901-62
+<DATE>20110901<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-China-Eurasia-Expo-opens-under-the-shadow-of-Uyghur-Muslim-separatists-22518.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: China-Eurasia Expo opens under the shadow of Uyghur Muslim separatists
+<\TITLE>
+<ABSTRACT>
+Pakistan President Zardari, who was present at the ceremony inaugurating the first expo set for 1-5 September in Urumqi, said his country is ready to cooperate with Beijing against Muslim extremism. The latter, however, is a pretext to crack down on minority Muslim Uyghurs. China’s main airports are put on high alert.
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews/Agencies) – China’s Vice Premier Li Keqiang opened the first 
+China-Eurasia Expo in Urumqi, capital of the northwestern province of Xinjiang, 
+which is set to last from 1 to 5 September. Pakistani President Asif Ali 
+Zardari, his Kyrgyz counterpart, Roza Otunbayeva, Azerbaijan's Vice Premier 
+Abid Sharifov, and Kazakhstan's Deputy Prime Minister Aset Isekeshev were also 
+present at the opening ceremony. Chinese authorities have increased security in 
+the country’s airports and tightened controls in Urumqi and across Xinjiang 
+against possible attacks my Muslim Uyghur separatists.
+
+ Chinese state media sounded the alarm on the eve of the expo about possible 
+Uyghur attacks. Armed SWAT teams and baton-wielding riot police are patrolling 
+the provincial capital, especially the predominantly Uyghur old part of the 
+city.
+
+ Urumqi's Communist Party boss Zhu Hailun warned, "Separatists, religious 
+extremists and terrorists have been plotting to sabotage the expo."
+
+ Pakistan President Zardari, who is at the expo to boost economic ties and 
+trade with China, vowed to work with China to fight terrorism.
+
+ In recent weeks, China’s leaders warned Islamabad, guilty in their eyes of 
+allowing terrorist training in its territory. Beijing believes that Uyghur 
+extremists come back home to cause trouble or carry out attacks. However, only 
+a small minority of the indigenous population of Xinjiang shares their view, 
+Chinese media say.
+
+ Uyghurs, a Turkic Muslim group, are culturally closer to Central Asians and 
+Turks than to China’s ethnic Han majority.
+
+ In a meeting with Xinjiang Party boss Zhang Chunxian, Zardari said that 
+Pakistan would work with China in the fight against terrorism. However, China’s 
+fight against extremism has turned into an violent crackdown against an already 
+persecuted minority.
+
+ In mid-August, for example, China with Pakistan’s complicity repatriated five 
+ethnic Uyghurs who had crossed into Pakistan.
+
+ Early on 9 August, the five suspects were brought to the Benazir Bhutto 
+International Airport where they boarded a flight for Urumqi. The “terrorists” 
+included a woman, Manzokra Mamad, and two children, a girl and a boy, dissident 
+sources said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

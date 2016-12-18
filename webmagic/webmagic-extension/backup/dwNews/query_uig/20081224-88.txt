@@ -1,0 +1,42 @@
+<ID>20081224-88
+<DATE>20081224<\DATE>
+<URL>
+http://www.dw.com/en/more-eu-states-willing-to-accept-freed-guantanamo-inmates/a-3898579
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More EU States Willing to Accept Freed Guantanamo Inmates
+<\TITLE>
+<ABSTRACT>
+A growing number of European Union countries are reportedly interested in helping US President-elect Obama meet his promises to close Guantanamo Bay by taking in inmates from the controversial detention camp.
+<\ABSTRACT>
+<CONTENT>
+Throughout his campaign, US President-elect Barack Obama promised to shutter the controversial military prison at Guantanamo Bay, Cuba. And as his inauguration day draws nearer, European countries are trying to find ways to help him keep that promise.
+One especially difficult question Obama faces is what to do with those inmates who have been determined to pose no threat but who would face persecution and possibly torture if returned to their home country. That’s where a half-dozen EU nations would now like to step in, according to a new report in .
+Thus far, only Germany and Portugal have publicly acknowledged their willingness to accept former prisoners in their own countries, with a German ministry spokesman saying Monday that German Foreign Minister Frank-Walter Steinmeier has instructed officials to look into political, legal and logistical aspects of the matter.
+Portuguese Foreign Minister Luís Amado likewise promoted the idea to his EU counterparts in a letter made public recently.
+"The time has come for the European Union to step forward," he wrote. "As a matter of principle and coherence, we should send a clear signal of our willingness to help the US government in that regard, namely through the resettlement of detainees. As far as the Portuguese government is concerned, we will be available to participate."
+
+The German foreign ministry has indicated that the issue of taking in Guantanamo inmates will be discussed with the US in January when the Czech Republic takes over the EU's presidency.
+Around 250 prisoners, including the alleged mastermind of the Sept. 11 attacks, are currently being held at Guantanamo Bay. Charges have still not been brought against dozens of detainees who have spent years at the controversial facility.
+Some German politicians have warned that Germany's offer to accept inmates should not be unconditional.
+Wolfgang Bosbach, deputy head of the conervative Christian Democrats' parliamentary group, said Germany should not be the first and only country to take in Guantanamo prisoners but rather be part of a European initiative to help the prisoners.
+He added that Germany should consider helping those persons who can't return home on humanitarian grounds, if they faced the threat of torture or the death penatly. But, he said, the danger that prisoners pose "should not be played down."
+
+Germany is particularly interested in a group of 17 Uighurs. A Muslim minority from central Asia, the Uighurs face political persecution in their homeland China, according to human rights groups. 
+Germany has a small Uighur community, many of whom live in Munich.
+China however remains opposed to talk of European nations taking in the Uighurs. The government there wants to see the 17 Muslim Chinese terror suspects returned to China if Guantanamo is closed.
+"The 17 terror suspects imprisoned in the US military base of Guantanamo Bay are members of the East Turkestan Islamic Movement, which has been listed as a terrorist organization by the United Nations," Chinese Foreign Ministry spokesman Qin Gang said this week.
+"For these terror suspects, the Chinese government has always requested they be sent back to China and firmly opposes any country accepting them," he told a news briefing.
+Though the ethnic Uighurs have been cleared of the label “enemy combatant” by the Bush administration, they have not been allowed to leave Guantanamo. The U.S. government has said it cannot return the Uighurs to China because they would face persecution there and in 2006, the United States allowed five Chinese Muslims to be released to Albania. 
+State Department spokesman Sean McCormack said the Bush administration understood China's point of view but needed to "assure ourselves that if people are transferred out of Guantanamo under whatever status that they are not going to be mistreated in any way, shape or form.”
+"At this point we don't believe that it would be the right thing to do to transfer these individuals back to China," he told reporters in Washington.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

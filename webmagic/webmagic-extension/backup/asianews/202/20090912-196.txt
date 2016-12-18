@@ -1,0 +1,57 @@
+<ID>20090912-196
+<DATE>20090912<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16304
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-first-convictions-for-alleged-perpetrators-of-syringe-attacks-16304.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, first convictions for alleged perpetrators of syringe attacks
+<\TITLE>
+<ABSTRACT>
+Sentences of up to 15 years in prison for two men and a woman. The court did not issue their ethnicity, but they appear to belong to the minority Uyghur. Eighty people awaiting trial for the violence in Urumqi, but authorities refuse to disclose the date of hearings. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - A court has convicted three people of Xinjiang 
+with penalties of up to 15 years in prison in the first trial against the 
+alleged perpetrators of the attacks with hypodermic syringes. The authorities 
+have not announced the ethnicity of the defendants, but the names seem to 
+belong to the minority Muslim Uyghurs.
+
+Earlier this week official sources in Xinjiang reported they had arrested 12 
+suspects implicated in the mysterious attacks by unknown assailants armed with 
+hypodermic syringes, with which they "stabbed" passersby. According to Chinese 
+media, from mid-August there were hundreds of cases of injuries, which has 
+further helped to exacerbate tensions between the minority Muslim Uyghur’s and 
+Chinese Han.  
+
+The court in Urumqi sentenced to 15 years in prison Yilipan Yilihamu, a boy of 
+19 years who is charged with having stabbed a woman while buying fruit in a 
+market. Ten years in prison for Muhutaerjiang Turda, 34, and seven to 
+Aimannisha Guli, a young woman of 22.  Both apparently threatened a taxi driver 
+with a syringe, stealing about 700 Yuan (equivalent to U.S. $ 103).
+
+Meanwhile, tension remains high in Urumqi. Last week five people died during a 
+protest which brought together thousands of citizens demanding the resignation 
+of the local Communist Party chief. The authorities have not wanted to clarify 
+the causes of death.  
+
+Since July Xinjiang has been the scene of violence and social tensions between 
+the minority Muslim Uyghurs and Chinese Han. These are the worst ethnic clashes 
+in decades in China and protests are mounting in the nation, with the demand 
+for stiff penalties for those found guilty. Police have charged about eighty 
+persons awaiting trial; so far the dates of hearings have not yet been made 
+public.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

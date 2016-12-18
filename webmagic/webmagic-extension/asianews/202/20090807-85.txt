@@ -1,0 +1,78 @@
+<ID>20090807-85
+<DATE>20090807<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15991
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Things-are-changing-in-China-and-I-have-faith-in-Chinese-intellectuals-and-people,-Dalai-Lama-says-15991.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Things are changing in China and I have faith in Chinese intellectuals and people, Dalai Lama says
+<\TITLE>
+<ABSTRACT>
+Speaking in Geneva, Tibet’s spiritual leader stresses the failures of China’s minority policies, cause of misunderstandings and street protests. He insists that economic development is not enough; honesty and moral authority are needed too. He wants to give dialogue another chance.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Dharamsala (AsiaNews) – China's policies towards its ethnic minorities “failed 
+to . . . bring trust” over the last six decades and must change, exiled Tibetan 
+spiritual leader the Dalai Lama said at a press conference in Geneva. Beijing, 
+he believes, must adopt a more holistic approach in its bid to win trust, 
+rather than just trying to buy the support of minorities. 
+“Only money will not bring [about the] good image of China and trust. Trust is 
+based on transparency and honesty,” he said.
+
+Beijing has often been accused of repressive policies towards its ethnic 
+minorities (Tibetans and Uyghurs, for example), going so far as trying to 
+eliminate their traditions and language.
+
+China has always countered that it brought more opportunities and greater 
+economic development to these regions.
+
+For their parts, ethnic minorities have rejected such arguments, saying that 
+economic development was meant to favour millions of Han settlers in Tibet and 
+Xinjiang, to the extent that the indigenous population is being reduced to 
+minority status in their own land.
+
+Instead for the Dalai Lama “moral authority is very essential” even if China 
+were to become an economic superpower.
+
+The Tibetan leader is not out to get a quick condemnation of Chinese 
+repression, but he does insist that “General harmony is very essential,” adding 
+that that it “is our mutual responsibility to find a solution, without 
+separation”.
+
+For Beijing Dalai Lama remains a dangerous terrorist who wants Tibet’s 
+secession from China. Tibet’s spiritual leader has instead always insisted that 
+his demands are limited to greater autonomy for his homeland.
+
+Right now the Chinese in Tibet are engaged in a systematic crackdown following 
+protests in March 2008.
+
+In the spring of that year, when many foreign leaders threatened to boycott 
+the Beijing Olympics, Chinese authorities relented, accepting to open talks 
+with representatives of the Dalai Lama, only to renege once the Olympic Games 
+over.
+
+Since talks with China’s leaders are near to impossible, the Dalai Lama is 
+intensifying contact with Chinese intellectuals whose response has been “very 
+positive”, the Dalai Lama said.
+
+“Basically, things are changing” in China. “I have faith that Chinese 
+intellectuals” and “Chinese people [will] see things more holistically, more 
+realistically . . . . I am very optimistic,” he said.
+
+Meanwhile anti-Chinese resentment continues. Last month dissatisfaction boiled 
+over among Xinjiang’s Uyghurs, spilling into the streets, generating urban 
+unrest that led to more than 190 dead and thousands of injured.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

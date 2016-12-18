@@ -1,0 +1,99 @@
+<ID>20100802-128
+<DATE>20100802<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=19098
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Han-intellectuals-write-to-Government:-End-discrimination-against-Uyghurs-19098.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Han intellectuals write to Government: "End discrimination against Uyghurs"
+<\TITLE>
+<ABSTRACT>
+Uyghur intellectual Hailie Niyazi, who works for the ethnic understanding, sentenced to 15 years in prison, 51 lawyers and professors write to the Chinese government: "respect freedom of expression and human rights, or the nation will collapse".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - A group of 51 Chinese Han lawyers and professors has 
+published an open letter expressing their concern about the "criminalization of 
+free speech" that occured in the case of journalist imagine Hailie Niyazi, 
+sentenced last July 23 to 15 years in prison for endangering state security. 
+The letter, which we publish in full, was posted on the Internet by Chinese 
+Human Rights Defender and has been circulated on mainland China.
+
+Respect Freedom of Expression, Release Xinjiang Journalist Hailaite Niyaz 
+
+We have learned that 51-year old Uyghur journalist and author Hailaite Niyazi 
+(whose name also appears as Hairat or Gheyret Niyaz or Niyaze) was recently 
+sentenced to 15 years in prison by the Urumqi Intermediate Court in Xinjiang 
+Uyghur Autonomous Region (XUAR) for "leaking state secrets." Born in Qoqek 
+(Tacheng), XUAR, Niyazi graduated from the Minzu University of China in Beijing 
+and has previously held the positions of Chief Editorial Director ofXinjiang 
+Legal Daily and Deputy Director of the Perspectives on the Rule of Law (Fazhi 
+Zongheng) magazine publishing house.  A former editor and director of the 
+website Uighurbiz.net, as well as manager of the site's discussion forum, for a 
+long time Niyazi has written online essays in Chinese, gradually building a 
+wide following among China’s netizens.
+
+Niyazi combined his personal experiences facing problems affecting the Uyghur 
+community with systematic research. According to anAsia Weekly report, Niyazi 
+carefully tracked Uyghur netizen reactions to the 2009 Shaoguan incident in 
+Guangdong Province and came to the conclusion that a major incident was likely 
+to take place on July 5, 2009. Around eight o'clock on the evening of July 4, 
+Niyazi contacted government officials to warn them of his findings; the next 
+morning, at 10 am, he personally met with top officials of the XUAR to offer 
+three specific recommendations.
+
+However, officials did not act on his recommendations. Niyazi believed that 
+the July incident's causes could be traced to dissatisfaction with bilingual 
+education initiatives in Xinjiang and government-organized efforts to send 
+Uyghurs to other provinces to work as industrial laborers. Niyazi expressed the 
+above opinions in media interviews, and soon thereafter published an article 
+regarding the September 3rd incident [a demonstration by Han Chinese in Urumqi 
+demanding the removal of Xinjiang Autonomous Region Chief Wang Lequan for 
+mishandling the July 5 violence].
+
+His articles pointed out that Uyghurs have not received tangible economic 
+benefits despite living in a resource-rich region, and have been gradually 
+marginalized and pushed into poverty. Furthermore, as the Xinjiang government 
+has expanded anti-terrorism policies and anti-splittist ideological campaigns 
+in the past 20 years and set up checkpoints around the XUAR, Uyghurs in many 
+areas have been subjected to dehumanizing searches and inspections which have 
+heightened anxieties in the Uyghur community and aggravated ethnic conflict.
+
+Niyazi is a Uyghur intellectual who upholds the spirit of independence, and 
+who for a long time has been greatly concerned about the fate of China and its 
+ethnic minorities, as well as with problems affecting citizens' civil rights 
+and livelihood. He promoted increasing mutual understanding between Uyghurs and 
+Han and his views about politics and culture are moderate and rational, to the 
+point that some believed he was sympathetic to the regime. This kind of 
+intellectual is extremely important in advancing communication and 
+reconciliation between ethnic groups. The groundless charges brought against 
+Niyazi, and the severe sentence he has received, are bound to foment extremist 
+thoughts and actions and deepen ethnic tensions. Chinese citizens of all 
+ethnicities, including Han and Uyghur, are affected negatively by this sentence.
+
+Additionally, we have learned that more Uyghur website managers and 
+journalists have been arrested or imprisoned for expressing their opinions. We 
+are deeply troubled by this news. We believe that the thoughts and opinions of 
+every person, regardless of their background, ethnicity, or beliefs, deserve 
+full and equal respect. We believe that charging Niyazi and others with speech 
+crimes violates the constitutional promise that "the state respects and 
+guarantees human rights," contradicts explicit constitutional protections for 
+citizens' freedom of speech, and runs counter to provisions in the Universal 
+Declaration of Human Rights and other international human rights treaties which 
+China has signed. We hope that the relevant authorities are able to respect the 
+rule of law, and wisely and courageously act to ensure citizens are guaranteed 
+their freedom and dignity. This will form a solid foundation for the easing of 
+ethnic tensions, safeguarding of social peace, and unity of the country.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

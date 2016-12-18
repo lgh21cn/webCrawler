@@ -71,7 +71,7 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 	}
 
 	@Override
-	public void contentProcess(Page page) {
+	public void contentProcess(Page page) throws ContentMatchException{
 		//提取内容
 		String time=timeFormat(page.getHtml().xpath("//ul[@class='smallList']/li[1]/text()").toString().trim());
 		
@@ -97,9 +97,10 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		page.putField(AsianViewDetailItem.CONTENT, content);
 		String l_content=content.toLowerCase();
 		
-		if(false/*skipCrawler(l_content)*/){
+		if(skipCrawler(l_content)){
 			page.setSkip(true);		
 			System.out.println("[WARNING]Page :"+page.getUrl().toString()+" will NOT download......[WARNING]");
+			throw new ContentMatchException();
 		}
 
 		if(page.getRequest().getExtra(AsianViewDetailItem.ADDNEW) !=null &&(Boolean) page.getRequest().getExtra(AsianViewDetailItem.ADDNEW)){

@@ -1,0 +1,52 @@
+<ID>20091015-80
+<DATE>20091015<\DATE>
+<URL>
+http://www.asianews.it/news-en/Six-more-sentenced-to-death-over-clashes-in-Xinjiang-16592.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Six more sentenced to death over clashes in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Increases to 12 the number of death sentences imposed. Every year Beijing condemns hundreds of Uyghurs to capital execution. The World Uygur Congress: Stop China’s bloody repression against the Uyghur people. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Six people today received the death sentence, 
+charged with being behind the riots that broke out in Xinjiang last July. 
+Earlier in the week 6 others were sentenced to death.
+
+The People's Court of Urumqi has ruled a stay of two years in the sentence for 
+three of the condemned. In the trial of the 14 defendants, three were sentenced 
+to life imprisonment and five to prison for several years.
+
+On 5 July last, peaceful demonstrations of protest by Uyghurs in Urumqi 
+degenerated into ethnic clashes between the Muslim and Han Chinese populations. 
+The police and army repressed tensions carrying out thousands of arrests. 
+Uyghurs accuse Han of colonizing them, having occupied all the top positions in 
+business and public administration. For decades, the Uyghur population has been 
+suffering a heavy military control, which has grown in recent months, in the 
+aftermath of the clashes.
+
+The Uyghurs in exile have condemned the death sentences, calling them "the 
+first mass of a execution promised by the Chinese government." According to 
+international organizations for human rights, Beijing carries out an average of 
+hundreds of executions in Xinjiang in a year.
+
+A statement by the World Uyghur Congress confesses that they "can only hope 
+that the world will stop China in its ongoing bloody repression of the Uyghur 
+people."
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

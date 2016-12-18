@@ -1,0 +1,56 @@
+<ID>20100724-63
+<DATE>20100724<\DATE>
+<URL>
+http://www.asianews.it/news-en/Uyghur-journalist-gets-15-years-in-prison-for-criticising-police-and-military-19025.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur journalist gets 15 years in prison for criticising police and military
+<\TITLE>
+<ABSTRACT>
+For a court in Urumqi, Hailaite Niyazi endangered state security when in an interview he blamed police for interethnic clashes in July 2009. His one-day trial occurred without the presence of a defence lawyer. “This is an extremely harsh and unjust action on the part of the Chinese court, and a clear violation of rights guaranteed by the Chinese constitution,” said the international director of a human rights group.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Yesterday, a court in Urumqi (Xinjiang) sentenced 
+Hailaite Niyazi, an ethnic Uyghur journalist, to 15 years in prison for 
+endangering state security, Chinese Human Rights Defenders (CHRD), a Hong 
+Kong-based human rights association, reported. 
+Niyazi has been held since 1 October 2009 after he gave an interview to a Hong 
+Kong weekly in which he blamed Chinese police and military for clashes between 
+ethnic Uyghurs and Han Chinese in July 2009. His trial lasted a day, reportedly 
+without a defence lawyer present.
+
+“The idea that Niyazi’s interview somehow ‘endangered’ state security and 
+warranted 15 years in prison is incomprehensible,” said Renee Xia, CHRD’s 
+International Director. “This is an extremely harsh and unjust action on the 
+part of the Chinese court, and a clear violation of rights guaranteed by the 
+Chinese constitution.”
+
+The predominantly Muslim region of Xinjiang is one of China’s most troublesome 
+areas. Indigenous Muslim Uyghurs complain that the central government is 
+engaged in a virtual policy of colonisation at their expense, openly 
+discriminating against them in favour of ethnic Han Chinese who benefit from 
+government economic and social policies.
+
+The situation boiled over in July 2009 when violent clashes broke out between 
+the two groups in the regional capital of Urumqi, with more than 200 dead and 
+1,700 injured.
+
+Even now, the total number of people arrested or detained remains unknown. 
+According to the Uyghur resistance, the number runs in the tens of thousands.
+
+When the first anniversary came on 5 July, Chinese authorities placed the 
+capital under a tight security blanket. This included putting in place more 
+than 40,000 cameras in public buses, stations, 4,000 roads, 270 schools and 100 
+supermarkets.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

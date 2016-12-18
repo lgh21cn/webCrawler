@@ -1,0 +1,85 @@
+<ID>20080304-169
+<DATE>20080304<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=11678
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Ordinary-stories-about-extraordinary-injustice-inflicted-by-state-corporations-on-employees-11678.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ordinary stories about extraordinary injustice inflicted by state corporations on employees
+<\TITLE>
+<ABSTRACT>
+Workers who protest for their rights are arrested and mistreated, in Xinjiang they might even be accused of being dangerous Muslim separatists. One oil worker talks about her story, one of abuses and government collusion.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies) – Xiao Yishan worked from 1984 to 2000 in a 
+Xinjiang refinery owned by theChina National Petroleum Corporation (CNPC), 
+until the company laid off more than 360,000 workers (between 1999 and 2002). 
+Speaking to Han Dongfang, trade union activist and editor of theChina Labour 
+Bullettin, she related a long tale about an almost hopeless fight for workers 
+rights.
+
+In 2000 when she was on maternity leave, her boss called her and told her to 
+come back right away or lose her job “without getting a cent.”
+
+Back in Xinjiang she was forced to sign a seniority buyout contract for 4,500 
+yuan per year of employment in which she agreed to sever her employment 
+relationship with the company.
+
+She estimates that around 20,000 workers like herself terminated their 
+employment contracts at a similar rate.
+
+Although there was a branch of the All China Federation of Trade Unions at her 
+company, Xiao said it was completely ineffectual, never supported the workers 
+and always grovelled to management.
+
+Xiao later discovered that workers at oilfields in other parts of China had 
+received payouts of 12,000 yuan for each year of employment
+
+In 2001, nearly 6,000 former employees staged a protest at Xiao’s refinery, 
+but after the demonstration the authorities drew up a hit list and arrested 15 
+alleged leaders.
+
+CNPC Xinjiang management asked to meet workers’ representatives to discuss 
+their grievances but later one of the representatives, Chen Faling, was 
+arrested and imprisoned, he was let go after 30 days when workers petitioned 
+the Xinjiang regional government. 
+
+Eventually Xiao and her fellow workers did get to Beijing to present their 
+case. They were received by CNPC officials but after two hours of meeting they 
+were beaten, thrown out, put on a train and sent back toXinjiang. All the while 
+the CNPC was growing, hiring between 60,000 and 80,000 workers, but none among 
+those previously laid off.
+
+In 2005 another group of former oil workers, including Xiao, went to Beijing 
+once more with a new petition. This timeCNPC management promised the company 
+would pay the school fees and medical expenses of those workers who had been 
+laid-off and provide employment for their children if necessary. However, the 
+company has yet to honour its promise.
+
+The CNPC is one of China’s leading oil companies. It spun off most of its 
+domestic assets into a separate company, PetroChina, during a restructuring. It 
+is listed on the Honk Kong and New York stock exchanges.
+
+At least 4,000 former oil workers are still seeking adequate compensation from 
+the company, but are doing so low key out of fear that public protests might be 
+used to accuse them of being Muslim separatists.
+
+Meanwhile Xiao has developed a tumour. She lives with her husband and 
+nine-year-old son. Their only income is the 400 yuan the CNPC is paying to her, 
+but the monthly for their flat is 180 yuan.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

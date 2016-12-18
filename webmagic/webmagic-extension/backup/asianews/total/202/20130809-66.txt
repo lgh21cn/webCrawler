@@ -1,0 +1,54 @@
+<ID>20130809-66
+<DATE>20130809<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=28700
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-a-Protestant-pastor-arrested-28700.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, a Protestant pastor arrested
+<\TITLE>
+<ABSTRACT>
+The police took Tan Wen away from Muen church in Urumqi, the provincial capital, and seized Bibles and other religious books without any legal documents to justify the raid. According to some sources, it is retaliation for a complaint lodged by the religious against the local Public Security Bureau.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Police in the northern province of Xinjiang have arrested 
+the pastor Tan Wen, confiscated Bibles and other religious books of present in 
+the Muen church of Urumqi and threatened local Christians with "serious 
+consequences" if they continue to meet to pray. The raid took place on 4 August 
+during a function presided over by the pastor.
+
+According to eyewitnesses, quoted by China Aid, about 20 police officers 
+raided the church at 9.30 during the religious function. The police showed no 
+warrant or other legal documents to justify their action, but they stopped the 
+ceremony and locked the pastor. Some agents confiscated the Bibles, hymn books 
+and other religious texts in the church.
+
+ The faithful tried to find out the charges brought against him, but in 
+response an official warned them "not to gather in church together." At the 
+moment the pastor is being held at the police station located in Xishan, where 
+he will remain for 15 days. According to some sources, the arrest was in 
+retaliation for the complaint lodged by the pastor against the Public Security 
+Bureau of Urumqi, which denied his congregation "without valid reasons" 
+permission to meet and pray together.
+
+ In China, only registered religious groups are allowed. But there are more 
+unofficial Protestant Christians (about 80 million) than members of the 
+Three-Self Movement (about 20 million). Lest the situation get out of the 
+Party's control, for almost five years there has been a campaign to eliminate 
+the underground communities or merge them into the official ones.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

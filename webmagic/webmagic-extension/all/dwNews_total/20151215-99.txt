@@ -1,0 +1,38 @@
+<ID>20151215-99
+<DATE>20151215<\DATE>
+<URL>
+http://www.dw.com/en/china-egypt-top-list-of-worlds-worst-jailers-of-journalists/a-18917793
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China, Egypt top list of world's worst jailers of journalists
+<\TITLE>
+<ABSTRACT>
+China has topped the list as the world's worst jailer of journalists. In numerous other countries - Egypt, Turkey, Iran, Vietnam, Ethiopia, and Eritrea - a climate of fear and censorship persist.
+<\ABSTRACT>
+<CONTENT>
+ China won the dubious distinction of throwing the most journalists in prison for the second year in a row, according to an annual report by the Committee to Protect Journalists (CPJ).
+ By CPJ figures, China was holding about a quarter of the 199 journalists languishing in cells around the world in 2015 because of their reporting .
+ The New York-based journalist rights group said China had 49 journalists in jail - a record for the country - as journalists are increasingly rounded up for reporting on financial issues amid market turmoil and a crackdown on corruption.
+ "As President Xi Jinping continues his crackdown on corruption and as the country's economic growth slows and its markets become more volatile, reporting on financial issues has taken on new sensitivity," the CPJ said, citing the case of Wang Xiaolu, a business reporter who wrote on possible malfeasance of a regulator. 
+ Xiaolu was arrested for "colluding with others and fabricating and spreading false information about securities and futures trading," and later confessed on state television, a tactic authorities have increasingly employed, the CPJ said.
+ Reporting on human rights and the country's Uighur minority remained sensitive and in one case three family members of Shohret Hoshur - a Washington DC-based Uighur journalist for US government funded Radio Free Asia - were arrested in retaliation for his work, the CPJ said.
+ 
+ Coming in second place as the worst jailer of journalists, Egypt has imprisoned 23 journalists, nearly double from a year ago. "Perhaps nowhere has the climate for the press deteriorated more rapidly than in Egypt," the CPJ said, noting how President Abdel Fattah el-Sisi used 
+Turkey, which for two consecutive years in 2012 and 2013 had the most journalists in prison before releasing dozens in 2014, doubled the number of journalists in prison this year to 14. Turkey has been repeatedly cited by rights organization for the deterioration of media freedom and independence as President Recep Tayyip Erdogan and his Justice and Development Party extend their wrath over critical voices through the judiciary.
+ With two elections in 2015, instability stemming from involvement in the Syrian civil war and the resumption of fighting with the Kurdistan Workers' Party (PKK), the environment for journalists in Turkey has become more precarious. Most recently, two prominent journalists with the opposition media Cumhuriyet,  by Turkey's intelligence agency to Syrian rebels under the guise of humanitarian aid.
+ 
+ The number of journalists in prison in Iran dropped from 30 last year to 19 this year, but a "revolving door policy" skewed the picture as the state released some prisoners temporarily while arresting others, CPJ said. 
+ "Anti-state charges remain the favored tool for jailing journalists in Iran," the CPJ said, pointing to among others  who is accused of espionage and other charges. He has reportedly been convicted and sentenced, but there are few details on the charges.
+ 
+ Although the number of journalists in jail decreased in Vietnam, censorship there remains a major issue, as does forced exile. In Ethiopia, censorship is widespread and several journalists have been arrested and face travel restrictions.
+ Repressive Eritrea, meanwhile, has 17 journalists in prison, making it the worst in sub-Saharan Africa. In a violation of not only media rights but due process, all of the Eritrean journalists in prison have never been charged with a crime or faced a court.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

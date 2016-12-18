@@ -1,0 +1,49 @@
+<ID>20130328-89
+<DATE>20130328<\DATE>
+<URL>
+http://www.asianews.it/news-en/Poisoned-by-religion,-20-Uighurs-jailed-in-Xinjiang-27517.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+"Poisoned" by religion, 20 Uighurs jailed in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Beijing uses an iron fist in the northwestern province, homeland of minority Turkic Muslims. Courts convict "activists" for preparing "Holy war". For exiled Uighurs, they are only guilty of talking about "freedom".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - China's relentless crackdown on ethnic minorities 
+continues unabated. Despite its ongoing slaughter in Tibet, Beijing has opted 
+for the iron fist in Xinjiang, the homeland of ethnic Uighurs in northwestern 
+China. Courts handed down heavy sentences, including life in prison, against 20 
+ethnic Uighurs "poisoned by religious extremism".
+
+Judges in Kashgar and Bayingol ruled that the offenders had their "thoughts 
+poisoned by religious extremism", and that they were getting ready for a holy 
+war, a Xinjiang government press release said.
+
+Uighurs are a Turkic Muslim group. From the end of World War II until the 
+1990s, they sought independence from China. Today, they want religious and 
+cultural autonomy.
+
+According to exiled Uighurs, centred mostly in Germany under the leadership of 
+Rebiya Kadeer, the Chinese government has magnified the threat of religious 
+extremism to justify its repression against the minority.
+
+For Dilxat Raxit, a spokesman for the exiled World Uyghur Congress, those 
+convicted were guilty of no more than listening to the US-fundedRadio Free Asia 
+and using the Internet to discuss the importance of religious and cultural 
+freedom.
+
+Xinjiang is rich in raw materials and is located in a strategic position on 
+the border with South Asia and Central Asia.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

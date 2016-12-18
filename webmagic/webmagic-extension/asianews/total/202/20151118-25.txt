@@ -1,0 +1,77 @@
+<ID>20151118-25
+<DATE>20151118<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=35913
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-17-Uighur-terrorists-killed,-women-and-children-included-35913.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: 17 Uighur "terrorists" killed, women and children included
+<\TITLE>
+<ABSTRACT>
+Chinese military raid cave where wanted suspects were hiding. The latter had been on the run for almost two months on suspicion of masterminding a terror attack in a coalmine that killed 50 people. In what appears to be more Chinese heavy-handedness against ethnic Muslims, the dead include the terrorists’ relatives: four women and three children.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) – Authorities in northwest China’s Xinjiang Uyghur 
+Autonomous Region have killed 17 terror suspects from three families, including 
+women and children,Radio Free Asia (RFA) reported.
+
+“Yes, I received a notice from my superiors informing us that all of the 
+terrorists have been killed and warning us to remain vigilant against a 
+possible revenge attack,” said Exmet Abliz, police chief of Bay’s Qeyir 
+Township, toldRFA.
+
+Police sources said that the 17 fugitives were killed when the military blew 
+up the cave in which they were hiding. The fugitives were wanted in connection 
+with theSogan Colliery attack 
+
+ that killed 50 people.
+
+On that occasion, Chinese authorities pinned the attack on ethnic Uighurs, 
+Turkic-speaking Muslims concentrated in Xinjiang who seek cultural and 
+religious autonomy from Beijing.
+
+For nearly two months, police and the military sought the 17 suspects: the 
+three men believed to have carried out the attack – Tursun Jume, 46, Musa 
+Toxtiniyaz, 47, and Memet Eysa, 60, from Chokatal Meadow, in Bay’s Kanchi 
+Township – and their family members.
+
+Ekber, the director of the Terek Township middle school, which has been used 
+as a base of operations for the manhunt, said teachers and staff finally 
+returned to classes on Tuesday after nearly two months.
+
+“I received a call from the chief of the Bay County Education Department, who 
+told me that the war had ended with a great victory – that all the terrorists 
+had been killed and that we could return to the middle school,” he said.
+
+“Based on the warrant list,” said Ekber, “we found out that the 17 suspects 
+included four women and three children, one of which – nine-year-old Munire 
+[Memet, the adopted granddaughter of Memet Eysa] – was one of our second grade 
+students.”
+
+A local official who provided the names of the suspects to RFA in October said 
+at the time that neither the women nor the children had been involved.
+
+The police raid comes a few days after China, following the Paris attacks 
+
+, stated that it was going tointensify its fight against Uighur terrorism 
+
+, which it blames on the al Qaeda-linked East Turkestan Islamic Movement (ETIM).
+
+China has vowed to crack down on the "three evils" of terrorism, separatism, 
+and religious extremism. However, experts have questioned China’s action for 
+its heavy-handed rule in Xinjiang, blaming the escalation of violence on the 
+central government unjust policies.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

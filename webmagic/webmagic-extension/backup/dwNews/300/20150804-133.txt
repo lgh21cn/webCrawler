@@ -1,0 +1,100 @@
+<ID>20150804-133
+<DATE>20150804<\DATE>
+<URL>
+http://www.dw.com/en/sierens-china-silk-against-sand/a-18625645
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Sieren's China: Silk against sand
+<\TITLE>
+<ABSTRACT>
+China's "New Silk Road" project is supposed to prevent further land desertification. And DW's Frank Sieren thinks it's worth a shot.
+<\ABSTRACT>
+<CONTENT>
+
+ One of China's worst enemies is its deserts. They have infertile soil, a 
+scarcity of water and sand storms. Moreover, they are expanding. The sandstorms 
+in the spring and fall can even be felt in Beijing. Fertile land is turning 
+into sandy soil where hardly anything can grow.
+
+ A fifth of China's surface is already feeling the impact - about 1.73 million 
+square kilometers (670,000 square miles) have been lost to sand in the past 50 
+years. Some 400 million Chinese citizens are directly affected by the 
+consequences of dry soil, especially in the northwest and west of China. In 
+Inner Mongolia, almost 50 percent of the soil has dried up, whereas in Xinjiang 
+province the same is true for nearly 65 percent. These are also the regions 
+that are feeling the worst impact from the sandstorms, which can be up to 100 
+meters (328 feet) high and whip up force 9 gales.
+
+ This is not a new problem for the Chinese government. There have been studies 
+about desertification in China since 1977 when the first was commissioned by a 
+UN conference. The reasons are also known: overgrazing, erroneous cultivation 
+methods, as well as natural causes such as wind and water erosion because land 
+is not protected satisfactorily. There aren't enough trees anywhere.
+
+ The government has long sought a solution, but this is difficult. Every year, 
+some 1,700 square kilometers are won back from the sand, but the deserts 
+continue to expand. The same problem that is encountered in the West prevails. 
+Nobody really knows how to motivate people, in this case farmers, to behave in 
+a way that is environmentally-friendly.
+
+The pressure is on
+
+ The following rules of thumb exist: The less people benefit from economic 
+progress, the less willing they are to forego growth in favor of the 
+environment. It's only when there is a certain amount of economic progress that 
+people tend to be prepared to rethink their ideas. This was also the case in 
+Germany. However, the Chinese government cannot wait this long. In the deep 
+west of the Chinese hinterland, it could take a long time for people to change 
+their minds. Police officers cannot force all farmers to act reasonably. This 
+is why China is trying to inter-connect environment-related discipline to 
+economic progress.
+
+ The struggle against desertification is being linked to one of the Chinese 
+government's most important projects: the rebuilding of the old Silk Road. The 
+idea is as follows: If you behave in a way that is environmentally-friendly, 
+you will get special conditions for involvement in the economic boom. Nobody 
+knows whether this will work, but it's worth a try. This new order was 
+inaugurated at the 5th Kubuqi International Desert Forum in Ordos, Inner 
+Mongolia last week by Chinese Vice-Premier Wang Yang, who is responsible for 
+agriculture and water resources. The new trade corridor that Beijing is 
+building on the traces of the old Silk Road is supposed to be the focus.
+
+Individual projects are not enough 
+
+ China is investing $40 billion (36.5 billion euros) into building up the 
+infrastructure in the whole of Central Asia for the new Silk Road that will run 
+from Russia to Pakistan and, of course, in China itself. The underdeveloped 
+western region of China is supposed to benefit the most from the government's 
+new interest. Since 80 percent of China's desert is on the old Silk Road, Wang 
+Yang hopes that there will be more progress if the two are interlinked.
+
+ In its next Five Year Plan, Beijing hopes to introduce a model of 
+public-private partnership to encourage farmers, business people and NGOs with 
+financial aid to do more against desertification. The model will first be 
+implemented in the Kubuqi Desert, a region in which a lot has been done to try 
+to fight the sands in the past few decades but not necessarily collectively. 
+The plan this time is to find joint solutions because it does not help if an 
+NGO manages to transform a part of the region into fertile land if a careless 
+farmer allows his herds to graze elsewhere to the detriment of another region.
+
+Economic progress is essential
+
+ Everybody has to work together. And everyone has to have the feeling not only 
+of doing some good for the environment, but also of benefitting in economic 
+terms as well. Left to their own devices, people are not as green as some would 
+like. China is currently suffering the most from progress and development. The 
+environmental damages caused by industrialization and traditional 
+pre-industrial ways of life are clashing in China in an unprecedented manner. 
+That's why the task is particularly difficult.
+
+DW's Frank Sieren has lived in Beijing for 20 years.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

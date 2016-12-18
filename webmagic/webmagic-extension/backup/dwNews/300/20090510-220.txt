@@ -1,0 +1,62 @@
+<ID>20090510-220
+<DATE>20090510<\DATE>
+<URL>
+http://www.dw.com/en/germany-says-us-data-on-guantanamo-inmates-insufficient/a-4238891
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Germany says US data on Guantanamo inmates insufficient
+<\TITLE>
+<ABSTRACT>
+The German government says it cannot accept any detainees from the Guantanamo prison facility until Washington provides more information on them and answers some key questions.
+<\ABSTRACT>
+<CONTENT>
+
+In a newspaper interview published on Sunday, Interior Minister Wolfgang 
+Schaeuble complained that Washington had not yet provided sufficient 
+information for Germany to act on resettling Guantanamo detaineees.
+
+Germany's Bild am Sonntag newspaper reported that Washington had provided 
+Berlin with a list of nine Chinese Muslims, members of the Uighur ethnic group, 
+that it hoped Germany would offer refuge to.
+
+"The information that we've received so far from Washington is insufficient 
+for us to take a decision on whether to accept any one of the cases," Schaueble 
+told the paper.
+
+The minister said a number of concerns needed to be addressed before Germany 
+could take a decision on whether to accept the detainees.
+
+"First, are we sure that these people do not pose a threat because this is a 
+worry of many citizens here. Second, why can't the United States take them on? 
+And third, do they have a link to Germany?" he said.
+
+Bavarian minister rejects Uighur detainees 
+
+Bild reported that Bavarian Interior Minister Joachim Herrmann is opposed to 
+taking in any of the Uighur detainees.
+
+Herrmann was quoted as saying that security intelligence showed seven of the 
+nine Uighurs reportedly being considered for resettlement in Germany had been 
+trained in camps of the East Turkestan Islamic Movement (ETIM) and had contacts 
+to militant Islamist organisations.
+
+"We don't need those kind of people in Germany," Hermann told the newspaper, 
+adding that US demands were unreasonable.
+
+Of around 240 prisoners still held without charge at the US military camp for 
+enemy combatants, reportedly 50 cannot be sent to their homelands because of 
+the danger they may be tortured.
+
+US President Barack Obama had pledged to close the Guantanamo Bay detention 
+camp by January 2010. Washington hopes that European allies will facilitate the 
+closure by giving some of the former detainees a new home.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

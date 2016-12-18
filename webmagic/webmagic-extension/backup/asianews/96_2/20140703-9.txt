@@ -1,0 +1,69 @@
+<ID>20140703-9
+<DATE>20140703<\DATE>
+<URL>
+http://www.asianews.it/news-en/Ramadan-in-China:-students,-teachers-and-government-officials-banned-from-fasting-31520.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ramadan in China: students, teachers and government officials banned from fasting
+<\TITLE>
+<ABSTRACT>
+This is confirmed by local sources in the province of Xinjiang and the Uyghur World Congress: police officers go to homes of local Muslims to monitor compliance with the ban. The head of the (state controlled) Council for Islamic-Chinese relations denies central government involvement: "I know nothing of this ban, but even if it were in force, it is a local authority initiative". The province is at the center of a violent ethnic conflict. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Different government departments in the western province 
+of Xinjiang have banned its officials and national school students from fasting 
+during the Muslim holy month of Ramadan. The decision was apparently taken by 
+the local government with the support of Beijing after a series of terrorist 
+attacks that have rocked China in recent months. The central authorities have 
+blamed Uyghur separatists - formerly the ethnic majority in Xinjiang - of 
+having planned the attacks inBeijing 
+
+,Urumqi , Kunming 
+
+ andGuangzhou 
+
+. For their part, the ethnic leaders have always denied any involvement in acts 
+of violence.
+
+Xinjiang province is one of the most turbulent in all of China. It is the 
+homeland of ethnic Uyghurs, a Turkic-speaking, mostly Muslim people that has 
+always sought independence from Beijing. The central government has sent 
+hundreds of thousands of Han Chinese to the region to try to make them the 
+dominant ethnic group. It has also imposed serious restrictions on freedom of 
+religion, Muslim practices, the teaching of the indigenous language and the 
+local culture.
+
+Bozhou Radio and TV University - both government media - have stated that the 
+fasting ban applies to Party members, teachers and young people: " We remind 
+everyone that they are not permitted to observe a Ramadan fast ". According to 
+the local Met Office, which has also adopted the ban, the norm "was enacted in 
+accordance with the instructions that come from the highest authorities."
+
+A spokesman for the World Uyghur Congress - an Organization based in Germany 
+that represents the ethnic diaspora and monitors the situation in the province 
+- has confirmed the restrictions and added that authorities "have posted 
+security officers in Muslim homes to check that the categories involved do not 
+observe the fast. These restrictions on our freedom of religion will only 
+worsen the situation".
+
+Isaaq Yousef, head of the Council for the Islamic-Chinese relations (a state 
+controlled organization that regulates the lives of Chinese Muslims in 
+Xinjiang), however denies Beijing's involvement: " If such a ban is in effect, 
+it's an initiative of lower level state employees and not a directive from 
+higher authorities There is no interest for the state in banning anyone who 
+wants to practice his religion. But if this happens, it is usually those state 
+employees who are behind this".
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

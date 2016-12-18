@@ -1,0 +1,36 @@
+<ID>20160811-59
+<DATE>20160811<\DATE>
+<URL>
+http://www.dw.com/en/bomb-blasts-hit-thailand/a-19469245
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Bomb blasts hit Thailand
+<\TITLE>
+<ABSTRACT>
+Separate twin bomb blasts have hit Thailand, killing at least two people and injuring many more. The explosions come days after a referendum approving a military constitution.
+<\ABSTRACT>
+<CONTENT>
+ A twin bomb blast in the southern province of Surat Thani killed at least one person and injured two others, Thai police said.
+ The double bombing, at 8 a.m. (0100 UTC) on Friday morning, came less than 12 hours after separate twin bomb attacks in central Thailand.
+ Four bombs exploded on Thursday evening in the seaside resort of Hua Hin, 198 kilometers south (125 miles) of Bangkok. The victims included Thais and foreigners, police said.
+ Two more blasts were reported in the popular tourist destination of Phuket.
+ Authorities are unsure of a motive or who carried out the attacks. It is unclear whether the attacks were related.
+ The blasts come several days before the one-year anniversary of the last major attack on tourists in Thailand. A bomb in the Thai capital ripped through a Hindi shrine and killed 20 people on August 17, mostly foreigners.
+ 
+ Thai authorities accused two Uighur men from western China of the bombing, the deadliest attack of its kind Thailand in recent years. The two accused have denied involvement in the attack and their trial is set to begin later this month.
+ They come a week after a referendum put forward by the military junta was approved, paving the way for a new constitution and 
+ Junta chief and Prime Minister Prayuth Chan-ocha said on Wednesday he had brought stability back to Thailand.
+ Opponents of the military drafted constitution argue it is  and was designed to keep the military in power for five more years.
+ The attacks come ahead of weekend celebrations to celebrate Queen Sirikit's birthday on Friday. The ruling junta supports 
+ A bombing took place earlier on Thursday, in the southern province of Trang, which killed one person and injured six.
+ cw/rc (AFP, AP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

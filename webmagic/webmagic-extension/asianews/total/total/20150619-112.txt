@@ -1,0 +1,53 @@
+<ID>20150619-112
+<DATE>20150619<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=34555
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-government-bans-fasting-and-other-religious-activities-during-Ramadan-34555.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: government bans fasting and "other religious activities" during Ramadan
+<\TITLE>
+<ABSTRACT>
+The Muslim holy month, which began yesterday, requires fasting from dawn to dusk. Beijing tightens its grip over the province, home to nearly nine million Muslim Uighurs. Civil servants, students and teachers must follow the guidelines. Uighur leader slams ban as “a provocation” that “will only lead to instability and conflict.”
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – China has banned civil servants, students and 
+teachers in its Xinjiang region – home to a large Muslim community – from 
+fasting during the Muslim holy month of Ramadan.
+
+The authorities have ordered restaurants to stay open. In some counties, 
+religious vigils and activities associated with the month have been banned.
+
+Out of Xinjiang’s 22 million people, almost nine million are indigenous Muslim 
+Uighurs. Deemed a hotbed of terrorism, the region has seen rising tensions due 
+to Beijing’s restrictive ethnic and religious policies.
+
+Over the years, clashes and violent incidents have broken out between native 
+Uighurs and ethnic Han Chinese settlers brought in by the Chinese government to 
+swamp the indigenous population.
+
+Going one step beyond simply discouraging government employees to forgo 
+fasting, police and court officials in Awat County were ordered to “take the 
+lead in teaching family members not to fast and not to participate in 
+Ramadan-related religious activities”.
+
+As in previous years, teachers and schoolchildren were included in directives 
+limiting Ramadan fasting and other religious observances.
+
+However, for Dilxat Rexit, a spokesman for the exiled World Uygur Congress, 
+“Policies that prohibit religious fasting are a provocation and will only lead 
+to instability and conflict.”
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

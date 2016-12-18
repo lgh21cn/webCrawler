@@ -1,0 +1,82 @@
+<ID>20090804-107
+<DATE>20090804<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15956
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer:-Beijing-has-no-power-on-love-created-by-God-between-me-and-my-children-15956.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer: Beijing has no power on love created by God between me and my children
+<\TITLE>
+<ABSTRACT>
+The Uighurs leader denounces China’s manipulation of her family and describes as false a letter by some of her children, accusing her of being behind the incidents in Xinjiang. Many of Kadeer’s children are in prison. Chinese methods are the same since the time of the Cultural Revolution and similar to those against the Dalai Lama. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Sydney (AsiaNews / Agencies) - Rebiya Kadeer, the exiled Uighur who became an 
+advocate of the rights of Muslim minority in China before the violence, 
+denounced as false a letter published by Beijing in which the children of 
+Kadeer charge her with responsibility for all violence in Xinjiang atbeginning 
+of July.
+
+Arriving in Sydney, to attend the International Film Festival, she said: 
+"China has power. They are able to control the speech of my children and twist 
+their language against me, but they can not control the love created by God 
+between me and my children”. "I know my children," she added. "Nobody 
+criticizes his or her mother for something, even if she did something wrong."
+
+According to Chinese media, which gave ample coverage to the elusive letter, 
+the message comes from the two sons Khahar and Memet and daughter Roxingul. 
+"Because of you - says the letter - many innocent people of all ethnic groups 
+have lost their lives in Urumqi July 5 last, with enormous damage to property, 
+shops and vehicles."
+
+Rebiya Kadeer has 11 children, who all remained in Xinjiang, after her forced 
+exile to the United States.
+
+Two of them are in prison. In 2007, Ablikim Abdiriyim, was sentenced to 9 
+years in prison by a court in Urumqi. According to the indictment, Ablikim 
+spread secessionist articles over the internet, instigating to act against the 
+government and "distorting" the situation of human rights and ethnic politics 
+in China. He was also deprived of political rights for three years. Another 
+son, Alim Abdiriyim, was convicted in September 2006 to 7 years in prison for 
+tax evasion. A third son was arrested for tax evasion but was only sentenced to 
+a fine and a daughter has for years been under house arrest.
+
+"I know the Chinese authorities and their methods old and new to criticize 
+their enemies" Kadeer said.
+
+The attempt to discredit the Uighurs leader recalls closely the campaign full 
+of lies and insults against the Dalai Lama before the Olympics in Beijing in 
+2008. Personalities of the government accused him of being "a devil disguised 
+as an angel," "a wolf disguised as a lamb."
+
+The elusive letter also follows the style of the Chinese authorities during 
+the Cultural Revolution when Mao called on young people to denounce their 
+parents. Curiously, the passages in the letter cited in the Chinese media, are 
+modeled throughout on Beijing’s reading of events in Xinjiang.
+
+On 5 July a demonstration of thousands of Uighurs in Urumqi degenerated into a 
+clash with ethnic Han Chinese. China accused Kadeer and the World Uygur 
+Congress of designing the plan “to destroy harmony and unity among ethnic 
+groups" and that she was directly responsible for the death of 197 people, 
+majority Han. On the other hand, exiled Uighurs accuse the Chinese army and 
+police of superficiality and of provoking the clash that led to the arrest of 
+more than 1,400 Uighurs and the disappearance of “at least 10 thousand ", 
+according to Kadeer.
+
+Careful observers believe that the incident serves Beijing to establish 
+greater control over the country and greater cohesion a few months away from 
+the celebrations of the 60th anniversary of the Peoples Republic of China.
+    
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

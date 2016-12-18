@@ -1,0 +1,38 @@
+<ID>20150629-18
+<DATE>20150629<\DATE>
+<URL>
+http://www.dw.com/en/sierens-china-make-wares-not-wars/a-18550321
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Sieren's China: Make wares, not wars
+<\TITLE>
+<ABSTRACT>
+Beijing and the West share similar problems with Islamic terrorists, but they deal with them differently, writes DW columnist Frank Sieren.
+<\ABSTRACT>
+<CONTENT>
+ In the West, terrorist attacks in Tunisia and France made last Friday a black day: 38 dead in Sousse and a decapited businessman in Lyon. China's black day was on Monday of last week, with a death toll of 28 in Kashgar. Uighurs armed with knives and explosives killed several policemen who opened fire on the assailants at a police checkpoint. Most of the dead are said to be ethnic Uighurs who belong to China's Muslim minority. The situation is not as clear as in Tunis. While Chinese authorities have mostly remained silent about the case, the West has provided transparent reports about the attacks in Europe.
+ 
+ Yet neither the West, nor China, has a grip on Islam-related terrorism. Even a nation like China, with its extensive surveillance systems, has not succeeded. In spring - after months of tranquility - leaders in the troubled Chinese province of Xinjiang announced that authorities had traced and broken up more than 180 terrorist groups.
+ The latest attack in Kashgar must have greatly disappointed those who have tried to tackle problems by using large-scale surveillance and tough action. Until now - apart from small towns - the capital of Xinjiang, Urumqi, has been the main scene of attacks in the province. But even there, it has quieted down lately after China weathered two years of terrorism in 2013 and 2014, the most intense phase in recent history
+ 
+It started in October, 2013, when a car bomb went off amid crowds on Beijing's Tiananmen Square, leaving its passengers and two tourists dead. Subsequently, further attacks on the streets and squares in Urumqi followed until March 1 of last year, when assailants yielding knives and cleavers killed 39 people at the central train station in Kunming, the capital of the central Chinese province of Yunnan.
+ Since then, Beijing has realized that it's no longer dealing with just lone, Muslim Uighur fanatics, but that international terrorism has reached China, even if the attacks were not sophisticated. The frightening statistics show that from 2010 to the end of 2014, 468 people were killed and another 548 injured in terrorist attacks in China.
+ 
+ Beijing responded: Thousands of police and security forces were deployed to the streets of Xinjiang, including personnel from cities in other parts of the country. The government adopted a harsher tone: "One must sweat more in peace to bleed less in war" or "terrorists must be trampled like rats" were typical phrases used by leaders. When they set bounties for suspicious-looking people, or people with long beards, authorities revealed their own fears and insecurity. 
+ Even the arrest of Uighur lawyer Ilham Tothi (headline picture) in September 2014 did not change anything: Tothi supported the Uighur minority, but always affirmed that he was not an advocate of Xinjiang's independence from the People's Republic of China. Nevertheless, he was sentenced to life imprisonment for incitement of ethnic hatred. This verdict may have created an involuntary martyr and perhaps even provoked further acts of terrorism in the country.
+ While these methods do not match with political ideas in the West, there are parallels to other measures: In the future, Chinese soldiers will also be sent abroad to fight against terrorist groups, as long as they are given permission by the country in which they are deployed. Beijing and the West could well collaborate in such operations. However, past foreign intervention missions have shown – especially in the USA – how tricky this could be in practice: In the end, the chaos is often greater than before an operation. 
+ 
+ Another type of cooperation would make more sense: Beijing is attempting to stabilize poor regions by providing extensive economic aid. The expanded, New Silk Road will run through Xinjiang, as well as the region bordering Afghanistan and Pakistan. Beijing aims to raise the standards of the country's poorer west to those of the wealthier coastal areas in the east by implementing infrastructure projects and granting subsidies.
+ In early 2014 the security budget of the provincial government was raised to one billion US dollars (895 millon euros). And, in addition to high-speed trains and new highways, a new project was officially given the green light last week in Beijing: Xinjiang is set to become a main location of China's textile industry by 2020. More than one million jobs will be created over the next eight years: In other words, make wares, not wars.
+ The strategy is to develop the economy and thus deprive the terrorists of their support within the population; the reasoning behind this being that people who are doing well financially will lose interest in suicide attacks. Even the government in Beijing is not completely certain of the strategy's success, but an attempt is definitely worth the effort. And in any case, it would be useful to explore the extent to which the West and China can fight side by side against terrorism.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

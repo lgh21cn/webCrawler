@@ -1,0 +1,56 @@
+<ID>20091219-18
+<DATE>20091219<\DATE>
+<URL>
+http://www.asianews.it/news-en/Cambodian-government-expels-20-Chinese-Uyghur-Refugees-17167.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Cambodian government expels 20 Chinese Uyghur Refugees
+<\TITLE>
+<ABSTRACT>
+Phnom Penh considers them illegal immigrants and orders their return to China. The group, which escaped in July from Xinjiang, sought political asylum in the UN's Office in the capital. Human rights activists warn that if they return to China they will be tortured and killed. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Phnom Penh (AsiaNews / Agencies) - The Cambodian government has ordered the 
+deportation of 20 ethnic Uyghur Chinese, who fled Xinjiang in July during the 
+crackdown against the Muslim minority. They are charged with "illegally" 
+crossing the border and will be sent back. The decision bows to pressure from 
+China, which had branded the refugees "criminals."
+
+In recent weeks the group had illegally entered Cambodia, asking for political 
+asylum at the office of the United Nations in Phnom Penh. The government, under 
+the immigration laws, has ordered their expulsion. "They have no passports or 
+permits - said Koy Kuong, spokesman for the Foreign Ministry - which is why we 
+consider them illegal." He adds that he does not know “where they will be 
+sent”, but their "final destination will be China, the place where they come 
+from".  
+
+Human rights activists fear for the lives of 20 refugees, if returned to 
+China. Amy Reger, a researcher at theUyghur American Association in Washington, 
+explains that they will face"a terrible fate, possible execution and likely 
+torture". The activist recalls the case of Shaheer Ali, who fled to Nepal in 
+2000 and was considered a political refugee by the UN. Repatriated to China in 
+2002, he was executed a year later.
+
+Ethnic tensions exploded on 5 July when a peaceful Uyghur demonstration caused 
+by the forced closure of a Muslim bazaar degenerated into ethnic clashes 
+between indigenous Muslim Uyghurs and ethnic Han Chinese. During the unrest, 
+about 200 people were killed and 1,600 were injured before police and the army 
+were able to clamp down and arrest thousands of people.
+
+Beijing has already imposed 12 death sentences against the alleged 
+perpetrators of the rebellion. Uyghurs accuse Han Chinese of colonising their 
+country, monopolising commerce and the public administration. They prevent
+locals from exercising their civil liberties and enjoying religious freedom, 
+often done in the name of the fight against Islamic terrorism.
+. 
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

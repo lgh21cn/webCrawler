@@ -1,0 +1,35 @@
+<ID>20110103-227
+<DATE>20110103<\DATE>
+<URL>
+http://www.dw.com/en/chinese-users-concerned-about-internet-phone-restrictions/a-6381739
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese users concerned about internet phone restrictions
+<\TITLE>
+<ABSTRACT>
+Google made headlines almost a year ago, as the company declared it would no longer respect the censorship guidelines handed down by the Chinese government. Now it appears there could be a new storm brewing.
+<\ABSTRACT>
+<CONTENT>
+China has the largest internet community in the world, with 450 million users. But they are not the freest, as is commonly known. Now the government is coming up with a new plan to censor its citizens: to restrict phone calls via internet. The website of the Ministry of Industry and Information Technology warns: 'we will counteract illegal telephone services.' Is the end near for Skype and similar net services in China? 
+Zhang Yufan is a user and is concerned. "People who work in foreign commerce use online phone services. And also families whose children study abroad." Zhang says he started using such services when he was in a long-distance relationship. "I would talk over the internet for two hours every day. If they really end up blocking Skype, I will use my computer skills to get around it, like setting up a proxy server in another country so I can still 'Skype'. And if that doesn’t work, then I will have to accept having been robbed of a great service." 
+
+
+There are still between 10 to 20 million Chinese citizens who phone online. And they are saving a heap of money. A telephone call from China to the USA typically costs around 80 euro cents, whereas with Skype, the same call only costs two cents per minute. And these long distance calls account for about 70 percent of revenue for China’s telecommunications giants. 
+Skype, Google, MSN and hundreds of smaller Chinese companies are offering their services in trial runs in only four cities in China. Kan Kaili of Beijing’s University of Posts and Telecommunications thinks blocking such services would be a big mistake. "It is possible that the Ministry of Industry and Information Technology has announced this because it is under pressure by the Propaganda Department and the police."
+That is what many insiders think, as the manager of a small calling services provider told the "South China Morning Post". After the bloody riots in the northwestern Xinjiang region in July 2009, a telecommunications company was forced to shut down their internet calling services. This is a sign that people who are critical of the government use the internet to talk in private. 
+
+But Kan Kaili says one of the problems is that most online phone services are offered by private companies. "They compete with the three big state companies. Its possible that such a step would only be taken to protect the state companies."
+To the question whether the government is more worried about the consumers or the interests of its own monopolies, he says, "It is obvious that the government is sacrificing the interests of the people."
+
+This sacrifice could soon make China the only country in the world to ban online telephone calls. However, Kan Kaili is certain this will not happen in China. He says the chances are, "zero. The government will never carry out this plan. If they shut down a company today and arrest its manager, then a new one will pop up tomorrow. There are so many of these small service providers." He says that to be effective, "this could only possibly apply to the few big companies. Or maybe there really is nothing behind the statement." 
+If he is right, this would just be another ploy to "keep face" without hurting anyone. And with the many faces China has, he could very well be right. 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

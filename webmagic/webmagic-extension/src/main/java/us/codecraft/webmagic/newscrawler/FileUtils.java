@@ -16,18 +16,21 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.regex.Pattern;
 
 import us.codecraft.webmagic.Request;
 
 
 public class FileUtils {
 
-	private static final String seperator = "/";
+	public static final String seperator = "/";
+	
+	public static final String GLOBALTIMES_NEWS="./GlobalTimes/";
 
-	public static void writeCorpus(String fileName, String corpus) {
+	public static void writeCorpus(String fileName, String corpus,boolean append) {
 		PrintWriter printWriter = null;
 		try {
-			printWriter = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getFile(fileName)), "UTF-8"));
+			printWriter = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getFile(fileName),append), "UTF-8"));
 
 			printWriter.print(corpus);
 		} catch (UnsupportedEncodingException e1) {
@@ -42,6 +45,10 @@ public class FileUtils {
 			}
 			// System.out.println(printWriter.checkError());
 		}
+	}
+	
+	public static void writeCorpus(String fileName, String corpus) {
+		writeCorpus(fileName, corpus,false);
 	}
 
 	public static void writeErrorLog(String fileName, String log,boolean append) {
@@ -79,10 +86,17 @@ public class FileUtils {
 			isr = new InputStreamReader(fis);// InputStreamReader 是字节流通向字符流的桥梁,
 			br = new BufferedReader(isr);// 从字符输入流中读取文件中的内容,封装了一个new
 											// InputStreamReader的对象
+			HashSet<String> urlsSet=new HashSet<String>();
+			
 			while ((url = br.readLine()) != null) {
 				url=FileNumberVerifier.removeURLTag(url);
-				requests.add(new Request(url).putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT)
-						.putExtra(AsianViewDetailItem.ADDNEW, addNew));
+				if(!urlsSet.contains(url)){
+					requests.add(new Request(url).putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT)
+							.putExtra(AsianViewDetailItem.ADDNEW, addNew));
+				}else{
+					System.out.println("Url ["+url+"] exists. ");
+				}
+				
 			}
 //			System.out.println(str1);// 打印出str1
 		} catch (FileNotFoundException e) {
@@ -207,6 +221,40 @@ public class FileUtils {
 		}
 	}
 	
+	private static boolean verifyByPattern(String path,List<Pattern>patterns){
+		for (Pattern pattern : patterns) {
+			if(pattern.matcher(path).matches()) return true;
+		}
+		return false;
+	}
+	
+	public static void readFileNames(String path,Set<String> names,List<Pattern> patterns){
+		File root=new File(path);
+		if(root.exists()){
+			if(root.isDirectory()){
+				File[] subFiles=root.listFiles();
+				for (File file : subFiles) {
+					if(file.isFile()){
+						System.out.println(file.getName());
+						String fileName=file.getName();
+						
+						if(verifyByPattern(fileName, patterns))
+							names.add(file.getAbsolutePath());
+					}else if(file.isDirectory() /*&& Pattern.compile("query_.*").matcher(file.getName()).matches()*/){
+						readFileNames(file.getAbsolutePath(), names, patterns);
+					}
+				}
+			}else{
+				System.out.println(root.getName());
+				String fileName=root.getName();
+				
+				if(verifyByPattern(fileName, patterns))
+					names.add(root.getAbsolutePath());
+			
+			}
+		}
+	}
+	
 	public static String readFile(String filePath){
 		FileInputStream fis = null;
 		InputStreamReader isr = null;
@@ -242,7 +290,39 @@ public class FileUtils {
 		return sb.toString();
 	}
 
-	static final String docName="dwNews";
+	static /*final*/ String docName=
+//			"dwNews";
+	"asianews";
+	
+	public static boolean moveFiles(String destDirPath, String ... srcFiles){
+		if (srcFiles == null || srcFiles.length == 0) {
+			return false;
+		}
+		File destDir = new File(destDirPath);
+		
+		boolean destExists = true;
+		if (!destDir.exists()) {
+			destExists = destDir.mkdirs(); 
+		} else if(destDir.isFile()){
+			return false;
+		}
+		
+		if (!destExists) {
+			return false;
+		}
+		
+		for (String srcFilePath : srcFiles) {
+			File srcFile = new File(srcFilePath);
+			if (srcFile.exists() && srcFile.isFile()) {
+				boolean moved=srcFile.renameTo(new File(destDirPath + seperator + srcFile.getName()));
+				System.out.println(moved);
+				if(!moved){
+					srcFile.renameTo(new File(destDirPath + seperator + srcFile.getName()+"_k"));
+				}
+			}
+		}
+		return true;
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

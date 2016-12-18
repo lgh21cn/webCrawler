@@ -6,6 +6,7 @@ import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Request;
 import us.codecraft.webmagic.Site;
 import us.codecraft.webmagic.SpiderListener;
+import us.codecraft.webmagic.newscrawler.NewsCrawlerProcessor.ContentMatchException;
 import us.codecraft.webmagic.processor.PageProcessor;
 
 public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
@@ -34,7 +35,7 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 		//处理
 		public void convertProcess(Page page);
 		public void listProcess(Page page);
-		public void contentProcess(Page page);
+		public void contentProcess(Page page) throws ContentMatchException;
 		
 	}
 	
@@ -100,6 +101,7 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 				&&!l_content.contains("uighur");
 	}
 
+	private int mContentMatchCounter=0;
 	private int mMatchCounter=0;
 	private int mErrorCounter=0;
 	
@@ -108,15 +110,21 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 		public MatchException() {
 			// TODO Auto-generated constructor stub
 			super("No Matches");
-		}
-		
-		
-		
+		}		
+	}
+	
+	@SuppressWarnings("serial")
+	class ContentMatchException extends Exception{
+		public ContentMatchException() {
+			// TODO Auto-generated constructor stub
+			super("No Content Matches");
+		}		
 	}
 	
 	
-	public static final String MATCH_PATH=".//"+FileUtils.docName+"//Match_Error//";
-	public static final String ERROR_PATH=".//"+FileUtils.docName+"//Error_Log//";
+	public static String MATCH_PATH=".//"+FileUtils.docName+"//Match_Error//";
+	public static String CONTENT_MATCH_PATH=".//"+FileUtils.docName+"//Content_Match_Error//";
+	public static String ERROR_PATH=".//"+FileUtils.docName+"//Error_Log//";
 	
 	public static final String LOG_ORIGIN_URL_FORMAT="<ORIGIN_URL>"+CorpusFormatter.CRLF+"%s"+CorpusFormatter.CRLF+"<\\ORIGIN_URL>"+CorpusFormatter.CRLF;
 	public static final String LOG_URL_FORMAT=CorpusFormatter.URL;
@@ -144,6 +152,11 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 			String url=page.getUrl().toString();
 			final String fileName=String.format(MATCH_PATH+"%s.match.log", ++mMatchCounter);
 			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
+		}catch(ContentMatchException e){
+			// TODO: handle exception
+			String url=page.getUrl().toString();
+			final String fileName=String.format(CONTENT_MATCH_PATH+"%s.match.log", ++mContentMatchCounter);
+			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
 		}catch (Exception e) {
 			// TODO: handle exception
 			String url=page.getUrl().toString();
@@ -166,8 +179,8 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 	}
 
 	
-	public static final String SUCCESS_LOG_PATH=".//"+FileUtils.docName+"//success_log.txt";
-	public static final String ERROR_LOG_PATH=".//"+FileUtils.docName+"//error_log.txt";
+	public static String SUCCESS_LOG_PATH=".//"+FileUtils.docName+"//success_log.txt";
+	public static String ERROR_LOG_PATH=".//"+FileUtils.docName+"//error_log.txt";
 	
 	@Override
 	public void onSuccess(Request request) {

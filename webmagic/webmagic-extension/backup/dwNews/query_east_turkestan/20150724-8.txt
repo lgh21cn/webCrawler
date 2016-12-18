@@ -1,0 +1,47 @@
+<ID>20150724-8
+<DATE>20150724<\DATE>
+<URL>
+http://www.dw.com/en/why-chinas-uighurs-are-joining-jihadists-in-afghanistan/a-18605630
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Why China's Uighurs are joining jihadists in Afghanistan
+<\TITLE>
+<ABSTRACT>
+What is driving the Uighur Muslims to increasingly join the ranks of the Taliban and al Qaeda in Afghanistan? Analyst Siegfried O. Wolf tells DW why the Uighur issue has expanded far beyond China's borders.
+<\ABSTRACT>
+<CONTENT>
+ Uighur Muslims, a Turkic-speaking minority in China's northwestern Xinjiang province, have long faced persecution by the country's communist authorities. They are a distinct and mostly Sunni Muslim community and one of the 55 recognized ethnic minorities in China. However, the Uighurs feel increasingly suppressed and view Beijing as a "colonizing power" attempting to undermine their cultural identity, political rights, religion and to exploit their region's natural resources.
+ In the past few years, the Chinese government has acted strictly against the separatists in Xinjiang. This has pushed many Uighurs towards radicalization and militancy. The situation is also becoming aggravated due to the fact that Uighur separatism is not only an ethnic movement but also has a religious dimension to it.
+ The Uighur issue is generally viewed as an internal Chinese security problem but some experts argue that it should also be looked at in the context of the rising global jihad and Islamic fundamentalism. The crucial point, the analysts say, is that the Uighur case is getting increasingly hijacked by the jihadist movements, particularly in Afghanistan where a number of Uighur militants are reportedly fighting alongside the Taliban and al Qaeda.
+ In a DW interview, Siegfried O. Wolf, Director of research at the Brussels-based South Asia Democratic Forum (SADF), and a researcher at the University of Heidelberg's South Asia Institute, explains what is driving Uighurs to join Islamists in Afghanistan and what could be done to prevent this.
+ 
+ Siegfried O. Wolf: Decision-makers also need to look at the Uighur conflict in the context of Islamic jihad and fundamentalism. It is important to investigate to what extent Uighur refugees and illegal migrants are getting involved in jihadist networks in and outside South Asia and are being used as potential recruits for terrorist organizations.
+ According to Chinese sources, Uighur militants use fake Turkish passports to enter Afghanistan and Pakistan to join extremist groups. In the Afghan and Pakistani camps, which are heavily funded by Saudi Arabia, Uighurs receive ideological indoctrination as well as military training.
+ Many of the Uighur fighters are organized under an umbrella group called East Turkestan Islamic Movement or ETIM. The ETIM was listed as one of the "more extreme separatist groups" and as a terrorist organization by the US in 2002.
+ According to the UN, the ETIM is associated with al Qaeda and its fighters are believed to have fought alongside them and the Taliban in Afghanistan against NATO troops. Furthermore, the Uighurs gained combat training in Chechnya and were involved in terrorist activities in Kyrgyzstan. Reportedly, the ETIM has also sent its members to fight for "Islamic State" (IS) in Syria.
+ IS has declared jihad against China on the grounds that Beijing is mistreating the Uighur Muslim population. This classic Sunni jihadist propaganda based on the persecution of the Uighurs is evident in videos and other jihadist material in which IS has called for global jihad and an uprising in China.
+ 
+ The Uighurs identify themselves as the original inhabitants of Xinjiang, which they describe as "East Turkistan." Many of the Turkic-speaking Uighurs feel closer to Central Asian states and are in favor of separating from China or receiving greater autonomy. Therefore, it does not come as a surprise that Chinese security officials are dealing with them very strictly and want to have Xinjiang under their tight control, for both economic and geo-strategic reasons.
+ Beijing has enforced harsher regulations against the Uighurs and raised the security budget for Xinjiang. As a result, tensions between the Uighurs and the majority Han Chinese people have dramatically increased. Clashes and violent riots broke out between the two communities in July 2009, which resulted in at least 197 fatalities. Another wave of violence occurred in 2012.This has driven many Uighurs to flee China – both legally and illegally - to other countries.
+ 
+ There is no doubt that the "forced returnees" have to face severe persecution, torture, abuse, and even disappearances in China. The Chinese authorities have executed several of them in the past.
+ 
+ In the past, Islamabad acted against militant groupings carrying out anti-Chinese activities. However, this happened on Pakistani soil and did not include Afghanistan or the Afghan Taliban. When it comes to Afghanistan it seems that Pakistan and China are not on the same page.
+ Achieving peace in Afghanistan is not Islamabad's main goal or concern. Pakistan's Afghan policy is driven by its rivalry with India which is aimed at minimizing New Delhi's influence over its western neighborhood and making sure that a Pakistan-friendly government is in power in Kabul. Even if Islamabad decides to use its influence to protect Chinese interests vis-a-vis Uighur militants, I am not sure it can convince various Afghan Taliban factions and affiliated groups to change their strategies.
+ 
+ In the Af-Pak region, China's Uighurs have proven to be not only an unusual source of friction in China-Pakistan and Afghanistan-Pakistan ties but have also added to regional instability.
+ In this context, it is important to note that until the early 1990s, Pakistani governments adopted a much lenient attitude towards the Uighur presence in its northwestern tribal areas and remained largely indifferent to their separatist cause in China. This policy changed in the late 1990s in order to mollify Beijing, which felt increasingly uncomfortable about the fact that Pakistan's lawless tribal region bordering Afghanistan had developed into a sanctuary for Uighur extremists.
+Beijing's major concern remains that Uighurs are using the Pakistani territory to create unrest in western China. As such, China expects that Pakistan acts more aggressively against these militants.
+ 
+ The CPEC, funded and most likely constructed exclusively by China, could be a primary target of Uighur fighters in the region. Islamabad needs to do something to prevent this from happening. Otherwise it could have a negative impact on its ties with China and its weak economy.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

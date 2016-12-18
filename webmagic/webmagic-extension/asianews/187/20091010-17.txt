@@ -1,0 +1,47 @@
+<ID>20091010-17
+<DATE>20091010<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16554
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Death-sentence-for-a-Chinese-Han,-at-the-origin-of-Xinjiang-clashes-16554.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Death sentence for a Chinese Han, at the origin of Xinjiang clashes
+<\TITLE>
+<ABSTRACT>
+The court in Shaoguan also ruled life imprisonment and penalties of five to eight years for those responsible for the clashes in a factory city in southern China. The episode sparked Muslim Uyghurs protests in Xinjiang in July that culminated in clashes between demonstrators and police, 200 dead, 800 injured and hundreds of arrests. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - A man of Han ethnicity was sentenced to death 
+and another to life imprisonment for killing two Uyghur workers, which occurred 
+in June in Shaoguan, Guangdong Province.
+
+The City Court has sentenced nine other ethnic Han with between five and eight 
+years in prison, all involved in the assassination of two immigrants who worked 
+in a factory in the South.
+
+Han workers had accused the two Uyghurs immigrants, from Xinjiang, of violence 
+against two women also employed in the factory. The group of Han then beat the 
+two Muslim workers with sticks and rods, killing them, and sparking clashes 
+between workers of the two ethnic groups.
+
+Following the events of Shaoguan thousands of Uyghurs took to the streets of 
+Urumqi, capital of Xinjiang, to protest against the murder and the 
+marginalization they endured. The Han population in Xinjiang has in hand the 
+economy and the local administration. On the night of July 6th Army and the 
+Chinese police dealt with the demonstrators, causing at least 200 Muslims 
+deaths, 800 wounded and arresting hundreds of protesters. The violent response 
+by Chinese police sparked strong international criticism against Beijing.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

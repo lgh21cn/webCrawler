@@ -1,0 +1,73 @@
+<ID>20080407-31
+<DATE>20080407<\DATE>
+<URL>
+http://www.asianews.it/news-en/Chinese-dissident:-criticism-of-Beijing's-repression-is-the-true-sign-of-the-Olympic-spirit-11944.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese dissident: criticism of Beijing's repression is the true sign of the Olympic spirit
+<\TITLE>
+<ABSTRACT>
+Cai Chongguo, who fled to France after the massacre of Tiananmen, is asking international civil society to increase the pressure on China. And he is asking the world to support non-governmental groups in China, the only guarantee for respect of human rights. The demonstrations against the torch are also a criticism of Western governments. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Kiev (AsiaNews) - "A pious illusion": this is how a Chinese dissident of 
+Tiananmen, Cai Chongguo, defines the idea that "the Olympic Games can improve 
+the situation of human rights in China".  But in a telephone interview with 
+AsiaNews, he notes that China is changing, and a civil society is growing that 
+is more open and aware toward its rights.  The West must increase its 
+relationships not with the government or politicians, but with these basic, 
+non-governmental groups.  The demonstrations by groups in Europe show that 
+international civil society does not even agree with the Western political 
+class, which is excessively servile toward China.
+
+Cai Chongguo, aged 52, a Chinese dissident from Wuhan, works in Paris.  He 
+arrived in France after fleeing China following the massacre of Tiananmen in 
+1989.  He had studied philosophy in Beijing, and was involved, together with 
+labour union leader Han Dongfang, in creating the first free labour union in 
+the country.  At present he is in Kiev for an international conference, but he 
+is following hour by hour the events in Europe connected to the progress of the 
+Olympic torch.
+
+"The idea that the Olympic Games could change the situation of human rights in 
+China is a pious illusion.  I said this a long time ago, and the events of 
+recent weeks, the repression of the Tibetan crisis, prove that I am right: the 
+Chinese government has not changed".
+
+For Cai, the only ones who truly incarnate the Olympic values of peace and 
+fraternity are the demonstrators who are being arrested.  "European and world 
+civil society is unmasking the politics of the Chinese government, and is 
+criticising it precisely over the Olympic values that Beijing is preaching, but 
+not practising.  The Olympic spirit is being held high precisely by civil 
+society.  These demonstrations are furthermore a sign that civil society also 
+does not agree with the politicians of the Western governments, who are so 
+fearful of China.  The immense protests that are taking place and growing 
+in intensity each day are bringing the Chinese government and Western 
+governments into crisis".
+
+For the moment, Cai does not seem in favour of a boycott of the games.  "This 
+should be evaluated in a few months.  If the repression continues, one might 
+consider a boycott".  Meanwhile, he gives two pieces of advice to the Western 
+world.  The first: "to continue to apply pressure to the Chinese government 
+that it give more freedom in China, that it guarantee human rights, that it 
+free the dissidents".  The second: "to increase dialogue with Chinese civil 
+society, with the young people, the population".  In China, there are more and 
+more groups of workers, retirees, human rights activists, lawyers, journalists, 
+intellectuals who are asking for guarantees of their rights, against injustice 
+and corruption, in a way that is non-violent and respectful of the Chinese 
+constitution. "Increasing contacts with these groups, supporting their 
+education and their efforts; giving special place to this relationship with 
+non-governmental groups is the way toward positive transformation in China.  
+Western politicians must also have more relationships with these groups, rather 
+than with the Chinese government".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

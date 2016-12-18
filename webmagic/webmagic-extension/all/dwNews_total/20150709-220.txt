@@ -1,0 +1,38 @@
+<ID>20150709-220
+<DATE>20150709<\DATE>
+<URL>
+http://www.dw.com/en/rights-groups-slam-thailands-uighur-repatriation/a-18573559
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rights groups slam Thailand's Uighur repatriation
+<\TITLE>
+<ABSTRACT>
+Thailand has forcibly sent back to China over 100 Uighur Muslims who had been detained in the country since last year. The United Nations has condemned the decision, saying the Uighurs could face persecution in China.
+<\ABSTRACT>
+<CONTENT>
+ Verachon Sukhonthapatipak, a Thai government spokesman, confirmed on Thursday that Bangkok had made the decision after receiving assurance from China about the safety of those repatriated.
+ But China's foreign ministry spokesperson, Hua Chunying, said the government would take legal action against Uighurs suspected of breaking the law.
+ Uighur Muslims, a Turkic-speaking minority in China's northwestern Xinjiang province, have long faced persecution by China's communist authorities. Last year in March, hundreds of Uighurs fled to Thailand to seek refuge.
+ According to Sukhonthapatipak, "some 100" Uighurs were deported to China on Wednesday after the Thai government found "clear evidence they are Chinese nationals."
+ A group of 172 Uighurs was sent to Turkey in June, he said, adding that around 50 Uighurs still remain in Thai detention as the officials are determining their nationality.
+ 
+ The office of the United Nations High Commissioner for Refugees (UNHCR) slammed the Thai government's decision to repatriate the Uighur people. It said it was "shocked" and considered Thailand's actions "a flagrant violation of international law."
+ "I strongly urge the Thai authorities to investigate this matter, and appeal to Thailand to honor its fundamental international obligations," Volker Türk, UNHCR's assistant high commissioner for protection, said in a statement on Thursday.
+ Human Rights Watch (HRW) said the Thai government's argument that the Uighurs would be safe in China was "ludicrous."
+ "It is very shocking and disturbing that Thailand caved in to pressure from Beijing," Sunai Phasuk, a Thailand researcher at HRW, told Reuters news agency.
+ 
+ But Thai Prime Minister Prayuth Chan-ocha justified his government's decision and said that as a third country, the matter was not Thailand's problem.
+ "I am asking if we don't do it this way, then how would we do it?" Prayuth said. "Or do you want us to keep them for ages until they have children for three generations?"
+ The military-backed prime minister also said that his country didn't want to hurt Muslims and that he wants "to create peace as much as possible."
+ Prayuth's government has also faced criticism for its treatment of Myanmar's Rohingya Muslims who seek asylum in Thailand.
+ shs/kms (AP, Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

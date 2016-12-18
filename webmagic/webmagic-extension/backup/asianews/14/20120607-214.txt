@@ -1,0 +1,56 @@
+<ID>20120607-214
+<DATE>20120607<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=24966
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Raid-against-Xinjiang-Quranic-school-where-Islam-is-taught-to-children-24966.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+ Raid against Xinjiang Qur'anic school where Islam is taught to children
+<\TITLE>
+<ABSTRACT>
+ Communist authorities in the province that is home to ethnic Uygur claim the children were being held against their will. According to the World Uygur Congress, which is fighting for religious freedom, police raided the religious school "to eradicate religious belief".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Police in China's far western region of Xinjiang have 
+raided a Qur'anic school that taught the basics of Islam to 54 children. During 
+the intervention, 12 children received burns that police blame on suspects who 
+"ignited a flammable device to resist capture".
+
+"Acting on tips from local residents, police ... raided an illegal religious 
+preaching venue in the city, where 54 children were being held,"Xinhua news 
+agency reported. "Three suspects were seized during the operation, and three 
+police officers were wounded".
+
+According to the World Uygur Congress (WUC), a German-based group defending 
+the rights of the predominantly Muslim Uygur group, which is the largest ethnic 
+group in Xinjiang, police used tear gas to attack the Islamic school.
+
+"There was a fight, and the authorities used tear gas on the young students, 
+causing injuries on both sides," a WUC spokesman said. "The aim was to 
+eradicate religious belief," he added.
+
+Police arrested 47 people, including 11 women.
+
+The province remains a hotspot of opposition against China's Communist 
+government.
+
+After a brief period of independence, the country was invaded by the People's 
+Liberation Army. Since then, Uygur leaders have called on the central 
+government to grant their people cultural autonomy and religious freedom.
+
+Beijing claims that Muslim extremist groups are active in the area trying to 
+destabilise the situation.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,62 @@
+<ID>20081117-72
+<DATE>20081117<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=13773
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-woman-forced-into-abortion-with-one-child-law-13773.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+ Uyghur woman forced into abortion with one-child law
+<\TITLE>
+<ABSTRACT>
+The Uyghur woman is expecting her third child, but the authorities say she can have only two, and have taken her to a hospital for an abortion. Her husband has denounced the case, and protests have erupted in the country and abroad.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) - In bed number 3 of the Water Gate Hospital in 
+Gulja (Xinjiang), Arzigul Tursun, an Uyghur woman six and a half months 
+pregnant, is under guard. The authorities want to make her have an abortion, 
+because this is her third child, while she is permitted to have only two.
+
+A nurse explains "the procedure": "We will give an injection first. Then she 
+will experience abdominal pain, and the baby will come out by itself. But we 
+haven't given her any injection yet - we are waiting for instructions from the 
+doctors." There have been many protests over the health of the woman, who is 26 
+weeks pregnant.
+
+China has an official one-child policy, with severe fines and other sanctions 
+for those who violate it. The Uyghurs, as an ethnic minority, can have two 
+children if they live in a city, and three if they live in rural areas. Tursun 
+is from the countryside, but her husband, Nurmemet Tohtisin, is from the city 
+of Gulja (Yining in Chinese). They live in the village of Bulaq (near Dadamtu). 
+All of this leaves their status unclear.
+
+ Tohtisin explained - before the authorities confiscated his cell phone - that 
+when his wife "fled the village to avoid abortion, police and party officials 
+and the family planning committee officials all came and interrogated us. The 
+deputy chief of the village, a Chinese woman named Wei Yenhua, threatened that 
+if we didn't find Arzigul and bring her to the village, she would confiscate 
+our land and all our property." She came back. On November 11, Rashide, an 
+official on the family planning committee, brought her by force to the hospital 
+in Gulja. The abortion, scheduled for November 13, has been delayed until the 
+17th because of the many phone calls of protest from local Uyghurs and those in 
+exile. U.S. members of congress have even intervened with Chinese ambassador 
+Zhou Wenzhong. Now the authorities are insisting that the couple sign an 
+"authorization."
+
+Rashide explains that if the abortion were not possible, for example because 
+of reasons of the mother's health, the couple would "have to pay a fine in the 
+amount of 45,000 yuan (about 4,500 euros) - that's a lot of money, and they 
+won't have it."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

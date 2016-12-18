@@ -1,0 +1,34 @@
+<ID>20130711-161
+<DATE>20130711<\DATE>
+<URL>
+http://www.dw.com/en/china-increases-investment-in-pakistan/a-16942100
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China increases investment in Pakistan
+<\TITLE>
+<ABSTRACT>
+Despite security concerns, China is set to invest heavily in Pakistani infrastructure projects. Beijing is looking for new ways to import energy and support in its fight against terrorism.
+<\ABSTRACT>
+<CONTENT>
+ Last week, Pakistani Prime Minister Nawaz Sharif met with China's President Xi Jinping during his first official visit to Beijing aimed at courting Chinese investment in his country's ailing transport and electricity generating sectors.
+ During the five-day visit, a total of eight pacts were signed, including one for the construction of an "economic corridor," a 2,000-kilometer (1,200-mile) transport project connecting the city of Kashgar in northwestern China to the Pakistani port of Gwadar, likely by road in the beginning and possibly by rail later.
+ 
+But project developers will not only have to surmount enormous geographical obstacles, but also to deal with the terror threat coming from different militant extremist groups within Pakistan, particularly in Balochistan province. "The chances of the plan succeeding will largely depend on the security situation in Pakistan," said Christan Wagner, South Asia expert at the Berlin-based German Institute for International and Security Affairs (SWP).
+ Liu Xiaoxue, from the Beijing-based Institute of AsiaPacific Studies, explains that there have been many abductions and attacks on Chinese citizens in the region. But she also emphasized that China had no other choice if it wanted to remain Pakistan's largest contractor. "China can only hope that by investing in Pakistan, the economy of the South Asian nation will bounce back," Liu told DW.
+ But the more pressing issue is what will happen in the long run. Senior Pakistani journalist Absaar Alam, who accompanied Sharif on this trip, said in a DW interview that the Chinese were not only concerned about the security situation in Pakistan, but also with Islamabad's lack of follow-up. "Pakistan's government seems to not take this seriously. They don't complete the agreed projects," Alam said.
+ 
+But there is another reason why China is interested in going ahead with the transport project. According to Liu, China is keen on finding new routes for oil imports and circumventing the Strait of Malacca near Singapore. "The new economic corridor will stretch from the Arabian Sea to the Xinjiang region and could be used for transporting crude oil from West Asia to China."
+ South Asia expert Wagner is of the opinion that the project won't be finished within the next five to ten years due to the volatile conditions in Pakistan. But he thinks that an increased cooperation with Beijing will have a positive effect on Pakistan by helping it improve its infrastructure and overcome its energy crisis.
+ Pakistani experts, however, are less optimistic. "Considering a power-theft rate between 30 to 40 percent, and that the national grid in Pakistan has not been modernized for the past 50 years, no power in the world can help us," economist Farrukh Saleem told DW.
+ Nonetheless, PM Sharif wrote on Twitter after the trip: "A respectful relationship and strategic alliance will help to stabilize the economy."
+ During the meeting in Beijing, both leaders also spoke about cooperating in the fight against terrorism, an issue China is particularly interested in, according to Wagner. China is concerned that the separatist East Turkestan Islamic Movement, which seeks an independent homeland for Muslim Uighurs in China's western Xinjiang region, is training "terrorists" in Pakistan.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

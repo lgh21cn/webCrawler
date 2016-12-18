@@ -1,0 +1,136 @@
+<ID>20141021-276
+<DATE>20141021<\DATE>
+<URL>
+http://www.dw.com/en/analyst-beijing-will-not-accept-real-democracy-in-hong-kong/a-18010646
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Analyst: 'Beijing will not accept real democracy in Hong Kong'
+<\TITLE>
+<ABSTRACT>
+Hong Kong's government said it hoped for more talks with pro-democracy protesters following the first formal negotiations. But as China scholar Perry Link tells DW, no compromise on universal suffrage is expected.
+<\ABSTRACT>
+<CONTENT>
+
+ Hong Kong's government and student leaders met on October 21 for their first 
+talks after three weeks of pro-democracy protests. But, as widely expected, 
+there was no breakthrough in the negotiations, with Chief Secretary Carrie Lam 
+reiterating the government's position that open nominations were not possible 
+under Hong Kong law. "Hong Kong is not an independent country. It is only a 
+special administrative region within China, and we need to work within the 
+framework set by the National People's Congress," said Lam.
+
+ The student leaders, in turn, urged the government to stop treating the 
+decision of the central government on the semi-autonomous region's election 
+rules as "unshakeable." Government negotiators said they hoped for further 
+talks down the line, but student leaders have yet to decide whether or not to 
+hold a second round. Many in Hong Kong are angry at Beijing's refusal to allow 
+genuine universal suffrage in the city in 2017 and have staged protests 
+occupying major traffic arteries of the semi-autonomous region.
+ 
+
+Link: 'Beijing views the Hong Kong protests as a genuine threat to its 
+survival'
+
+In a DW interview, China scholar Perry Link says that while minor progress may 
+be made in future talks which allow both the protesters to save face and the 
+authorities to buy time, there is simply no room for a compromise on the key 
+issue of universal suffrage, as Beijing views the ongoing protests in Hong Kong 
+as a genuine threat to its survival.
+
+DW: If the student leaders decide to continue negotiations, what do you expect 
+to come out of future talks?
+
+ Perry Link: I would expect a stalemate in the talks or, at most, some very 
+minor progress or some promises from the government that postpone the 
+substantive question to future talks. This kind of postponement could be 
+face-saving for the student negotiators, who could say "at least we got 
+something," and for the government it could buy time.
+
+How far do you think both sides are willing to compromise?
+
+ Compromise on secondary, tactical issues is possible. By "secondary issues" I 
+mean, for the students, compromises as large as agreeing to a temporary 
+withdrawal from the streets and, for the government, compromises as large as 
+whether to replace [Hong Kong Chief Executive] Mr. C.Y. Leung with some other 
+Beijing-loyalist as chief administrator.
+
+ But on the essential issue of whether Hong Kong people will be able to 
+nominate their own candidates for chief administrator in the 2017 elections, I 
+believe there is no room for compromise on either side.
+ 
+
+Beijing will not accept real democracy while the students will not accept 
+pretend democracy, says Link
+
+ Beijing will not accept real democracy, while the students will not accept 
+pretend democracy.
+
+ The reason for the Chinese authorities to do so has little to do with Hong 
+Kong itself, and everything to do with the example it would set for the rest of 
+China, as this would show that democracy and Chinese culture do fit together 
+well - despite what the government has been telling its people for many years - 
+and if that idea were to spread in mainland China, the Communist Party's 
+one-party rule would unravel. Beijing views the Hong Kong protests as a genuine 
+threat to its survival.
+
+Some analysts and government insiders recently quoted by the New York Times 
+argue that Beijing is directing broad strokes of the Hong Kong strategy. What 
+is your view on this?
+
+ There is no question at all that the broad strokes of the Hong Kong 
+government policy are designed in Beijing, and indeed at the very top in 
+Beijing. It would be naive in the extreme to assume otherwise.
+
+Hong Kong's embattled chief executive has said the city's pro-democracy 
+movement is "out of hand" and being influenced by "external forces" from 
+outside the city. What do you make of this?
+
+ This language from C.Y. Leung is a good example of the "broad strokes of 
+policy" that are sent from Beijing to Hong Kong. For decades, the rulers in 
+Beijing have used these same points - that protesters "create turmoil" and are 
+"backed by foreign forces" - in order to try to discredit anyone who presents 
+organized objection to their rule. The pro-democracy demonstrators at Tiananmen 
+Square - but also the Uighurs, the Tibetans, civil-rights lawyers, 
+environmental activists, and many others - have all heard this language before.
+
+What role is Hong Kong's police force playing in the dispute?
+
+ The Hong Kong police of course must obey the broad outlines of what Beijing 
+dictates. That said, the ordinary police on the streets are Hong Kong people. 
+It is natural that they have complex, mixed feelings about the protestors.
+
+What is, in your view, the most likely way out of the current crisis?
+
+ In the short term, I think the government will continue its strategy of 
+waiting out the protesters by pretending to talk seriously while continuing 
+with its publicity campaign to discredit the protesters, and I think this 
+strategy will work fairly well.
+ 
+
+Pro-democracy protestors watched the talks on a video screen near the 
+government headquarters in Hong Kong
+
+ I think it is likely that the government will try to find, or perhaps 
+manufacture, some "incident" in which the protesters look bad, or to identify a 
+particular "villain" among them, and then use that incident or that villain to 
+distract attention from the main issue and to make themselves seem to be in the 
+right. I make this guess because it is a common pattern that the leaders in 
+Beijing have used elsewhere.
+
+ In the long term, I do not think that "waiting out the opposition" will work 
+for Beijing. I think Hong Kong people will get their democracy in the long term.
+
+China scholar Perry Link is Chancellorial Chair Professor for Innovative 
+Teaching Comparative Literature & Foreign Languages in College of Humanities, 
+Arts, and Social Sciences at the University of California, Riverside, and 
+Emeritus Professor of Asian Studies at Princeton University.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

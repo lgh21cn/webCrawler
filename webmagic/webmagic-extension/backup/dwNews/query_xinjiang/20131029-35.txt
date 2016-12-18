@@ -1,0 +1,29 @@
+<ID>20131029-35
+<DATE>20131029<\DATE>
+<URL>
+http://www.dw.com/en/chinese-police-seek-two-suspects-in-fatal-tiananmen-square-car-crash/a-17188947
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese police seek two suspects in fatal Tiananmen Square car crash
+<\TITLE>
+<ABSTRACT>
+Police are seeking two suspects in connection with a fatal car crash at China’s Tiananmen Square. But authorities have not said whether the crash was an accident or a premeditated attack.
+<\ABSTRACT>
+<CONTENT>
+ Chinese police announced on Tuesday that they were looking for two suspects from the restive, predominantly Muslim province of Xinjiang in connection with a fatal crash near the main entrances to the Forbidden City in Beijing.
+ On , a white sport-utility vehicle (SUV) ploughed into pedestrians at Tiananmen Square and caught fire, killing three people in the SUV as well as two tourists. At least 38 people were also injured. Hours after the crash, Chinese authorities issued a notice asking local hotels about suspicious guests who had checked in since October 1.
+ According to the state-aligned Global Times, police identified the two suspects as well as four license plates from Xinjiang.
+ “To prevent the suspected persons and vehicles from committing further crimes… please notify law enforcement of any discovery of clues regarding these suspects and vehicles,” read the police notice, widely circulated online in China.
+ Xinjiang is home to the Uighurs, a Turkic ethnic group that is predominantly Muslim. Many Uighurs chafe at Chinese government rule, saying that Beijing represses their cultural and religious traditions.
+ China has accused Uighur separatists of plotting terrorist attacks, with the goal of establishing an independent state called East Turkestan. Chinese police have arrested 140 people in Xinjiang in recent months for allegedly spreading jihad. And in August, 22 Uighurs were killed in an “anti-terrorism” operation, according to the state news agency Xinhua.
+ slk/tj (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

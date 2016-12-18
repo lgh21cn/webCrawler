@@ -1,0 +1,69 @@
+<ID>20090907-50
+<DATE>20090907<\DATE>
+<URL>
+http://www.asianews.it/news-en/Harmony-makers-and-the-death-penalty-to-restore-calm-to-Urumqi-16251.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+"Harmony makers" and the death penalty to restore calm to Urumqi
+<\TITLE>
+<ABSTRACT>
+Seven thousand employees will explain government policy house by house. Li Zhi, head of the Party in Urumqi and Liu Yaohua, head of security, have been forced to resign. Wang Lequan, regional head of the Party and friend of Hu Jintao is still in the saddle. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - Seven thousand government employees will visit 
+the population of Urumqi house to house to promote calm after recent clashes 
+between Han Chinese and Uyghurs that left five dead and dozens wounded. The 
+Communist Party secretary of Xinjiang, Wang Lequan said that these "harmony 
+makers" will explain what the government is doing to bring peace to the region 
+and "resolve disputes".
+
+The tensions of last week were caused by a series of attacks by unknown 
+assailants who injured 531 people with hypodermic syringes. Police, the public 
+prosecutor and courts have declared that the perpetrators of syringe attacks 
+will be judged according to the law. Whoever injected poisons, harmful 
+substances or drugs will be sentenced to three years imprisonment, life 
+imprisonment or even the death penalty.
+
+Urumqi, capital of Xinjiang, remains calm, given the massive police presence 
+in the city thanks since early July, when peaceful demonstrations by Uyghurs 
+became open ethnic clashes between Han Chinese and Uyghur Muslims.
+
+In recent days the Chinese have shown their discontent taking to the streets, 
+accusing the party and government of failing to maintain order in the area and 
+calling for the resignation of Li Zhi, head of the party in Urumqi and Liu 
+Yaohua, head of security. Both have been forced to resign.
+
+Some sources also say that the party chief in Xinjiang, Wang Lequan was 
+discharged, but there has so far been no confirmation. Indeed, the launch of 
+the "makers of harmony" campaign, widely covered byXinhua, shows that he is 
+still in office.
+
+Wang, 64, has been a member of the Politburo and Communist Party in Xinjiang 
+since 1994. Having worked in the '80s in the Young Communist League, he is 
+considered a close ally of President Hu Jintao.
+
+His “Makers of Harmony” campaign recalls the slogan of Hu Jintao's statement 
+that China should build a "harmonious society".
+
+The situation of minorities - particularly Tibetans and Uyghurs - is far from 
+harmonious. Uyghurs seek autonomy in their territory now colonized by a 
+majority of Han Chinese who have settled in the bureaucracy, government and 
+economy, marginalizing the local population.
+
+The syringe attacks with first started August 17 and continue to date, 
+targeting the majority Han, but also Uyghurs. Doctors have excluded that the 
+syringes contained radioactive substances, anthrax or chemical poisons.
+
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

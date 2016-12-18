@@ -1,0 +1,91 @@
+<ID>20080805-31
+<DATE>20080805<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=12935
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Two-Japanese-reporters-arrested-and-beaten:-they-were-investigating-the-attack-in-Xinjiang-12935.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Two Japanese reporters arrested and beaten: they were "investigating" the attack in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Two Japanese reporters arrested and beaten: they were "investigating" the attack in Xinjiang. Tokyo has said it will lodge official protests. Meanwhile, there is controversy over yesterday's attack in Xinjiang. Tighter security in Beijing and elsewhere. But for the IOC, there are no serious problems over human rights, censorship, security, and pollution. What the athletes of Nepal are thinking as they depart for Beijing.
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews/Agencies) - Two Japanese reporters have been arrested and 
+beaten by the Chinese police in Kashgar (Xinjiang), where they were 
+investigating the attack that killed 16 policemen yesterday. Japanese 
+government spokesman Nobutaka Machimura says that "our embassy is of course 
+gathering information from the authorities", but that if the news is confirmed, 
+"we plan to protest strongly".
+
+The formal accusation may be that of photographing military installations in 
+the area, but there are some who say that the journalists were "unwelcome" for 
+wanting to shed light on the attack.
+
+The state news agency Xinhua says that the bombs were made by the Islamic 
+movement of eastern Turkestan (another name for Xinjiang), which has also 
+threatened attacks during the Olympics, and that yesterday two suspects were 
+arrested. 18 "foreign agitators" have also been arrested for previous protests, 
+but without any connection to the bomb.
+
+But the exile Rebiya Kadeer, president of the Uyghur American Association, 
+responds that the population is rejecting such acts of violence, and the 
+government has not provided any proof of what it is saying. For Dilxadi Rexiti, 
+of the information center of eastern Turkestan, "I don't think the attack was a 
+terrorist plot. It is an armed struggle, and this is in response to the 
+persistent suppression by the Chinese government in the region". He also 
+denounces Beijing's attempt "to represent the entire Uyghur people as 
+terrorists". The Islamic Uyghurs charge that for years, Beijing has been a 
+carrying out a genuine cultural genocide, with frequent arrests over 
+accusations of terrorism, and torture in the prisons. The police check each 
+vehicle that enters Kashgar, and the residents are afraid "that it will be even 
+harder for us now".
+
+ Forces have also been deployed in Lhasa, the capital of Tibet, where 
+"antiterrorism exercises" are taking place during these days, to prevent 
+possible protests.
+
+ Meanwhile, more than 110,000 policemen and 1.4 million volunteers are 
+watching over Beijing, especially on the main roads and bridges and the most 
+heavily trafficked places, like Tiananmen Square and Changan Avenue. Hotels, 
+hostels, and taxi drivers are being asked to call the police immediately if one 
+of their clients is from Xinjiang or Tibet.
+
+But this tension must not be very noticeable in Beijing, where Jacques Rogge, 
+president of the International Olympic Committee, has said that "I believe 
+these Olympics will change the country, and will also change the perception of 
+the world towards this country", without providing any more explanation. 
+Meanwhile, today a blanket of smog covered Beijing again (in the photo), and on 
+pollution he responded that "our medical commission has indicated that there is 
+no health problem for every event lasting under an hour and taking place at 
+indoor arenas", while the long distance competitions like the marathon or 
+bicycle races could be moved.
+
+
+
+But some of the 32 members of Nepal's team are more concerned about the 
+situation of human rights than about pollution.
+
+Deepak Bista, who competes in taekwondo and represents Nepal's greatest hope, 
+says that "limited press access and internet doesn't ensure freedom of 
+expression in any country". Marathon runner Arjun Basnet is also perplexed, 
+while the other athletes and coaches are "concentrating only on the 
+competitions", and are in any place tranquil over the "general security". 
+Shamsher, a member of the Olympic committee of Asia, concludes that "Chinese 
+decision for limited website access is their private matter".
+
+(Kalpit Parajuli contributed to this report from Nepal)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

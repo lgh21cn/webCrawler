@@ -1,0 +1,62 @@
+<ID>20151116-189
+<DATE>20151116<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=35887
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-calls-for-a-united-front-against-terrorism-to-defeat-Uyghur-extremists-35887.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing calls for a united front against terrorism to defeat Uyghur extremists
+<\TITLE>
+<ABSTRACT>
+Taking advantage of the Paris tragedy, the Chinese government wants to add Xinjiang Muslims on the terror lists. China’s national media try to link the attacks in the French capital with the country’s own "war on terror". International analysts are sceptical about any link between Islamist groups in China and the Islamic State.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) – The struggle against Islamist militants in China’s far 
+western region of Xinjiang should become an “important part” of the world’s war 
+on terror, China’s foreign minister Wang Yi said following the attacks in Paris.
+
+Beijing has blamed the violence on Islamist militants, led by the East 
+Turkestan Islamic Movement (ETIM); a group it said had ties to al-Qaeda. More 
+recently, China has reported that some Uyghurs have travelled to Syria and Iraq 
+to fight with Islamic State and other groups.
+
+Uyghurs are Muslim, Turkic-speaking, and the largest ethnic group in Xinjiang. 
+They have given up on independence decades ago, but want Beijing to grant them 
+greater cultural and religious autonomy.
+
+In recent years, violent attacks have targeted ethnic Han Chinese, who are 
+China’s largest ethnic group, mostly by lone attackers unconnected to extremist 
+movements active in the Middle East.
+
+Beijing has responded to rising violence with more repression, and has 
+effectively militarised the province.
+
+In recent days, Chinese state media has already sought to link China’s own 
+“war on terror” with the Paris attacks. Over the weekend, pictures appeared on 
+the microblogs of state-run newspapers showing Chinese armed police supposedly 
+on a mission to root out militants in Xinjiang – pictures put out after what 
+happened in France on Friday.
+
+For some experts, this is an attempt to justify future human rights violations 
+at the expense of the indigenous Uyghur population.
+
+Conversely, for Foreign Minister Wang, “The UN’s leading role should be 
+brought into full play to combat terrorism, and a united front in this regard 
+should be formed”.
+
+In his view, “China is also a victim of terrorism, and cracking down on ETIM 
+should become an important part of the international fight against terrorism”.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

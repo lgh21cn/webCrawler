@@ -1,0 +1,32 @@
+<ID>20111229-77
+<DATE>20111229<\DATE>
+<URL>
+http://www.dw.com/en/violent-terrorists-shot-dead-in-northwestern-china/a-6689527
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+'Violent terrorists' shot dead in northwestern China
+<\TITLE>
+<ABSTRACT>
+Chinese police have shot dead seven suspected kidnappers after a shootout in the restive Xinjiang region. The kidnappers have been referred to as 'violent terrorists' by official Chinese media.
+<\ABSTRACT>
+<CONTENT>
+Seven "terrorists" have been shot dead in China's restive northwestern Xinjiang province. According to official media, members of a "terror gang," possibly influenced by Islamists, had kidnapped two people late Wednesday in the county of Pishan near the borders of India and Pakistan. 
+The two hostages were freed when police shot dead seven of the suspected kidnappers in a rescue mission, as reported by Chinese media. According to the account, police were forced to open fire after being shot at. 
+One police officer was also killed in the shootout and one was wounded. Four other suspects were wounded and taken into custody. 
+
+An exile group referred to the incident as an act of desperation and protest by native Uighurs, who are the subject of religious repression and are facing a police crackdown in the northwestern region of China. 
+Dilxat Raxit, spokesman for an exile group named World Uighur Congress, told the French news agency AFP: "The local government recently started a 'strike hard' campaign, which resulted in the disappearances of several people. They were taken away by armed forces, who refused to say where they were." 
+Xinjiang is a resource-rich province and has seen bouts of violence between locals and the Chinese government, which tends to blame the unrest on religious extremism, terrorism and separatist elements. 
+Violence most recently flared up in Kashgar and Hotan in the summer of 2011, resulting in the death of 32 people. In September, four people were sentenced to death for the incidents. 
+Beijing reacts to such violence by increasing police presence, conducting raids, restricting or cutting communication lines, such as telephone and internet connections, and sometimes limiting the practice of Islam.
+Author: Sarah Berning (AFP, AP, Reuters, dpa)Editor: Arun Chowdhury
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

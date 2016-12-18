@@ -1,0 +1,50 @@
+<ID>20140729-42
+<DATE>20140729<\DATE>
+<URL>
+http://www.dw.com/en/clashes-leave-dozens-dead-in-chinas-western-xinjiang-region/a-17820866
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Clashes leave 'dozens' dead in China's western Xinjiang region
+<\TITLE>
+<ABSTRACT>
+Dozens of people have been killed and more injured in fatal clashes between police and an armed mob in China's Xinjiang region. Local police said the attack was premeditated.
+<\ABSTRACT>
+<CONTENT>
+
+ On Tuesday Chinese media reported fatal clashes between police and an armed 
+mob. The incident had taken place the previous day with an attack on a police 
+station in Elixku in Shache county.
+
+ The violence, which is being blamed on militants, unfolded after the mob 
+moved to the nearby town of Huangdi, where they attacked civilians and set fire 
+to vehicles.
+
+ "Initial investigation showed that it was a premeditated terror attack," 
+reported Chinese news agency Xinjiang.
+
+ Police responded to the knife-wielding mob with gunfire leaving dozens dead.
+
+ An exact death toll has not yet been confirmed.
+
+ The area of Xinjiang has faced an increase in violence 
+
+ in recent months, which theChinese government blames on Islamist militants 
+
+ or separatists, who they say are determined on forming an independent state 
+called East Turkestan.
+
+ A fatal rampage of more armed assailants at a southwest China train station 
+in Kunming in March left 29 dead, with another 39 killed in a market attack in 
+Xinjiang's capital Urumqi in May.
+
+ kb/kms (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

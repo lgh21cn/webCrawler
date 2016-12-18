@@ -1,0 +1,38 @@
+<ID>20071220-194
+<DATE>20071220<\DATE>
+<URL>
+http://www.dw.com/en/china-and-india-launch-joint-military-drill/a-5213926
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China and India Launch Joint Military Drill
+<\TITLE>
+<ABSTRACT>
+Beijing and New Delhi have launched a week-long military exercise in south-west China. The two countries hope the joint drill will strengthen mutual trust and enhance their co-operation combating terrorism.
+<\ABSTRACT>
+<CONTENT>
+The drill has been nicknamed "Hand-in-Hand 2007". It is aimed at tackling what China has termed the "three evil forces of separatism, religious extremism and terrorism". 
+The week-long exercise in the Chinese south-western province of Yunnan involves almost a hundred troops from each country, who will all take part in mock combats against terrorists.
+Senior military officers will observe the exercises and assess the operational methods and capabilities of the two sides, especially their capacity to deal with surprises.
+The Chinese foreign ministry has stated the aim of the joint anti-terror exercise as being to "strengthen mutual understanding and trust" between India and China and their two armies, as well as to enhance their co-operation combating terrorism.
+Hong Kong-based defence expert Pinkov explained there was "a necessity for such joint-military exercises because both China and India face potential threats from terrorist attacks."
+Both countries have volatile border regions and their governments are struggling with minority groups campaigning for greater autonomy or outright independence. 
+The Chinese government has come down very hard on Uighur Muslims campaigning for an independent East Turkestan -- Beijing says their so-called "violent separatist activities" must be defeated.
+Whereas the Indian government faces difficulties from separatists in its north-eastern region and also faces cross-border terrorism from Pakistan.
+Pakistan is China's "all-weather" friend and this relationship has caused a great deal of tension in China-India ties for decades. But over recent years, China and India have taken efforts to develop their trade and diplomatic relations. 
+Pinkov explained such "joint military exercises like this are necessary for China and India to establish mutual trust. From the Indian point of view, China gave more support to Pakistan in the India-Pakistan conflict. Pakistan has held military exercises with China. India realises that that after the nuclear contest between India and Pakistan broke out, China's position became more neutral."
+For the purpose of this joint drill, a lingering border dispute between the two sides has also been played down. Both India and China lay rival claim to Himalayan territory. 
+New Delhi says China occupies almost 40,000 square kilometres of its territory, whereas Beijing claims 90,000 square kilometres are actually part of China. In 1962, this border dispute was the trigger for a short but bitter war between the two countries. 
+Although the dispute has yet to be resolved, both China and India think it should not be an obstacle to bilateral relations.
+Major General Afsar Karim, now retired from the Indian army, hailed the exercise: "Earlier the two sides were always at war but this joint drill shows that they want to work together and it's good news." 
+However, Karim pointed out that the fundamental difference between the two Asian giants lies elsewhere: "There have been some improvements in ties between India and China. But we must understand that the problem between the two countries is strategic. They are strategic competitors and this has nothing to do with the joint drill."
+The success of this week's drill will determine whether a full-scale joint military exercise between India and China is launched. However, experts think it is still a long way off.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,91 @@
+<ID>20100409-189
+<DATE>20100409<\DATE>
+<URL>
+http://www.dw.com/en/kyrgyzstan-crisis-unlikely-to-affect-neighboring-states/a-5451356
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Kyrgyzstan crisis unlikely to affect neighboring states
+<\TITLE>
+<ABSTRACT>
+As the situation remains tense in the capital Bishkek, China has voiced its concerns and there has been speculation about the fate of the US air base in Manas.
+<\ABSTRACT>
+<CONTENT>
+
+In the violent clashes in Bishkek that left at least 75 people dead this week, 
+a five-storey Chinese shopping mall was also looted and burnt down. The 
+estimated losses are of up to four billion US dollars (almost three billion 
+euros).
+
+Dozens were killed in violent clashes in Bishkek
+
+Although no Chinese national was hurt, Beijing immediately issued a statement 
+expressing "deep concern" about the political situation in Kyrgyzstan, a key 
+market for Chinese goods.
+
+Patrick Dombrowsky, the director of the European Center for Research on 
+Central Asia in Paris, explained that China "was very attentive about what was 
+going to happen in Kyrgyzstan".
+
+"First of all, because it is a country, which has a common border with China 
+and secondly because it is an Islamic country. By which I mean Bejing fears the 
+possibility that the Islamic movements in Xinjiang could grow as a result of 
+the situation in Kyrgyzstan."
+
+Some estimated 50,000 Uighurs currently live in the central Asian country. 
+They charge the Chinese authorities with political suppression in the western 
+region of Xinjiang, while Beijing accuses them and other Uighurs living outside 
+China of being "separatists".
+
+The Turugurt Pass between China and Kyrgyzstan
+
+Controversial US airbase
+
+Another concern about the politicial crisis in Bishkek has been the 
+controversial US airbase in Manas, some 35 kilometers away from the Kyrgyz 
+capital.
+
+The base, which has fuelled some tension between Russia and the US, has been 
+used to relay supplies to NATO troops in Afghanistan. It became even more 
+significant after a US base in Uzbekistan was shut down in 2005.
+
+Omurbek Tekebayev, who is in charge of constitutional matters in Kyrgyzstan's 
+new interim government, recently told the international media that the base's 
+future was shortlived. He also stated that Russia had played a role in the 
+ousting of President Bakiyev. But Moscow has denied these allegations.
+
+The US air base at Manas airport
+
+New leader is a known quantity for the West
+
+Annette Bohr, an expert at the London based think tank Chatham House, thinks 
+there would have been little reason for Russia to fuel the present crisis in 
+Kyrgyzstan. Nor does she think the country's new leader, former Foreign 
+Minister, Roza Otunbayeva is likely to shut down the US base in Manas.
+
+"Otunbayeva is a very Westernized figure," she explained. "She is a known 
+quantity for us, someone we know quite well – she's acted as foreign minister 
+on three occasions and has served as ambassador in London and in Washington. 
+She speaks five or six languages. She has a reputation of being a very clean 
+and experienced politician. It is very unlikely that she would suspend the 
+current agrement with the US."
+
+Otunbayeva has already assured Washington that the base will remain open 
+despite the change in leadership. However, some observers think she might want 
+to renegotiate the contract and ask for more money from the US in return.
+
+It is widely thought that if the base were to be closed down, it would be a 
+huge setback for the Western-led mission in Afghanistan, especially with regard 
+to the surge in troops that is expected later this year.
+
+Author: Disha Uppal
+Editor: Anne Thomas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

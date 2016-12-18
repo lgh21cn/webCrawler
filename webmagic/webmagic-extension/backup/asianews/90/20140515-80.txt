@@ -1,0 +1,74 @@
+<ID>20140515-80
+<DATE>20140515<\DATE>
+<URL>
+http://www.asianews.it/news-en/China:-Turkestan-Islamic-extremists-claim-Urumqi-attack-31079.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China: Turkestan Islamic extremists claim Urumqi attack
+<\TITLE>
+<ABSTRACT>
+A video shows the preparation of one of the bombs used in the attack, which resulted in three deaths and 79 wounded. The authors are members of the Turkistan Islamic Party, which seeks the independence of Xinjiang from China. The government: "They want to destroy us but we will respond".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews ) - The Islamic Party of Turkestan (IPT) this morning 
+claimed responsibility for the May 1  terrorist attack  on the Urumqi train 
+station, the capital of the western province of Xinjiiang. 3 people were killed 
+in the attack - two attackers and a civilian - and 79 people injured. The claim 
+was announced by SITE - a website that tracks and controls the movements of 
+Islamic extremists in the world - according to which the IPT published a 10 
+minute video showing how it made one of the bombs used in the attack.
+
+Along the East Turkestan Islamic Movement, IPT declares its organization 
+"unites" all those who want to gain independence from Beijing and full 
+religious freedom "at all costs". Until now, both extremist movements have kept 
+a very low profile, avoiding claims or public statements in favor of armed 
+confrontation.
+
+The Xinjiang region is one of the most turbulent in all of China. Its Uyghur 
+Muslim minority, who number about nine million, have long sought independence 
+from China. The central government, for its part, has brought in hundreds of 
+thousands of settlers to make Han Chinese the dominant ethnic group. At the 
+same time, it has severely curtailed Muslim religious worship as well as the 
+teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out. Chinese 
+authorities blame Muslim extremists for the wave of violence. Uyghur exiles 
+claim instead that Beijing is "exaggerating" the threat of Islamic terrorism to 
+justify repression against indigenous Uyghurs.
+
+For Beijing, Uyghurs are responsible for the recent spate of violent attacks, 
+including the 1 March 2014attack at the Kunming railway station 
+
+ by knives-wielding men that left 29 people dead and more than 150 wounded, and 
+the 28 October 2013 incident whena SUV plunged into a crowd in Tiananmen Square 
+
+, then burst into flames, killing three people. Finally, May 1, 2014 an attack 
+on the train station in Urumqi - the Capital of Xinjiang - shortly after the 
+departure from the President Xi Jinping caused 3 dead and 79 wounded.
+
+ Foreign Ministry spokesman Hua Chunying, this morning said that China "should 
+bolster" its position on separatist groups: " Some violent extremist terrorist 
+groups have now emerged. They are colluding with foreign groups and are 
+attempting violent activities in Xinjiang and other areas in China intended to 
+destroy China's national policy and social stability. We hope that everyone can 
+recognize the goal of these violent groups and support the Chinese government's 
+will to crack down on all violent terrorist activities. "
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

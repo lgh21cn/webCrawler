@@ -1,0 +1,104 @@
+<ID>20090706-216
+<DATE>20090706<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=15698
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Violence-and-revolts-in-Xinjiang:-At-least-140-dead-and-800-injured-15698.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Violence and revolts in Xinjiang: At least 140 dead and 800 injured
+<\TITLE>
+<ABSTRACT>
+Beijing says it is a conspiracy against its power. The Uyghurs say the uprising is a sign of dissatisfaction with the Han colonization and political and economic repression. A similar scheme to that of Tibetan revolts last year. China prepares for 60 years of the founding of the People's Republic with a crackdown. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Urumqi (AsiaNews / Agencies) - Violence and clashes between demonstrators, the 
+Chinese army and police in the capital of Xinjiang last night have resulted in 
+at least 140 dead and 800 wounded. The official Xinhua agency reports this 
+morning that all is calm. The police has already arrested hundreds of 
+demonstrators, but is searching for 10 important leaders of the revolt.
+
+
+The government has declared that the instigators of violence are exiled 
+Uygurs, including Rebiya Kadeer, exiled after spending years in Chinese 
+prisons. Members of the community of exiled Uyghurs claim that the 
+demonstration had begun peacefully and that the police fired indiscriminately 
+on the crowd.
+
+According to some local witnesses, yesterday evening, between 2 and 3 thousand 
+Uygurs, the Muslim ethnic group living in Xinjiang, gathered in the streets in 
+central Urumqi, and clashed with at least 1000police. Police charged the crowd, 
+firing on them and dispersing protesters who went on to break windows and burn 
+cars and buses. To date, Urumqi is under a strict curfew.
+
+The demonstrators said they wanted to demonstrate against their 
+marginalisation by the Han (Chinese) population that in Xinjiang and throughout 
+China controls the local economy and administration.
+
+More precisely, they were protesting the death of two Uygurs in southern 
+China, in a series of cashes between workers from the two ethnic groups.
+
+According to Xinhua, the clashes occurred in Shaoguan (Guangdong), and were 
+caused by a false accusation of rape of workers in Xinjiang. It should be noted 
+that the lack of a labour force in south China, has forced Beijing to 
+facilitate the emigration of ethnic Han people towards the coast. But this has 
+given rise to difficulties and increased competition for jobs, particularly as 
+many Chinese firms, hit by the crisis, lay off their workers.
+
+ Revolts over work and unemployment are on the increase. According to the 
+Ministry for Internal Security, there are at least 87 thousand a year. If the 
+crisis deepens, there is a risk that this type of trade union struggle will 
+turn into an inter-ethnic war.
+
+Uprisings in Xinjiang date back over half a century. The Uygur population 
+claim more autonomy from the central government and groups of Muslims in the 
+Islamic Movement of East Turkistan are responsible for terrorist attacks.
+
+The Beijing regime’s heavy hand can be seen in the large number of arrests and 
+death sentences, which number in their hundreds each year. In order to curb 
+"terrorism", Beijing controls the entire religious life of the Uygurs: 
+controlling the speeches of imams, banning young people from participating in 
+prayer in the mosque until they are 18, the continued demolition of mosques and 
+Islamic schools.
+
+According to Forum 18, a Protestant agency based in Oslo, religious 
+persecution in Xinjiang has primarily economic reasons and is intended to stamp 
+out the identity of the Uygurs and expropriate the areas wealth in oil and 
+natural gas. Because of this, over the years Beijing has promoted migration to 
+the region of millions of Han Chinese, who are now at least 50% of the 
+approximately 20 million residents: they have taken control of trade and places 
+of power, while the Uygurs (42%) are mainly farmers.
+
+The Chinese government attaches all responsibilities for the uprising to 
+groups of exiled Uygurs and in particular to Rebiya Kadeer, now exiled in the 
+United States, after spending over 5 years in prison for having defended the 
+greater autonomy of his ethnicity. According toXinhua, yesterday’s 
+demonstration was “an organized and premeditated violent crime" to overthrow 
+the power of the Chinese.
+
+But the Uygurs in exile claim that the demonstrations are a sign of the Uygurs 
+intolerance of Han political and economic discrimination and oppression. 
+Experts fromHuman Rights Watch say that in labelling the ethnic clashes 
+"subversive”, the Chinese government is adopting a method already used and 
+abused in the uprisings in Tibet last year.
+
+Uygurs and human rights activists’ fear that in the coming days there will be 
+an increase in repression: there have already been raids and arrests in the 
+universities. China is preparing for October to celebrate 60 years of the 
+founding of the Peoples Republic of China and is implementing heavy checks and 
+arrests to avoid any unpleasant surprises.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

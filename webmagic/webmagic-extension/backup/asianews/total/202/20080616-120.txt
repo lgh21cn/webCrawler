@@ -1,0 +1,77 @@
+<ID>20080616-120
+<DATE>20080616<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=12519
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Torch-relay-arrival-in-Tibet-postponed-to-a-date-to-be-decided-12519.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Torch relay arrival in Tibet postponed to a date to be decided
+<\TITLE>
+<ABSTRACT>
+Official sources say that Sichuan quake has led to change in schedule. Experts suggest instead that fear of protests in the region closed to the press might be the reason. ‘Return March” is set to reach the border between India and Tibet by tomorrow.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies) – The arrival of the Olympic torch relay in Tibet 
+set for tomorrow has been postponed as Tibetans on their ‘Return March’ in 
+northern India are getting ready to reach the border between India and Tibet.
+
+The torch was due to reach Tibet tomorrow after completing its journey in 
+Chongqing today, but will now head directly to Xinjiang where it will be 
+carried by 624 torch-bearers through the cities of Urumqi, Kashgar, Shihezi and 
+Congjin.
+
+Official sources said that the change was due to the Sichuan quake.
+
+“We will decide on the next stop only after the torch arrives in one 
+province,” an official said.
+
+“We are only able to confirm all the details of certain stops within the next 
+10 days. Beyond that time frame a lot of things are up in the air,” said Shao 
+Shiwei, a deputy director of Beijing Organizing Committee (BOCOG).
+
+Experts note that this decision runs counter to the efficiency and the tight 
+if somewhat smug planning shown by Games organisers.
+
+The change to the Tibetan leg may have been prompted by concerns over 
+“security abnormalities,” this according to the Information Centre for Human 
+Rights and Democracy.
+
+The crackdown that followed protests on 14 March has led to greater security 
+concerns in the province, even though BOCOG has insisted since 19 March that 
+there were not problems on the torch’s path.
+
+Tibet itself remains however a no-go zone for journalists.
+
+Some 50 Tibetans participating in the ‘Return March’ planned to arrive in 
+Dharcula, the last Indian town before the Tibetan border, tomorrow to coincide 
+with the arrival of the torch in their homeland.
+
+China has deployed troops along the border with the order to shoot anyone who 
+crosses it.
+
+The march is designed to draw attention to the ongoing anti-Tibetan crackdown.
+
+“In 1959, Tibetan refugees escaping Chinese brutalities came this way and we 
+gave them shelter,” said Rajwar Sahib Bham Raj Singh Pal (photo), King of 
+Askote, who welcomed the marchers on 14 June. “It is our honour now to host 
+this group of Tibetans making their journey home. No matter how long it takes, 
+the Tibetan people will eventually win out against oppression.”
+
+Still the popularity of the Games is high in China. More than 4,000 children 
+have in fact been given the name Aoyun, meaning Olympic Games.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

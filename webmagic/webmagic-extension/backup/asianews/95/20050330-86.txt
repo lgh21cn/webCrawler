@@ -1,0 +1,86 @@
+<ID>20050330-86
+<DATE>20050330<\DATE>
+<URL>
+http://www.asianews.it/news-en/No-children-allowed-in-Xinjiang-churches-2898.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+No children allowed in Xinjiang churches
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Yining (AsiaNews/Forum 18)  Children are not allowed inside Catholic churches 
+in Xinjiang (north-western China), this according to Fr Sun Zin Shin, a 
+Catholic priest in Yining (Ili-Kazakh autonomous prefecture), who spoke toForum 
+18. 
+
+Father Sun said one schoolboy who managed to get into last December's 
+Christmas service in Nilka (120 km east of Yining) despite a police checkpoint 
+to prevent this was subsequently beaten by his teacher who had seen him go 
+inside.
+
+The clergyman said that in Nilka state officials visit Catholic families and 
+warn them that they would have "problems at work" if their children do not stop 
+attending church. He complained about intimidations by local authorities and 
+strict controls over minorities designed to keep them away from religion. 
+Religious groups come in fact under the jurisdiction of the Religious Affairs 
+Bureau (RAB) and interference has reached the point that the authorities even 
+demanded Catholics reduce the size of the cross on their church.
+
+Father Sun is adamant: "We are citizens and taxpayers just as much as the 
+atheists, but in the eyes of the state we are second-class people," he said. 
+"We have the absurd situation that we are paying taxes and these same officials 
+and law-enforcement agencies watch us and prevent us from professing our 
+faith". What is worse, according to Father Sun, holding services anywhere but 
+in the four registered churches of the prefecture is banned.
+
+"In many towns we don't have a registered church, but we have parishioners," 
+he explained, "yet we are categorically forbidden to hold services in private 
+apartments under threat of several days' administrative arrest. The authorities 
+basically regard believers as potential terrorists. I am not afraid to speak 
+about this openly. I want the whole world to know about the problems of 
+believers in the Xinjiang-Uighur Autonomous Region".
+
+Yining is 100 kilometres (60 miles) east of the Kazakh border and 600 
+kilometres (375 miles) from the capital Ürümqi.
+
+Orthodox Christians don't fare much better even though for them the main 
+problems are the lack of clergy and places of worship.
+
+Under Chinese law foreign clergymen can work in China only if they have a 
+permit from the central government in Beijing and for now there are no Orthodox 
+priests who are Chinese citizens.
+
+In December 2003, the dean of the Zharkent prefecture of the Astana and Almaty 
+Orthodox diocese of neighbouring Kazakhstan, Fr Vianor Ivanov, spent a week 
+under house-arrest in Yining and was then deported from China for illegally 
+working with local Orthodox believers.
+
+Protestants are more cautious. Luda Li, the pastor of the local Protestant 
+church, said that she and her community had no problems with the authorities 
+since they closely adhere to RAB rules.
+
+She said the rules forbid holding services except in registered churches, 
+adding that baptisms can be performed only after prior authorisation from 
+secular authorities. Similarly, religious marriage is allowed only after it has 
+been registered with civil authorities.
+
+Ethnic Uighur and Dungan imams and Yen Shi, the only local Buddhist monk, 
+declined to talk to Forum 18 without RAB approval. Yen Shi did say however that 
+"even local people who want to find out about Buddhism have to get the 
+permission of the Religious Affairs Bureau before talking with me".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

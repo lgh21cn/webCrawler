@@ -1,0 +1,33 @@
+<ID>20090316-190
+<DATE>20090316<\DATE>
+<URL>
+http://www.dw.com/en/solar-power-illuminates-chinese-villages/a-5213667
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Solar Power Illuminates Chinese Villages
+<\TITLE>
+<ABSTRACT>
+China’s cities are full of energy -- in every sense of the term. But this is not true of the country’s rural areas. Hundreds of villages have never had access to electricity. But things are changing in more than 140 villages at least. Photovoltaic solar panels have been installed to directly convert sunlight into electricity. The Chinese Finance Ministry, a German banking group and the local authorities are financing the scheme. Germany’s biggest solar energy company, Solarworld, is carrying out the work.
+<\ABSTRACT>
+<CONTENT>
+It is very difficult and expensive to provide electricity to many of China’s more remote villages, especially those located in the border regions with Mongolia, Kazakhstan and Myanmar. The photovoltaic project coordinator Ulrich Warna explains: 
+“Much of the land in the provinces of Yunnan, Xinjiang and Qinghai is very sparsely populated. Some places are 50 kilometres away from the next road. And some hamlets only have a dozen houses. A connection to the grid is extremely expensive. The Chinese government has developed the electricity grid in these provinces over the past few years but the very remote villages will only get access in some years’ time if at all.”
+This is why Warna and his colleagues have chosen to set up photovoltaic facilities in these very remote villages. 
+
+And although photovoltaic panels are expensive the government wants to support the project and invest in them as part of its drive to protect the environment. 
+Solar power is pollution-free during use and waste is low. Once facilities have been set up they can operate with little maintenance. Solar electric generation is cheaper than grid connection. Moreover, the panels, which are made mainly of glass and silicon, are recyclable. Furthermore there are rarely power cuts when electricity is solar-powered. 
+“Instead of using harmful oil lamps, energy-saving lamps can be used thanks to the electricity,” says Warna. “The light quality is much better. Clinics and hospitals, schools and small businesses can also have better lighting. Mobile telephones and televisions can be used. In emergencies, telephones or the Internet can be used to contact doctors or order medicine from the next city.”
+
+For places which do not have landlines, it is a significant development to be able to communicate by mobile phone. 
+If the project is a success, all the actors involved hope that they will be able to expand it to other remote parts of China. In future, photovoltaic panels might be seen all over the country. 
+Environmentalists would be happy point out observers, as would the local authorities because it goes without saying that the building of photovoltaic facilities also generates jobs.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

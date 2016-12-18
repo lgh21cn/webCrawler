@@ -1,0 +1,53 @@
+<ID>20130621-29
+<DATE>20130621<\DATE>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-19-Uyghur-sentenced:-They-spread-extremism-on-line-28262.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang 19 Uyghur sentenced: "They spread extremism on line"
+<\TITLE>
+<ABSTRACT>
+Sentences issued in recent days by several provincial courts, include up to 6 years in prison. For Beijing believes Islamic militants in Pakistan and Central Asia are training the Turkic ethnic group to overthrow the government.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - The provincial government of Xinjiang has approved a 
+series of convictions handed down in recent days against 19 Uighurs (the ethnic 
+majority), sentencing them to up to 6 years in prison for having "promoted 
+racial hatred "and having "spread religious extremism through the internet. " 
+All prisoners (except one) come from the southern part of the province, one of 
+the most tense battlegrounds of conflict with Han Chinese.
+
+The judges found sentenced one of the accused because he downloaded "material 
+that foments religious fervor and preach the holy war" from the Internet. A 
+second person "spread" online material "that praises religious extremism and 
+terrorism." According to the Chinese central government, the Xinjiang Uighur 
+groups have links with militants in Central Asia and Pakistan, that who are 
+training them to overthrow the legitimate government and create another 
+independent state.
+
+Last April, a series of violent clashes near Kashgar - the historic junction 
+of the silk road - resulted in 21 deaths. In July 2009 violence between the two 
+groups reached its peak, with more than 200 victims in the provincial capital 
+Urumqi and the army deployed in the streets in anti-riot formations.
+
+ The Uighurs are Turkic-speaking Muslim: for several decades they have had an 
+adversarial relationship with the Chinese central government, which in part 
+they do not recognize. After a few (unsuccessful) attempts to gain independence 
+as "East Turkestan", the ethnic leaders have asked Beijing for the possibility 
+to safeguard their language, culture and religion. The Chinese government - 
+while conceding some tax breaks and social benefits - decided instead to use a 
+heavy hand and launched a campaign of repression and control in the whole area.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

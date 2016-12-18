@@ -1,0 +1,53 @@
+<ID>20111019-45
+<DATE>20111019<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=22946
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Polio-epidemic-in-Xinjiang.-Nearly-5-million-vaccines-22946.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Polio epidemic in Xinjiang. Nearly 5 million vaccines 
+<\TITLE>
+<ABSTRACT>
+For now there are 17 children paralyzed and one dead from the disease. The strain appears to originate from Pakistan. WHO's alert for the countries that have already defeated the disease. Pilgrimage to Mecca at risk. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews / Agencies) - About four and a half million children and 
+young people have been vaccinated against polio in Xinjiang after the disease 
+paralyzed 17 children and caused the death of another.
+
+ According to the World Health Organization (WHO), the epidemic of 
+poliomyelitis in China is the first since 1999. Scientists think that this 
+strain (type WPV1) originated from Pakistan, where the disease is endemic.
+
+ All cases which broke out in Xinjiang occurred between July and September in 
+Hotan Prefecture, on the border with Pakistan. The vaccination campaign started 
+in late September and has reached nearly five million people.
+
+ Polio is manifested by symptoms similar to colds, fever, nausea, headaches, 
+and can produce paralysis within 24-48 hours.
+
+ WHO spokesman Oliver Rosenbauer, has also alerted nations where the disease 
+has been eradicated because "it is an infectious disease, and as people travel, 
+countries without polio can return to being infected ... just as happened in 
+the area west of China. "
+
+ Polio is spread through food, water, feces. The WHO has stressed that the 
+crippling disease could spread even more during pilgrimages to Mecca. The next 
+pilgrimage to the holy city of Islam will be in November.
+
+ So far in the world there were 444 cases of polio, 25% of them in Pakistan. 
+Last year 1349 cases were registered.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

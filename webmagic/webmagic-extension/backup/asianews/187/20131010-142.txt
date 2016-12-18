@@ -1,0 +1,67 @@
+<ID>20131010-142
+<DATE>20131010<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=29245
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang:-139-Uyghurs-arrested-for-spreading-jihad-on-the-Internet-29245.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang: 139 Uyghurs arrested for spreading jihad on the Internet
+<\TITLE>
+<ABSTRACT>
+Beijing confirms the wave of arrests that started in late August. A farmer arrested for downloading books about separatism. For the World Uyghur Council, it is an attempt to "to suppress Uyghurs' use of the Internet".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - Police in the Chinese province of Xinjiang have arrested 
+139 people, all ethnic Uyghurs, for allegedly spreading jihad, the official
+China Daily reported. The wave of arrests began in late August and concerned 
+people who used the Internet "inappropriately". A farmer in Hotan was detained 
+after he uploaded e-books about secessionism.
+
+Beijing confirmed the arrests, pointing to violent incidents in the region to 
+indicate a rising militant threat among the ethnic minority, as evidenced by 
+the fact that many Uyghurs, it claims, fought in Syria's civil war and then 
+returned home to put their militant experience into practice. These 
+allegations, however, have not been backed by evidence.
+
+Dilshat Rexit, a spokesman for the overseas-based World Uygur Congress, which 
+Beijing deems a separatist group, said that the claims were a "total distortion 
+of the truth" aimed at blocking Uyghurs from going online.
+
+Those who were detained had only "expressed discontent with Chinese rule and 
+systematic repression in the area", he explained. For him, China's goal "is to 
+suppress Uyghurs' use of the Internet to obtain information and express 
+different points of view".
+
+Xinjiang province is one of the most turbulent in all of China. It is the 
+homeland of ethnic Uyghurs, a Turkic-speaking, mostly Muslim people that has 
+always sought independence from Beijing.
+
+The central government has sent hundreds of thousands of Han Chinese to the 
+region to try to make them the dominant ethnic group. It has also imposed 
+serious restrictions on freedom of religion, Muslim practices, the teaching of 
+the indigenous language and the local culture.
+
+Since 2009, a special system of Chinese police and army control has been in 
+place, imposed by Beijingafter the riots in which nearly 200 people lost their 
+lives 
+
+. As a result of the violence, hundreds of people were detained and dozens were 
+sentenced to death.
+
+Chinese authorities have blamed the violence on Muslim extremists, but exiles 
+claim that Beijing is "exaggerating" the threat of Islamic terrorism to justify 
+the repression against the Uyghur people.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

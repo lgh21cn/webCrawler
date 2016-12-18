@@ -1,0 +1,136 @@
+<ID>20080828-214
+<DATE>20080828<\DATE>
+<URL>
+http://www.dw.com/en/russia-looks-east-after-criticism-from-the-west/a-3597683
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Russia Looks East After Criticism from the West
+<\TITLE>
+<ABSTRACT>
+President Dmitry Medvedev met his Chinese counterpart Hu Jintao and the leaders of four ex-Soviet Central Asian nations in a bid to secure support for Russia its standoff with the West over Georgia.
+<\ABSTRACT>
+<CONTENT>
+
+Medvedev was in Dushanbe, the capital of Tajikistan, on Thursday, Aug. 28, for 
+the second of two days of consultations with his partners in the Shanghai 
+Cooperation Organization (SCO) as Western leaders renewed their condemnation of 
+Russia's diplomatic recognition of breakaway regions of Georgia.
+
+The SCO was formed in 2001 as a counterweight to NATO's growing influence in 
+the region.
+
+"If we are talking about SCO's move from an economic organization to a 
+military one, then this has already happened," Alexei Mukhin, head of the 
+Moscow-based Center of Political Information, told the DPA news agency. "All 
+the member states were willing in response to the strengthening of NATO."
+
+With Russian troops still in key positions in Georgia, tension with NATO 
+mounted as a top Russian general accused the alliance of building up its fleet 
+in the Black Sea.
+
+"Can NATO indefinitely build up its forces and means there?" Anatoly 
+Nogovitsyn, the deputy chief of Russia's general staff, asked at a Moscow 
+briefing. "It turns out it cannot."
+
+He added that 10 of the Western alliance's vessels were currently patrolling 
+the Black Sea and eight more were on route to join them.
+
+Russia belligerent but lacking support
+
+Medvedev's defiance belies his search for supporters
+
+Medvedev's defiant recognition of Georgia's separatist regions of Abkhazia and 
+South Ossetia, where the conflict erupted early August, has led to a sharp 
+cooling of diplomatic relations.
+
+"We're not afraid of anything, of a new Cold War," Medvedev said on Tuesday. 
+"If our partners want to maintain good relations with Russia, they will 
+understand our decision."
+
+But the move provoked NATO, the United States and some European allies to 
+demand a "reversal" of the decision.
+
+So far, the presidents of Belarus and Syria are the only allies to support the 
+Russian move.
+
+While Georgia is not officially part of the summit agenda in the Tajik capital 
+of Dushanbe, a Kremlin spokesman said it was "obvious" that the issue would 
+take center stage.
+
+Realistic demands of China
+
+Moscow will be pushing for judicial support, namely from China, and promises 
+of tighter military cooperation from eastern allies.
+
+China has its reasons for not commenting on Russia's decree
+
+Russia cannot expect China to recognize Abkhazia and South Ossetia because it 
+faces similar problems with restless regions at home, analysts said. China had 
+no comment Wednesday on Russia recognizing the independence of two rebel 
+Georgian provinces, continuing its policy of saying virtually nothing about the 
+situation.
+
+Foreign ministry spokesman Qin Gang, on Tuesday, elaborated only slightly when 
+asked about the Russian parliament's passing of motions to recognize South 
+Ossetia and Abkhazia as independent nations.
+
+"We have noted the latest developments of the situation, and we hope relevant 
+parties find a proper resolution of the issue through dialogue," Qin said. The 
+ministry added that it would contact the media when it had more to say.
+
+But in Russia, lack of criticism is being seen as tacit agreement.
+
+"But silence on this question will de facto mean agreement, and, more 
+importantly, China will move to block any economic sanctions against Russia 
+within the UN," Mukhin said.
+
+The parliament's motions preceded Russian President Dmitry Medvedev's decision 
+to formally recognize the two regions as independent on Tuesday.
+
+Following the government's line, China's state-run press has given the issue 
+scant attention.
+
+The People's Daily, the mouthpiece of the ruling Communist Party, carried only 
+a small article Wednesday on page six, giving a factual account of Medvedev's 
+decision.
+
+The Global Times, which focuses on international affairs, ran the story on its 
+front page but with no commentary.
+
+China faces a dilemma over the Georgian issue. While it has close ties with 
+Russia, it is facing its own problems with groups pushing for independence in 
+its Buddhist region of Tibet and Muslim Xinjiang.
+
+SCO leadership battle provides further problems
+
+Russia and China are vying for the leadership of the SCO
+
+China and Russia's competition for influence within the SCO also complicates 
+any potential for rapprochement.
+
+The two nations hold different visions of what should become of the 
+organization, with China aiming for an expansion of trade benefits while Moscow 
+wants increased military cooperation.
+
+Kazakhstan and Kyrgyzstan, which host both US and Russian military bases, have 
+looked to balance their Russian ties with the United States in recent years and 
+are likely to find this a compromising position.
+
+The Kremlin said in a statement that high on the summit agenda would be 
+reviewing procedures for admitting new members, such as Iran which holds 
+observer status in the club.
+
+The move would snub Washington's drive to isolate the Islamic state, which it 
+suspects of harboring a nuclear weapons program, while moving closer to 
+realizing Russia's goal of knitting an anti-hegemonic alliance to counter US 
+policy.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

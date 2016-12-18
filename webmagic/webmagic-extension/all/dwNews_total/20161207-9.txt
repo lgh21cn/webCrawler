@@ -1,0 +1,45 @@
+<ID>20161207-9
+<DATE>20161207<\DATE>
+<URL>
+http://www.dw.com/en/wahid-baloch-and-the-plight-of-missing-persons-in-pakistan/a-36681364
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Wahid Baloch and the plight of 'missing persons' in Pakistan
+<\TITLE>
+<ABSTRACT>
+Wahid Baloch, a prominent activist, was allegedly detained by security forces earlier this year. Baloch has now been reunited with his family but there're thousands of other Baluchistan activists whose fate is unknown.
+<\ABSTRACT>
+<CONTENT>
+Pakistani activist Wahid Baloch, who "disappeared" four months ago, has returned to his home in the southern city of Karachi. "The social activist, writer and small-scale publisher is believed to have been detained by unidentified security officials on July 26 on the outskirts of Karachi, setting off a frightening, though wearingly familiar, process of recovery for his shocked family," said Pakistan's English daily, Dawn, on Wednesday, December 7.
+A number of activists from the South Asian country's southwestern Baluchistan province have disappeared in the past few years. Rights groups claim that Pakistan's security agencies have kidnapped them because of their alleged support to a separatist movement in Baluchistan.
+Wahid Baloch is fortunate to have been reunited with his family, thanks to the persistent efforts by many non-governmental organizations, including the Human Rights Commission of Pakistan, an independent NGO. But thousands of Baloch activists are still missing despite their families' complaints and protests.
+"Wahid Baloch's abduction, like thousands of other Baloch kidnappings, was illegal and unjust. But Pakistani authorities do not respect the law," Mir Mohammad Ali Talpur of The Voice for the Baloch Missing Persons (VBMP) group, told DW.
+"The release of Wahid Baloch is certainly a victory for justice but thousands of people are still missing," Talpur underlined.
+Local rights groups have the details of at least 8,000 people who they say have disappeared over the past 12 years and have not been seen since. In 2012, the Asian Human Rights Commission (AHRC) said that 23 bullet-riddled bodies of the missing persons were discovered in different parts of Baluchistan.
+"Wahid Baloch's release was a result of a sustained effort by his daughter, Hani, his family and friends, and the civil society. The international media also put pressure on the abductors, who had to eventually free Baloch," said Talpur.
+
+Baluchistan, which borders Afghanistan and Iran, is rich in oil, gas and minerals, yet it remains Pakistan's poorest province. Baloch activists accuse Islamabad of usurping their wealth, fueling a protracted separatist movement.
+The armed struggle for Baloch independence intensified after the killing of influential Baloch leader Akbar Bugti in 2006 in a military operation. Rebel Baloch groups like the Baluchistan Liberation Army have repeatedly attacked security forces and state installations. Most of the rebel leadership is believed to be in exile in Europe, Afghanistan and Dubai.
+"According to the Asian Human Rights Commission, the Pakistani army operates dozens of illegal underground torture cells in different parts of the country and various intelligence agencies do not share complete information with each other about their operations and torture cells. Rights groups believe these people are languishing in these cells," Siraj added.
+Asad Butt, a vice chairperson of the Human Rights Commission of Pakistan, told DW that Wahid Baloch was tortured by his "abductors."
+"I met him (Baloch) after his release. He told me that he was kept in a small room. He was also tortured," Butt said. "He said that most people in custody were from the Khyber Pakthunkwa province. Some belonged to the Karachi-based Muttahida Qaumi Movement (MQM) party," Butt added.
+Pakistani authorities deny allegations that the security agencies detain people illegally. They say that many people from Baluchistan and other parts of the country have been arrested on terrorism charges.
+
+Pakistani authorities are taking the Baloch insurgency even more seriously now. Last month, Pakistan's top civilian and military leaders inaugurated a new international route which connects the country's renovated southwestern Gwadar port in Baluchistan to the Chinese city of Kashgar as part of a joint multibillion-dollar initiative, the China-Pakistan Economic Corridor (CPEC). With the $46 billion (41 billion euros) project, Beijing aims to expand its clout in Pakistan and across Central and South Asia, while at the same time counter US and Indian influence in the region. CPEC also includes plans to create road, rail and oil pipeline links to improve connectivity between China and the Middle East.
+But the success of CPEC depends on the security situation in Baluchistan, and that is why the military has beefed up its presence in the province. Pakistani officials also accuse India of backing the separatist movement in Baluchistan, a claim denied by New Delhi. That puts even the pacifist Baloch activists in the harms way, as the authorities are now more suspicious of their activities than ever.
+The Baloch separatists strongly oppose CPEC, saying that the bigger Punjab province want to reap all the benefits while using their lands and resources to implement the project. Ignoring the concerns of the local communities and their leaders, Islamabad has vowed to continue with CPEC at all costs. The military says that those opposing the economic corridor plan are against Pakistan's economic prosperity and are "traitors."
+
+"CPEC's success depends largely on regional stability, security and rule of law. Without these guarantees, Chinese companies will be hesitant to make more investments beyond the current agreements," Siegfried O Wolf, a South Asia expert at the University of Heidelberg, told DW. "Consequently, Pakistan is stepping up its security engagement regarding CPEC - the deployment of an increased number of troops along the CPEC route and new counterterrorism policies accompanied by special laws to empower the military and its intelligence services are some examples."
+Meanwhile, the so-called "Islamic State" (IS) militant group has become more active in Pakistan. IS has claimed two attacks in Baluchistan in recent months, and experts point to its expansion in the province. That development, too, poses a challenge for the Pakistani authorities to implement CPEC.
+"There is no doubt that IS activities are increasing in the Afghanistan-Pakistan region. We must not forget that terrorist organizations like IS and al Qaeda are critical of China's handling of its Uighur Muslim population. There is a threat that these groups will identify CPEC projects as potential targets in their so-called 'jihad against China,'" Wolf said, adding that much will depend on how Pakistan's security establishment deals with this new threat.
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

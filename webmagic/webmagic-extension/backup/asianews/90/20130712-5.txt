@@ -1,0 +1,61 @@
+<ID>20130712-5
+<DATE>20130712<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing-celebrates-Ramadan,-communist-officials-invite-Uygur-Muslims-to-lunch--28456.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing "celebrates" Ramadan, communist officials invite Uygur Muslims to lunch 
+<\TITLE>
+<ABSTRACT>
+The Government of the Western Province of Xinjiang has placed mosques under monitoring and prohibited groups of study and prayer. After the invitation to lunch, charges of "premeditated offenses" when they do not eat. Activists denounce: "these policies are new fuel to the fire".
+<\ABSTRACT>
+<CONTENT>
+   
+
+ 
+
+Beijing (AsiaNews) - While all the Muslim world observes the precepts strictly 
+linked to the holy month of Ramadan, Muslims of Xinjiang Province of China 
+suffer a new wave of repression and restrictions designed to stop them from 
+observing the rules laid down by their religion for this period. Chinese 
+Government officials, Uygur ethnic activists groups have denounced, arrive to 
+invite the community's religious leaders for lunch to make them embarrassed and 
+have an excuse to accuse them of "premeditated offenses".
+
+Dilxadi Rexiti, spokesman for the World Congress of Uygurs, says: "Some 
+representatives of the Government go to the homes of important members of the 
+community to offer fruits and drinks during the day, when instead the Koran 
+requires us to fast until sunset. At the same time, the authorities have banned 
+any study group of religious texts and they have put the mosques under 
+surveillance".
+
+Ramadan, which began two days ago, requires the faithful to abstain from food, 
+drink, tobacco and sexual activities during the day. In the province, which has 
+long been the epicenter of violence and tensions between ethnic Uyghur (one 
+time a majority in the territory) and the Han ethnicity, these provocations are 
+likely to ignite sparks of new clashes. According to Katrina Lantos Swett, of 
+the U.S. Commission for Religious Freedom, "Beijing's policies launched in the 
+name of security are likely to put at risk the stability of the area".
+
+The Uyghurs are Muslim and Turkish speaking: for several decades they have a 
+conflictual relationship with the Chinese Central Government. After a few 
+(failed) attempts to gain independence as "East Turkestan", ethnic leaders have 
+asked Beijing to preserve the language, culture and religion. The Chinese 
+Government - while giving tax and social breaks - has decided instead to use 
+the heavy hand and launched a campaign of repression and control throughout the 
+area. For some time, indeed, religious instruction has been prohibited to 
+minors (who can't even enter the mosques).
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

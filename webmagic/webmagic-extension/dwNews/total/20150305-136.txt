@@ -1,0 +1,47 @@
+<ID>20150305-136
+<DATE>20150305<\DATE>
+<URL>
+http://www.dw.com/en/amnesty-chinas-draft-anti-terror-law-contravenes-international-human-rights-law/a-18298615
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Amnesty: China's draft anti-terror law 'contravenes international human rights law'
+<\TITLE>
+<ABSTRACT>
+The overly broad definition of extremism in China's proposed anti-terrorism law could mean that almost any behavior or speech that the government dislikes could qualify as "extremism," AI's William Nee tells DW.
+<\ABSTRACT>
+<CONTENT>
+ In a bid to give authorities more resources to combat terrorism, China's top legislative body, the National People's Congress (NPC), is expected to pass a draft anti-terrorism law in the coming days. The around 3,000 delegates who attend the annual congregation are likely to discuss China's first counter-terrorism law, which aims to put in place measures and regulations necessary to protect the country against terror attacks. 
+ The move by the Chinese government to draft such a law reflects the growing threat Beijing perceives from a range of armed groups that are active in several provinces such as China's restive Xinjiang region. In the recent past, China faced a spate of deadly attacks prompting the government to vow tough measures to crack down on terrorism.
+ However, in a DW interview, Amnesty International's (AI) China researcher William Nee, urges the Chinese government to hold off on promulgating the anti-terror law, and start drafting it again, arguing the country must ensure the protection of human rights, even as it seeks to protect its citizens from violent attacks.
+ 
+ William Nee: With 106 articles in total, the draft anti-terrorism law stipulates many things, not all of which we can analyze fully at this moment. Perhaps the most important point is that it allows the authorities to put people with "terrorist or extremist tendencies" in some sort of educational or correctional system, possibly arbitrary detention, without trial.
+ There are also a series of restrictive measures that may be imposed against people suspected of terrorism. Also of concern, the definitions of terrorism and extremism remain overly broad, and could very easily restrict non-violent forms of freedom of expression.
+ Under international standards, national security legislation should be written narrowly and with precision, and it should focus on legitimate and demonstrable threats to the country's existence or territorial integrity. Furthermore, freedom of expression, including criticizing government policies or the government itself should be explicitly protected.
+ But the overly broad definition of extremism could mean that almost any behavior or speech that the government doesn't like could qualify as "extremism." Also, the law specifically states that "misrepresenting or insulting state policies, laws, administrative regulations" would qualify as "extremism," and this clearly contravenes international human rights law and standards. 
+ 
+ Probably the most important thing to note is that, as mentioned above, given the broad definition of extremism, many forms of behavior, speech, or thought could potentially qualify as "extremist" and, specifically, any criticism of government policy could qualify as "extremist."
+The law would further enable China's crackdown on non-authorized forms of religious practice, especially in the Xinjiang Uighur Autonomous Region (XUAR). Over the past year, Amnesty International has noted that numerous counties in the XUAR posted notices on their websites stating that students should not be permitted to observe Ramadan, and many teachers gave food and sweets to children to ensure that they did not observe the fast.
+ Prohibitions on government employees and Communist Party cadres adhering to a religion were reinforced and several Uighur cadres were punished for downloading religious materials from the Internet or "worshipping openly." Outward signs of adherence to Islam such as beards or veils were often banned.
+ Specifically, Islam, like other permitted religions in China, is tightly controlled by the relevant government body, the Islamic Association of China, and any religious practice that deviates from the official teaching could be seen as a "distortion," thus qualifying as "extremism".
+ Further, parents who want their children to take part in religious education or ceremonies could potentially be accused of participating in "extremist conduct." The law allows for detention and fines for people who display "items advocating terrorism or extremism or otherwise advertising extremism," and in the XUAR context, we know that this is often interpreted as women with veils or burqas, men with long beards, or people wearing other T-shirts with the Islamic crescent moon. 
+ 
+ What's worth noting is that the revised draft claims to be striking a balance between anti-terrorism and human rights protections, and in some ways, it's positive that the government is at least acknowledging the human rights concerns that have been expressed about this law.
+ But at this moment, it doesn't seem like any of the revised sections - which mainly add layers of additional approval in conducting anti-terror measures - will significantly improve the situation, or give people suspected of terrorism a chance to appeal their case to an independent or impartial body. 
+ 
+ This could potentially give the government many new "tools" in the "strike hard" campaign - such as greater access to users' electric communications, restrictions on freedom of movement both locally, and in terms of exiting and entering the country, and greater leeway in making people targets of extremism or terrorism - and thus targets of electronic and on-the-ground surveillance.
+ The government has repeatedly emphasized that its "strike hard" campaign is being conducted "according to the law." So, this new law, with the many new tools it gives to the authorities, could potentially give the government greater perceived legitimacy in conducting its fight against terrorism "according to the law," even when it is engaging in activities that violate internationally recognized human rights laws and standards.
+ 
+ The government must ensure that it is protecting human rights, even as it takes measures to ensure the safety of its citizens from violent attacks. We've seen that in previous "strike hard" campaigns there have been tragic miscarriages of justice - as in the wrongful execution of the Inner Mongolian boy Hugjiltu. Violations of human rights tend to increase resentment.
+ Therefore, we urge the government to hold off on promulgating this law, and just start again. The government should ensure that any such law is compatible with the ICCPR, the Johannesburg Principles, the Rabat Plan of Action, and many other international laws and standards.
+ The government has, apparently, taken lots of time and consulted with many international experts, and other governments in making the draft Domestic Violence Law, (which is not yet out). The government could do a similar thing, by consulting with international bodies, international human rights experts, other governments, and by of course reaching out in a meaningful way to the communities that will be most affected by this law.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

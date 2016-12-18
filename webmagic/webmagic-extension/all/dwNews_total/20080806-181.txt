@@ -1,0 +1,42 @@
+<ID>20080806-181
+<DATE>20080806<\DATE>
+<URL>
+http://www.dw.com/en/experts-split-on-threat-of-terrorism-at-beijing-olympics/a-3541794
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Experts Split on Threat of Terrorism at Beijing Olympics
+<\TITLE>
+<ABSTRACT>
+A deadly mortar attack in northwestern China has stirred up fear of attacks during the Olympic Games in Beijing. However, whether the Games are really in danger is a highly disputed matter.
+<\ABSTRACT>
+<CONTENT>
+According to Chinese authorities, the attack in the Muslim region of Xinjiang, which killed 16 police officers on Monday, Aug. 4, was carried out by terrorists. This is the second attack of this kind in Xinjiang in the past two weeks. Now the question is: How concerned should the world be of an attack during the Olympics. 
+Terrorism is the biggest threat during the Games, Rohan Gunaratna, one of Singapore's most prominent terrorism experts, told the Chinese daily . 
+Head of the the International Center for Political Violence and Terrorism Research at the Nanyang Technological University, Gunaratna said the Olympic Security Committee categorizes al Qaeda, the East Turkestan Islamic Movement (ETIM), Tibetan separatists and the Falun Gong sects as threats. 
+Gunaratna said he believes the ETIM poses the biggest threat. That group was blamed for Monday's attack by the  newspaper. 
+
+Other political observers warned against lapsing into panic or dramatizing the danger to the Games in Beijing. 
+The Chinese capital can be compared to a fortress, and that the danger of an attack is therefore remote, according to East Asian expert Xuewu Gu. Xuewu added that the most dangerous groups are not in a position to stage an attack in Beijing because they are being forced to deal with the police outside the capital. 
+
+Martin Wagener, an expert on violence in East Asia at Trier University, called Beijing a "true security state." 
+The government has put 34,000 soldiers of the People's Liberation Army along with 110,000 police officers in place for security, Wagener said his research has shown. They will be backed up by fighter jets, helicopters and ships. There have also been some 300,000 security cameras installed, and up to 1.4 million people have reportedly volunteered to make sure nothing goes wrong.
+"It will be very difficult to smuggle any sort of explosives into Beijing," said Wagener.
+The attack in Kashgar is not an uncommon occurrence. For years there have been both small and large attacks against the police and government buildings. Until now, however, they have not been reported on outside the country. 
+Xuewu said he expects the attacks to continue after the Olympics, because the groups' causes will not fade away as international media leave China after the Games. 
+"Just the opposite," he said. "There will still be problems because the injustice in China will just get bigger, and the relationship between the central government and the minorities will get worse."
+
+Wagener said he believes it is possible that the central government in Beijing has instrumented accidents, like the one in Kashgar, in order to justify their giant security apparatus. 
+When the Games are over they are likely to use it for other purposes, such as controlling separatist in Xinjiang, Tibet protesters, and the religious Falun Gong sects, Wagener said.
+"This seems to be the central concern for the authorities," he added. 
+The Chinese government seems to be carrying out a campaign of selective disinformation of the public. At least that’s what actions in Kashgar are pointing to. According to one reporter from AFP, independent reports of the attack were difficult to come by. The local authorities blocked Internet access on the day of the attack. The police tried to prohibit any news of the attack getting out, and even broke into the hotel room of an AFP photographer and forced him to delete photos of the attack site. 
+Two Japanese journalists, who wanted to report on the attack, were momentarily detained according to the Associated Press. Reporter Shinji Katsuta said that he was hit multiple times in the face. Authorities apologized later for the incident. 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

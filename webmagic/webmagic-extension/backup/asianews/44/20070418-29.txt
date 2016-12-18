@@ -1,0 +1,54 @@
+<ID>20070418-29
+<DATE>20070418<\DATE>
+<URL>
+http://www.asianews.it/news-en/Uighur-activist-Rebiya-Kadeer%E2%80%99s-son-sentenced-to-nine-years-in-jail-9027.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uighur activist Rebiya Kadeer’s son sentenced to nine years in jail
+<\TITLE>
+<ABSTRACT>
+He was convicted for writing articles critical of the government online on issues like human and Uighur rights in China. He was denied the right to appoint a lawyer and was tried in camera. Some of Ms Kadeer’s other children are also facing charges. She is in exile in the United States.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – A court in Urumqi (Xinjiang) sentenced Ablikim 
+Abdiriyim, a son of exiled Uighur activist Rebiya Kadeer, for nine years 
+yesterday, for instigating and engaging in secessionist activities in the 
+region. Ms Kadeersaid charges against her son were false and that he was tried 
+without legal assistance.
+
+The court convicted Abdureyim of spreading secessionist articles over the 
+internet, instigating the public against the government and writing articles 
+that distorted China's human rights and ethnic policies. Under Chinese law, he 
+will also be denied political rights for three years, rights which include free 
+speech and the ability to gather or protest.
+
+Amnesty International reported last month that Ablikim was ill from beatings 
+suffered in detention and was being denied access to medical treatment.
+
+Rebiya Kadeer, a Muslim ethnic Uighur and a prominent businesswoman, fell from 
+grace for criticising the communist government's treatment of Xingjian’s Uighur 
+community. Arrested in 1999 on her way to meet US congressmen, she was 
+eventually released and allowed to leave for the United States in 2005 where 
+she now heads the Uighur American Association
+
+"They would not appoint a lawyer for him and didn't give him an opportunity to 
+defend himself, and they held the hearing in secret," Ms Kadeer told the
+Washington Post.
+
+Another son, Alim Abdureyim, was sentenced to seven years in prison in 
+September of last year on tax evasion charges.
+
+And another son was convicted of tax evasion but spared a jail term whilst a 
+daughter has been placed under house arrest.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

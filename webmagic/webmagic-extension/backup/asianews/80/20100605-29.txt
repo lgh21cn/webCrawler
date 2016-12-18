@@ -1,0 +1,73 @@
+<ID>20100605-29
+<DATE>20100605<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing:-For-the-21st-anniversary-of-Tiananmen,-thousands-of-tourists-and-(some)-police--18602.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing: For the 21st anniversary of Tiananmen, thousands of tourists and (some) police 
+<\TITLE>
+<ABSTRACT>
+Security forces guard the area, but keep a low profile. The leaders of the Tiananmen Mothers promote a small memorial in memory of their children and other victims. Bao Tong: the massacre of June 4 has blocked the development of China. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Thousands of tourists flocked to Tiananmen 
+Square yesterday, to Beijing, to mark the 21st anniversary of the massacre of 
+1989. Chinese security forces have guarded the area, but the police presence 
+was less than last year, when the square was reinforced and inaccessible to 
+foreign journalists. Ding Zilin, leader of the Tiananmen Mothers, was able to 
+provide a brief public ceremony to remember relatives killed in a suburb of the 
+capital.
+
+On the evening of June 3 Ding Zilin, a professor and Chinese politician, held 
+a function Muxidi, a suburb of Beijing, to remember her son killed the night of 
+June 3, 1989.The young man was killed while he went to Tiananmen Square, to 
+join the protesters of the democratic movement.The police have prevented five 
+other people in participating in a simple ceremony and imposed three conditions 
+on the leaders of the Tiananmen Mothers: Do not display banners, no crowds for 
+the commemoration, no interviews with foreign media.
+
+Government officials followed the woman and her husband for the duration of 
+the function. However, Ding and her husband were able to present photographs of 
+10 victims of Tiananmen Square, including that of their son. The couple also 
+left their ceremonial offerings and held a short speech, without causing the 
+authorities to intervene.
+
+Bao Tong, political secretary to Zhao Ziyang,  and director of political 
+reform also spoke out about the events in Tiananmen Square. "The massacre of 
+June 4 was the abolition of the common people, who opposed corruption." The 
+former Communist leader said that "corruption was protected by the state army 
+". Bao Tong and Zhao Ziyang, against the massacre, were then removed from their 
+positions, isolated and sentenced to prison terms. Thus the path of political 
+reforms designed to separate party politics from government was interrupted. 
+This decision also prevented any real development in China, despite claims 
+launched by the Communist government.
+
+However, the Chinese censors seem to have eased since last year.  On the 
+twentieth anniversary of the massacre, in fact, the government prevented access 
+to the square to foreign media and nervousness among officials was obvious. 
+Yesterday Tiananmen was guarded by a handful of uniformed police, aided by 
+several hundred volunteers, wearing a shirt with the logo of the Beijing 
+Olympics.
+
+However, the arrests of activists and protesters have taken place.  Su Yutong, 
+environmentalist, was detained by plainclothes police as she tried to place a 
+bouquet of flowers at the foot of the monument of the People's Heroes in the 
+centre of the square. The woman was questioned for six hours, then brought home.
+
+Previously the government had shut internet down, stepping up censorship of 
+sites which speak of the events of Tiananmen. Several activists, finally, are 
+still under surveillance or forced house arrest.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

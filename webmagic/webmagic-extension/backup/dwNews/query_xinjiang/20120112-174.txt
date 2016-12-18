@@ -1,0 +1,37 @@
+<ID>20120112-174
+<DATE>20120112<\DATE>
+<URL>
+http://www.dw.com/en/prominent-chinese-dissident-tells-of-raids-and-interrogation/a-6697078
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Prominent Chinese dissident tells of raids and interrogation
+<\TITLE>
+<ABSTRACT>
+Prominent Chinese rights activist Hu Jia spoke to Deutsche Welle about his detention and interrogation by Chinese police. Hu's home was recently raided and he was threatened with detention for expressing his views.
+<\ABSTRACT>
+<CONTENT>
+Hu Jia, 38, is one of the most prominent Chinese dissidents active in the country’s repressed democracy movement. He is also a campaigner for environmental protection and an advocate for rural victims of AIDS. He was imprisoned in 2008 as part of a crackdown on dissents ahead of the Beijing Olympics and served a three and a half year sentence for "inciting subversion of state power," charges to which he did not plead guilty. 
+Upon Hu's release from prison on June 26 last year, he was told not to accept interviews from foreign reporters. He was also banned from protesting, publishing his comments online and speaking out in any way. Sharon Hom, executive director at international NGO Human Rights in China, told Deutsche Welle that following his release, Hu was subjected to a year-long deprivation of political rights (DPR), a measure sanctioned under Chinese law.
+While the actions of police may have been authorized under Chinese DPR legislation, they nonetheless "undermine rights protected by China's international human rights obligations to respect fundamental rights and freedoms," said Hom.
+
+Hu spoke to Deutsche Welle on Thursday, following an eight-hour ordeal in which police interrogated him at a district police headquarters in Beijing. He said authorities grilled him over three separate issues they took issue with.
+"First of all, US Congressman Chris Smith planned to visit the blind Chinese rights lawyer Chen Guangcheng but the government refused his entry to the country. I commended his move and his care for Chen on [social media tool] Twitter," said Hu.
+He appealed to the public to travel to Dongshigu village in Shangdong province, where Chen was under house arrest. Hu said this could leverage pressure on the local government to free Chen. 
+The second matter police wanted to speak with Hu about was a call he made to Twitter users to send postcards to a remote prison in Xinjiang, where the outspoken rights lawyer Gao Zhisheng was jailed. He said there was a chance that conditions for Gao could improve if authorities knew that the public were keeping track of him. 
+The third issue related to Hu’s confirmation to the international community that Nobel Peace laureate Liu Xiaobo’s wife Liu Xia was currently under illegal detention by the government. "Actually I’ve published quite a lot of comments recently but the policemen only pinpointed these three issues. So we can see these dissidents’ names are the most sensitive and threatening to the government at the moment," said Hu, adding that he has been warned by police that he faces further detention if he continues to be so outspoken. 
+
+ 
+ Hu said he was surprised by the police raid late Wednesday: "In the past, policemen have entered my house, but on those occasions they weren’t wearing uniforms. They came in stealthily. But last night, eight uniformed policemen descended upon my house at around 8 o’clock with a police car and stayed for around one and a half hours. That means this time they based their raid on a legitimate procedure with a search warrant," said Hu. The policemen claimed they had found data on his laptop which showed his violation of DPR laws, prompting them to confiscate his and his wife’s computers for further investigation. 
+Chinese authorities are expected to keep a tighter lid on dissidents and rights defenders before the upcoming Communist Party National Congress and power transitions expected to take place in China later this year. However, "recent mass protests, such as a villagers’ protest in Wukan and the influential rise of microblogs and [Chinese Twitter equivalent] Weibo are pressuring the authorities to respond to demands and problems," said Hom. "They cannot continue to silence or intimidate these voices successfully."
+Author: Miriam Wong
+Editor: Darren Mara
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

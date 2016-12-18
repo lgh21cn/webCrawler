@@ -1,0 +1,22 @@
+<ID>20091221-78
+<DATE>20091221<\DATE>
+<URL>
+http://www.dw.com/en/human-rights-groups-slam-cambodia-for-deporting-uighurs-to-china/a-5212943
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Human Rights Groups Slam Cambodia for Deporting Uighurs to China
+<\TITLE>
+<ABSTRACT>
+The United States and international rights groups have deplored Cambodia's decision to deport 20 Uighur asylum seekers to China at the weekend. China meanwhile has welcomed it and signed pacts worth a billion dollars in aid to Cambodia on Monday.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

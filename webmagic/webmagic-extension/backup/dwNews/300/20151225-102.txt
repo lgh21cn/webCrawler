@@ -1,0 +1,91 @@
+<ID>20151225-102
+<DATE>20151225<\DATE>
+<URL>
+http://www.dw.com/en/china-effectively-expels-french-journalist-ursula-gauthier/a-18942525
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China effectively expels French journalist Ursula Gauthier
+<\TITLE>
+<ABSTRACT>
+Officials have refused to renew Beijing-based journalist Ursula Gauthier's press visa unless she apologizes for a story. Gauthier wrote criticially on China's "anti-terror" operations against Xinjiang's Uighur Muslims.
+<\ABSTRACT>
+<CONTENT>
+
+ "They confirmed that if I did not make a public apology on all the points 
+that had 'hurt the Chinese people'… my press card would not be renewed and I 
+would have to leave on December 31," Gauthier told news agency AFP. Gauthier 
+cannot apply for a visa unless her press card is renewed.
+
+ "If I had actually written what they accuse me of, I deserve to be put in 
+prison, not expelled," the reporter said. The attitude of Chinese officials was 
+"a pretext to intimidate foreign correspondents in China, particularly on 
+issues concerning minorities," she said, adding that she would "not deviate" 
+from her story.
+  Watch video 01:38 
+Share
+
+China expels French journalist
+
+Send 
+
+Facebook 
+
+Twitter 
+
+Google+ 
+
+Whatsapp  Tumblr 
+
+linkedin 
+
+stumble 
+
+Digg 
+
+reddit 
+
+Newsvine 
+
+
+Permalink http://dw.com/p/1HU4i
+
+China expels French journalist
+
+ Gauthier is based in Beijing and works for the news magazine "L'Obs," 
+formerly known as Le Nouvel Observateur. Her essay, published on November 18, 
+was called "After the attacks [in Paris], Chinese solidarity is not without 
+ulterior motives." The report discussed Beijing's policies in Xinjiang, where 
+most of China's ethnic Uighur Muslim minority lives. The story also triggered 
+abusive comments from social media users in China and was condemned by the 
+state-run Global Times and China Daily.
+
+'Campaign of intimidation'
+
+ Chinese officials said the report justified violence against the government. 
+"The article criticized China's counterterrorism efforts and denigrated and 
+slandered Chinese policies. It provoked the strong indignation of the Chinese 
+public," Foreign Ministry spokesman Hua Chunying said earlier this month.
+
+ Meanwhile, efforts by French officials, including Paris' envoy to China, 
+Maurice Gourdault-Montagne, have produced no results. The foreign 
+correspondents' club in Beijing said it was "deeply concerned with the attempts 
+of intimidation."
+
+ Press organization Reporters Without Borders also denounced the incident, 
+calling it "media lynching" and "campaign of defamation and intimidation" 
+against Gauthier.
+
+ Before Gauthier, Melissa Chan, who works for television channel Al Jazeera, 
+was expelled in 2012.
+
+ mg/msh (dpa, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

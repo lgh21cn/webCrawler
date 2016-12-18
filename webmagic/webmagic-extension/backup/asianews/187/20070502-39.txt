@@ -1,0 +1,87 @@
+<ID>20070502-39
+<DATE>20070502<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=9147
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Canadian-minister-banned-from-meeting-jailed-Canadian-9147.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Canadian minister banned from meeting jailed Canadian
+<\TITLE>
+<ABSTRACT>
+Sino-Canadian relations go sour over treatment of a Uighur-Canadian jailed for life and intellectual property laws. China wants to focus on trade, but Canada insists on protecting rights and complains about Chinese spying on its territory.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Canada’s Foreign Minister Peter MacKay, who was 
+on a three-day visit to mainland China that ended yesterday, was not allowed to 
+see Huseyin Celil, a Chinese-born ethnic Uighur who is also a Canadian citizen. 
+For Beijing, Mr Celil, who was sentenced to life in prison by a Chinese court, 
+is a Chinese national and as such his fate is an internal matter. Meanwhile in 
+Canada,Canada’s spy agency reports that half of its counter-espionage efforts 
+target spies from the Chinese mainland.
+
+MacKay’s trip to China had been planned for some time, but the life sentence 
+imposed on Celil, aUighur dissident who fled China for Canada where he was 
+given refuge and citizenship, changed its nature.
+
+Extradited to China from Uzbekistan, he was jailed for life on charges of 
+‘terrorism’ and ‘separatism against China.’
+
+China has denied Canadian diplomats access to him as required by a consular 
+treaty between the two nations, because Beijing refuses to recognise Celil's 
+Canadian citizenship.
+
+Mr MacKay, meeting his newly appointed counterpart Yang Jiechi, demanded 
+consular access to the jailed Canadian citizen but all he could get were 
+assurances that Mr Celil had not been tortured.
+
+“Gaining access to Celil is an important issue of this government and we will 
+continue to pursue it,” Mr MacKay told the press. "I . . . expressed our deep 
+disappointment that we have thus far been denied access to this Canadian 
+citizen."
+
+Chinese sources have instead insisted that the case was an internal Chinese 
+affair with no connection to Canada.
+
+On a more positive note, Mr MacKay said that, despite the problem, relations 
+with China were very important to his country as was greater co-operation in 
+every field.
+
+The Celil affair is not the only event that has soured relations between 
+Ottawa and Beijing.
+
+Almost half Canada's counter-espionage efforts target spies from the Chinese 
+mainland, Jim Judd, the head of the Canadian Security Intelligence Service, 
+told a Senate committee on Monday.
+
+Another irritant is the Canadian parliament's decision last November to give 
+honorary citizenship to the Dalai Lama, Tibet’s spiritual leader who has been 
+in exile since China’s invasion, which resulted in President Hu Jintao 
+cancelling talks with Canadian Prime Minister Stephen Harper at the Pacific 
+Economic Co-operation summit in Hanoi.
+
+In response to the snub, Mr Harper said that whilst Canada wants to promote 
+trade relations, “I don't think Canadians want us to sell our important 
+Canadian values.”
+
+Last week, Ottawa also asked to take part in World Trade Organisation 
+consultations on the application of intellectual property rights in China after 
+the US lodged complaints.
+
+For its part, China has complained that Canada has failed so far to extradite 
+Lai Changxing, a Chinese businessman it described as its most wanted fugitive 
+who fled to Canada with his wife in 1999 after he was accused of corruption and 
+smuggling goods worth billions of dollars.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

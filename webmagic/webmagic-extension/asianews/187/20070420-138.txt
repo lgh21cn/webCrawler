@@ -1,0 +1,79 @@
+<ID>20070420-138
+<DATE>20070420<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=9053
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Tensions-with-Canada-over-sentenced-Canadian-Uighur-9053.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Tensions with Canada over sentenced Canadian Uighur
+<\TITLE>
+<ABSTRACT>
+Huseyin Celil fled China years ago arriving in Canada where he became a naturalised Canadian citizen. Beijing which refuses to recognise his new citizenship sentenced him to life in prison on terrorism and separatism charges. Canada’s foreign minister warns the decision will harm relations between the two countries.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – A court in Urumqi (Xinjiang) sentenced Uighur 
+Canadian HuseyinCelil to life in prison on charges of trying to “split China” 
+and “organising, leading and participating in terrorist groups” in order to 
+establish an independent East Turkistan. Canada slammed the decision, saying 
+that the trial process was unfair and might harm relations between the two 
+countries
+
+Huseyin Celil (or Husein Dzhelil) fled China in the 1990s, receiving refugee 
+status in Turkey from the United Nations High Commission for Refugees.
+
+He moved to Canada in 2001 and in November 2005 became a naturalised Canadian. 
+But during a March 2006 visit to his wife's relatives in Uzbekistan, he was 
+arrested and extradited to China.
+
+His extradition has been a point of contention between Canada and China, which 
+does not recognise Celil's Canadian citizenship and says his case is not 
+subject to consular agreements.
+
+According to court documents, Celil is an important member of the East 
+Turkistan Liberation Organisation (ETLO). In Kyrgyzstan Celil allegedly 
+recruited people to join the ranks of the organisation and sent them to 
+terrorist training camps on Pakistani side of the Pamir plateau. In 1997 he is 
+said to have provided 80,000 yuan (US$ 10,256) to fund a new terrorist group.
+
+A spokesperson for the Canadian Embassy in Beijing complained that Canadian 
+officials were not allowed to visit Celil, provide him with legal council or 
+attend his trial. He further noted that the Canadian government would examine 
+the decision and determine what to do next.
+
+Canadian Foreign Affairs Minister Peter MacKay said he was deeply disappointed 
+at the sentence. He also said that his country was “gravely concerned about 
+allegations that Mr Celil has been mistreated while in Chinese custody and 
+possibly subjected to torture,” adding that the case had harmed relations 
+between the two countries. Mr Mackay is scheduled to travel to China in ten 
+days time.
+
+Chinese foreign ministry spokesman Liu Jianchao responded saying that the 
+“case of Huseyincan Celil is an internal affair, and Canada has no right to 
+interfere.”
+
+Oil-rich Xinjiang is home to eight million Uighurs. Mostly Muslim, Uighurs are 
+ethnically different from the ruling Han Chinese population.
+
+For decades Beijing has pursued a policy of resettling ethnic Han Chinese in 
+the region. At present Han Chinese dominate Xinjiang’s administration and 
+control its commercial sector.
+
+China has jailed and sentenced to death many Uighurs on terrorism and 
+separatism charges.
+
+Three days ago, the son of prominent US-based Uighur activist Rebiya Kadeer 
+was sentenced to nine years in prison on separatism charges.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

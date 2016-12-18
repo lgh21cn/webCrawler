@@ -1,0 +1,63 @@
+<ID>20091021-147
+<DATE>20091021<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16645
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-thousands-of-Uyghurs-have-disappeared-into-thin-air:-Maybe-dead”-16645.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, thousands of Uyghurs have disappeared into thin air: "Maybe dead”
+<\TITLE>
+<ABSTRACT>
+The charge was made today by Human Rights Watch. During the protests that broke out in Xinjiang, "the police used torture and intimidation." The dissident Rebiya Kadeer adds: "Of the twelve condemned to death, nine have already been killed." 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Of the twelve Uyghurs condemned to death in 
+recent days "nine have already been killed. According to the information in our 
+possession more than ten thousand people of Uyghur nationality were arrested 
+and locked up in jail between July 5 and the first of October. Many are gone, 
+and we think that they have been killed". The is the charge made this morning 
+by Rebiya Kadeer, the leader of the ethic group from the northern province of 
+Xinjiang, during a visit to Japan.
+
+According to the dissident, the World Congress of Uyghurs - the organization 
+she heads - "wants to talk to the Chinese government. Beijing must agree to our 
+autonomy, because their mode of action is destroying our nation, our education, 
+our religion and our freedom of expression”. This refers to the massive 
+immigration of Chinese Han (the majority in China) to the province of Xinjiang. 
+According to the locals – Muslims of Turkish extraction - the arrival of these 
+"guests" aims to destroy the local identity.
+
+Protected by the central government, the Han are in fact in a dominant 
+position in almost all fields: economic, academic and managerial. Uyghurs - who 
+identify their country with East Turkistan - have repeatedly called for a kind 
+of autonomy (at least cultural) from China. It was precisely this request that 
+formed the basis of the bloody protests that began on 5 July, which according 
+to official sources in Beijing, claimed the lives of 192 people, mostly Han.
+
+But according to a report released today by Human Rights Watch (HRW), and 
+confirmed by the Kadeer’s statements, "thousands of protesters disappeared 
+without trace soon after the protests". The non-governmental organization based 
+in New York, says it has "first hand evidence of that concern more than 40 
+individual cases of killings disguised as disappearances. But these are only 
+the tip of the iceberg ". The data is conflicting, but credible sources speak 
+of at least a thousand cases of killings.
+
+ The HRW report also speaks of "how the Chinese police tried to stop the 
+protests last July.The roads were armoured by officers in riot gear, who took 
+part in the violence, even detaining suspects for interrogation using torture. 
+In some cases, the police set fire to homes and offices, taking away people 
+without charges or explanation. "
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

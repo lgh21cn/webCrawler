@@ -1,0 +1,51 @@
+<ID>20160607-34
+<DATE>20160607<\DATE>
+<URL>
+http://www.asianews.it/news-en/Ramadan-in-China,-ritual-fasting-banned-in-Xinjiang-37700.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ramadan in China, ritual fasting banned in Xinjiang
+<\TITLE>
+<ABSTRACT>
+ 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - The Chinese government has restricted the practice of 
+ritual fasting of Ramadan for Uighur Muslims in Xinjiang. Public officials, 
+members of the local Communist Party members, students and children of the 
+north-western province "should not fast and should not take part in the 
+religious activities". The decision was published on various government 
+websites of the area, one of the most turbulent in the country.
+
+There are about nine million Turkic-speaking ethnic Muslim Uighur in Xinjiang, 
+who resent the Communist domination and invasion of Han Chinese sent by the 
+government to try to make them a minority. Although always rejecting 
+accusations of religious interference, Beijing has imposed many restrictions on 
+religious practice in the area under the guise of the fight against Islamic 
+terrorism.
+
+Ahmatjian Tohti, an official of the municipality of Tiekeqi, made it clear in 
+a public meeting that members of local government "should forcibly students, 
+members of administrations and minors who want to enter the mosque" during the 
+holy month. Thisbegan yesterday across the Muslim world 
+
+, it is one of the "five pillars" of Islam and involves in various capacities 
+around 1.6 billion people around the world.
+
+The local executive is also targeting restaurants and grocery stores in areas 
+with a Muslim majority which usually close during the fasting hours. On the 
+website of the government of the autonomous county of Qapqal has stated that 
+these "must however remain open, so that the great majority of the population 
+can have normal access to places of refreshment."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

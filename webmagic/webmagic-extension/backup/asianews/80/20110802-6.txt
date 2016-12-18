@@ -1,0 +1,59 @@
+<ID>20110802-6
+<DATE>20110802<\DATE>
+<URL>
+http://www.asianews.it/news-en/Rebiya-Kadeer:-Saddened-by-violence-in-Xinjiang.-But-the-fault-lies-with-Beijing---22266.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Rebiya Kadeer: "Saddened by violence in Xinjiang. But the fault lies with Beijing " 
+<\TITLE>
+<ABSTRACT>
+The leader of the ethnic Uyghur comments on the recent incidents of violence that occurred in the northern province to AsiaNews, "China censors the independent media, we do not know what's going on. And if it is terrorism, then it is to be condemned. But the Chinese government has imposed a crackdown on my people driving them to despair: it is its own fault. " 
+<\ABSTRACT>
+<CONTENT>
+ 
+ 
+
+ Beijing (AsiaNews) - "I do not advocate violence. I am very saddened by the 
+death of Han Chinese and the Uyghurs involved in recent clashes. But at the 
+same time I can not blame those who carried out the attacks, who were compelled 
+to do so, made desperate by Chinese policies”, says Uyghur ethnic leader Rebiya 
+Kadeer in an exclusive interview with AsiaNews commenting on the recent riots 
+and violence that rocked the northern province of Xinjiang.
+
+ The latest episode occurred last night, when the Chinese police shot two 
+Uyghurs in cold blood suspected of being involved in the July 31 attack that 
+caused the death of six people in a bar in Kashgar. The two - Memtieli 
+Tiliwaldi (29 years) and Turson Hasan (34) - were killed in a cornfield and 
+left there. Kashgar's government had put a bounty of 100 thousand yuan (about 
+10 thousand euros) for their capture.
+
+ Before this last episode violent attacks had increased in the city of Hotan 
+and in the provincial capital, Urumqi. The ethnic Uyghur – Turkish speaking of 
+Islamic religion - since 1949 has been under the heel of the Chinese government 
+which in turn has imposed a series of extreme religious and cultural 
+restrictions. The province claims its independence and instead calls for the 
+restoration of Eastern Turkestan, the legitimate government before the Maoist 
+invasion.
+
+ Kadeer, who heads the World Uyghur Congress, says: "Without independent 
+sources of information, we do not know if these things are true. We do not know 
+for certain who carried out the attacks and what kind they are. If it was 
+terrorism the it should be condemned, but Beijing has imposed a smoke screen on 
+Xinjiang that makes it impossible to see anything clearly. "
+
+ In any case, she adds, "I condemn the Chinese government for what is 
+happening. Beijing has deliberately created an atmosphere of despair, 
+convincing the Uyghurs that there is no future for them in their own land. It 
+is Beijing that it must take responsibility for what is happening, because it 
+is its mad discrimination that triggers violence. "
+
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

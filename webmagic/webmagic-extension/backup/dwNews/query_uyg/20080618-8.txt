@@ -1,0 +1,22 @@
+<ID>20080618-8
+<DATE>20080618<\DATE>
+<URL>
+http://www.dw.com/en/uyghurs-and-the-olympics-the-torch-reaches-chinas-far-west/a-5213823
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghurs and the Olympics – the Torch Reaches China’s Far West
+<\TITLE>
+<ABSTRACT>
+The oasis town of Kashgar on the ancient Silk Road is not exactly what comes to mind first when you think of China. The people living there are mostly Uyghurs, speaking a Turkic language and following Islam. But Kashgar is a part of China, and on its second stop in the Northwestern Xinjiang region, the Olympic torch was paraded through its streets on Wednesday.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

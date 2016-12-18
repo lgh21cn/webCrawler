@@ -1,0 +1,60 @@
+<ID>20130626-53
+<DATE>20130626<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=28302
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-police-open-fire-on-crowd:-27-victims-28302.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, police open fire on crowd: 27 victims
+<\TITLE>
+<ABSTRACT>
+In the remote western province, hotbed of ethnic clashes between Han and Uyghurs, tension continues unabated. A group of people assault police station and officers, who open fire at point blank range to repel them.
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Urumqi (AsiaNews / Agencies) - Overnight clashes between Uyghurs and Han 
+Chinese in the western province of Xinjiang have resulted in 27 victims, almost 
+all protesters killed by police who opened fire on them. The violence took 
+place in the desert area near Turpan, about 280 km from the provincial capital 
+Urumqi. According to the official news agency Xinhua, the officers opened fire 
+on "a mob of rioters."
+
+Before the police opened fire 17 people had already died (9 police officers 
+and 8 civilians). The crowd had stormed a police station and a government 
+building. A  local official speaking anonymously, said officers "opened fire on 
+the crowd" to protect the buildings killing 10 civilians. Several dozen were 
+injured on both sides, who have since been admitted to the local hospital.
+
+The spark that ignited the clashes is unclear. The province has long been the 
+epicenter of violence and tensions between the ethnic Uyghur - once the 
+majority in the area - and Han. The central government in Beijing has 
+encouraged the emigration of Han to the province in an attempt to "balance out" 
+the social reality of Xinjiang, but the ongoing fighting is proof that the 
+experiment has failed.
+
+The Uyghurs are Turkic-speaking Muslims: for several decades they have had an 
+adversarial relationship with the Chinese central government. After a few 
+(unsuccessful) attempts to gain independence as "East Turkestan", the ethnic 
+leaders have asked Beijing to be allowed to safeguard their local language, 
+culture and religion. The Chinese government - while giving tax breaks and 
+social benefits - decided instead to use a heavy hand and launched a campaign 
+of repression and control in the whole area. The heavy hand of the regime is 
+felt even on the Islamic religious community, suspected of propagating a 
+terrorist and fundamentalist vision of Islam. Islamic publications are 
+censored,  the sermons of imams controlled and young people under the age of 18 
+are banned from attending the mosque.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

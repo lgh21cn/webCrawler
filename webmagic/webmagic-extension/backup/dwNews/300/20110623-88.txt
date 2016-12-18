@@ -1,0 +1,93 @@
+<ID>20110623-88
+<DATE>20110623<\DATE>
+<URL>
+http://www.dw.com/en/chinas-success-and-failure-in-stopping-desertification/a-6555524
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China’s success and failure in stopping desertification
+<\TITLE>
+<ABSTRACT>
+Approximately 2.6 million square meters of land in China consist of only sand or rock desert. That is an area about seven times the size of Germany. Efforts to stop the sand from spreading are tedious and slow.
+<\ABSTRACT>
+<CONTENT>
+
+Sand dunes reach as far as the eyes can see in Shapotou in the northwestern 
+province of Ningxia. At the edge of the desert, people are fixing square-shaped 
+straw mats to the ground to stabilize it. Each square measures around one by 
+one meter. The straw mats cover the edge of the desert like giant fishing nets.
+
+Tree planting has become a key government effort to fight desertification
+
+Yong Xu Cheng of the local government administration says the method seems to 
+be working. But he adds that they can only do so much. He says it is "very 
+difficult to stop the sand from spreading. We can only work at the edge of the 
+desert, around the railway and streets and around the peripheries of villages 
+and cities." But the efforts are crucial, he believes: "We don’t have a choice. 
+We have to keep the sand at bay to ensure our survival."
+
+Desert plantations and vineyards
+
+The square mats stabilize the sand so that grass can be planted. That will 
+prepare the ground for larger plants to be planted later on. Using this method, 
+people in and around Shapotou have been able to cultivate fruit plantations and 
+grapevines. But in other parts of the Province Ningxia, people have already 
+lost the battle against the desert.
+
+Inner Mongolia, Xinjiang, Gansu, Qinghai, Ningxia, Shaanxi, Heilongjiang and 
+Hebei are fighting severe desertification
+
+In the province there are new settlements. Ma Dengpeng lives in one, though, 
+as he explains, he had not originally wanted to move away from his previous 
+home. "When the sand came it looked like black wind. It couldn’t be stopped. We 
+had to stay in our house – we couldn’t leave the house." Ma says he and his 
+family had to flee and that the government offered to relocate them.
+
+Overgrazing
+
+Ningxia was not always as arid as it is now. Large parts of northern China 
+used to be vast areas of grassland. Part of the reason these grasslands are 
+gone is due to climate change but also because too much water was wasted over a 
+long period of time.
+
+Over-grazing, logging, farms and population pressure, and droughts have turned 
+fertile grasslands into sandy plains
+
+
+
+The American agrarian-economist Lester Brown also believes that agriculture 
+played a role. Brown explains the economic reforms of the late 1970s, "when 
+agriculture shifted away from production teams into families," and the 
+government lost control of livestock. He says that led to "a classic sort of 
+tragedy of the commons where each family want[ed] to keep expanding the number 
+of sheep and goats but with no one looking at the entire effect of this and 
+what happens is once the vegetation is removed entirely from overgrazing, once 
+the land is bare, then the wind takes over."
+
+The blink of an eye
+
+Desertification is a great threat to human life
+
+Land which was once arable thus becomes steppe and then desert. The government 
+has been fighting this process for years. It has made it illegal for herders to 
+let their sheep graze outside, and it has started the so-called "green wall" - 
+a project to plant millions of trees in northern China. Yong Xu Cheng says it 
+has become a flagship project. He is hopeful and says that one day, mankind 
+will conquer the desert completely.
+
+Though China has had some success in pushing back the desert, it is sure to 
+take a lot of time and hard work to conquer it completely. According to 
+official estimates, China will be able to regain one fifth of its desert land – 
+but it will take around 300 years to do so.
+
+Author: Ruth Kirchner (sb)
+Editor: Manasi Gopalakrishnan
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

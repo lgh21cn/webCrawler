@@ -1,0 +1,71 @@
+<ID>20091003-79
+<DATE>20091003<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16492
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/In-Xinjiang-it-is-a-crime-to-even-talk-of-separatism-16492.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+In Xinjiang it is a crime to even talk of separatism
+<\TITLE>
+<ABSTRACT>
+A law is approved that punishes those who discuss it on the internet. Three months after the protests, Urumqi remains occupied by police and subjected to tight controls. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - The government of Xinjiang last week approved 
+a law that punishes as a crime mere talk of separatism on the internet.
+
+According to the government, the "Information Promotion Bill" aims to prevent 
+the Internet from being used to foment ethnic separatism or disrupt social 
+stability. Now internet cafes are under police surveillance, with officers 
+ready to arrest those who dare to even discusses the ethnic protests that 
+erupted in Urumqi on July 5, in which there were 197 deaths. During the 
+fighting and in the following weeks, the authorities blocked all communication 
+with the area via internet or phone and even blocked access to global sites 
+such asFacebook, Twitter and YouTube. 
+
+ 
+
+Local sources report that many mobile phones used in the region have received 
+polite text messages in recent weeks, probably for having sent messages 
+containing words "forbidden" by the government.
+
+The police also prohibit pictures and videos of the July protests from being 
+taken out of the region arresting those who are caught with them in their 
+possession. Footage of the violence is still circulating on sites like YouTube, 
+posted by Uyghurs in exile.
+
+The engineer Pu Fei commented to RadioFreeAsia that he is pessimistic about 
+"freedom of speech in the country”. “Until now, the law had only banned the use 
+of certain words" and had criticized the use on the internet, but this is the 
+first time that the mere use of certain terms or discussion of certain topics 
+is considered in itself a crime.
+
+ 
+
+Youjin Wang, a Chinese University professor of political science and law, 
+notes that China is deals severely with every "subversive" action but the term 
+is generic and authorities can apply it to literally all forms of protest and 
+dissent.
+
+The danger is that, for security reasons, the authorities will keep Uyghur 
+population in isolation.
+
+After more than two months, the situation remains tense. Over the last months 
+unidentified persons "stabbed” with syringes hundreds of citizens, causing 
+panic. Now the police stop and search anyone who has a purse, especially at 
+night, looking for syringes. Local sources report that these continuous checks, 
+rather than intimidate attackers, exacerbate the population.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

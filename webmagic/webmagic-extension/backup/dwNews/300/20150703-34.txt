@@ -1,0 +1,55 @@
+<ID>20150703-34
+<DATE>20150703<\DATE>
+<URL>
+http://www.dw.com/en/casualties-reported-as-strong-earthquake-hits-chinas-xinjiang/a-18558945
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Casualties reported as strong earthquake hits China's Xinjiang
+<\TITLE>
+<ABSTRACT>
+A strong earthquake has hit China's far western region of Xinjiang, killing and injuring several people, Chinese officials say. The region has a mainly ethnic Uighur population.
+<\ABSTRACT>
+<CONTENT>
+
+ The epicenter of the shallow 6.4-magnitude earthquake was in Pishan county, 
+about 160 km (100 miles) northwest of the southern city of Hotan, the US 
+Geological Survey said.
+
+ "Currently, the earthquake has resulted in three deaths, including a father 
+and son, and more than 20 injuries," China National Emergency Broadcasting 
+(CNEB) said on its website.
+
+ According to the China Earthquake Administration, the deaths occurred in 
+Pishan, which has a population of 258,000, mostly Muslim Uighurs, an ethnic 
+minority within China.
+
+ The USGS said the earthquake was just 20 kilometers deep, and initially gave 
+the magnitude as 6.1. The China Earthquake Network Center put the magnitude at 
+6.5.
+
+ The initial quake was followed by a series of aftershocks, with the strongest 
+measuring 4.8. Several traditional houses were reported to have collapsed.
+
+ China is regularly hit by earthquakes, with the southwestern provinces of 
+Sichuan and Yunnan being particularly prone.
+
+ In May 2008, almost 70,000 people in Sichuan were killed by a 7.9 magnitude 
+quake there, 
+ while 
+600 people werekilled in a 6.1 magnitude quake in Yunnan last August. 
+
+
+ Authorities say they are optimistic that the death toll in Friday's quake 
+would not be high, as the region is relatively sparsely populated.
+
+ tj/kms (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

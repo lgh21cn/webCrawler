@@ -1,0 +1,33 @@
+<ID>20091229-63
+<DATE>20091229<\DATE>
+<URL>
+http://www.dw.com/en/ignoring-international-pleas-for-clemency-china-executes-briton/a-5066072
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ignoring international pleas for clemency, China executes Briton
+<\TITLE>
+<ABSTRACT>
+China has executed British national Akmal Shaikh on charges of drug smuggling. This is the first time a European has been executed in China in 50 years.
+<\ABSTRACT>
+<CONTENT>
+Akmal Shaikh, 53, was executed on Tuesday, bringing to a close a legal and diplomatic dispute that has strained relations between China and the United Kingdom.
+British Prime Minister Gordon Brown said in a statement: “I condemn the execution of Akmal Shaikh in the strongest of terms, and I am appalled and disappointed that our persistent requests for clemency have not been granted.”
+Britain, the European Union, and international human rights groups had called for clemency for Shaikh since he was given the death sentence in December 2008.
+“I am particularly concerned,” said Brown, “that no mental health assessment was undertaken.”
+
+Shaikh's family had cited his history of mental illness in their appeals, saying his condition had worsened in recent years. The father of three from London had become estranged from his family - when they had last had regular contact with him, in 2007, he was living on the street in Poland.
+However, China's official Xinhua news agency reported that the court said evidence provided by the British was not enough.
+"The materials provided by the British side were insufficient in proving that Akmal has a mental illness and that Akmal's family has a history of mental illness. Akmal himself also did not provide such materials," said the court's report.
+Shaikh, who is said to have suffered from bipolar disorder, was arrested in September 2007 at Urumqi Airport in Xinjiang province with four kilograms of heroin in his suitcase. His family says he was tricked by drug smugglers, who promised they would help him become a pop star. Relatives say Shaikh was unaware his luggage contained drugs.
+According to Reprieve, the British legal defense foundation that took the lead in publicizing Shaikh's case, the last time a European was executed in China was in 1951. Italian Antonio Riva was put to death for his alleged involvement in a plot to assassinate Mao Zedong. 
+mh/mk/AFP/ReutersEditor: Chuck Penfold
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

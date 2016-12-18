@@ -1,0 +1,77 @@
+<ID>20140512-60
+<DATE>20140512<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=31046
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Flurry-of-arrests-in-Xinjiang:-over-230-people-detained-in-past-6-weeks-31046.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Flurry of arrests in Xinjiang: over 230 people detained in past 6 weeks
+<\TITLE>
+<ABSTRACT>
+Kunming and Urumqi attacks shake Chinese authorities, who respond by stepping up arrests and repression. The accusation is that of "divulging video material or violent, terrorists". Experts divided over responsibility for attacks, which have not yet been claimed. And increasing restrictions on religion will only make things worse.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Police in the remote western province of Xinjiang have 
+arrested more than 230 people in the last 6 weeks on charges of "disclosing 
+violent or terrorist videos". According to theGlobal Times, which is close to 
+the Communist Party, the authorities arrested 232 people for who "have 
+circulated videos promoting terrorism through the internet and on portable 
+devices".
+
+The arrests came close to a series of violent attacks that have rocked the 
+province and other parts of China. The province is one of the most turbulent in 
+all of China. Its Uyghur Muslim minority, who number about nine million, have 
+long sought independence from China. The central government, for its part, has 
+brought in hundreds of thousands of settlers to make Han Chinese the dominant 
+ethnic group. At the same time, it has severely curtailed Muslim religious 
+worship as well as the teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out. Chinese 
+authorities blame Muslim extremists for the wave of violence. Uyghur exiles 
+claim instead that Beijing is "exaggerating" the threat of Islamic terrorism to 
+justify repression against indigenous Uyghurs.
+
+For Beijing, Uyghurs are responsible for the recent spate of violent attacks, 
+including the 1 March 2014attack at the Kunming railway station 
+
+ by knives-wielding men that left 29 people dead and more than 150 wounded, and 
+the 28 October 2013 incident whena SUV plunged into a crowd in Tiananmen Square 
+
+, then burst into flames, killing three people. Finally, May 1, 2014 an attack 
+on the train station in Urumqi - the Capital of Xinjiang - shortly after the 
+departure from the President Xi Jinping caused 3 dead and 79 wounded.
+
+According to the government, these are the work of " armed groups inspired by 
+Al Qaeda", for example the Turkestan Islamic Party and the East Turkestan 
+Islamic Movement. The attacks were inspired and even "orchestrated" from 
+Central Asia, which the province borders. However several anti- terrorism 
+experts reject this scenario, since the extremist leaders have never explicitly 
+claimed attacks in recent months.
+
+What is certain is that ethnic-religious tensions in the area are playing an 
+important role in increasing tensions. According to a recent study published by 
+Brian J. Grim, one time director of the Pew Research Center on religions and 
+now chairman of the Religious Freedom & Business Foundation, Beijing is " wrong 
+" in stepping up repression.  The analyst writes "data show that religious 
+restrictions can increase episodes of violence, instead of reducing them".
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

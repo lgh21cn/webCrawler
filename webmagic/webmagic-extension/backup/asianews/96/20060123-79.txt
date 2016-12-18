@@ -1,0 +1,73 @@
+<ID>20060123-79
+<DATE>20060123<\DATE>
+<URL>
+http://www.asianews.it/news-en/Over-18-thousand-Uygurs-arrested-in-2005:-A-threat-to-security-5187.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Over 18 thousand Uygurs arrested in 2005: "A threat to security"
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agenzie) - In 2005 in Xinjiang China arrestated 18.227 
+Uygurs for "threatening national security". The data was recently confirmed by 
+a local authority newspaper.
+
+For more than a decade the Uygurs have been asking for autonomy for their 
+mainly Islamic region. Beijing treats the activists as terrorists and arrests 
+all those who speak with foreign press accusing them of revealing state secrets.
+
+""Uygurs are scared. They can be arrested even for a slip of the tongue," said 
+Dilxat Raxit, of the World Uygur Congress, a German-based organisation seeking 
+more freedom for the region they call East Turkestan. "We have no rights. But 
+we are also human beings," he said, adding that even more people - all Uygurs - 
+were probably detained by police and not formally charged".
+
+In March 2005 Beijing, under international pressure freed and exiled Uygurs 
+activist Rebiya Kadeer, detained for years under the accusation of "having 
+revealed state secrets", after he sent photocopies of newspaper articles 
+abroad. " If anything, - accuses Raxit - the human rights situation in Xinjiang 
+is getting worse. The world is not putting enough pressure on China because 
+they are scared of affecting economic ties ".
+
+This ethnic group, with their own traditions and language,  makes up more than 
+half of the 19 million inhabitants of the oil rich Xinjiang province, 
+independent until 1955 (in October 2005 the 50th anniversary of its' annexation 
+was marked) which is known as eastern Turkestan.  The government maintains that 
+there are active terrorists in the region citing 260 terrorist acts had been 
+committed in Xinjiang in the past two decades, killing 160 and wounding 440. " 
+In Xinjiang says Communist Party boss Wang Lequan, - the separatists, 
+religious extremists and violent terrorists are all around us - they're very 
+active. We deal with these criminals using the law. In China, endangering 
+national security is the number one crime. We have to crack down on it 
+severely".
+
+Beijing is promoting immigration of the ethnic Han Chinese:  in 1950 Urygurs 
+were 94% of the population , now they are less than half and benefit little 
+from the natural wealth of their land, the profits of which are destined for 
+other regions.
+
+The annual Human Rights Watch report, published recently, accuses China of 
+carrying out systematic abuse against these people and their rights with a 
+steep rise in persecution in Xinjiang. Beijing denies the reports accuracy, 
+describing it as gossip mongering for political ends. Kong Quan, spokes person 
+for the foreign ministry comments that it's not worth even reading.
+
+"If  China considers this report to be worthless  observes Raxit  than it 
+should allow international human rights group to come to Xinjiang and 
+investigate these claims, without limits". (PB)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

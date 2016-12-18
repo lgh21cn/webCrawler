@@ -1,0 +1,38 @@
+<ID>20091125-86
+<DATE>20091125<\DATE>
+<URL>
+http://www.dw.com/en/german-police-raid-homes-of-suspected-chinese-spies/a-4923095
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+German police raid homes of suspected Chinese spies
+<\TITLE>
+<ABSTRACT>
+German police have raided the homes of four Chinese nationals alleged to have spied on Muslim Uighurs living in Munich. Authorities accuse the Chinese consulate of controlling the operation.
+<\ABSTRACT>
+<CONTENT>
+The four men are suspected of spying on the Muslim Uighur community in the southern German city of Munich, one of the largest Uighur communities outside China and the home of the World Uighur Congress.
+Authorities said the apartments of the four men were searched but no arrests were made. They did not provide further details.
+German news magazine Der Spiegel reported that the men took direction from the Chinese consulate in Munich and that information was intended for use by authorities in Beijing.
+The magazine said the Chinese government had a number of informants in Munich who had not only been observed meeting with the four men under investigation but also with Chinese diplomats. However, the diplomats are apparently not under investigation because they have diplomatic immunity. The four suspects do not.
+
+The Munich daily Sueddeutsche Zeitung reported that when violent clashes broke out between Uighurs and Han Chinese in China's north-western Xinjiang province earlier this year, Uighurs in Munich received threats from anonymous callers, saying "we know where your office is."
+Asgar Can, the vice president of the World Uighur Congress, said the callers told workers at the organization that they would suffer the same fate as the Uighurs in China.
+Can said that many of the 500 Uighur immigrants in Munich still have relatives in China, which means they can easily be put under pressure by Chinese authorities.
+Beijing has accused the World Uighur Congress of harboring separatist tendencies and of orchestrating July's riots between Uighurs and Han Chinese from afar. The violence left almost 200 people dead.
+
+The German Foreign Ministry said it was in contact with prosecutors and denied that the incident would cause tensions with China.
+"Our relations with China are good and will not be damaged by this incident," a ministry spokesperson said.
+The police raids are not the first time that German authorities have suspected the Chinese consulate of involvement in spying on Munich's Uighur community.
+Two years ago, a Chinese diplomat left Germany of his own accord after he was alleged to have met with informants on Uighur issues.
+ca/dpa/AP/AFP/Reuters
+Editor: Nancy Isenson
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

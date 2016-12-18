@@ -1,0 +1,108 @@
+<ID>20150630-269
+<DATE>20150630<\DATE>
+<URL>
+http://www.dw.com/en/france-readies-for-key-visit-by-chinas-li/a-18551017
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+France readies for key visit by China's Li
+<\TITLE>
+<ABSTRACT>
+Chinese Premier Li Keqiang is set to begin a three-day visit to France after promising to invest more in the EU. He is also due to outline Chinese carbon emission cuts seen as crucial for Paris' UN climate summit.
+<\ABSTRACT>
+<CONTENT>
+
+ Li's visit was to open Tuesday in Paris at talks with host French President 
+Francois Hollande and Prime Minister Manuel Valls in the aftermath of Monday's
+China-EU summit. 
+
+
+ In Brussels late Monday, Li told the summit that Beijing was ready to invest 
+some of its "ample foreign exchange reserves" in the EU's new 315 billion-euro 
+($351-billion) infrastructure fund. Greece, he added, should stay in the 
+eurozone.
+
+'Strenuous' efforts on climate
+
+ And, foreshadowing his Paris talks, Li promised that China as the world's 
+biggest emitter of harmful gases would make "strenuous efforts to address 
+climate change."
+
+ France, as host of the climate summit in December, is anxious to avoid a 
+repeat of the failed 2009 UN Copenhagen summit, the last attempt to reach a 
+global climate deal.
+
+ China's so-called Intended Nationally Determined Contribution (INDC), once 
+submitted to UN climate officials, is expected to lift pledges to more than 
+half of theworld's carbon emissions. 
+
+
+ World Bank chief economist Marianne Fay said China's INDC should be seen as a 
+"floor not a ceiling."
+
+ China likes to under-promise and over-deliver, Fay said.
+
+ Sources in Valls's team quoted by the French news agency AFP said a Chinese 
+climate announcement could also push the world's third-largest greenhouse gas 
+emitter India to set a clear target to reduce emissions.
+
+French industry eyeing billiions
+
+ Sources close to Vall's office quoted by Reuters said France hoped to seal 53 
+business deals with China during Li's visit worth tens of billions of euros.
+
+ Sectors to benefit would include aeronautics, France's largely nuclear energy 
+industry and container shipping.
+
+ Sources said Airbus based in Toulouse was in talks to sell at least 50 A330 
+wide-body jets to China, the world's fastest-growing aviation market.
+
+ Diplomatic sources said Li's visit was being given "very high level" protocol 
+treatment.
+
+ It comes six months after Valls travelled to Beijing and called for more 
+French products to be exported to China to "rebalance" trade between the two 
+countries.
+
+ France, which is struggling with weak growth and record high unemployment. It 
+imports more than twice as much from China compared to what it exports to the 
+Asian nation of 1.4 billion residents.
+
+Interconnect better, says Juncker
+
+ Li's host in Brussels on Monday, Jean-Claude Juncker, who heads the EU's 
+executive commission, said two-way trade between the EU and China now surpassed 
+one billion euros each day, with China the bloc's second most important trading 
+partner after the United States.
+
+ China and the EU should, however, improve the ways in which they 
+"interconnect," Juncker said.
+
+ Donald Tusk, the president of the EU's Council of Ministers, said in talks 
+with Li that he had urged China to "restart a meaningful dialogue" with the 
+exiled Tibetan spiritual leader the Dalai Lama.
+
+ Tusk said he had also expressed EU concerns about curbs on freedom of 
+expression and association in China in relation to its minorities, including
+Uighur. 
+
+
+Marseille, Toulouse on itinerary
+
+ On Wednesday, Li will head to the southern French city of Marseille where he 
+will be met by Foreign Minister Laurent Fabius, who has visited China twice 
+since March last year.
+
+ Li concludes his tour in Toulouse, where he and Valls will attend a 
+France-China gathering to be attended by hundreds of Chinese enterprises.
+
+ ipj/kms (AFP, Reuters, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

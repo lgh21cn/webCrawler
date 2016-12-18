@@ -1,0 +1,82 @@
+<ID>20051202-45
+<DATE>20051202<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4784
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Torture-still-widespread-in-China-4784.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Torture still widespread in China
+<\TITLE>
+<ABSTRACT>
+Manfred Nowak, UN Rapporteur on Torture who led the inquiry, accuses Chinese authorities of obstructing his work. Victims and witnesses were threatened in an atmosphere of palpable fear with constant surveillance during the hearings.
+<\ABSTRACT>
+<CONTENT>
+  
+ 
+
+Beijing (AsiaNews/Agencies)  The use of torture is widespread in China and 
+many trials are not fair, top UN Special Rapporteur on Torture Manfred Nowak 
+said on Friday after a 12-day inquiry into the country's judicial and penal 
+system.
+
+Despite a certain decline, "torture remains widespread in the country," he 
+told a news conference.
+
+"There is much that still needs to be done, there is a need for many more 
+structural reforms," he added. "Criminal procedures need to come into line with 
+international standards of fair trial".
+
+Torture methods include use of electric shock batons, cigarette burns, 
+submersion in pits of water or sewage and exposure to conditions of extreme 
+heat or cold.
+
+Nowak's visit also included stops in Tibet and Xinjiang, regions notorious for 
+police violence against residents accused of separatism.
+
+His visit was the first one granted to the UN in a decade. 
+
+He complained that his team was under frequent surveillance, especially when 
+meeting victims and their relatives. And government officials and security 
+authorities tried to obstruct or restrict his fact-finding attempts.
+
+Nowak said he also received reports that victims' family members were 
+prevented from meeting him as they were either put under house arrest, stopped 
+physically from seeing him, or simply intimidated.
+
+There was "a palpable level of fear and self-censorship," he said.
+
+He and his team were not allowed to bring photographic and electronic 
+equipment into the prisons. And all inspections were announced in advance.
+
+China has the largest prison population and is responsible for more than 90 
+per cent of all executions in the world.
+
+In early 2005 the National People's Congress imposed mandatory punishment for 
+police officers who torture prisoners during interrogation.
+
+Still, China's judicial authorities are often charged with extorting 
+confessions from prisoners.
+
+In April, a man who spent 11 years in jail for allegedly murdering his wife 
+was freed after the woman turned up alive. The man, She Xianglin, said he had 
+confessed the crime under torture.
+
+In June a woman showed up after her alleged murderer, Teng Xingshan, was 
+executed despite his pleas of innocence. The man's sentence read that "Teng 
+confessed to the crime of his own initiative".
+
+Although China is a signatory to the 1998 International Convention on Civil 
+and Political Rights, a key treaty on human rights protection, it has not yet 
+ratified it. (PB)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

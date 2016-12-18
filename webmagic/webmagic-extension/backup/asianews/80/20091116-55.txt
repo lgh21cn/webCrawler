@@ -1,0 +1,92 @@
+<ID>20091116-55
+<DATE>20091116<\DATE>
+<URL>
+http://www.asianews.it/news-en/Barack-Obama-talks-about-human-rights,-the-police-arrests-20-dissidents-and-activists-16869.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Barack Obama talks about human rights, the police arrests 20 dissidents and activists
+<\TITLE>
+<ABSTRACT>
+The U.S. president is speaking to a select group of "future leaders" and students on the value of China, cooperation with the U.S., human rights. Meanwhile in Shanghai, Beijing and other parts of the country's dissidents and activists under house arrest or forced "vacation" to "guarantee the success of the Obama visit". 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Shanghai (AsiaNews) - While Barack Obama talks about human rights in Shanghai, 
+the Chinese police has clamped down on at least 20 dissidents and activists 
+from across the country to ensure that they do not meet the U.S. president.
+
+Obama arrived in Shanghai last night at midnight and this morning has begun a 
+series of meetings with a speech at the Science and Technology Museum with a 
+group of "China's future leaders," followed by a conversation and a series of 
+questions and answers with students chosen by the heads of university faculties 
+of the metropolis.
+
+In his speech at the Museum, the U.S. president praised China's efforts in 
+wresting millions out of poverty and suggested a new style of relations between 
+the two superpowers. "The notion that we must be enemies - he said - is not 
+predestined”.
+
+He also mentioned with a certain sensitivity the issue of human rights: "These 
+freedoms of expression and worship, of access to information and political 
+participation - we believe are universal rights. They should be available to 
+all people, including ethnic and religious minorities".
+
+In recent days both at home and abroad Barack Obama has received many calls as 
+well as open letters asking him to clearly highlight the issue of human rights 
+in China.
+
+A month ago, during a visit of the Dalai Lama to the U.S., he declined to meet 
+with the Tibetan leader for fear of arousing the ire of Beijing, breaking a 
+tradition maintained for years by all the former U.S. presidents.
+
+It is not clear the criteria by which participants at the two meetings, at the 
+museum and with students, were selected.
+
+One thing is clear however, that during the past few days dozens of activists 
+and dissidents have been taken from their homes and forced to travel out of 
+town under police escort, or kept under house arrest, monitored day and night 
+to ensure that they will not meet the president of the United States.
+
+Jiang Yingying, of CHRD (Chinese Human Rights Defenders) says: "While the 
+[Chinese] government announced the meeting between President Obama and 'future 
+leaders' and a few selected students, they gagged the real leaders who are 
+crying for justice, human rights and the rule of law".
+
+In Shanghai alone, where Obama began his tour of China, 7 activists are 
+currently detained. Among them, the most famous is Zheng Enchong, who is being 
+strictly controlled by more than 20 policemen. In the past Zheng has defended 
+the victims of expropriations, has spent years in prison and has lived under 
+house arrest for the past three years.
+
+Another thing figure is Jin Yuehua, a victim of forced expropriations and 
+petitions activist, detained in the Haofeng hostel, which functions as a "black 
+prison", that is illegal and unregistered, controlled by 6 guards.
+
+In Beijing, another stop Obama’s itinerary, 5 dissidents have been forced to 
+leave the city so as "not to create trouble" during the visit of U.S. 
+president. Wang Debang, an activist for human rights, was brought to Qingdao by 
+police who ordered him to return to Beijing only after Obama’s visit.
+
+Hu Shigen, another human rights activist, is under strict police control and 
+was warned "not to create problems." Li Hai, a former student of Tiananmen 
+disappeared on 12 November; Liu Di, an activist in custody, is on a forced 
+vacation outside Beijing.
+
+Among the other detainees are: Lianhai Zhao, head of a group of parents whose 
+children have been poisoned by melamine-tainted milk, arrested on 13 November, 
+Qi Zhiyong, a dissident who lost his legs because of tanks in the Tiananmen 
+protest of '89, detained for trying to organize a seminar on human rights, 
+Zhang Hui, director of the research institute "Mr. Democracy" and subject to 
+close scrutiny.The police have explained that these measures are necessary "to 
+ensure the success of the visit by Obama."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

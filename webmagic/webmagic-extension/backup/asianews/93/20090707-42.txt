@@ -1,0 +1,78 @@
+<ID>20090707-42
+<DATE>20090707<\DATE>
+<URL>
+http://www.asianews.it/news-en/More-protests-in-Urumqi-and-other-cities-in-Xinjiang-15709.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+More protests in Urumqi and other cities in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Women and girls seeking the release of their relatives detained in recent days. Demonstrations in Kashgar, Yılı, Dawan and Tianshan. Rebiya Kadeer: The violence reveals deep problems that Beijing has never wanted to deal with. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews / Agencies) - Several hundred people, mostly women and girls, 
+are challenging the cordons of police on the streets of Urumqi: protesting 
+against Chinese repression and demanding the release of their relatives, who 
+were arrested after the revolts of July 5.
+
+This morning Xinhua updated the number of victims and of those arrested: in 
+the clashes with the police, there were 156 deaths and 1434 arrests. The 
+Chinese government continues to discharge the responsibilities of violence 
+against the demonstrators, but the population accuses the police of having 
+fired on defenceless people.
+
+Meanwhile, yesterday the demonstrations spread to other cities in Xinjiang. In 
+Kashgar more than 200 people tried to gather at the Id Kah mosque, but were 
+dispersed by police. The police have made arrests in Yılı, Dawan and Tianshan.
+
+In Urumqi, women and girls seeking the release of their loved ones, have 
+challenged the control of the city and the roads patrolled by tanks and scores 
+of police officers wearing camouflage. Shouting "Give us back our freedom! Give 
+us back our men. " The demonstration was witnessed by a group of foreign 
+journalists who were being brought on a tour organized by the government to 
+show the destruction caused by the demonstrators two days ago.
+
+The police surrounded the group and then dispersed them. But other groups of 
+protesters are gathering in the city centre.
+
+Tens of thousands of policemen and soldiers were hired to maintain control of 
+the situation and to carry out a series of indiscriminate arrests and 
+destruction.
+
+Beijing continues to accuse groups of exiled Uygurs of organizing and 
+fomenting the uprisings. But the same groups deny any influence, and accuse 
+China of doing nothing to prevent the degeneration of the non-violent 
+demonstrations into carnage.
+
+Amnesty International (AI) has asked the Chinese government to investigate the 
+deaths and violence in Urumqi and demand the international community put 
+pressure on Beijing to respect human rights.
+
+"Beyond the immediate violence - AI says – a systematic violation of human 
+rights has been inflicted on the Uighurs” since the 80s.
+
+For decades China has been colonizing Xinjiang, which is rich in oil and gas, 
+importing many Han Chinese, who have now become the majority in the region and 
+hold all political and economic power. To justify its iron fist Beijing accuses 
+the Uygurs of separatists aspirations and terrorist attacks.
+
+Rebiya Kadeer, the exiled Uygurs who China accuses of being behind the riots, 
+speaking in Washington said yesterday that the violence in Xinjiang "reveals 
+deep, serious problems that the Chinese government has not wanted to tackle or 
+mitigate".
+
+ 
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

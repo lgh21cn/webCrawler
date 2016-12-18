@@ -1,0 +1,4 @@
+File path:C:\eclipse\workspace\webmagic\webmagic-extension\.\dwNews\query_WUC\20140730-4.txt
+Similarity File Path:C:\eclipse\workspace\webmagic\webmagic-extension\.\dwNews\query_uig\20140730-32.txt
+File path:C:\eclipse\workspace\webmagic\webmagic-extension\.\dwNews\query_uyg\20090707-18.txt
+Similarity File Path:C:\eclipse\workspace\webmagic\webmagic-extension\.\dwNews\query_Rebiya_Kadeer\20090707-9.txt

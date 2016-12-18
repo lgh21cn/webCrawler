@@ -1,0 +1,31 @@
+<ID>20130626-51
+<DATE>20130626<\DATE>
+<URL>
+http://www.dw.com/en/riots-in-chinas-western-xinjiang-region-leave-dozens-dead/a-16908350
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Riots in China's western Xinjiang region leave dozens dead
+<\TITLE>
+<ABSTRACT>
+More than two dozen people have died in clashes with police in China’s western Xinjiang region. The riots are the deadliest since the 2009 clashes between Muslims and the Han Chinese population there.
+<\ABSTRACT>
+<CONTENT>
+ Clashes between armed gangs and police erupted Wednesday in China's restive far western Xinjiang region, home to a large Muslim Uighur minority, leaving 27 dead, the government news agency Xinhua reported.
+ The reasons for the attacks were not immediately clear.
+ The agency said the unrest erupted at about 6 a.m. in the remote township of Lukqun, about 200 km (120 miles) southeast of the region's capital Urumqi.
+ Knife-wielding gangs reportedly attacked the township's police stations, and a local government building and set fire to several police vehicles, Xinhua reported Communist Party officials as saying.
+ At least nine policemen were killed along with eight civilians before police shot dead 10 of the rioters, Xinhua reported.
+ The Muslim Uighur minority in the region, who speak a Turkic language, claim the Chinese government has put restrictions on their culture, language and religion.
+ However, Beijing says it grants Uighurs wide-ranging freedoms and accuses extremists of separatism.
+ The clashes are the deadliest since July 2009, when almost 200 people were killed in riots between Uighurs and ethnic Chinese in Urumqi.  
+ hc/rg (Reuters, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

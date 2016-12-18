@@ -1,0 +1,34 @@
+<ID>20140917-19
+<DATE>20140917<\DATE>
+<URL>
+http://www.dw.com/en/ilham-tohti-the-moderate-critic/a-17928684
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Ilham Tohti - The moderate critic
+<\TITLE>
+<ABSTRACT>
+Ilham Tohti, a well-known Uighur and a moderate critic of Beijing's policy towards the country's Muslim minority, is on trial in China on charges of "separatism." DW takes a look at the scholar's life.
+<\ABSTRACT>
+<CONTENT>
+ Ilham Tohti is not a typical dissident – the 44-year-old sees himself first and foremost as an economist. Born in 1969 in the small town of Artux (also spelled Atush or Atushi), in the western Chinese province of Xinjiang, Tohti moved to Changchun for higher education and from there to Beijing to advance his career as a renowned economist.
+ For several years, Tohti researched at Beijing's Minzu University, amongst other things, about the Uighurs' social standing in Xinjiang Province. He came to the conclusion that the Muslim minority in the province was not treated the same way as the majority Han Chinese. On the contrary, he learned that there were fewer jobs for Uighurs and they were paid less for the same positions. He also found that the Uighurs were being systematically discriminated by the Chinese authorities.
+ Tohti repeatedly criticized the central government's policy against the minority. Unlike other Uighur critics – such as the exiled leader Rebiyah Kadeer – Tohti is viewed as a moderate critic, always pushing for a better understanding between Uighurs and Han Chinese.
+ "Tohti is seen as mild and moderate," says Chinese writer Wang Lixiong. "He is the only influential Uighur intellectual who believes that Xinjiang is a part of China and that it should be granted autonomy according to democratic principles. This way of thinking sets him apart from most Uighurs living in exile," he says. 
+ In 2006, Tohti founded "Uighur online," a website designed to address Uighur issues. Two years later, Chinese authorities shut down the site and arrested Tohti on charges of promoting Uighur separatism. In July 2009, deadly riots broke out in Xinjiang's capital, Urumqi, claiming the lives of more than 150 people, and the economist was once again put under arrest after being charged with inciting the violence. But mounting international pressure led the Chinese government to release Tohti a few weeks later.
+ "There have always been tensions between the Han Chinese and the Uighurs," Tohti told DW in September 2009. "But they had never led to mutual hatred. I believe that the trust between the Uighur minority and the Han Chinese is now destroyed. I also think that ethnic hatred has been taking shape. If Beijing can't bring the situation under control and continues to behave like a colonial power, we will continue to witness tragedies such as this one," he said.
+ 
+ Following this incident, Tohti was repeatedly placed under house arrest. A few months ago, the scholar was back in jail. After his arrest in Beijing, he was sent to Urumqi - some 1550 miles away - where Chinese prosecutors indicted the 44-year-old with "separatism and inciting hatred." An incomprehensible charge, said his lawyer, Liu Xiaoyuan. "Tohti is against separatism," he told the press. "He has only talked about some of the legal and cultural issues of Xinjiang. He's against splitting the country," he added. 
+ "He's never done anything illegal," his wife, Guzulnur, said during a break in the court proceedings. "He's never talked about separating the country. He's never opposed the government. He's never opposed the people. He's a scholar."
+ The proceedings are set to last only two days, but it remains unclear when the verdict will be pronounced. Tohti is facing a jail term that could last anything between ten years to life, though the death sentence is also possible.
+ Wang Lixiong regards the trial against Tohti as a big mistake. "Tohti wanted to build bridges between the Uighurs and the Han Chinese. But now that he's been arrested, how can anyone say that the regime has a favorable policy towards Uighurs?" the writer said. "Tohti's case will strenghten the radicals' belief that the 'Middle Way' is absolutely impossible. They will also view this as a reason to avoid this path."
+ But Tohti wanted the opposite. He wanted to set an example that the "Middle Way" is indeed possible, Wang said, adding that, "Now the radicals can claim they were right."
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

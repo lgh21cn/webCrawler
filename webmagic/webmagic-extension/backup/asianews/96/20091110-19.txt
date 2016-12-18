@@ -1,0 +1,63 @@
+<ID>20091110-19
+<DATE>20091110<\DATE>
+<URL>
+http://www.asianews.it/news-en/Washington-tells-Beijing-to-ensure-%E2%80%9Cfair-trials%E2%80%9D-for-Uyghurs-16824.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Washington tells Beijing to ensure “fair trials” for Uyghurs
+<\TITLE>
+<ABSTRACT>
+US State Department calls on China to respect its citizens’ human and legal rights after nine members of the Uighur minority are executed. The US might be shifting its stance ahead of the Hu-Obama meeting.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Washington (AsiaNews/Agencies) – The US government has urged China on Monday to 
+ensure fair trials after nine people were executed over ethnic unrest. This has 
+thrown the spotlight on human rights ahead of President Barack Obama's 18 
+November visit to mainland China. Twenty more people have been sentenced to 
+death for the same reasons. 
+Chinese authorities announced yesterday that nine members of the Uighur 
+minority were executed for their action during violent disorders that broke out 
+last July in Xinjiang Province. More than 200 people died during the incident, 
+which was followed by a large number of police arrests.
+
+The death penalties were carried out “with the approval of the Supreme Court," 
+China’s official news agencyXinhua reported. It was not clear when the 
+executions took place.
+
+All nine had been convicted on murder charges and other crimes, Xingua said. 
+Another 20 were formally charged with causing the death of 18 people during the 
+unrest.
+
+“The US government continues to urge China to handle all detentions and 
+judicial processes relating to the Urumqi [Xinjiang’s capital] violence in a 
+transparent manner,” State Department spokesman Ian Kelly told reporters.
+
+“We also urge China to ensure that the legal rights of all Chinese citizens 
+are respected in accordance with international standards of due process.”
+
+This stance represents a shift in policy towards China by the Obama 
+administration. The new president had avoided meeting the Dalai Lama during his 
+trip to the United States. Now with this warning, Washington is indicating that 
+human rights and other ethical issues will be on the table when Obama meets Hu 
+Jintao.
+
+Obama will talk about religious freedom, the plight of Tibet, and other human 
+rights issues with Hu, according to Jeffrey Bader, the US president's senior 
+director for Asian Affairs on the National Security Council.
+
+“The president will raise human rights concerns directly with President Hu in 
+his meetings,” Bader said. “The kind of issues that are on our minds are issues 
+of freedom of expression, access to information, freedom of religion, rule of 
+law.”
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

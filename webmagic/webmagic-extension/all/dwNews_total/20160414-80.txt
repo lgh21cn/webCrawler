@@ -1,0 +1,36 @@
+<ID>20160414-80
+<DATE>20160414<\DATE>
+<URL>
+http://www.dw.com/en/china-disbars-prominent-rights-attorney/a-19185634
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China disbars prominent rights attorney
+<\TITLE>
+<ABSTRACT>
+Beijing authorities have revoked the law license of Pu Zhiquiang, one of China's most visible civil rights lawyers. The longtime attorney has represented labor camp inmates and dissidents including artist Ai Weiwei.
+<\ABSTRACT>
+<CONTENT>
+ Chinese legal authorities moved Thursday to disbar a well-known human and civil rights lawyer who was  for writing internet posts authorities say incited ethnic hatred.
+ Pu Zhiqiang took to social media saying his law license was withdrawn due to a December conviction over online comments that criticized the country's ruling Communist Party.
+ "I was a lawyer for 19 years, and from today I am one no longer," Pu wrote in a post on China's WeChat messaging service. "I believe in the future, and I believe that in the future there will be change."
+ The disbarment is seen as part of  whose administration has had more than 200 lawyers and legal activists detained or called in for questioning since last summer.
+ 
+ The lawyer spent more than 18 months in pre-trial detention over comments he made criticizing China's leadership.
+ "Other than secrecy, cheating, passing the buck, delay, the hammer and sickle, what kinds of secrets of governance does this party have?" read one of the seven blog posts over which he was indicted. Another blog post condemned government policy in the Muslim-majority region of Xinjiang as "absurd."
+ Pu has represented prominent Chinese dissidents, including conceptual artist Ai Weiwei and activists of the "New Citizens' Movement" who call for transparency regarding the wealth held by public officials in the country.
+ 
+ Pu's colleagues say the three-year suspended sentence is designed to have a chilling effect on other rights attorneys who would dare criticize the Communist Party.
+ "Unless one day his conviction is overturned, then he'll never be allowed to practice law again. It's really the end of his career," fellow rights attorney Shang Baojun told the Reuters news agency.
+ The court has ruled that Pu will be subject to close police monitoring and will need permission to leave the capital. If he breaks any conditions of his release, he will be imprisoned.
+ Pu's conviction and sentence last year was roundly condemned by rights groups, as well as by the European Union and the United States.
+ jar/kl (Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

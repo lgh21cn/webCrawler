@@ -1,0 +1,55 @@
+<ID>20150902-135
+<DATE>20150902<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=35202
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Second-Bangkok-bombing-suspect-arrested,-an-ethnic-Uyghur-35202.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Second Bangkok bombing suspect arrested, an ethnic Uyghur
+<\TITLE>
+<ABSTRACT>
+The man, 25 and from Xinjiang, was stopped at a checkpoint on the eastern border. Three suspects are still on the loose. The Thai police punishes 22 officials for negligence.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Bangkok (AsiaNews / Agencies) - Thai police have arrested a second suspect in 
+thebomb attack 
+
+ two weeks ago in central Bangkok. It is the second arrest after that of August 
+29.
+
+According to Thai authorities, the man would have a key role in the terrorist 
+act, even if they have not revealed whether he placed the bomb that killed 20 
+people and injured more than 100. Three other suspects, including a woman 
+Muslim, are still at large.
+
+Prime Minister Prayut Chan o-cha said the arrested man "is not an ethnic Thai 
+and was stopped at the checkpoint in Sa Kaeo", on the eastern border of the 
+country. Probably added the former general, "he was trying to escape."
+
+Local media reported that the man is a 25 year-old Chinese national, from 
+Uyghur Autonomous Region Xinjiang. This has once again led to suspicions that 
+the attack is Muslims revenge against the government in Bangkok. At the 
+beginning of July, nearly 100 Uyghurs were repatriated to China by force by the 
+Thai authorities. The man stopped had a passport with the name Yusufu Mieraili.
+
+ Just one day after a number of police pocketed the ransom 
+
+ for progress made in the investigation, Thai police officers transferred 22 
+agents from checkpoints on the borders accused of negligence. Six of the 
+transferred worked in Sa Kaeo. "It was my decision - said Somyot Pumpanmuang 
+police chief - because foreigners have been able to illegally enter, without 
+strict controls".
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,52 @@
+<ID>20081119-88
+<DATE>20081119<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=13792
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Uyghur-woman-forced-into-hospital-for-an-abortion-goes-home-13792.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uyghur woman forced into hospital for an abortion goes home
+<\TITLE>
+<ABSTRACT>
+On the basis of China’s one-child policy she was not entitled to another child. Now authorities say given her health conditions she cannot have an abortion more six months into her pregnancy. Others suggest that their change of heart is closely related to an international protest campaign.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies) – Arzigul Tursun, a young Uyghur woman, is back 
+home in Bulaq (Gulja) still pregnant after Chinese authorities had forced into 
+a hospital for an abortion. 
+“I am all right and I am at home now,” was the first thing she told Radio Free 
+Asia’s Uyghur service. 
+
+“I brought her home,” the local population-control committee chief Rashide 
+said. “She wasn’t in good enough health to have an abortion.”
+
+The authorities’ change of heart came after her case was picked up by overseas 
+Uyghur groups as well as two members of the US Congress who made personal 
+appeals to the Chinese ambassador in Washington.
+
+Earlier in the affair Chinese authorities were not so “reasonable”. First they 
+took her against her will and brought her to a hospital for an abortion despite 
+the fact that she was already 26 weeks into her pregnancy. After she fled, 
+police mounted a hunt for her, sending tens of police officers after her, 
+confiscating her family’s cellphones to prevent them from going public with the 
+story.
+
+China's one-child policy applies mainly to majority Han Chinese and allows 
+ethnic minorities, including Uyghurs, to have additional children, with 
+peasants permitted to have three children and city-dwellers two. But whilst 
+Tursun, who already has two children, is a peasant, her husband is from a city, 
+so their status is unclear.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

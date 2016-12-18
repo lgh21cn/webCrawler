@@ -1,0 +1,44 @@
+<ID>20120405-169
+<DATE>20120405<\DATE>
+<URL>
+http://www.dw.com/en/turkeys-erdogan-makes-landmark-visit-to-china/a-15860642
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Turkey's Erdogan makes landmark visit to China
+<\TITLE>
+<ABSTRACT>
+Turkey seeks to develop ties with China. On the first visit of a Turkish prime minister in 27 years, Recep Tayyip Erdogan will also try to convince Chinese leaders to pressure Syria to put an end to violence.
+<\ABSTRACT>
+<CONTENT>
+ Turkey's Prime Minister Recep Tayyip Erdogan starts out on a landmark visit to China on Sunday.
+ His first stop is expected to be Xinjiang province in western China, which is dominated by the Uighur people. China's crackdown on this predominantly Muslim minority during the riots in 2009 damaged bilateral relations between China and Turkey. Three years after the crisis, Erdogan's visit is seen as a sign of stronger dialogue and growing confidence between the two countries.
+ “Turkey and China have recently adopted a new policy. They are making efforts to prevent the issue of Uighurs becoming a source of tension in their bilateral relations,” Selcuk Colakoglu, of the International Strategic Research Organization (USAK), told DW.
+ China is trying to convince public opinion in Turkey of its policies, by opening up the region more and more to Turkey. Meanwhile, Ankara is using direct communication channels with Chinese authorities, without disclosing its concern to the public, Colakoglu added.
+ “If there is no major outbreak of unrest in the region, like the one in 2009, closer relations between Turkey and China are likely to contribute to an improvement of the political and economic situation of the Uighur minority," he said.
+ Turkeyhas long-standing ties to the Uighur minority in China. In 2009, Erdogan compared the actions of the Chinese government to a “genocide.” Relations have improved since Turkish Foreign Minister Ahmet Davutoglu visited China in 2010. Turkey is emphasizing its support and respect for China's sovereignty and territorial integrity, but also raising the difficult issue of human rights in the Xinjiang province.
+ 
+ Erdogan's visit will be the first official visit of a Turkish prime minister to China in 27 years. Erdogan visited China in 2003 as the chairman of the ruling Justice and Development Party (AKP).
+ “This visit comes shortly after the visit of Vice President Xi Jinping to Turkey in February. It reflects the political will of both countries to expand relations to the highest level,” Turkish Foreign Ministry spokesman Selcuk Unal told DW.
+ The two countries established strategic relations in 2010. Since then, they have held close dialogue on bilateral and international issues. However, Turkey and China are yet to settle their differences on issues like the situation in Syria.
+ Turkey has recently adopted a more assertive and pro-active policy on Syria. Ankara has put all its support behind the Syrian opposition and called upon Syrian President Bashar al-Assad to stop the violence and to step down and make way for a political transition to democracy. Turkish officials openly criticized China and Russia for their veto of a UN resolution aimed at stopping the violence in Syria.
+ 
+ Turkish diplomats say the situation in Syria and regional and global issues will be among the topics in Erdogan's meetings with key Chinese officials. Erdogan is set to meet Chinese President Hu Jintao, Vice President Xi Jinping and Chairman of the Standing Committee of the National People's Congress Wu Bangguo.
+ Colakoglu says Turkey and China have different views on recent developments in the Middle East and Africa, but these differences are not unsolvable.
+ “Before the Arab uprisings, Turkey and China had followed similar lines. They supported peaceful and diplomatic efforts to solve the region's problems,” Colakoglu said. “But after the Arab Spring, a clear distinction has emerged. Turkey supported the demands of the people against their authoritarian regimes. China, on the other hand, has stood against foreign interventions based on principles, also stressing that these interventions bring no solution.”
+ 
+ Erdogan is expected to be accompanied by a large delegation of ministers, deputies and businessmen on his visit in China. The two countries are to sign several agreements to further develop political and economic cooperation.
+ China is Turkey's third largest trading partner after Russia and Germany. Trade between Turkey and China totaled about 18 billion euros ($24 billion) in 2011.
+ “During the visit of Chinese Prime Minister Wen Jiabao to Turkey in 2010 we set two targets for our bilateral trade," Unal said. “Our target now is to increase our trade to $50 billion in 2015 and 100 billion dollars in 2020.”
+ Despite these close economic ties, Turkey's growing trade deficit with China is a major problem. Ankara wants Chinese officials to ease import, trade and investment conditions for Turkish businesses. Ankara is also seeking Chinese support for a dramatic increase in Chinese tourism in Turkey.
+ In the year 2011, the number of Chinese tourists visiting Turkey passed 100,000 for the first time, an increase of 66 percent compared to 2009. As 2013 will be the Year of Turkish Culture in China, Turkish tourism operators hope to bring even more Chinese visitors to their country. 
+ Author: Ayhan Simsek, Istanbul Editor: Sean Sinico / Matthias von Hein / sgb
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

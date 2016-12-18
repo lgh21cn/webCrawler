@@ -1,0 +1,53 @@
+<ID>20080804-83
+<DATE>20080804<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=12918
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-sixteen-dead-in-a-terrorist-attack-by-Muslim-separatists-12918.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, sixteen dead in a terrorist attack by Muslim separatists
+<\TITLE>
+<ABSTRACT>
+This morning two grenades hit a check point on the North West frontier, a majority Muslim area theatre of violence in the past weeks. The news was reported by the state agency Xinhua, but AFP sources fail to confirm the episode.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) – The death toll from a morning attack on a border crossing 
+in Muslim majority Xinjiang, North West China, is 16 dead and a further 16 
+wounded.
+
+According to the state news agency Xinhua (New China), at 8 am local time two 
+attackers drove their truck into Kashgar border crossing, exploding two 
+grenades. Xinhua sources report that the attackers were arrested and have 
+confirmed that this mornings attack was of a terrorist nature. Initially the 
+official agency reported two trucks involved in the episode, later confirming 
+that one truck was used, but no further details have since been provided 
+regarding the motives for the attack.
+
+French press agency AFP reports that a police spokesperson in Urumqi – the 
+capital of Xinjiang autonomous region – has stated that they are “unaware of an 
+explosion having taken place in the zone”, refusing to confirmXinhua reports.
+
+The presumed episode took place just four days ahead of the official opening 
+ceremonies for the Beijing Olympic Games, ahead of which the Chinese government 
+has repeatedly warned of possible attacks: a move that has allowed authorities 
+to crack down even further on security across the country. According to colonel 
+Tian Yixiang, chief of security for the Games, the greatest threat is presented 
+by the Muslim separatists headed by a terrorist organisation fromEast Turkestan
+. China has called in reinforcements to ensure security throughout the 
+Olympics: joining the police who patrol the territory on a daily basis are 34 
+thousand soldiers, 121 planes and helicopters and 33 naval vessels along the 
+coast.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

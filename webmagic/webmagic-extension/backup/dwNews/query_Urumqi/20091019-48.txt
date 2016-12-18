@@ -1,0 +1,46 @@
+<ID>20091019-48
+<DATE>20091019<\DATE>
+<URL>
+http://www.dw.com/en/exiled-uighur-leader-criticises-china-at-frankfurt-book-fair/a-5213543
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Exiled Uighur Leader Criticises China at Frankfurt Book Fair
+<\TITLE>
+<ABSTRACT>
+Rebiya Kadeer, the exiled Uighur leader, attended the Frankfurt Book Fair on Sunday and criticised the fact that China had been this year’s guest of honour. She said that a country with such a poor human rights record did not deserve such a tribute. China accuses Kadeer of orchestrating riots in Xinjiang province that resulted in some 200 deaths earlier this year. Kadeer rejects the allegations.
+<\ABSTRACT>
+<CONTENT>
+Rebiya Kadeer has been fighting for the rights of the Uighurs for almost 20 years. China accuses her of conducting separatist activities, for which she even spent six years in jail until 2005. She now lives in exile in the United States.
+The Chinese government holds her responsible for the deadly violence that erupted in the capital of Xinjiang Urumqi this summer.
+The killing of two Uighurs at a factory in the southern province of Guangdong led to people pouring out onto the streets of Urumqi but Kadeer insists that the protests were peaceful.
+“Students and schoolchildren took part in the demonstrations,” she said. “They were carrying Chinese flags. They wanted to say ‘We are citizens of this state and we want to demonstrate peacefully but the incidents in Guangdong have to be investigated.’”
+
+The protests turned deadly when fights broke out between the Uighurs and Han Chinese. Over 200 people were killed and over 1,600 people were injured. Hundreds of people were arrested in the aftermath. 
+Michael Dillon, who teaches modern Chinese history at the University of Durham and has written a book about Xinjiang estimates that a total of 40 people have gone on trial. 
+“Of those, 12 have been sentenced to death,” he said. “The charges include murder, robbery and arson. The Chinese authorities have said that they want to clamp down very heavily on this.” 
+However, he added that because the trials had not been open to foreign journalists and international observers, nobody really could confirm what had been going on exactly.
+The Xinjiang authorities have said that the families of the defendants and the victims were allowed to attend the trials.
+
+Uighurs have complained that the trials are not fair and that they have not been allowed to be represented by the lawyers of their choice.
+This has been confirmed by Human Rights Watch which has said in a report that lawyers were effectively warned to be careful when accepting such cases. The watchdog also claims that the authorities exercised their influence on the judges and prosecutors. 
+Rebiya Kadeer thinks that those who have been sentenced to death are not guilty and were forced to confess.
+
+She argues that the authorities are acting illegally in Xinjiang. “After we were occupied by China, we were given autonomy,” she explains. 
+“And according to the autonomy law, we can govern ourselves and maintain our traditions and identity. But now cultural genocide is taking place against us and anybody who is against that is labelled a terrorist and a separatist.”
+Kadeer insists that she favours only peaceful means as part of her fight for Uighur interests. She says that her several attempts to enter into dialogue with the Chinese government have not been successful.
+
+In her view, an independent UN commission should be allowed to go to Xinjiang to form its own opinion, as well as to look into the situation of Uighur prisoners in China. She has also called for the death penalty to be abolished.
+This view is supported by Michael Dillon who thinks any executions in Xinjiang would be counterproductive.
+“Although there might be some support if the death sentences are carried out from Han people in Xinjiang, it’s going to lead to even further resentment among the Uighurs. It’s not necessarily going to have the desired effect because it’s likely to create more tension and more conflict in the future.”
+Three of the 12 people sentenced to death have been given a two-year reprieve, suggesting that their sentences will be commuted to life in prison. Four more people have been given life imprisonment. Although it is not exactly clear who has been sentenced to death there appears to be at least one Han name.
+Author: Anne ThomasEditor: Thomas Bärthlein
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

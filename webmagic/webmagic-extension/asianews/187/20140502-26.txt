@@ -1,0 +1,81 @@
+<ID>20140502-26
+<DATE>20140502<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=30967
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang,-Urumqi-attack-work-of-religious-extremists-30967.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang, Urumqi attack "work of religious extremists"
+<\TITLE>
+<ABSTRACT>
+According to the central and provincial authorities, two assailants and an innocent civilian were killed on Urumqi railway station. The identity of one of the two made public: a 39 year-old Chinese citizen of Uyghur ethnicity. Foreign based ethnic groups report 100 arrests, but without giving precise data. Experts: "They want to raise the bar in the armed confrontation with the authorities".
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi ( AsiaNews) - Yesterday's bomb attack on the train station in Urumqi 
+, capital of the northern province 
+of Xinjiang, "is the work of religious extremists, who have long been under a 
+subversive and separatist influence". This is according to provincial 
+authorities, quoted by the official Xinhua news . In the attack both the 
+terrorists and an innocent civilian were killed: 79 people were injured, some 
+are in critical condition. One of the two assailants was identified: Sedirdin 
+Sawut, a Chinese citizen aged 39, from Aksu county.
+
+The attack took place shortly after President Xi Jinping's departure from the 
+region: the Chinese leader spent 4 days in Xinjiang, his first official visit 
+to the area, during whichhe urged people to "better understand the separatism" 
+
+ of some local fringe groups to be able to "fight it better". According to 
+several analysts and experts, the fact that the attack took place to coincide 
+with Xi's visit of demonstrates that the extremists "want to raise the bar " in 
+the armed confrontation with the authorities.
+
+The central authorities have not clarified how they are going to investigate 
+the case. Some groups of Uyghurs living abroad say that at least 100 people 
+have already been arrested, but without giving precise data. Certainly security 
+in the area has been significantly stepped up, and the normal police forces 
+stationed in the region have be joined by at least 2 battalions from the 
+People's Liberation Army.
+
+Xinjiang province is one of the most turbulent in all of China. It is the 
+homeland of ethnic Uyghurs, a Turkic-speaking, mostly Muslim people that has 
+always sought independence from Beijing. The central government has sent 
+hundreds of thousands of Han Chinese to the region to try to make them the 
+dominant ethnic group. It has also imposed serious restrictions on freedom of 
+religion, Muslim practices, the teaching of the indigenous language and the 
+local culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out. Chinese 
+authorities blame Muslim extremists for the wave of violence. Uyghur exiles 
+claim instead that Beijing is "exaggerating" the threat of Islamic terrorism to 
+justify repression against indigenous Uyghurs.
+
+For Beijing, Uyghurs are responsible for the recent spate of violent attacks, 
+including the 1 March 2014attack at the Kunming railway station 
+
+ by knives-wielding men that left 29 people dead and more than 150 wounded, and 
+the 28 October 2013 incident whenan SUV plunged into a crowd in Tiananmen Square
+ 
+
+, then burst into flames, killing three people. The government believe that the 
+ethnic group is behind these attacks.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

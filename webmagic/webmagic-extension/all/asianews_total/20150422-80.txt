@@ -1,0 +1,77 @@
+<ID>20150422-80
+<DATE>20150422<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=34049
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Beijing-“buys”-Pakistan-for-US$-45-billion-34049.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing “buys” Pakistan for US$ 45 billion
+<\TITLE>
+<ABSTRACT>
+Xi Jinping and Nawaz Sharif signed 51 agreements for projects related to the "New Silk Road". A China-Pakistan Economic Corridor linking Xinjiang to the Arabian Sea and the Karot dam are among the ambitious goals. Agreements include roads, port facilities and power stations.
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Islamabad (AsiaNews/Agencies) – China has promised Pakistan investments worth 
+US$ 45 billion to have a more direct route to Europe, Africa and the Middle 
+East.
+
+Chinese President Xi Jinping and Pakistani Prime Nawaz Sharif yesterday signed 
+51 agreements to build a China-Pakistan Economic Corridor (CPEC) – a network of 
+roads, railway and pipelines between the long-time allies.
+
+Xi, whose visit lasted only two days (20-21 April), was the first Chinese 
+president to travel to Pakistan in more than ten years.
+
+For China, Pakistan is strategically located, providing access to the Indian 
+Ocean over land and a boost to trade with Europe, Africa and the Middle East
+
+China is also Pakistan’s top trading partner, and both have a mutual distrust 
+of India, seen as the main obstacle to ‘New Silk Road’.
+
+As part of the new partnership, two countries plan to build a 3,000-km 
+corridor stretching from Xinjiang, in western China, to Gwadar, on the Arabian 
+Sea.
+
+They also agreed to build the Karot Dam in Rawalpindi, near the capital 
+Islamabad, in northern Pakistan.
+
+The 720-megawatt structure would take about six years to build, according to 
+project documents filed by the World Bank’s International Finance Corp, which 
+is investing US$ 125 million in China Three Gorges South Asia Investment.
+
+It is expected to generate 75 per cent of its energy during the summer months 
+when water flow in the Jhelum River is at its highest.
+
+China Three Gorges Corp, the Beijing-based developer of the world’s largest 
+dam, is expected to become Pakistan’s biggest clean-energy company with plans 
+for US$ 5.5 billion of hydropower, solar and wind projects totalling more than 
+2,000 megawatts in capacity.
+
+Pakistan requires as much as US billion in investments over the next five 
+years to overcome a 10,000-megawatt shortfall in power capacity.
+
+Xi and Sharif signed deals valued at US$ 28 billion to build roads, ports and 
+power plants – nearly equal to the amount of foreign aid the US has provided to 
+Pakistan over the past decade to support its war in Afghanistan.
+
+The investments, if realised, will help Sharif revive Pakistan’s economy, 
+which suffers from chronic power failures and an insurgency that has killed 
+more than 50,000 people since 2001.
+
+China also pledged to fight terrorism and help bring peace to Afghanistan.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,47 @@
+<ID>20140730-22
+<DATE>20140730<\DATE>
+<URL>
+http://www.dw.com/en/uighur-congress-disputes-beijings-account-of-xinjiang-clash/a-17822883
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uighur Congress disputes Beijing's account of Xinjiang clash
+<\TITLE>
+<ABSTRACT>
+A day after dozens of people were killed in clashes in China's restive Xinjiang region, the Uighur World Congress' Alim Seytoff tells DW Beijing's account of events intends to depict peaceful protesters as "terrorists."
+<\ABSTRACT>
+<CONTENT>
+ On July 29 dozens of people died in clashes in China's volatile northwestern region of Xinjiang. According to state media, a mob armed with knives and axes rampaged through Shache County near the city of Kashgar and police responded with gunfire, leaving dozens of people dead. This is the latest outbreak of violence which Beijing blames on Islamists and separatists from the restive region where Muslim Uighurs - also spelled Uyghur - make up around 45 percent of the population.
+ According to the state-run news agency Xinhua, the mob first attacked a police station and government offices in Elixku Township, and before moving on to the nearby Huangdi Township, attacking civilians and smashing vehicles as they passed. However, it is difficult to verify the information independently and Beijing's official account of the latest clash is being disputed by exiled groups representing the Uighur ethnic group.
+ In a DW interview, Alim Seytoff, spokesman for the World Uighur Congress (WUC) says heavily-armed Chinese security forces opened fire and killed and wounded nearly 100 Uighurs after hundreds of them protested en masse against China's heavy-handed Ramadan crackdown.
+ 
+ According to local Uighurs, heavily-armed Chinese security forces opened fire and killed and wounded nearly 100 Uighurs after hundreds of them protested en masse against China's heavy-handed Ramadan crackdown for the past month and the extrajudicial killing of a Uighur family in Yarkant County in early July. Since Xi Jinping became president, Chinese security forces have been given the order to shoot and kill Uighur protestors with impunity. As a result, the Uighurs have been witnessing more and more killings and even massacres.
+ 
+ China's state media Xinhua always portrays illegal killings and massacres of Uighur people by Chinese security forces as acts of Uighur "terrorism." If they were indeed "terror attacks" as described by Xinhua, then China should have no problem in allowing foreign journalists and diplomats to visit Yarkant to investigate the incidents without harassment.
+ However, we know Beijing won't allow it as the government wants to hide what truly happened in Yarkant. After the Chinese security forces opened fire, killing or wounding nearly a hundred Uighurs, some protestors fought back with whatever they had in their hands, such as spades, hammers or knives. Some Chinese police casualties are expected, but the number is likely to be much lower than the Uighur civilian casualties.
+ In the immediate aftermath of this violence, China has sealed off the area, preventing Uighurs from entering or leaving the county. China shut down both the Internet and instant messaging services in order to prevent Uighurs from posting photos and videos of the massacre that contradict Xinhua's spin of events.
+ 
+ This is the standard language used by Xinhua to describe every act of violence somehow related to the Uighur people. In fact, it is the Chinese government's one-year long anti-terror campaign, which is "organized and premeditated." Conceived by the Xi Jinping administration it is aimed at terrorizing and punishing the peaceful Uighur population, especially during the Holy Month of Ramadan.
+ The political violence and instability is the direct result of communist China's 65-year long repressive policies in East Turkestan and especially the latest heavy-handed suppression of the Uighur people's legitimate demands for human rights and democracy.
+ 
+ The clashes are taking place because of the complete failure of China's ethnic policy in East Turkestan. China's systematic political repression and policies of cultural genocide are behind the high tensions. Simply put, the Uighur people, just like their next door neighbor Tibetans, are fed up with China's brutal repression. Enough is enough for them. They have borne repression for the past 65 years and no longer want to endure state terrorism for the coming 65 years. They want their rights, dignity, justice and freedom.
+ 
+ The mass show trials are proof that Chinese rule in East Turkestan is similar to that of the days of Mao's notorious Cultural Revolution. The Chinese government sentenced these people in order to terrorize the entire Uighur population. In Chinese it is called "kill the chicken to scare the monkey." China wanted the Uighurs to see the price paid by those daring to stand up to its colonial and apartheid-like rule in East Turkestan.
+ 
+First, China must put an end to its anti-terror campaign. Second, China must stop implementing policies of cultural genocide, such as the so-called bilingual language policy, which discriminate against Uighur identity and culture. Also, it must cease to attack the Uighurs' religious beliefs and practices. Finally, China should negotiate with the Uighur people for a peaceful settlement of the East Turkestan issue
+ 
+ Beijing is using a two-pronged strategy: First, it is using its massive security force to deal with any Uighur unrest. Secondly, it is portraying the ensuing discontent as "separatism, terrorism and religious extremism" in order to win public opinion at home and the world. People in China have no choice but to accept the government's narrative as facts because there is no alternative explanation. People in the West have a choice to study and find out the truth about what is happening.
+ As a matter of fact, the Chinese government officially charged Professor Ilham Tohti with "separatism" on July 30, a move the WUC condemns. This is a disgraceful and unlawful persecution of Professor Tohti who had peacefully advocated racial reconciliation and fair treatment of the Uighur people. China's heavy-handed treatment should alert the international community about the fact that China is not fighting "terrorism" in East Turkestan, but all Uighurs, even those who express their views peacefully.
+ 
+The Uighur people compromised with Beijing when East Turkestan was promised autonomy in 1955; something which turned out to be a big political lie.
+ What autonomy or preferential treatment do the Uighur people enjoy today? They only enjoy the preferential treatment of political repression, frequent massacres and extrajudicial killings. In spite of the current terrible situation, the World Uighur Congress has called on China numerous times to negotiate for a peaceful settlement of the East Turkestan issue. So far, we have not seen any indication that Beijing is genuinely interested in peace in East Turkestan or a peaceful resolution of the dispute.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

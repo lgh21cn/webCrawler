@@ -1,0 +1,58 @@
+<ID>20100112-20
+<DATE>20100112<\DATE>
+<URL>
+http://www.asianews.it/news-en/Seoul-gives-in-to-Beijing-and-expels-Uyghur-dissident-17326.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Seoul gives in to Beijing and expels Uyghur dissident
+<\TITLE>
+<ABSTRACT>
+Dolkun Isa is the secretary-general of the World Uyghur Congress and a German citizen. He was held at the Seoul airport for 57 hours and then sent back to Germany. Seoul is giving in to Chinese pressure. For Beijing, he is a dangerous terrorist.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Seoul (AsiaNews) – The South Korean government is complying with Chinese 
+requests at the expense of human rights, South Korean dailyChosun Ilbo warned 
+as it reported the unjustified detention of Dolkun Isa, a German citizen who is 
+also secretary general of the World Uyghur Congress (pictured). Isa was held at 
+the Seoul airport for 57 hours and was never told why. Eventually, he was sent 
+back to Germany. 
+Isa is on China’s ten most-wanted list. He is accused of being a troublemaker 
+and of organising attacks against ethnic Han Chinese in the northwestern 
+province of Xinjiang.
+
+“Of course South Korean authorities never told me exactly very openly, 
+'Because of China's pressure we arrested you or we don't let you in to South 
+Korea.' They never told me that line. But actually it is the reason," Isa said 
+on his return to Germany. He had travelled to South Korea to attend a 
+conference on democracy.
+
+South Korean authorities have not said anything about the incident, but 
+Chinese Foreign Ministry spokeswoman Jiang Yu said that the two governments 
+have had contacts over the Uyghur dissident. She said Isa is a major leader of 
+the East Turkestan Liberation Organisation.
+
+For some analysts, South Korea’s decision to give in to Chinese pressure marks 
+a turning point in Seoul’s foreign policy. After decades of harsh military 
+dictatorship, South Korea developed into a Western-styled democracy in the last 
+two decades, based on respect for human and civil rights. Hundreds of political 
+refugees from China and North Korea were welcomed.
+
+However, the current economic downturn has changed the game. As a major 
+carmaker, South Korea needs access to China’s vast domestic market to sell its 
+vehicles and maintain a strong GDP.
+
+China, which has survived almost without a scratch the plunge of financial 
+markets, is flexing its muscles to get its way on a number of very sensitive 
+issues. 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

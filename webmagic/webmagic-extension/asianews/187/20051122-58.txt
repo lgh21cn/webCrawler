@@ -1,0 +1,96 @@
+<ID>20051122-58
+<DATE>20051122<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4683
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/UN-investigator-says-torture-widespread-in-China,-but-praises-Beijing-4683.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+UN investigator says torture widespread in China, but praises Beijing
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies) - The UN's chief torture investigator has praised 
+China's leaders for acknowledging the widespread abuse of prisoners in the 
+nation's jails, as he began a historic 12-day fact-finding mission.
+
+Manfred Novak, the UN Human Rights Commission's special rapporteur on torture, 
+said Beijing had offered him freer access to detainees than the United States 
+was prepared to give him on a recently scrapped trip to Guantanamo Bay.
+
+"There is a growing awareness that torture is quite widely practised in the 
+common criminal proceedings [in China] by the police and that something needs 
+to be done," Mr Nowak said in an interview on Tuesday. "I see my visit also as 
+part of this growing awareness."
+
+Mr Nowak arrived in Beijing on Monday for an unprecedented trip after 
+receiving government assurances it would cooperate with him and allow him 
+unannounced visits to prisons and private talks with prisoners.
+
+"I'm very grateful to the Chinese government that they did invite me and also 
+that they accepted my terms of reference," he said.
+
+"I see this as an opening up of governmental policy in relation to UN special 
+procedures and I had very good first meetings [on Monday] with the officials 
+from the ministry of foreign affairs and justice."
+
+However Mr Nowak did not try to gloss over the widespread human rights abuses 
+in China's jails.
+
+"China is a huge country and it has of course a long tradition of torture and 
+ill treatment and you can't change that from one day to the other, so it is a 
+policy of taking small steps," Mr Nowak said.
+
+"People have been sentenced to death and afterwards it turned out that the 
+'victims' actually were alive, so it was clear that the only reason why they 
+have been sentenced to death and executed was that their confession had been 
+extracted by torture."
+
+Aside from prisons in Beijing, Mr Nowak will visit the Tibetan capital of 
+Lhasa, before going onto Urumqi and Yining in the Uighur Muslim-populated 
+Xinjiang region.
+
+Police in both regions have engaged in long-standing crackdowns on separatism, 
+and human rights groups regularly report widespread abuse of detainees there.
+
+The visit by Nowak, who is the first special rapporteur on torture to visit 
+China, comes after years of negotiations between the UN and China on allowing 
+unfettered access to prisons, private talks with detainees and no retaliation 
+on prisoners.
+
+In the early 1990s, a UN special rapporteur on arbitrary detention visited 
+prisons in Tibet. But prisoners were punished for what they told the 
+investigator, rights group say.
+
+"They were given longer sentences and some were even beaten," Nicholas 
+Becquelin, Hong Kong director for Human Rights in China, said.
+
+"The UN does not want to see this happen again, so that is why it has taken so 
+long to get this visit again."
+
+Mr Nowak said that the terms of reference for his visit to China were better 
+than what the United States had offered on a proposed visit to Guantanamo Bay 
+in Cuba, where prisoners from the wars in Iraq and Afghanistan are being held.
+
+"It was made clear by the Pentagon that they would not be willing to accept my 
+terms of reference, so there was no other option than to finally cancel the 
+mission," Mr Nowak said. Nowak last week cancelled his scheduled December 6 
+visit to Guantanamo Bay after failing to win assurances from the United States 
+that he would be able to meet detainees privately.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,74 @@
+<ID>20141209-37
+<DATE>20141209<\DATE>
+<URL>
+http://www.asianews.it/news-en/China,-flurry-of-convictions---death-and-jail---for-separatism-in-Xinjiang-32903.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China, flurry of convictions - death and jail - for "separatism" in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Eight people were sentenced to death for their roles in two knife and bomb attacks earlier this year in the violence-plagued western region. In addition, seven students of prominent Uygur scholar Ilham Tohti, who received a life sentence for separatism, were jailed for three to eight years.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) - Eight people were sentenced to death for their 
+roles in two knife and bomb attacks earlier this year in the violence-plagued 
+western region of Xinjiang , state media reported yesterday.
+
+In addition, seven students of prominent Uygur scholar Ilham Tohti, who 
+received a life sentence for separatism, were jailed for three to eight years 
+after being convicted on the same charge, according to Tohti's lawyer.
+
+Hundreds of people have been killed in Xinjiang in the past two years, mostly 
+due to violence between the Uygur minority and the majority Han.
+
+In April, a knife and bomb attack at a train station in the region's capital 
+of Urumqikilled three and injured 79 
+
+. In May, 39 people at an Urumqi market were killed when attackers hurled 
+explosives out of the windows of two SUVs.
+
+Five others were given a suspended death sentence, which usually means life in 
+prison. Four others were given lesser prison sentences, Xinhua said.
+
+The government has blamed a series of attacks in other parts of the country, 
+including Beijing, on militants from Xinjiang.
+
+Critics and human rights advocates say Uygurs chafe under the repressive rule 
+of the Han-dominated government.
+
+Dilxat Raxit, spokesman for the Munich-based World Uygur Congress, said the 
+harsh sentences were politically motivated and the defendants had no chance of 
+a fair trial.
+
+The province is one of the most turbulent in all of China. Its Uighur Muslim 
+minority, who number about nine million, have long sought independence from 
+China.
+
+The central government, for its part, has brought in millions of settlers to 
+make Han Chinese the dominant ethnic group.
+
+At the same time, it has severely curtailed Muslim religious worship as well 
+as the teaching of the local language and culture.
+
+Since 2009 Chinese police and the military have held the region under a 
+special regime, which Beijing imposed followingclashes that left nearly 200 
+people dead 
+
+. As a result of various episodes of violence, hundreds of long prison 
+sentences were imposed and dozens of death penalties were carried out.
+
+Chinese authorities blame Muslim extremists for the wave of violence. Uighur 
+exiles claim instead that Beijing is "exaggerating" the threat of Islamic 
+terrorism to justify repression against indigenous Uighurs.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

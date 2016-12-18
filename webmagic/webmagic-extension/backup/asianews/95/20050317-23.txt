@@ -1,0 +1,40 @@
+<ID>20050317-23
+<DATE>20050317<\DATE>
+<URL>
+http://www.asianews.it/news-en/China,-political-prisoner-freed-2794.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China, political prisoner freed
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  Rebiya Kadeer, 58, an ethnic Uighur (Xinjiang 
+Muslim group) was freed today and allowed to leave China. Prior to her arrest 
+in 1999, she was involved in legal defence work for on behalf of her ethnic 
+group and women.
+
+She was found guilty in 2000 of "illegally sending state documents" and 
+sentenced to eight years in jail to be purged in a Xinjiang prison.
+
+According the San Francisco-based Dui Hua Foundation, which has been involved 
+in the case from the beginning, Ms Kadeer was allowed to leave China and should 
+be on her way to the United States.
+
+In her recent trip to China US Secretary of State Condoleezza Rice had raised 
+the Kadeer case with her Chinese counterparts.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

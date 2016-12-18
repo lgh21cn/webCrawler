@@ -1,0 +1,54 @@
+<ID>20060411-11
+<DATE>20060411<\DATE>
+<URL>
+http://www.asianews.it/news-en/US-lawmakers-urge-Bush-to-raise-Chinese-dissident's-case-5884.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+US lawmakers urge Bush to raise Chinese dissident's case
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Washington (AsiaNews/Agencies) - A bipartisan group of 119 US lawmakers urged 
+President George W. Bush on Monday to raise with President Hu Jintao the case 
+of an imprisoned prominent Chinese pro-democracy activist.
+
+Yang Jianli, a US permanent resident, was detained by the Chinese government 
+in April 2002 when entering the country with a friend's passport after Beijing 
+refused to renew his own due to his involvement in the 1989 Tiananmen Square 
+protests.
+
+"We believe that your personal, direct advocacy with President Hu at this 
+crucial time is our best and greatest hope in helping to bring Yang Jianli, who 
+is a hero to so many, home," the legislators from the US House of 
+Representatives said in the letter to Mr Bush.
+
+The House and Senate have unanimously passed several resolutions calling for 
+Yang's unconditional release. Mr Bush had raised Mr Yang's case with Mr Hu 
+during his visit to Beijing in November and as well when he met the Chinese 
+leader at a UN summit in New York in September last year, according to rights 
+groups informed of diplomatic attempts to seek his release.
+
+Secretary of State Condoleezza Rice also raised the matter several times with 
+her Chinese counterpart, while the US embassy brought his plight to Beijing's 
+attention more than 60 times, they said.
+
+Mr Yang was initially held for more than a year in solitary confinement 
+without access to counsel, and was reportedly abused by prison guards. He 
+suffered a minor stroke, and "his health continues to be a serious concern to 
+many of us," the lawmakers said in the letter.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

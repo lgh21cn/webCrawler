@@ -1,0 +1,32 @@
+<ID>20140521-42
+<DATE>20140521<\DATE>
+<URL>
+http://www.dw.com/en/chinese-courts-jail-dozens-of-uighurs-over-terror-charges/a-17650254
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese courts jail dozens of Uighurs over terror charges
+<\TITLE>
+<ABSTRACT>
+Courts in the Chinese region of Xinjiang have jailed 39 people after a special operation to counter Uighur separatist terrorism, say judicial sources. The offences included the spread of "terrorism audios and videos."
+<\ABSTRACT>
+<CONTENT>
+ The Xinjiang Supreme Court on Wednesday said 39 people had been sentenced to prison after they were convicted of crimes that included organizing and leading Uighur separatist terror groups.
+ Other offences included inciting ethnic hatred, both verbally and through the distribution of audio and video material.
+ "Violent terrorism has become a major threat to ethnic unity and social stability in Xinjiang," the court said in a statement. "We must eliminate from the root the soil where violent terrorist thoughts should grow by severely cracking down on the criminal activities of spreading terrorism audios and video."
+ Just over 40 percent of people in the restive region are ethnic Uighurs, a Turkic group the majority of which is Muslim. A similar proportion belong to China's majority ethnic Han group.
+ 
+ Among those convicted in a hearing on Tuesday was 25-year-old Maimaitiniyazi Aini, who was sentenced to five years in prison for inciting ethnic hatred and discrimination through chat group comments, the Supreme Court said.
+ One Uighur man was also jailed for 15 years after he preached jihad, or holy war, to his son and another young man, the court said.
+ Uighur separatists have been waging a low-level insurgency for decades, but recent attacks have become increasingly bold and bloody. China has blamed several incidents, including a  that killed 29 in the southwestern city of Kunming, on the Eastern Turkistan Islamic Movement.
+ Uighur activists claim the violence has been fueled by discriminatory policies imposed by the ethnic Han.
+ rc/lw (AFP, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

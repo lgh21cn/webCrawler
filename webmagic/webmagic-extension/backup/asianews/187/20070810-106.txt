@@ -1,0 +1,99 @@
+<ID>20070810-106
+<DATE>20070810<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=10051
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/War-games-involving-China,-Russia-and-their-allies-10051.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+War games involving China, Russia and their allies
+<\TITLE>
+<ABSTRACT>
+Joint military exercises between the six-member Shanghai Co-operation Organisation will continue till August 17; fighting terrorists and criminals is one of their objectives. The games are allowing high-ranking officials from all member states to meet. Moscow is building up its fleet and Beijing needs Russian help to contain the United States.
+<\ABSTRACT>
+<CONTENT>
+  
+ 
+
+Beijing (AsiaNews/Agencies) – Joint military exercises involving troops from 
+China, Russia, Kazakhstan, Uzbekistan, Kyrgyzstan and Tajikistan will continue 
+till August 17. More than6,000 troops and 36 aircraft from the six nations are 
+currently engagedin China’s far northwest Xinjiang region for two days; 
+tomorrow they will move toChelyabinsk, Russia. The exercises are intended to 
+improve cooperation against terrorism, drug and weapons trafficking and 
+criminal gangs as required by an agreement of mutual assistance against armed 
+attacks. But the real objective is political.
+
+Chinese Foreign Minister Li Hui noted that “this is the first time that all 
+the leaders of SCO (the Shanghai Co-operation Organisation) nations will attend 
+the war games. All the member countries put a high value on these drills.”
+
+Russian chief of staff General Yury Baluyevsky added that the exercises “are 
+needed because they help the exchange of experience and the improvement of 
+co-operation between our forces in combating new challenges and threats.” And 
+future exercises “on a bigger scale” are planned.
+
+China’s People's Liberation Army is deploying a 1,600-member contingent for 
+the war games. A total of 32 Mi-17 and Z-9 helicopters will also take part, 
+along with six heavy transport aircraft, eight attack aircraft, and a company 
+of airborne troops.
+
+Analysts note that China and Russia are using closer high-level diplomatic and 
+political ties among SCO members to expand their influence in Central Asia and 
+contain the United States.
+
+But human rights activists have criticised the organisation for helping to 
+repress opposition political activists in the member countries through such 
+practices as extrajudicial transfer of “suspects” between countries.
+
+Ethnic Uighur Muslims in Xinjiang know about it all too well. They are 
+persecuted by Beijing which has cracked down accusing many of them of belonging 
+to terrorist and secessionist organisations.
+
+Beijing needs Moscow to build up its fleet. President Vladimir Putin, who 
+comes from a naval family, appointed Admiral Masorin two years ago with 
+instructions to upgrade the Russian navy. Although it still has about 300 
+ships, it was badly neglected after the collapse of the Soviet Union in 1991.
+
+Moscow recently approved a rearmament package up to 2015. Of the US$ 192 
+billion allocated to the programme, 25 per cent will go into building new 
+ships, includingsix new nuclear-powered aircraft carriers to be built over the 
+next 20 years.
+
+Some analysts dismiss talk of rebuilding a navy with global reach as 
+propaganda ahead of parliamentary elections later this year, but others suggest 
+that it is more than bluster because Russia is now earning an estimated US$ 1 
+billion every two days from its energy exports, and so has the means to do it.
+
+Moreover, India and China depend to a significant degree on Russia for their 
+own naval needs. However, Russian naval builders have recently had problems and 
+had to announce a three-year delay in the construction of a US$ 1.5 billion 
+aircraft carrier for India.
+
+For Beijing a carrier would be a fundamental addition to its navy if it wanted 
+to stand up to the United States and secure its energy supplies (which travel 
+through the Strait of Malacca) or even mount a possible military intervention 
+against Taiwan.
+
+If China decides to develop a carrier for training and eventual operation, it 
+may use the Varyag, a Kuznetsov-class Soviet carrier that was only 70 per cent 
+complete when the Soviet Union broke up. Although it was bought by a Chinese 
+firm in 1998, the mainland would still require help from Russia to bring the 
+Varyag into service.
+
+By contrast, the US Navy today has 12 nuclear-powered Nimitz-class vessels, 
+each over 332 metres long with 85 aircrafts on board. Their replacements will 
+be even bigger when the first enters service in seven or eight years.
+
+Yesterday the chiefs of staff from of the six SCO member-states met Urumqi.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

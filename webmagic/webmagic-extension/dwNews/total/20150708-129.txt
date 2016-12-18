@@ -1,0 +1,40 @@
+<ID>20150708-129
+<DATE>20150708<\DATE>
+<URL>
+http://www.dw.com/en/why-china-is-alarmed-about-is-presence-in-afghanistan/a-18570097
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Why China is alarmed about IS presence in Afghanistan
+<\TITLE>
+<ABSTRACT>
+The leaders of China, Russia and other countries will discuss the threat the "Islamic State" group poses in Afghanistan at a Eurasian security summit. DW spoke to analyst Borhan Osman about Beijing's concerns.
+<\ABSTRACT>
+<CONTENT>
+ Chinese President Xi Jinping, Russian President Vladimir Putin and other leaders will discuss about the security situation in Afghanistan and the increasing threat posed by "Islamic State" (IS) in Eurasia at this year's Shanghai Cooperation Organization (SCO) to be held Russian city of Ufa on July 9-10.
+ "Due to the spillover effect of the Islamic State terrorist activities, Afghanistan now faces a grim security situation," Chinese vice foreign minister Cheng Guoping told reporters. SCO leaders "will certainly have in-depth discussions on the Afghan issue", he added. "And they will talk further about how to respond to the security situation there," Cheng was quoted as saying. China is worried about own separatist groups in the far western region of Xinjiang working with IS.
+ Afghanistan has "observer" status in the SCO, which groups China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. In a DW interview, Borhan Osman a Kabul-based analyst with the Afghanistan Analysts Network, explains Beijing is concerned because a palpable IS foothold in Afghanistan could be far more dangerous to Chinese interests than, say, the Taliban.
+ 
+ Borhan Osman: The overall security situation in the South Asian country is certainly deteriorating, especially in many parts of northern Afghanistan. But that probably has nothing to do with the presence of IS in the region. Afghanistan's northern neighbors and China worry too much about a possible IS threat that makes them translate the security deterioration into an imminent IS threat.
+ 
+ China is possibly more worried about the East Turkistan Islamic Movement (ETIM) turning into a greater threat, and about more Uighur Muslims radicalizing and joining jihad-based separatism, than the IS threat to Afghanistan per se.
+ China sees a volatile Afghanistan as an easy stage for the resurrection of ETIM, although there is no credible data about how effective and big this grouping is.
+ Nevertheless, a palpable IS foothold in Afghanistan alarms China since the militant grouping could be a far more dangerous patron or partner for the Chinese militants than, say, the Taliban. This is why China might be more interested in contributing to efforts aimed at stopping the emergence of IS in Afghanistan in the first place.
+ 
+ So far, there are no indications of massive IS-Taliban clashes in Afghanistan. The largest clashes which have taken place in recent weeks in Nangarhar, in eastern Afghanistan, have failed to mount a serious threat to the Taliban's control in these areas. IS has lost battles and terrain in most of the districts it initially contested. So, the prospect for IS to challenge the Taliban's hold remains weak.
+ 
+ Hekmatyar has talked about specific cases in which he recommended his supporters to back IS fighting the Taliban. There have been reports of militants in eastern Afghanistan with Hezb-e Islami background claiming to be IS fighters.
+ But these fighters do not seem to have joined IS on Hekmatyar's orders. Hekmatyar's clout over active insurgents in Afghanistan appears to have remarkably shrunk in recent years. Therefore, his call on supporters to back IS in its fight against the Taliban will remain more of an angry statement by a desperate warlord who has always been striving to remain relevant.#
+ 
+It is difficult to imagine a popular base of support for IS in Afghanistan. So far, small groups have emerged here and there trying to carve a place for themselves in society. But their call for a caliphate does not resonate with local communities. There might be members of a limited number of young people either radicalized or at the risk of being radicalized into global jihadism.
+ But, they mostly remain disconnected from local societies. In Nangarhar, IS fighters have published propaganda pictures of their interaction with local residents. Rather than showing a supportive population, the pictures show a terrified people.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

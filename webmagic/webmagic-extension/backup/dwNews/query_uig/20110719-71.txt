@@ -1,0 +1,36 @@
+<ID>20110719-71
+<DATE>20110719<\DATE>
+<URL>
+http://www.dw.com/en/chinese-police-blame-terrorists-for-violence-in-xinjiang/a-6575385
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese police blame terrorists for violence in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Chinese authorities have raised the death toll to 18 from a clash at a police station in Xinjiang, saying that 14 "rioters" died along with two policemen and two hostages in the worst violence there in a year.
+<\ABSTRACT>
+<CONTENT>
+State news agency, Xinhua, reported on Tuesday that police in the city Hotan, Xinjiang, had gunned down several rioters who had attacked a police station and apparently taken hostages in what is the region’s worst outbreak of violence in about a year. 
+Chinese authorities have now raised the death toll from four to 18, saying that 14 "rioters" died along with two policemen and two hostages. The latest bout of violence in western China's restive Xinjiang region was "an organised terrorist attack," Hou Hanmin, chief of the regional information office, was quoted saying in the Global Times, a popular tabloid owned by the Chinese Communist Party's mouthpiece, the People’s Daily. 
+Hou told reporters, "the rioters carried explosive devices and grenades. They first broke into the offices of the local administration of industry and commerce and the taxation bureau that are close to the police station," adding that people had been injured before the demonstrators started attacking the police station, “where they showed a flag with separatist messages." 
+The attackers set the police station on fire before killing hostages during a stand-off with armed police, Hou added. 
+
+The Germany-based World Uyghur Congress, citing sources in Xinjiang, said security forces beat 14 people to death and shot dead six others during the unrest. "The Chinese authorities should immediately cease their systematic oppression to prevent a further escalation of the situation," said group spokesman Dilxat Raxit in a statement. 
+Two hostages, a paramilitary policeman and a guard, died in the violence, as well as several of the attackers, the congress reported, adding that six hostages were freed. The Global Times said the national counter-terrorism office had dispatched a team to Xinjiang.
+A vast swathe of territory, accounting for one-sixth of China's land mass, Xinjiang holds oil, gas and coal deposits and borders Afghanistan, Pakistan, India and Central Asia. Xinjiang has been plagued by violent unrest in recent years, culminating in savage Uighur attacks on members of China's dominant Han group in the regional capital Urumqi in July 2009.
+
+The government says nearly 200 people were killed and 1,700 injured in the 2009 riots in Urumqi - China's worst ethnic violence in decades - which shattered the authoritarian Communist Party's claims of harmony and unity among the country's dozens of ethnic groups.
+China threw a huge security clampdown on Xinjiang after the violence and many Uighurs are angry over the arrests or alleged disappearances of people rounded up across the region in the aftermath.
+After Monday’s attack in Hotan, Chinese censors blocked searches on Sina Weibo, China's Twitter-like microblogging services, on the attack. Search results for the Chinese renderings of "Xinjiang unrest" and "Hotan" showed a page that said, "according to relevant laws, regulations and policies, search results are not displayed." 
+Beijing often blames what it calls violent separatist groups in Xinjiang for attacks on police or other government targets, saying they work with al Qaeda or Central Asian militants to bring about an independent state called East Turkestan. Many Uighurs, a Muslim, Turkic-speaking people native to the region, chafe under rule from Beijing and restrictions on their language, culture and religion. They make up less than half of Xinjiang's population after decades of immigration by the majority Han from other parts of China. 
+Author: Sarah Berning (Reuters, AFP) Editor: Ziphora Robina
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

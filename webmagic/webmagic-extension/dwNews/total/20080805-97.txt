@@ -1,0 +1,22 @@
+<ID>20080805-97
+<DATE>20080805<\DATE>
+<URL>
+http://www.dw.com/en/china-promises-safe-olympics/a-5213790
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China Promises 'Safe Olympics'
+<\TITLE>
+<ABSTRACT>
+China has promised that the Olympics will be safe, a day after 16 policemen were killed in a grenade attack in Kashgar, in the far-Western Xinjiang region. The authorities have tightened security in the region. Beijing blames Muslim separatists for the attack in the city of Kashgar, which is home to many ethnic Uigher Muslims.
+<\ABSTRACT>
+<CONTENT>
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

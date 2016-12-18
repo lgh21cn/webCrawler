@@ -1,0 +1,87 @@
+<ID>20150521-157
+<DATE>20150521<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=34301
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/For-Xi-Jinping,-religions-must-be-Chinese-and-without-foreign-influences-34301.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+For Xi Jinping, religions must be "Chinese" and without "foreign influences"
+<\TITLE>
+<ABSTRACT>
+At a meeting of the United Front, the Chinese president reiterated the leadership role of the Communist Party in religious matters, warning against foreign forces. His targets include Xinjiang Muslims, Tibetan Buddhists and the Vatican. For a Chinese Catholic, doing so would distort the Catholic religion.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - Religions in China must be "Chinese" and free from any 
+"foreign influence". They must integrate into China’s "socialist society" and, 
+under the leadership of the Communist Party of China (CPC), they must serve the 
+nation’s development, said Chinese President Xi Jinping in a speech he 
+delivered before the United Front, which ended a three-day meeting yesterday.
+
+The United Front is an organisation that includes all of the country’s small 
+but legally permitted political parties, the All-China Federation of Industry 
+and Commerce as well as associations representing various ethnic groups and 
+religions.
+
+For analysts, the United Front represents the empty shell of China’s 
+democracy, upholding the hegemony of the de facto single-party state. It has no 
+real power and comes under the authority of the Central Committee of the CPC.
+
+At the meeting held in the capital, Xi stressed the importance of maintaining 
+the party’s leadership. Cooperation with smaller parties and political action 
+should be led by the CPC.
+
+Authorities must value the influence of people in the religious sphere and 
+guide them to serve better the nation's development, harmony and unification, 
+Xi said.
+
+ “Active efforts should be made to incorporate religions into socialist 
+society," Xi added, noting that religions in China must be Chinese, and the 
+development of religions in China should be independent of foreign influence.
+
+Xi’ views are nothing new, reflecting what other Chinese leaders have said 
+before on many occasions.
+
+For example, when he was general secretary of the Party in the 1990s, Jiang 
+Zemin expressed appreciation for the contribution of religions to China’s 
+socialist society, but warned the Party against Western "ideological 
+pollution", which included in Christianity, seen as a western religion.
+
+A typical Maoist slogan, that still resonates today, underscores the alleged 
+danger represented by religious groups whose action is designed to undermine 
+China (or rather, China’s Communist regime) "under the cloak of religion."
+
+Even the Vatican, described by Mao as "the running dog ​​of capitalism", is 
+still seen as a foreign power that under the cloak of religion seeks to 
+manipulate China's internal affairs.
+
+Conspiracy theories tend to focus primarily on Muslims in Xinjiang and Tibetan 
+Buddhists who, according to Beijing, are incited by Islamic fundamentalist 
+preachers and the Dalai Lama.
+
+However, such theories have not spared Catholics. The papal mandate on 
+episcopal appointments is deemed as "interference in China's internal affairs;" 
+hence, the emphasis on "localisation" and "sinicisation" of every religion.
+
+However, "In this case, sinicising means changing the nature of our religion, 
+whose spiritual unity is centred on the pope,” a Chinese Catholic said.
+
+Recently, the Vatican and Pope Francis have signalled a desire for détente and 
+friendship toward China. This has generated hope for diplomatic talks, and 
+created great optimism about a positive response from Beijing and Xi Jinping.
+
+Yet, based on what the Chinese president said recently, there is little hope 
+for an opening anytime soon.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

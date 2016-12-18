@@ -1,0 +1,61 @@
+<ID>20120229-61
+<DATE>20120229<\DATE>
+<URL>
+http://www.asianews.it/news-en/Kashgar,-Uyghurs-and-police-clash:-12-dead-24101.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Kashgar, Uyghurs and police clash: 12 dead
+<\TITLE>
+<ABSTRACT>
+Xinhua does not report reasons for the clashes. The World Uyghur Congress say clashes sparked by Uyghurs frustration, colonized and oppressed by ethnic Han Chinese. For China, the groups are "terrorists" and this slows the spread of Islam among the young. The Uyghurs accuse Beijing of wanting to destroy their culture and faith.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews / Agencies) - Twelve people were killed in clashes between 
+Uyghur demonstrators and police in Yecheng, 250 km south-east of Kashgar 
+(Xinjiang). The clash took place yesterday at about 18 (local time). Xinhua did 
+not report the reasons for the revolt and says only that the Uighurs were 
+"violent" and "armed with knives," a local newspaper called them "terrorists".
+
+The World Uyghur Congress, based in Germany, says that according to local 
+sources, the group killed seven policemen and three civilians, two of the 
+assailants were shot at by police. According to the organization the reasons 
+seem the Uyghur's frustration.  They are banned from any public gathering and 
+criticism of government policy.
+
+The Uyghurs are a Muslim group of Turkish origin and account for 45% of the 
+population of Xinjiang. 40% is composed of Han Chinese who arrived in the 
+region as part of a project of colonization, after a brief period of 
+independence as East Turkistan. China wants to prevent the population, whose 
+territory is rich in oil and gas, creating an independent state. The Uyghurs 
+instead demand greater independence from the Han who dominate the economy and 
+politics in Xinjiang.
+
+In July 2009 a series of initially peaceful demonstrations in Urumqi, turned 
+into clashes with police and conflicts between Uyghurs and Han, causing 
+hundreds of deaths.
+
+Clashes also took place last summer in the city of Hotan, where groups of 
+Uyghurs raided a police headquarters.
+
+China accuses the Uyghurs of terrorism and controls the situation with an iron 
+fist. And because the Uyghur are Muslims, it also controls the mosques, Koranic 
+schools and slows the spread of the Islamic faith among young people. The 
+Uyghurs accuse Beijing of wanting to destroy their culture and faith.
+
+This is enough to justify a new clash of growth controls and security in the 
+region, in the preparation for the Beijing National People's Congress, China's 
+parliament which meets once a year.
+
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

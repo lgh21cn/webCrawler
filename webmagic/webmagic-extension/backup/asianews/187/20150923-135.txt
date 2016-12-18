@@ -1,0 +1,61 @@
+<ID>20150923-135
+<DATE>20150923<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=35386
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Xinjiang-coal-mine-attack:-at-least-40-victims-35386.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xinjiang coal mine attack: at least 40 victims
+<\TITLE>
+<ABSTRACT>
+The alleged authors are separatist ethnic Uyghur. The province is one of the most turbulent in entire country, in the middle of a bitter campaign of control and repression by the central government. The assault carried out with knives and machetes, the police have not yet confirmed the death toll. Sogan mine in Aksu targeted.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews) - A group of unidentified assailants launched an attack on 
+the coal mine Sogan in Aksu, the northwestern province of Xinjiang. According 
+to authorities, the authors are ethnic Uyghur - Muslim and Turkic-speaking - 
+who aim to destabilize the province. Xinjiang has long been at the center of a 
+bitter campaign of control and repression by the central government, which for 
+decades has been promoting the immigration of  Han Chinese (the majority in the 
+country) to make the ethnic group a minority.
+
+According to initial reports of the attack, provided by Radio Free Asia, there 
+are about 40 victims: among them at least five policemen, several security 
+guards and members of the management of the mine (all han). The attack began at 
+3 am on 18 September. Jamal eysa, security chief in a mine close to the area of 
+​​the clashes, says: "It all started at the security entrance, usually 
+patrolled by about 20 guards."
+
+According to the official, "the residence of the owner was the second target 
+of the attack, while the police station was attacked last. I received a call 
+from the mayor of Bay, about 20 kilometers away, calling for protection in view 
+of another potential attack”.
+
+An official notification sent in the course of the day says that the attack 
+was carried out "by separatists against the police and the owners of coal 
+mines. It was well-organized, well-prepared and on a large scale. " Some police 
+claim to have recognized some assailants "from among local farmers" and confirm 
+that the group managed to "take control of dynamite kept in the mine." It is 
+not clear if this has been used or not, and there is no official confirmation 
+on casualties.
+
+The Chinese central government has made it clear on several occasions that it 
+aims to defeat "at any cost" the "three evils" afflicting the province: 
+terrorism, separatism and religious extremism. However, international experts 
+believe that Beijing has deliberately exaggerated the threat, and believe that 
+the rise of violence is the result of “heavy handed and unfair” national 
+policies.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

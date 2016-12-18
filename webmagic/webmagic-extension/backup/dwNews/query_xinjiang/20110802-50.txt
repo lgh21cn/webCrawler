@@ -1,0 +1,31 @@
+<ID>20110802-50
+<DATE>20110802<\DATE>
+<URL>
+http://www.dw.com/en/chinese-police-kill-suspects-in-xinjiang-violence/a-6586790
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese Police kill suspects in Xinjiang violence
+<\TITLE>
+<ABSTRACT>
+Chinese security forces have shot dead two men suspected of fomenting deadly ethnic unrest in Xinjiang region. The police have vowed a further crackdown on religious extremists.
+<\ABSTRACT>
+<CONTENT>
+The two suspects, Memtieli Tiliwaldi and Turson Hasan, were shot by police late on Monday in corn fields on the outskirts of Kashgar city. The men were both from the Muslim Uighur minority that makes up around half the population of China’s northwestern Xinjiang region. The deaths bring to 21 the number of people reported killed in Kashgar, a city on the ancient Silk Road in Xinjiang, in the latest bout of unrest that began at the weekend. 
+Police earlier issued warrants for the two and a reward of 100,000 yuan (about 15,000 US dollars) for information leading to their arrests. They were accused of involvement in an attack Sunday in which six civilians were killed when a restaurant was set ablaze, apparently after explosives were thrown at it. 
+Kashgar authorities said Monday that the leaders of the group behind Sunday's attack had learned explosive-and firearm-making skills in camps run by the East Turkestan Islamic Movement (ETIM) in Pakistan. Chinese authorities have accused the ETIM, which wants an independent homeland for Xinjiang's Uighurs, of orchestrating attacks in the region on many occasions. 
+Tensions were running high in China’s remote Kashgar city Tuesday after the latest outburst of violence to rattle Xinjiang. Many of the minority Muslim Uighurs there resent the presence of Han Chinese, and the controls imposed by Beijing. "Look at the Han and the Uighurs - who is rich and who is poor? Some Uighurs go to university in Urumqi (Xinjiang's capital), they graduate, come back and can't find jobs. These all go to the Han. And even when they do find jobs, their salaries are low."said one Uighur man aged in his 20s, who spoke on condition of anonymity. 
+Thirteen of the people killed in the last few days were civilians while the other eight were alleged militants. Xinjiang's government has pledged to firmly punish acts of violence and crack down on religious extremists in the wake of the attacks, which came just weeks after deadly clashes in Hotan, another city in the vast region.
+On Tuesday, there was a heavy police presence on the streets of Kashgar, with some shops and businesses remaining closed. The tension has triggered sporadic bouts of unrest in the resource-rich and strategically vital region that borders eight countries, including Afghanistan and Pakistan. In July 2009, China was hit by its worst ethnic violence in decades when Uighurs savagely attacked Han Chinese in Urumqi. It led to deadly reprisals by Han on Uighurs several days later.
+The United States and the United Nations have listed the group suspected of the attacks as a "terrorist" organisation, and China has previously said it has operations in Pakistan as well as Afghanistan. Chinese state-run media has devoted little space to the attacks, and the words "Kashgar" and "terrorist attacks" appear to be blocked on China’s Twitter-like social networking sites.
+Author: Sachin Gaur (Reuters, AFP)
+Editor: Grahame Lucas　
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

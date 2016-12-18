@@ -1,0 +1,36 @@
+<ID>20090805-58
+<DATE>20090805<\DATE>
+<URL>
+http://www.dw.com/en/one-month-since-xinjiang-unrest/a-5213586
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+One Month Since Xinjiang Unrest
+<\TITLE>
+<ABSTRACT>
+Bloody riots broke out a month ago in the northwestern Chinese province of Xinjiang. The figures are still unknown. The Chinese authorities say 197 people died in the clashes between Han Chinese -- the majority population in China -- and Uighurs -- a Muslim minority. The government has accused the Munich-based World Uighur Congress of inciting the violence. A climate of fear currently reigns over the city of Urumqi where the riots broke out.
+<\ABSTRACT>
+<CONTENT>
+At a car dealership in Urumqi, there are burnt-out cars and smoke-blackened walls. Riot police with protective shields and machine guns stand on the opposite corner. Duan Zongcheng is an 18-year-old mechanic. He’s Han Chinese and he’s scared. 
+He recalled what had happened: "Lots of Uighurs went out onto the streets. They trashed a lot of Chinese businesses with rocks. Then they started killing people. They even pulled them out of their cars. I was scared. There were five of us and we escaped to the cellar. I am now mourning the victims. They had no chance to defend themselves because they were beaten to death so fast. I can sense a rift now. Before it used to be perfectly normal when I greeted my Uighur neighbours but now it feels dishonest."
+Duan Zongcheng lives across the road from the car dealership -- in a poor district with small houses. Most of his neighbours are Uighurs. But the streets have been empty since the clashes. 
+
+"The people in this neighbourhood are all from the south of the province of Xinjiang, from Aksu, Hotan and Kashgar,” explained this Uighur, who was willing to talk for a short amount of time. 
+“When I arrived in Urumqi I couldn’t speak a word of Chinese. A friend helped me and now it’s easier. People like us don’t have land that we can cultivate back home. That’s why we come here to find work. Since the riots, lots of people have left the city because they were scared. I want to stay. What else can I do? The government doesn’t give me anything. Business is bad. I only have enough to keep my head above water."
+The man ran off after being asked for the reasons behind the violence last month, saying he didn’t know. 
+Many Han Chinese, for their part, say that Uighurs are ungrateful -- they are allowed to have up to three children and have more access to higher education. 
+
+Pan Zhiping from the Academy of Social Sciences in Urumqi thinks such privileges should be maintained but that there also needs to be a change in Chinese minority policy.
+“I think that in a modern society we have to strengthen the notion of the citizen,” he said. “We should not highlight ethnic identity. What’s it like in Germany? Does a German passport state what ethnic identity somebody is? That would not be allowed -- it would be almost racist. What we have to achieve is that if somebody says he belongs to a certain ethnic group and wants to be respected for it, he should get respect. That’s the most important thing. But if he doesn’t think it’s important we shouldn’t care about his ethnic identity at all.”
+On Wednesday, the head of the World Uighur Congress Rebiya Kadeer said the Chinese authorities had inflamed ethnic tensions in Xinjiang by deceiving people about the unrest. 
+So far, hundreds of people have been detained in connection with the unrest. According to Chinese state media 83 people will formally face charges.
+Author: Astrid Freyeisen/Anne ThomasEditor: Disha Uppal
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

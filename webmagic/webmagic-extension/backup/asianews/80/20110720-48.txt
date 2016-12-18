@@ -1,0 +1,51 @@
+<ID>20110720-48
+<DATE>20110720<\DATE>
+<URL>
+http://www.asianews.it/news-en/Beijing-admits:-at-least-18-dead-in-Xinjiang--22149.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Beijing admits: at least 18 dead in Xinjiang 
+<\TITLE>
+<ABSTRACT>
+Rise in number of "official" victims in yesterday’s clashes in Hotan between police and a group of ethnic Uyghur residents. However, the government continues to talk about "terrorism".
+<\ABSTRACT>
+<CONTENT>
+   
+
+ Beijing (AsiaNews / Agencies) - The Chinese government this morning made a 
+u-turn on yesterday's clashes that rocked the northern province of Xinjiang and 
+has admitted that the death toll is "at least 18", 14 "violent offenders", 2 
+police and officers 2 hostages. However, Beijing continues to define the 
+fighting as "terrorism", while for the World Uighur Congress - the 
+non-governmental organization that follows the situation of ethnic group, the 
+once dominant majority in the province - it was a massacre orchestrated by the 
+police.
+
+ Chinese police opened fire on a group of Uyghur demonstrators who, in the 
+desert town of Hotan, protested against the forced confiscation of their lands 
+and indiscriminate arrests against members of the ethnic group, one of the most 
+feared by Beijing. According to a report published today by the provincial 
+government, however, "a group of terrorists armed with explosives and axes 
+tried to set fire to the local police station."
+
+ Clashes in the province are a regular occurrence, but yesterday was the worst 
+last year. Beijing needs stability in the area, rich in raw materials and in 
+order to obtain this has promoted a massive immigration of Han, the dominant 
+ethnic group in the country. The Uyghurs, the region's Muslim Turkic-speaking 
+indigenous constitute less than half the population, after decades of 
+immigration from other areas of the People's Republic.
+
+ Dilxat Raxit, spokesman for the Congress, complains: "China has strengthened 
+repression and control over the population, and this has greatly worsened the 
+situation. Beijing uses brute force to suppress any protest by Uyghurs, even 
+the most peaceful. "
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

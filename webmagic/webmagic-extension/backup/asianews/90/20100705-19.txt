@@ -1,0 +1,55 @@
+<ID>20100705-19
+<DATE>20100705<\DATE>
+<URL>
+http://www.asianews.it/news-en/A-year-later,-unnatural-calm-prevails-in-Xinjiang-under-tight-police-security-18852.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+A year later, unnatural calm prevails in Xinjiang under tight police security
+<\TITLE>
+<ABSTRACT>
+A year after ethnic Uyghur and Han Chinese clashed with at least 200 killed, Beijing has placed Urumqi under tight controls, urging people to stay indoors. NGO claims dozens of executions were carried out in secret.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) – Xinjiang’s capital of Urumqi is calm, unnaturally 
+so, on the first anniversary of the crackdown that left hundreds of ethnic 
+Uyghurs dead or injured. Eager to avoid a repeat of last year’s unrest, Chinese 
+authorities have deployed thousands of police, many trucked in from 
+neighbouring provinces, and installed 40,000 security cameras throughout the 
+city. 
+The unrest left nearly 200 people dead and 1,700 injured. It is not known how 
+many were arrested, but Uighur dissidents put the number in the tens of 
+thousands.  
+
+On 5 July 2009, following a protest dispersed by police, young Uyghur men 
+attacked neighbourhoods inhabited by ethnic Han Chinese who have settled in the 
+province.
+
+The next day, Han Chinese retaliated in what became China’s worst ethnic 
+clashes in decades.
+
+On Saturday, Amnesty International issued a statement questioning China’s 
+official version of events, saying that it is not clear how many people were 
+killed or by whom.
+
+In camera trials convicted 198 people, allegedly for their involvement in the 
+riots. Of these, 26 were sentenced to death. At least, nine have already been 
+executed.
+
+For Uyghur resistance leader Rebiya Kadeer, who lives in exile in the United 
+States after barely avoiding the death penalty herself, the free world knows 
+what is happening in Xinjiang but does nothing to avoid annoying Beijing.
+
+In the city of Urumqi itself, residents are reporting an unnaturally calm, 
+saying that Chinese authorities are telling ethnic Uyghurs to stay indoors.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

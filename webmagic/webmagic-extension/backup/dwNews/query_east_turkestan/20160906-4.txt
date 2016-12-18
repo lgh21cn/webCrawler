@@ -1,0 +1,33 @@
+<ID>20160906-4
+<DATE>20160906<\DATE>
+<URL>
+http://www.dw.com/en/kyrgyzstan-blames-uighur-militants-for-attack-on-chinese-embassy/a-19530074
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Kyrgyzstan blames Uighur militants for attack on Chinese embassy
+<\TITLE>
+<ABSTRACT>
+Authorities in Kyrgyzstan have arrested several people over the suicide attack on the Chinese embassy and identified the bomber as a member of the Uighur community. The strike was allegedly set up by Uighur jihadists.
+<\ABSTRACT>
+<CONTENT>
+ Kyrgyzstan officials detained five people and placed four more on the wanted list, including an explosives expert trained in Syria, authorities said on Tuesday. The four suspects are believed to be hiding in Turkey.
+ The security service in the ex-Soviet country says the suspects were involved in  on the Chinese embassy in Bishkek. On August 30, an attacker rammed a van through the compound's gate and detonated the charge, injuring three embassy employees.
+ The driver was killed in the blast.
+ In the Tuesday statement, authorities said the attacker was an ethnic Uighur with a Tajik passport.
+ "The investigation established that the terrorist act was ordered by Uighur terrorist groups active in Syria and affiliated to the terrorist organization the Nusra Front whose emissaries...financed the terrorist action," state security said.
+ 
+ Uighurs are a Muslim-majority Turkic group spread across several Asian countries. Most of them, however, live in the Chinese Xinjiang region, across the border from Kyrgyzstan. Beijing has been accused of  on the ten-million-strong minority.
+ In turn, China blames Uighur separatist groups of staging deadly attacks in region. Three Uighurs were executed last year over  in Kunming that killed over 30 people.
+ Commenting on the embassy attack, Kyrgyzstan officials said that the van driver was a member of the East Turkestan Islamic Movement (ETIM), which seeks an independent Uighur state. The group is also active in Syria.
+ Beijing claims scores of Uighurs fled China to join Islamic militias in the Middle East and learn how to wage jihad in Xinjiang.
+ dj/ls (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

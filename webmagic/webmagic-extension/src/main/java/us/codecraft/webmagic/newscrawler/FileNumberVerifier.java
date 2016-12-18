@@ -11,8 +11,8 @@ import java.util.Set;
 
 public class FileNumberVerifier {
 
-	public static final String VERIFIED_SUCCESS_DOWNLOAD_LOG_PATH = ".//"+FileUtils.docName+"/verified_success_download_log.txt";
-	public static final String VERIFIED_SUCCESS_CRAWLER_LOG_PATH = ".//"+FileUtils.docName+"/verified_success_crawler_log.txt";
+	public static String VERIFIED_SUCCESS_DOWNLOAD_LOG_PATH = ".//"+FileUtils.docName+"/verified_success_download_log.txt";
+	public static String VERIFIED_SUCCESS_CRAWLER_LOG_PATH = ".//"+FileUtils.docName+"/verified_success_crawler_log.txt";
 
 	public static void verifyFileNumber(String need, String download,String unmatch) {
 		File needFile = FileUtils.getFile(need);

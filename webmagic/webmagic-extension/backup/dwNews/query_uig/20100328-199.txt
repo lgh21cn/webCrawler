@@ -1,0 +1,40 @@
+<ID>20100328-199
+<DATE>20100328<\DATE>
+<URL>
+http://www.dw.com/en/berlin-reopens-talks-on-taking-in-guantanamo-inmates/a-5405100
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Berlin reopens talks on taking in Guantanamo inmates
+<\TITLE>
+<ABSTRACT>
+Germany has resumed discussions with the US on the possibility of accommodating released Guantanamo detainees. The move comes as some other European nations have already opened their doors to former prisoners.
+<\ABSTRACT>
+<CONTENT>
+According to an Interior Ministry spokesman, Berlin is talking to Washington about relocating suitable detainees after they get released from the US-owned Guantanamo Bay prison in Cuba.
+An unnamed Interior Ministry official said on Saturday, March 27, that his ministry had "opened talks anew with the United States on this matter." 
+The discussions were taking place with the approval of the Foreign Ministry and Chancellor Angela Merkel's office "on a case-by-case basis," the official added.
+Meanwhile, the German news magazine "Der Spiegel" reported that a delegation from Berlin recently visited Guantanamo to meet with several inmates, including a Palestinian, a Jordanian and a Syrian who are likely candidates for resettlement.
+Spiegel said the delegation, including police and immigration officials, had interviewed the men to assess their suitability and any potential risks if they were to be taken in.
+
+Last year, Germany had considered accepting prisoners but later backed off amid concerns that the men could prove dangerous.
+The Interior Ministry said on Saturday that Berlin supported Washington's efforts to close the prison camp and that this had been consistent German policy.
+Spiegel said US special envoy Daniel Fried had had months of confidential talks last year with the Interior Ministry, culminating in the handing over of a list of nine candidates. Some of them have since found homes in other nations.
+The newspaper said the remaining candidates for resettlement included a Palestinian from the West Bank who was part of a conservative group of imams and had been arrested in Pakistan.
+A Jordanian who traveled to Afghanistan in the summer of 2001 was also on the list as was a Syrian, who had been treated at a Kabul hospital at the end of 2001, and was arrested shortly after his discharge. The United States wants to release all three men.
+
+ 
+ President Barack Obama's administration has been reluctant to send some Guantanamo prisoners back to their home countries because they might suffer reprisal after being held in US custody.
+Obama had pledged to close down the Guantanamo camp by January this year, but some 200 detainees continue to be held there as finding them new homes is proving difficult.
+European countries are divided over whether to accept freed Guantanamo detainees: while most appear reluctant, some have openly expressed support.
+Last week, two Chinese Uighur men who were released from the detention camp in Cuba arrived in Switzerland. In February, the first of five inmates slated to be accepted by Spain arrived in Madrid.
+rb/dpa/APEditor: Toma Tasovac
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

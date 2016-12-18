@@ -1,0 +1,92 @@
+<ID>20051123-13
+<DATE>20051123<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4698
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Bird-flu:-Impossible-for-China-to-vaccinate-14-billion-birds-4698.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Bird flu: "Impossible" for China to vaccinate 14 billion birds
+<\TITLE>
+<ABSTRACT>
+
+<\ABSTRACT>
+<CONTENT>
+ 
+
+ 
+
+Beijing (AsiaNews/Agencies)  Vaccinating all poultry raised in China against 
+bird flu "is impossible", experts say. The government announced on 15 November 
+that it will vaccinate all poultry and, at the beginning of this week, it said 
+60% have already been vaccinated. At the moment, there are 5.2 billion chickens 
+in breeding farms and 14 billion will be bred over one year.
+
+Experts have highlighted considerable technical problems. Above all, "the 
+problem is it takes so many people to implement the programme across such 
+immense territory," said Leon Russell, president of the World Veterinary 
+Association. "It is not possible to provide medicine with the feed as this does 
+not work on birds. And even if it did, the residue would contaminate the 
+poultry meat and make it dangerous to consume."
+
+Chinese television has shown workers spraying whole coops at a time, but the 
+Food and Agriculture Organisation (FAO) said it had not heard of cases where 
+this method had proven effective. Each and every bird must be injected with the 
+vaccine.
+
+Using an automatic injector, "each person can vaccinate about 600 an hour", 
+said J.J. Giambrone, professor of poultry health at Auburn University in 
+Alabama. However, he added, even if China has plenty of cheap labour available, 
+"vaccinating 14 billion birds in the field by hand would be almost impossible."
+
+Another difficulty is that 70% of Chinese poultry is raised in backyard farms 
+spread across the territory.
+
+In Vietnam too, the government started to vaccinate poultry in September. 
+There are around 220 million birds and the authorities said that within a short 
+time, vaccination would be completed in 58 out of 64 provinces. Hoang Dang 
+Huyen, head of the Animal Health Department in Bac Giang province, said 
+veterinarians visit households with more than 200 poultry for vaccination, 
+while people with fewer fowl have to travel to an agreed location.
+
+Another obstacle is the timing and costs involved in producing the necessary 
+vaccines. China said it could produce 100 million doses of the vaccine per day, 
+a claim which Giambrone dismissed as "nearly impossible". He said the vaccines 
+are made in specific pathogen free (SPF) eggs, but there are not enough SPF 
+eggs in the world to produce that much vaccine. If China is using regular 
+hatching eggs, they "may be contaminated with bacteria and viruses," and this 
+means they run the "risk [of] contaminating all their poultry flocks".
+
+The use of fake vaccines is a widespread problem in China. Du Qingling, 
+Agriculture Minister, warned this month that "the use of fake and shoddy 
+vaccines will result in a disaster" and that only the use of certified vaccines 
+can provide immunity to the virus.
+
+It has been observed that in the case of outbreaks of infection, China prefers 
+to cull birds at risk rather than to vaccinate them. So far, according to the 
+government, more than 21.1 million birds have been culled. This leads one to 
+believe that vaccinations are either still incomplete or else not easily 
+applicable. Said Russell: "The best thing is to stop the spread by destroying 
+the flocks that have bird flu."
+
+Meanwhile, despite the vaccination campaign, new outbreaks of infection are 
+practically a daily occurrence now. Today, the Agriculture Minister reported 
+another three in the northern regions of Xinjiang and Ningxia and in the 
+southern province of Yunnan. Poulty within a 3km radius were culled, more than 
+8,000 birds in Xinjiang, 99,400 in Yunnan and 66,800 in Ningxia. Live poultry 
+markets in Guangzhou and in Urumqi have been shut down, and Shanghai is 
+expected to follow suit within days. The municipal government of Shanghai has 
+ordered all hospitals to pinpoint and to monitor all patients with high fever. 
+In Beijing, all those with temperature higher than 37,5 degrees Centrigrade are 
+placed under observation.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

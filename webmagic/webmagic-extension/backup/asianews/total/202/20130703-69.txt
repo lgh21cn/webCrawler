@@ -1,0 +1,79 @@
+<ID>20130703-69
+<DATE>20130703<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=28371
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Sharif-in-Beijing-to-bring-Arab-oil-to-China-28371.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+ Sharif in Beijing to bring Arab oil to China
+<\TITLE>
+<ABSTRACT>
+From now until 8 July, Pakistani Prime Minister will be in Beijing to discuss energy and investments. The construction of a road-and-rail corridor between Kashgar (Xinjiang) and Gwadar (Baluchistan) on the Arabian Sea is crucial. This way, Pakistan could solve its energy crisis, but in return, it will likely have to "stop" the emergence of Islamic fundamentalism.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Islamabad (AsiaNews/Agencies) - Energy, transport and investment are on the 
+agenda Pakistan Prime Minister Nawaz Sharif is taking with him as he begins 
+today a six-day visit to China (3-8 July). His ultimate aim is to revive his 
+country's economy, which has been paralysed by an energy crisis and violent 
+Islamic fundamentalism. The construction of a road and rail corridor between 
+Kashgar (in the western Chinese province of Xinjiang) and the port of Gwadar 
+(Baluchistan province) on the Arabian Sea is part of the broader picture.
+
+The fact that Sharif chose Beijing for his first official trip abroad after 
+his victory in the 11 May elections is significant. During his stay in China, 
+he is expected to meet at least three members of the Politburo, namely 
+President Xi Jinping, Premier Li Keqiang and Vice Premier Zhang Dejiang.
+
+The Kashgar-Gwadar project is of great interest to both countries. "Sharif 
+knows that Gwadar has significant geopolitical and economic importance for 
+China," said Rashid Ahmed Khan, a professor of international relations at the 
+University of Sargodha in Punjab. "It can provide a short route for Chinese 
+crude imports from the Middle East and for its exports to the region."
+
+Foreign Ministry spokeswoman Hua Chunying agrees. The project "will help both 
+countries as well as the development of the whole region," she said.
+
+In addition to trade, many analysts see the port of Gwadar as part of China's 
+plan to increase its naval power and influence in the Indian Ocean, considered 
+the future centre of international energy exchanges.
+
+The Kashgar-Gwadar line starts in the heart of Xinjiang province and cross 
+into Baluchistan, a desert province bordering Iran and Afghanistan, and among 
+the poorest in Pakistan.
+
+Both areas have often been the scene of sectarian clashes. In recent days, 
+fresh unrest 
+
+ broke out in Xinjiang between indigenous ethnic Uyghur (who are Turkic and 
+Muslim) and Han Chinese, the majority in China. Beijing blamed the attacks on 
+Islamic extremists trained in Pakistan, in camps run by the East Turkestan 
+Islamic Movement.
+
+Baluchistan has been in the hands of paramilitary forces for decades. The 
+exploitation of gas and mineral resources by the government has unleashed 
+attacks by extremist and separatist movements, as well as Taliban groups.
+
+If approved, the project might force Pakistan to find a final settlement to 
+the fundamentalist emergency that has ravaged the country, a problem many blame 
+on the central government in Islamabad.
+
+This view is share by Afghan Army Chief General Sher Mohammad Karimi who said 
+that Pakistan controlled and gave shelter to Taliban leaders, deliberately 
+unleashing fighters on Afghanistan.
+
+"If [Pakistan] put pressure on [the Taliban] leadership or convinced them what 
+to do, that can help a lot," he added.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

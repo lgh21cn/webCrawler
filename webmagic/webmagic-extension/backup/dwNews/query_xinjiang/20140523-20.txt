@@ -1,0 +1,44 @@
+<ID>20140523-20
+<DATE>20140523<\DATE>
+<URL>
+http://www.dw.com/en/wuc-chinas-xinjiang-policy-backfiring/a-17656416
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+WUC: China's Xinjiang policy 'backfiring'
+<\TITLE>
+<ABSTRACT>
+A day after China's restive Xinjiang region suffered a major attack, Alim Seytoff from the World Uyghur Congress tells DW the area is witnessing a violent response to China's 65-year-long "brutal repression" of Uighurs.
+<\ABSTRACT>
+<CONTENT>
+ On May 22, attackers ploughed two vehicles into an open market in Urumqi, the capital of China's western Xinjiang Uighur Autonomous Region, hurling explosives which killed 31 people and wounded 95, according to Chinese authorities. The incident comes after a series of violent episodes at transport hubs throughout China which Beijing blames on Islamists and separatists from the restive region where Muslim Uighurs (also spelled Uyghur) make up around 45 percent of the population.
+ Chinese President Xi Jinping has vowed to follow a "strike-first approach against terrorists in the region," according to state news agency Xinhua, stating that long-term stability was "vital to the whole country's reform." But in a DW interview, Alim Seytoff, spokesperson of the World Uyghur Congress (WUC) warns that China's "heavy-handed" approach will only further alienate members of the ethnic group who already feel their rights to have their own language, religion and identity are being violated by Beijing.
+ 
+ Alim Seytoff: We're not sure who is responsible for the attack either. It is simply too early to tell. However, it is the Chinese government which is blaming the Uighurs. Every time something like this happens, Beijing almost immediately jumps to conclusions, blaming the Uighur people and using it as an opportunity to justify its repression.
+ 
+ We are not sure this is about so-called separatism or terrorism. This is rather a response to China's 65-year-long brutal repression of the Uighur people. Beijing's policies have always been about "attacking and striking hard" at the Uighurs, instead of respecting their rights enshrined into China's Constitution and regional ethnic autonomy laws.
+ While the territory's name, "Xinjiang's Uyghur Autonomous Region," would indicate that Uighurs should have rights under an autonomy arrangement, the reality is that Beijing has never respected those rights and, in fact, has taken them away. This applies, for instance, to the Uighurs' rights to have their own Uighur language, culture, identity as well as religious beliefs and practices.
+ When Uighurs complain about infringement, they are then demonized by the Chinese authorities, harassed, sent to prison and even killed. As a result, we are witnessing this violent opposition to the Chinese government's heavy-handed approach to Uighur issues.
+ 
+ That is what the Chinese government claims. According to its propaganda, Beijing respects the rights of all minority groups. But it is important to point out that China is not a democracy. It is ruled by an authoritarian one-party communist system and minorities such as Uighurs, Mongols, Tibetans and even the ethnic majority of Han Chinese have suffered tremendously under it.
+ However, there is an important aspect to this. Following China's opening up, Beijing helped the Han Chinese improve their lives and make money. But instead of supporting the country's minorities in a similar way, the government tried to forcibly assimilate them and destroy all those who stood against its brutal rule. The reality is that Uighurs and Tibetans and other groups face brutal oppression from Chinese communists.
+ Furthermore, both East Turkistan and Tibet are occupied and colonized not only by Chinese military forces, but also by millions of Chinese settlers who have come to our land to lead good lives with good jobs and a high standard of living guaranteed by the Chinese government. At the same time Uighurs and indigenous populations live in poverty and are not allowed to speak their own language or practice their culture and religion. This is the root cause of the problem.
+ 
+ Beijing has a very good understanding of the needs and political demands of the Uighur people. But the problem is that the Chinese government doesn't respect them. While the authorities understand what Uighurs want, it is in the nature of this authoritarian colonial power to never want to grant legitimate rights to those occupied. It always finds a way to justify its occupation and that is what China has been doing.
+ 
+ It is true that China has developed East Turkistan, Tibet, Inner Mongolia and other historically non-Chinese territories. The government has invested a lot of money in these regions to build high-rise buildings, highways, airports and train stations. But this infrastructure is not meant for the benefit of the Uighurs, Tibetans or other groups.
+ The railways, for instance, have been constructed to transfer millions of Chinese people to occupy and colonize the land. As soon as the Han Chinese arrive, they are given special treatment in terms of jobs, housing, health care and rights otherwise denied to Uighurs.
+The development of infrastructure doesn't justify this brutal treatment. There are similar examples in history: When the British occupied India, they also built railways, roads, factories, and schools, but does that give them the right to occupy India? No.
+ 
+ The Uighur people have traditionally practiced a modern form of Sunni Islam. However, after 65 years, China's atheist and communist education system alongside its attempt to secularize and crack down on our religious practices have been backfiring.
+ The Chinese government's heavy-handed repression of Uighurs is backfiring and forcing an increasing number of them into clinging ever-more to their religious beliefs and practices. The last thing they can hold on to is their religion because every other aspect of their lives - their language and identity - is being attacked and criminalized by the Chinese government.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

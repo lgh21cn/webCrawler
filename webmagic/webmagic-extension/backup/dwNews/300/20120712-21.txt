@@ -1,0 +1,106 @@
+<ID>20120712-21
+<DATE>20120712<\DATE>
+<URL>
+http://www.dw.com/en/tff-rudolstadt-a-big-festival-without-big-names/a-16091076
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+TFF Rudolstadt: A big festival without big names
+<\TITLE>
+<ABSTRACT>
+What kind of rock music is China making, and what do hip-hop and old English dance styles have in common? The 22nd edition of the TFF Rudolstadt festival had some answers - and much more.
+<\ABSTRACT>
+<CONTENT>
+
+ Joy and sadness came all at once at Germany's largest world music festival. 
+Some of the finest concertina players in the world had arranged for a joint 
+concert, rehearsing together for a week ahead of time. One of them was 84-
+year-old Horst Foit. Before his appearance, he had said that he simply could 
+not believe that so many people wanted to hear his music.
+
+But he suffered a heart attack while standing overjoyed on stage. The concert 
+had to be cancelled, and Foit went to the emergency room. The other musicians 
+decided to make up the concertina program the next night, devoting it to their 
+colleague.
+ 
+
+Rudolstadt prize-winners: the Al Andaluz Project
+
+The concertina, a baby cousin of the accordion, was one focal point of the 22nd
+Dance and Folk Festival in Rudolstadt (TFF Rudolstadt), which ended this week 
+after hosting 85,000 visitors at 20 festival stages. With 163 acts, bands, 
+ensembles and artists from 40 countries, the festival again offered its special 
+blend of traditional and contemporary global and local music, from folk and 
+reggae to hip-hop, country and Chinese opera.
+
+Diverse genres from China
+
+ There are probably two things that spring to mind when people in the West 
+think of music from China: cheesy pop songs at a local Chinese joint and the 
+often inaccessible Chinese opera with its dramatic effects and shrill vocals.
+
+But that's far from all China has to offer musically, as festival-goers this 
+year could discover. There was opera, but there was also music of the Uyghur, a 
+Muslim ethnic minority. The band Er Shou Mei Gui offered contemporary rock music
+, and singer Gong Linna appeared with the first Chinese folk music choir, 
+DaBaiSong. Gong Linna also took part in an orchestral project featuring the 
+Thuringian State Symphony Orchestra, whose members have appeared at the TFF 
+Rudolstadt for several years.
+ 
+
+Street musicians of every stripe take to the festival
+
+Dancing in the streets
+
+ Even for seasoned TFF fans, it's a welcome surprise each year to see how 
+engaged the audience is at the events. There are countless street music 
+ensemblesthat play everywhere in the city, and numerous visitors also bring 
+along their instruments. They like to jam out wherever they please, or they can 
+head to the various concerts and workshops where there are chances to dance and 
+play along.
+
+Street dance styles ranging from folk to hip-hop are still an important 
+ingredient in the Rudolstadt music mix. The amateurs in Rudolstadt perform at a 
+high level. Providing the backdrop around nearly every corner are the sounds of 
+solo guitarists, percussion ensembles, cajon players and even entire Balkan 
+combos.
+
+ When the weather permits, the street music is often as big of a draw as the 
+stage programming.
+
+Prize-winning unknowns
+ 
+
+Hannes Wader won the festival's lifetime achievement award
+
+Ruth is the name of the world music award presented annually to three 
+musicians at TFF Rudolstadt. This time, protest singer Hannes Wader from 
+Germany received the award for lifetime achievement. Wader confessed that he had
+not yet received a single prize in his 50-year career as an artist and that at 
+his age he prefers to write songs about death or women than about current 
+political affairs.
+
+The Al Andaluz Project, a consortium of German, Spanish and Moroccan musicians
+, was also awarded a prize, as well as the Strottern, who now play their 
+modernist, blues-filled Viennese songs with backing from wind players.
+
+ There are very few big names in Rudolstadt, even among the prize-winners, but 
+the festival doesn't live from star power. There are, however, a few exceptions 
+in each year's program, like German reggae superstar Gentleman or American 
+singer-songwriter Alison Krauss in 2012.
+
+ The draw of Rudolstadt lies much more in the discovery of the new, and in 
+being part of a spring-up community that is singular in Germany's festival 
+season.
+
+ Author: Matthias Klaus / gsw
+ Editor: Kate Bowen
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

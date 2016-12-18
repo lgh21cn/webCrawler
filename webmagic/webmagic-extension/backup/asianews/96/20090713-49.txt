@@ -1,0 +1,57 @@
+<ID>20090713-49
+<DATE>20090713<\DATE>
+<URL>
+http://www.asianews.it/news-en/Fresh-violence-in-Xinjiang-leaves-two-more-Uyghurs-dead-15772.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Fresh violence in Xinjiang leaves two more Uyghurs dead
+<\TITLE>
+<ABSTRACT>
+Official sources say police had to intervene to stop a brawl among Uyghurs. State media slam an “orchestrated campaign” for demonstrations in front of Chinese diplomatic missions.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Urumqi (AsiaNews/Agencies) – More unrest broke out in Urumqi, capital of 
+Xinjiang, scene of violence clashes in the past few days between the local 
+Muslim Uyghur minority and Chinese security forces. Two ethnic Uyghur men were 
+killed by police and a third one was injured. But China’s official media 
+continue to claim that violence is caused by an “orchestrated campaign” which 
+is also responsible for demonstrations in front Chinese embassies in Europe and 
+the United States. 
+A spokesman for the Xinjiang Autonomous Region said that police had to move in 
+today to stop an attack by three Uyghurs against a fourth one. During their 
+intervention police shot two men to death and seriously injured a third.
+
+Unofficial sources claim that police fired at a group of Uyghurs armed with 
+knives and rods who had attacked the police.
+
+In the meantime Urumqi remains under tight police control. Police issued new 
+measures to enforce law and order. They include a ban on carrying knives and 
+sticks in the street, shouting slogans, waving banners or handing out flyers.
+
+In Turkey, Norway, Germany and the Netherlands demonstrators threw eggs, 
+Molotov cocktails and stones at Chinese embassies and consulates.
+
+Xinhua, China’s official news agency, reported that unrest in Xinjiang and 
+protests in front of China’s diplomatic missions appeared “well-orchestrated” 
+by “supporters of the East Turkestan”.
+
+It blamed the unrest on the World Uyghur Congress, an organisation that 
+represents Uyghurs outside of China.
+
+The official death toll stands at 184, including 137 ethnic Han Chinese and 46 
+Muslim Uyghurs. About 1,700 people were injured.
+
+Dissident groups in exile claim instead that hundreds of Muslims died during 
+the clashes.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

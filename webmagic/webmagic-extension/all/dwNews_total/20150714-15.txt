@@ -1,0 +1,31 @@
+<ID>20150714-15
+<DATE>20150714<\DATE>
+<URL>
+http://www.dw.com/en/chinese-police-shoot-dead-terrorist-uighurs/a-18582486
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese police shoot dead 'terrorist' Uighurs
+<\TITLE>
+<ABSTRACT>
+Officers in Shenyang have killed three Uighur men who they say were Islamist militants. Activists have said that Uighurs are merely being discriminated against by a "hostile" government.
+<\ABSTRACT>
+<CONTENT>
+ Police officers in the northeastern Chinese city of Shenyang shot and killed three Uighur men carrying knives and injured a fourth on Monday evening, according to the local government and state media. They reported that the men were shouting about Islamic holy war, but declined to give any further details of the incident.
+ "When police pursued the terrorist suspects, four terrorists armed with knives resisted arrest. Police fired shots only after the terrorists ignored warnings," read an online statement from the Shenyang public security bureau before it was taken down without explanation.
+ State-run Beijing News, citing the provincial government, said the police had killed the militants when they resisted them during a raid.
+ "When the police tried to enter to investigate, four terrorists wearing headgear, holding knives and crying out 'jihad' hacked at the police," the Beijing News said. The news outlet reported that the men were from , and that the "accompanying children" as well as one woman, also from Xinjiang, had been apprehended by authorities.
+ 
+ Activists say that Uighurs,  by the Chinese government, are simply fleeing violence in Xinjiang, where hundreds have died in recent years. The government blames the strife on Islamic militants and says Uighurs want to create their own breakaway state.
+ In a statement about Monday's incident, Dilxat Raxit, a spokesman for the exile group World Uyghur Congress wrote: "The accusation that they are suspected terrorists exposes China's hostile and discriminatory attitude."
+ "China's barbarian policy of shooting people dead before judicial interrogation should be prevented by the international community," said Raxit.
+ es/msh (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

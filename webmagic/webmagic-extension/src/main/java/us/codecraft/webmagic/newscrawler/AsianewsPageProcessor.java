@@ -71,7 +71,7 @@ public class AsianewsPageProcessor extends NewsCrawlerProcessor implements NewsP
 //	private int sCounter=0;
 	
 	@Override
-	public void contentProcess(Page page) {
+	public void contentProcess(Page page) throws ContentMatchException  {
 		//提取内容
 		page.putField(AsianViewDetailItem.TIME, timeFormat(page.getHtml().xpath("//div[@class='pre_articolo_det']/text()").toString()));
 		page.putField(AsianViewDetailItem.URL, page.getUrl().toString());
@@ -88,6 +88,8 @@ public class AsianewsPageProcessor extends NewsCrawlerProcessor implements NewsP
 		if(skipCrawler(l_content)){
 			page.setSkip(true);		
 			System.out.println("[WARNING]Page :"+page.getUrl().toString()+" will NOT download......[WARNING]");
+
+			throw new ContentMatchException();
 		}
 		
 		if(page.getRequest().getExtra(AsianViewDetailItem.CONVERT_URL)!=null){
@@ -127,7 +129,9 @@ public class AsianewsPageProcessor extends NewsCrawlerProcessor implements NewsP
 
 		List<Request> requests=new ArrayList<Request>();
 		boolean addNew=false;
-		FileUtils.loadUrlFile("./tmp_url_removed.txt", requests,addNew);
+//		FileUtils.loadUrlFile("./tmp_url_removed.txt", requests,addNew);
+//		FileUtils.loadUrlFile("./query_asianews_total_no_duplicated.txt", requests,addNew);
+		FileUtils.loadUrlFile("./error_log.txt", requests,addNew);
 //		FileUtils.loadUrlFile(FileNumberVerifier.VERIFIED_SUCCESS_CRAWLER_LOG_PATH, requests,addNew);
 		Request[] requests2=requests.toArray(new Request[requests.size()]);
 		for (Request request : requests2) {
@@ -140,7 +144,8 @@ public class AsianewsPageProcessor extends NewsCrawlerProcessor implements NewsP
 		List<SpiderListener> sl=new ArrayList<SpiderListener>();
 		sl.add(processor);
 		
-		
+//		FileUtils.docName="asianews";
+		System.out.println("Workplace: "+FileUtils.docName);
 		Spider.create(processor).setSpiderListeners(sl).scheduler(new FileCacheQueueScheduler(".//"+FileUtils.docName+"//FileCache//"))
 		.addPipeline(new AsiaNewsPipeline())
 //		.addPipeline(new FilePipeline(".\\asianews2"))

@@ -1,0 +1,58 @@
+<ID>20090826-22
+<DATE>20090826<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=16149
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/Hu-Jintao-on-tour-of-inspection-of-Xinjiang-16149.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Hu Jintao on tour of inspection of Xinjiang
+<\TITLE>
+<ABSTRACT>
+Hu maintains China has quashed separatism, extremism and terrorism. But he asks the party, military and local authorities to work to improve the economic development of the population. Beijing denies the upcoming trial of 200 Uyghur as well as torture and the death of hundreds of prisoners. 
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews) - For the first time since violent clashes at the beginning 
+of July, President Hu Jintao has visited Xinjiang, proclaiming victory over the 
+three forces that endanger China: separatism, extremism and terrorism. In his 
+tour of inspection, August 22 to 25, Hu visited villages, farms, industries, 
+communities and barracks, having meetings with army personnel, local government 
+and religious representatives. On 5 July, a peaceful demonstration by Uyghurs, 
+blocked by police, turned into open clashes between Muslim ethnic Uyghurs, the 
+local population in Xinjiang, and the Han Chinese, who are currently colonizing 
+the economics and politics of the region. At least 200 people died and over 2 
+thousand were injured. The Uighur groups abroad, claim more than 10 thousand 
+Uyghurs disappeared, probably killed or arrested. Hu Jintao, to address the 
+crisis, was forced to abandon G8 meetings in Italy and rush home. During his 
+tour, Hu Jintao visited the widow, Zhao Li, wife of a policeman killed in the 
+clashes. At the same time he promised local farmers more efficient economic 
+measures to support ethnic minorities. In Xinjiang, their homeland, the Uyghurs 
+are marginalized from economic and political life, suffering violations of 
+their religious freedom. In a meeting with party leaders, army and police, Hu 
+stressed that the key to stability in the region and "the most urgent task” is 
+to increase economic development and living standards of the population. Only 
+then - he said - can we build a "prosperous, harmonious socialist" Xinjiang. 
+This emphasis on local problems contrasts with the interpretation that Beijing 
+has expounded since the riots, blamed on foreign groups and powers, on Muslim 
+separatists and terrorists. In recent days it was reported that, at the very 
+end of Hu’s visit, in Xinjiang the trial of 200 Uyghur charged with violence 
+during the July riots, took place. But local authorities have denied this. 
+Another news report spoke of  about 200 Uyghur "tortured and killed" in Chinese 
+prisons in recent weeks. The spokesman of the government of Xinjiang, Hou 
+Hanmin, again denied this, noting that the official number of those arrested is 
+83. The situation in Xinjiang remains tense: phones and internet services are 
+blocked, as well as various local sites and global networks such as Facebook 
+and Twitter. According to official figures, at least 200 thousand tourists have 
+cancelled their holidays to Xinjiang after the riots.   
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

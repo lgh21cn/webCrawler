@@ -1,0 +1,46 @@
+<ID>20140926-155
+<DATE>20140926<\DATE>
+<URL>
+http://www.dw.com/en/ai-australia-cambodia-refugee-deal-in-violation-of-international-law/a-17958007
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+AI: Australia-Cambodia refugee deal 'in violation of international law'
+<\TITLE>
+<ABSTRACT>
+Despite human rights concerns, a deal has been signed that will see refugees who sought asylum in Australia resettled in Cambodia instead; a move regarded by AI's Rupert Abbott as violating human rights obligations.
+<\ABSTRACT>
+<CONTENT>
+ The deal was signed by Australian Immigration Minister Scott Morrison and Cambodian Interior Minister Sar Kheng on Friday, September 26, to resettle an unspecified number of refugees currently held at an Australian-run detention camp on the tiny Pacific island nation of Nauru. Most of the detainees arrived by boat from the Middle East and South Asia.
+ Under the deal, Australia will pay Cambodia 35 million USD over four years, plus carry the costs of resettlement; a move by Australia's conservative government to deter asylum seekers from reaching the country. Australia's conservative government has been facing growing international scrutiny over its policy of turning back boats carrying potential refugees.
+ Rupert Abbott, Amnesty International's (AI) Deputy Asia Pacific Director, says in a DW interview that the relocation of refugees by Australia to Nauru and then on to Cambodia is a blatant violation of international law as it puts the lives of asylum seekers at risk for the sake of short-term political interests.
+ 
+ Rupert Abbott: The deal puts the short-term political interests of the Australian government ahead of the protection of people seeking protection from persecution in their home countries. It's a new low in Australia's already inhumane and deplorable treatment of asylum seekers and refugees.
+ The relocation of refugees is a blatant violation of international law, particularly the Refugee Convention, which obliges Australia to process and host refugees who arrive in its territory or come within its effective control, for example if they are intercepted at sea by Australia.
+ Australia has the capacity to take in these refugees, while on the other hand there are significant concerns about Cambodia's capacity to provide the legal protections, support and services that refugees need to live a safe, stable life, particularly given the country's own troubling track record on human rights.
+ 
+ Cambodia has a chequered record in protecting and supporting refugees. In December 2009, it received almost universal condemnation when it forcibly returned a group of 20 ethnic Uighur asylum seekers, including a pregnant woman and two children, to China. Cambodia's existing population of 70 refugees has limited rights and support services.
+ The agreement with Australia also comes at a troubling time for human rights in Cambodia, a situation that Australia itself has criticized. Since a violent crackdown by security forces on striking workers and activists in January this year saw at least four people killed, scores injured and one boy left apparently disappeared, the rights to freedom of expression and peaceful assembly have been increasingly ignored. Peaceful assemblies by workers, land activists, human rights defenders and opposition party supporters are regularly broken up or denied altogether.
+ 
+Under the memorandum of understanding, the Australian government will cover all costs related to the relocation of refugees to Cambodia. In addition, Australia's aid to Cambodia will apparently increase by 40 million AUD (35 million USD) over four years. There is a clear financial incentive for Cambodia. For the Australian government, it is an opportunity to further deter refugees from seeking asylum in Australia.
+ 
+ No details of the terms of the deal were released until after it had been signed, and no consultation was carried out with civil society in either country, independent human rights organizations, affected communities or the people of Cambodia or Australia.
+ As far as Amnesty International is aware, the UN High Commissioner for Refugees, though referred to in the agreement, was not consulted on the deal - indeed, it has publicly condemned it. This lack of transparency is unacceptable when dealing with the human rights and lives of men, women and children.
+ 
+ The relocation of refugees by Australia to Nauru and then on to Cambodia, violates the Refugee Convention, which obliges Australia to process and host refugees who arrive in its territory. The offshore processing system, in which Cambodia is set to participate, has seen asylum seekers' human rights routinely violated. For example, Amnesty International's research has revealed that conditions for asylum seekers at the Australian-run detention center on Papua New Guinea's Manus Island were harsh, humiliating and designed to pressure asylum seekers to return to the countries they had fled.
+ 
+ The agreement states that a small number of refugees will be relocated from Nauru to Cambodia on a trial basis, with an unspecified number being transferred later depending on Cambodia's capacity to support them. It is not clear what life will be like for these refugees in Cambodia. The 70 refugees already living in Cambodia are denied some freedoms, necessary documentation and pathways to citizenship.
+ While the agreement says that a range of documentation, support and services will be provided to the relocated refugees, which to some extent match UN standards, the Australian Government has a poor record of ensuring that its practices meet the standards it puts on paper. Australia will be complicit in any human rights violations that the refugees relocated to Cambodia may suffer.
+ 
+ We are calling for the Cambodian and Australian governments to cancel this poorly considered agreement, and for Australia to process and offer protection to all refugees who seek protection in its territory or who fall under its effective control, for example those whose boats are intercepted at sea by Australia.
+ It's crucial that Australia, Nauru and Papua New Guinea end the offshore detention of asylum seekers - a harsh, humiliating policy practiced by no other governments in the world. The Australian government should instead work with the United Nations High Commissioner for Refugees, other governments in the Asia-Pacific region and civil society groups to develop a regional solution which genuinely protects the rights of asylum seekers and refugees, in line with international human rights and refugee law.
+ 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

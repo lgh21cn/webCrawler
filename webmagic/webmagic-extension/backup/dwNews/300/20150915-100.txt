@@ -1,0 +1,69 @@
+<ID>20150915-100
+<DATE>20150915<\DATE>
+<URL>
+http://www.dw.com/en/thai-police-believe-bangkok-bombing-suspect-is-in-turkey/a-18714540
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Thai police believe Bangkok bombing suspect is in Turkey
+<\TITLE>
+<ABSTRACT>
+Thai police have said a key suspect in last month's bombing in downtown Bangkok has fled to Turkey. According to police, the attack could be the work of China's ethnic Uighur minority who have sympathizers in Turkey.
+<\ABSTRACT>
+<CONTENT>
+
+ Thai police previously said the man, carrying a Chinese passport in the name 
+of Abudureheman Abudusataer, may have directed the August 17 bombing of the 
+Erawan Shrine in downtown Bangkok.
+
+ Police investigations have revealed that the suspect left Thailand on August 
+16 for Bangladesh, and police previously speculated that he might have gone to 
+China. However, information gathered by Thai police and Bangladeshi officials 
+showed that the man left Bangladesh's capital, Dhaka, and traveled to Istanbul 
+on August 30, said national police spokesman Prawut Thavornsiri.
+
+ This has strengthened the theory that those responsible for the blast are 
+Uighurs 
+
+ from the Chinese region of Xinjiang who have close ties to Turkey.
+
+ However, a senior Turkish government official has denied the claim.
+
+ "There is no record of the suspect having entered Turkey," said the official 
+in an email on condition of anonymity, in line with office policy. "Nor have 
+the Thai authorities informed us that a terrorism suspect was traveling to 
+Turkey."
+
+Two suspects in custody
+
+ Uighurs have long complained of oppression by the Chinese government, and 
+some advocate turning Xinjiang into a separate Uighur state. Several of the 12 
+bombing suspects for whom arrest warrants have been issued are believed to be 
+Turkish.
+
+ Thailand has suggested that those behind the blast may have been from a gang 
+involved in smuggling Uighurs. Others have speculated they may be separatists 
+or Islamist extremists angry that Thailand repatriated more than 100 Uighurs to 
+China in July.
+
+ Two key suspects are in custody, charged with possession of illegal 
+explosives. One was captured in an apartment on the outskirts of Bangkok, where 
+police also discovered bomb-making material. The other was caught near the 
+border between Thailand and Cambodia, and police said his fingerprints were 
+found on a container with explosive material confiscated from the apartment.
+
+ Also on Monday, Malaysia's police chief announced that a Pakistani and two 
+Malaysianshave been detained 
+
+ in connection with the Bangkok bombing.
+
+ av/cmk (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

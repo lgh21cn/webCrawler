@@ -1,0 +1,37 @@
+<ID>20090710-1
+<DATE>20090710<\DATE>
+<URL>
+http://www.dw.com/en/uighur-plight-in-china-leads-to-protests-muslim-condemnation/a-4472034
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Uighur plight in China leads to protests, Muslim condemnation
+<\TITLE>
+<ABSTRACT>
+Clashes between Uighurs and Han Chinese in northwest China have sparked protests and demonstrations in several cities around the world.
+<\ABSTRACT>
+<CONTENT>
+After nearly a week of unrest and clashes between Muslim Uighurs and Han Chinese in China’s northwest Xinjian province, members of the Uighur community and supporters of their cause protested around the world. Rising concerns over the situation have caused Muslim leaders to speak out in condemnation of the Chinese government’s inability to calm the violence.
+In Berlin around 250 demonstrators marched from the Chinese embassy to the Brandenberg Gate on Friday, calling on the international community to intervene.
+"We lost our language 60 years ago," Erkin Solon, 23, a Uighur immigrant who came to Germany seven years ago, said.
+"We are not allowed to speak it. Or learn it in school," he said. "Religious freedom is not allowed. We are not allowed to go to the mosque because you lose your job or you could even get killed."
+Asgar Can, of the World Uighur Congress called on Germany and Europe to stop the persecution of the Uighurs in China. Can accused the Chinese government of encouraging ethnic Han Chinese to move to the region to render the eight million-strong population of Uighurs a minority in the region.
+
+Across the Muslim world, concerns have been raised by the recent events in China, where the Uighurs long maintained that they were oppressed by the Chinese government.
+In Turkey Prime Minister Recep Tayyip Erdogan told reporters: "The events taking place in China amount to a form of genocide."
+In Istanbul, about 5,000 people demonstrated outside the Faith mosque chanting "No to ethnic cleansing" and burning Chinese products.
+
+Uighurs are Turkic speakers and the Turkish people "feel very close to the Uighur people and share their suffering," according to a Turkish foreign ministry statement.
+Other protests were held in several Turkish towns including the capital Ankara. Elsewhere, demonstrations were held in Canberra, Australia, and in The Hague in Holland earlier in the week, protestors were arrested for hurling rocks at the Chinese embassy.
+In Berlin, Solon saw the situation as very dire, "The world should support us otherwise we have no chance - we will all be destroyed or assimilated or killed."
+The Chinese government has placed the death toll stemming from the violence at 184 while the World Uighur Congress leader, Rebiya Kadeer, asserted that the number of Uighur dead could be in the thousands.
+sjt/AFP/ReutersEditor: Chuck Penfold
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>
