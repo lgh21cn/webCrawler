@@ -1,0 +1,12 @@
+Police/O in/O China/LOCATION 's/O restive/O Xinjiang/LOCATION province/O have/O shot/O dead/O 13/O assailants/O ,/O after/O they/O drove/O a/O vehicle/O into/O a/O police/O station/O and/O set/O off/O an/O explosion/O ./O 
+Three/O police/O officers/O were/O also/O injured/O in/O Saturday/O 's/O attack/O ,/O the/O latest/O incident/O in/O a/O wave/O violence/O that/O has/O gripped/O China/LOCATION 's/O western/O Xinjiang/LOCATION province/O ./O 
+``/O The/O gangsters/O drove/O a/O vehicle/O to/O ram/O the/O building/O of/O the/O public/O security/O bureau/O of/O Yecheng/LOCATION County/LOCATION in/O southern/O Xinjiang/LOCATION and/O set/O off/O explosives/O ,/O ''/O reported/O the/O state/O news/O agency/O ,/O Xinhau/LOCATION ./O 
+Xinjiang/LOCATION is/O home/O to/O the/O predominantly/O Muslim/ORGANIZATION ethnic/O Uighur/O community/O ,/O which/O has/O a/O tense/O relationship/O with/O Beijing/LOCATION ./O 
+Many/O Uighurs/O accuse/O the/O Chinese/O government/O of/O restricting/O their/O cultural/O and/O religious/O practices/O and/O discriminating/O against/O them/O in/O favor/O of/O the/O Han/O ethnic/O group/O ./O 
+Beijing/LOCATION has/O blamed/O separatist/O Uighur/O militants/O affiliated/O with/O the/O East/ORGANIZATION Turkestan/ORGANIZATION Islamist/ORGANIZATION Movement/ORGANIZATION for/O launching/O a/O series/O of/O lethal/O attacks/O recently/O ./O 
+Earlier/O this/O week/O ,/O authorities/O executed/O 13/O people/O for/O ``/O terrorist/O attacks/O ''/O in/O Xinjiang/LOCATION ./O 
+Beijing/LOCATION sentenced/O three/O others/O to/O death/O for/O an/O attack/O last/O October/O in/O Tiananmen/LOCATION Square/LOCATION ,/O in/O which/O assailants/O drove/O a/O car/O into/O a/O crowd/O ,/O killing/O two/O pedestrians/O and/O wounding/O 40/O others/O ./O 
+Last/O month/O ,/O assailants/O threw/O explosives/O and/O drove/O off-road/O vehicles/O through/O a/O market/O in/O Xinjiang/LOCATION 's/O provincial/O capital/O ,/O Urumqi/LOCATION ./O 
+At/O least/O 43/O people/O died/O in/O that/O attack/O ./O 
+In/O March/O ,/O attackers/O armed/O with/O knives/O went/O on/O a/O stabbing/O spree/O in/O the/O southwestern/O city/O of/O Kunming/LOCATION ,/O killing/O 29/O people/O and/O wounding/O 143/O others/O ./O 
+slk/rc/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O 

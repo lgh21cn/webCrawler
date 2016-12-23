@@ -1,0 +1,15 @@
+Arbitrarily/O arrested/O ,/O four/O Christians/O were/O detained/O and/O tortured/O for/O 32/O days/O ./O 
+The/O Anhui/ORGANIZATION Religious/ORGANIZATION Affair/ORGANIZATION Bureau/ORGANIZATION shut/O down/O a/O house/O church/O set/O up/O 53/O years/O ago/O ./O 
+<LOCATION>Qingshuihe/O</LOCATION> -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O --/O After/O 32/O days/O in/O prison/O ,/O four/O unofficial/O Christians/O from/O northern/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O were/O released/O on/O 26/O November/O ./O 
+They/O were/O tortured/O by/O prison/O guards/O and/O by/O convicts/O sharing/O their/O cells/O throughout/O their/O detention/O ./O 
+On/O the/O same/O day/O ,/O the/O Religious/ORGANIZATION Affair/ORGANIZATION Bureau/ORGANIZATION forcibly/O shut/O down/O a/O house/O church/O in/O <LOCATION>Anhui/O</LOCATION> that/O had/O been/O set/O up/O 53/O years/O ago/O by/O the/O charismatic/O pastor/O Wang/PERSON ./O 
+Further/O ,/O the/O bureau/O threatened/O around/O 200/O Christians/O who/O used/O to/O attend/O the/O church/O with/O ``/O serious/O repercussions/O ''/O if/O they/O did/O not/O accept/O to/O be/O subject/O to/O the/O government-approved/O <ORGANIZATION>Movement/O of/O the/O</ORGANIZATION> Three/ORGANIZATION Autonomies/ORGANIZATION -LRB-/O MTA/ORGANIZATION -RRB-/O ./O 
+This/O was/O denounced/O by/O China/ORGANIZATION Aid/ORGANIZATION Association/ORGANIZATION -LRB-/O CAA/ORGANIZATION -RRB-/O ,/O a/O US-based/O non-governmental/O organisation/O that/O lobbies/O for/O religious/O freedom/O in/O <LOCATION>China/O</LOCATION> ./O 
+The/O CAA/ORGANIZATION said/O that/O ``/O without/O giving/O any/O reasons/O for/O their/O arrest/O or/O release/O ''/O ,/O the/O authorities/O of/O northern/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O freed/O all/O the/O Christians/O who/O had/O been/O arrested/O last/O month/O in/O Qingshuihe/LOCATION in/O the/O eastern/O part/O of/O the/O province/O ./O 
+Four/O detainees/O were/O imprisoned/O for/O 32/O days/O without/O charge/O and/O now/O they/O are/O in/O hospital/O ./O 
+One/O told/O how/O he/O was/O ``/O tortured/O every/O day/O ./O 
+The/O guards/O beat/O me/O if/O I/O ate/O the/O food/O or/O did/O not/O eat/O the/O food/O ,/O ate/O too/O much/O or/O too/O little/O ,/O went/O to/O the/O toilet/O or/O did/O not/O go/O to/O the/O toilet/O !/O 
+They/O just/O beat/O me/O for/O no/O reason/O ./O ''/O 
+Another/O ,/O Tan/PERSON ,/O said/O he/O was/O put/O in/O the/O same/O cell/O as/O homosexual/O convicts/O ./O 
+``/O The/O guards/O put/O me/O there/O on/O purpose.I/O was/O humiliated/O physically/O and/O psychologically/O ./O 
+I/O would/O not/O come/O out/O alive/O if/O I/O had/O been/O with/O them/O any/O longer/O ./O ''/O

@@ -1,0 +1,19 @@
+The/O tragedy/O occurred/O overnight/O near/O the/O provincial/O capital/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+The/O local/O government/O and/O the/O National/O work/O safety/O watchdog/O ``/O are/O investigating/O ./O ''/O 
+Families/O of/O the/O workers/O who/O ``/O escaped/O ''/O arrive/O at/O the/O site/O ./O 
+Coal/O mining/O confirmed/O as/O China/LOCATION 's/O most/O dangerous/O job/O ./O 
+<U_LOCATION>Urumqi/LOCATION</U_LOCATION> -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O -/O The/O collapse/O of/O a/O coal/O mine/O in/O the/O western/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> has/O killed/O 16/O miners/O and/O seriously/O injured/O other/O 11/O ./O 
+The/O tragedy/O occurred/O last/O night/O in/O <U_LOCATION>Tiechanggou/LOCATION</U_LOCATION> -/O a/O town/O near/O the/O local/O capital/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> -/O but/O official/O news/O has/O only/O now/O began/O circulating/O ./O 
+There/O was/O a/O total/O of/O 33/O workers/O inside/O the/O mine/O at/O the/O time/O of/O the/O collapse/O :/O according/O to/O the/O authorities/O ,/O the/O six/O who/O are/O missing/O ``/O fled/O ''/O ./O 
+The/O police/O report/O into/O the/O incident/O has/O not/O named/O the/O coal/O mine/O ./O 
+Moreover/O it/O merely/O states/O that/O ``/O the/O causes/O of/O the/O accident/O are/O currently/O under/O investigation/O ./O ''/O 
+Even/O the/O National/ORGANIZATION Work/ORGANIZATION Safety/ORGANIZATION Watchdog/ORGANIZATION said/O it/O had/O opened/O an/O investigation/O ,/O without/O giving/O further/O details/O ./O 
+The/O families/O of/O the/O miners/O and/O some/O local/O reporters/O rushed/O to/O the/O scene/O but/O were/O turned/O away/O by/O security/O agents/O ./O 
+Coal/O mining/O is/O the/O most/O dangerous/O job/O in/O all/O of/O China/LOCATION ,/O which/O relies/O on/O the/O fuel/O for/O 70/O %/O of/O its/O energy/O needs/O ./O 
+Despite/O the/O central/O government/O 's/O rhetoric/O and/O promises/O ,/O which/O has/O repeatedly/O declared/O it/O will/O pace/O stringent/O safety/O measures/O on/O mining/O activities/O ,/O illegal/O mines/O have/O sprouted/O throughout/O the/O country/O ./O 
+Often/O the/O owners/O do/O not/O follow/O safety/O rules/O ,/O and/O send/O unprepared/O people/O with/O outdated/O equipment/O underground/O ./O 
+According/O to/O the/O latest/O government/O statistics/O ,/O in/O 2012/O 1,384/O people/O were/O killed/O in/O mines/O ./O 
+In/O 2011/O ,/O 1,973/O more/O died/O ,/O all/O in/O accidents/O in/O coal/O mines/O ,/O a/O reduction/O of/O 19/O %/O over/O the/O previous/O year/O ./O 
+But/O human/O rights/O groups/O and/O Chinese/O scholars/O say/O the/O figure/O is/O much/O higher/O :/O many/O mine/O owners/O ,/O in/O fact/O ,/O do/O not/O report/O incidents/O for/O fear/O of/O economic/O losses/O ,/O fines/O or/O plant/O closures/O ./O 
+Very/O often/O local/O authorities/O are/O corrupted/O by/O bribes/O to/O turn/O a/O blind/O eye/O to/O the/O lack/O of/O security/O policies/O ./O 
+Mine/O closures/O are/O ,/O under/O the/O new/O President/O Xi/PERSON Jinping/PERSON ,/O another/O part/O of/O the/O anti-corruption/O campaign/O launched/O by/O Communist/O officials/O ./O

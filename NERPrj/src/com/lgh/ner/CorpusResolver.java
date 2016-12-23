@@ -8,10 +8,12 @@ public class CorpusResolver {
 	
 	public static final String ROOT_CORPUS_PATH="C:/eclipse/workspace/NERPrj/corpus";
 	public static final String ROOT_UNTAGGED_CORPUS_PATH="C:/eclipse/workspace/NERPrj/untagged";
+	
+	public static final String UNTAGGED_CORPUS_CREATED_ERROR="new_corpus_created_error.txt";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		String path=ROOT_CORPUS_PATH+"/asianews/20050309-102.txt";
+		String path=ROOT_CORPUS_PATH+"/asianews/20050309-102.txt";
 		List<String> paths=new ArrayList<String>();
 		try {
 			FileUtils.readAllFilePaths(ROOT_CORPUS_PATH, paths);
@@ -23,10 +25,10 @@ public class CorpusResolver {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+//		createNewCorpus(ROOT_CORPUS_PATH+"/dwNews/20161212-211.txt");
 		
 	}
-	
+	public static final String ERROR_LOG_FORMAT="Origin Path:%s\nNew Path:%s\n";
 	public static void createNewCorpus(String path){
 		String fileName=getFileName(path);
 		String belong=getBelongName(path);
@@ -34,8 +36,11 @@ public class CorpusResolver {
 		String corpus=FileUtils.readFile(path);
 		CorpusResolver cr=new CorpusResolver();
 		String new_corpus=cr.resolver(corpus, ROOT_UNTAGGED_CORPUS_PATH+FileUtils.seperator+belong);
-		
-		FileUtils.writeErrorLog(ROOT_UNTAGGED_CORPUS_PATH+FileUtils.seperator+belong+FileUtils.seperator+fileName, new_corpus);
+		String new_corpus_path=ROOT_UNTAGGED_CORPUS_PATH+FileUtils.seperator+belong+FileUtils.seperator+fileName;
+		if(new_corpus!=null)
+			FileUtils.writeErrorLog(new_corpus_path, new_corpus);
+		else
+			FileUtils.writeErrorLog(ROOT_UNTAGGED_CORPUS_PATH+FileUtils.seperator+UNTAGGED_CORPUS_CREATED_ERROR, String.format(ERROR_LOG_FORMAT, path,new_corpus_path), true);
 	}
 	
 	public static String getFileName(String path){

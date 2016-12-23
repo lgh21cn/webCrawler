@@ -1,0 +1,14 @@
+Russian/O President/O Vladimir/PERSON Putin/PERSON is/O attending/O a/O meeting/O of/O Central/O Asian/O leaders/O in/O China/LOCATION ./O 
+Security/O and/O economic/O relations/O are/O on/O the/O agenda/O of/O the/O alliance/O 's/O meeting/O ./O 
+Heads/O of/O member/O states/O of/O the/O Shanghai/ORGANIZATION Cooperation/ORGANIZATION Organization/ORGANIZATION -LRB-/O SCO/ORGANIZATION -RRB-/O are/O holding/O a/O two-day/O summit/O in/O Beijing/LOCATION ,/O with/O the/O situation/O in/O Afghanistan/LOCATION high/O on/O the/O agenda/O ./O 
+Chinese/O President/O Hu/PERSON Jintao/PERSON called/O on/O the/O group/O to/O improve/O communication/O and/O coordination/O to/O fight/O the/O ``/O three/O evil/O forces/O ,/O ''/O which/O he/O said/O were/O terrorism/O ,/O separatism/O and/O extremism/O ./O 
+He/O was/O quoted/O in/O the/O official/O Chinese/O news/O agency/O Xinhua/ORGANIZATION as/O saying/O that/O the/O global/O financial/O crisis/O and/O cross-border/O crime/O posed/O threats/O to/O peace/O and/O economic/O development/O in/O the/O entire/O region/O ./O 
+Russian/O President/O Vladimir/PERSON Putin/PERSON stressed/O that/O he/O saw/O the/O stability/O of/O Afghanistan/LOCATION as/O an/O issue/O of/O ``/O common/O concern/O ./O ''/O 
+Chinese/O officials/O are/O hoping/O the/O leaders/O will/O approve/O a/O plan/O for/O cracking/O down/O on/O terrorism/O ./O 
+Their/O concern/O is/O Islamic/O groups/O that/O Beijing/LOCATION blames/O for/O conducting/O terrorist/O attacks/O in/O the/O western/O Xinjiang/LOCATION region/O ,/O which/O also/O operate/O in/O Afghanistan/LOCATION and/O Pakistan/LOCATION ./O 
+The/O six-member/O SCO/ORGANIZATION was/O established/O in/O 2001/O to/O focus/O on/O security/O issues/O in/O Central/LOCATION Asia/LOCATION and/O set/O up/O a/O counterweight/O to/O the/O Western/O military/O alliance/O NATO/ORGANIZATION ./O 
+However/O ,/O it/O has/O been/O dealing/O mainly/O with/O economic/O issues/O across/O the/O region/O ./O 
+It/O includes/O Russia/LOCATION ,/O China/LOCATION ,/O Kazakhstan/LOCATION ,/O Kyrgyzstan/LOCATION ,/O Tajikistan/LOCATION and/O Uzbekistan/LOCATION ./O 
+Iran/LOCATION ,/O Mongolia/LOCATION and/O political/O rivals/O India/LOCATION and/O Pakistan/LOCATION are/O observer/O members/O ,/O while/O Afghanistan/LOCATION is/O a/O guest/O at/O the/O current/O meeting/O ./O 
+Afghan/O President/O Hamid/PERSON Karzai/PERSON and/O Iran/LOCATION 's/O President/O Mahmoud/PERSON Ahmedinejad/PERSON are/O attending/O the/O Beijing/LOCATION conference/O ,/O which/O is/O expected/O to/O prepare/O for/O talks/O on/O Iran/LOCATION 's/O nuclear/O program/O scheduled/O for/O June/O 18/O in/O Moscow/LOCATION ./O 
+rg/ncy/O -LRB-/O AFP/ORGANIZATION ,/O dpa/O -RRB-/O 

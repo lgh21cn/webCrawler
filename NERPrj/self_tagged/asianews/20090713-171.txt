@@ -1,0 +1,17 @@
+Official/O sources/O say/O police/O had/O to/O intervene/O to/O stop/O a/O brawl/O among/O Uyghurs/O ./O 
+State/O media/O slam/O an/O ``/O orchestrated/O campaign/O ''/O for/O demonstrations/O in/O front/O of/O Chinese/O diplomatic/O missions/O ./O 
+<U_LOCATION>Urumqi/LOCATION</U_LOCATION> -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> /O Agencies/O -RRB-/O --/O More/O unrest/O broke/O out/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O capital/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O scene/O of/O violence/O clashes/O in/O the/O past/O few/O days/O between/O the/O local/O <OTHER>Muslim/ORGANIZATION Uyghur/ORGANIZATION</OTHER> minority/O and/O Chinese/O security/O forces/O ./O 
+Two/O ethnic/O Uyghur/O men/O were/O killed/O by/O police/O and/O a/O third/O one/O was/O injured/O ./O 
+But/O China/LOCATION 's/O official/O media/O continue/O to/O claim/O that/O violence/O is/O caused/O by/O an/O ``/O orchestrated/O campaign/O ''/O which/O is/O also/O responsible/O for/O demonstrations/O in/O front/O Chinese/O embassies/O in/O Europe/LOCATION and/O the/O United/LOCATION States/LOCATION ./O 
+A/O spokesman/O for/O the/O <U_LOCATION>Xinjiang/LOCATION Autonomous/LOCATION Region/LOCATION</U_LOCATION> said/O that/O police/O had/O to/O move/O in/O today/O to/O stop/O an/O attack/O by/O three/O Uyghurs/O against/O a/O fourth/O one/O ./O 
+During/O their/O intervention/O police/O shot/O two/O men/O to/O death/O and/O seriously/O injured/O a/O third/O ./O 
+Unofficial/O sources/O claim/O that/O police/O fired/O at/O a/O group/O of/O <OTHER>Uyghurs/LOCATION</OTHER> armed/O with/O knives/O and/O rods/O who/O had/O attacked/O the/O police/O ./O 
+In/O the/O meantime/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> remains/O under/O tight/O police/O control/O ./O 
+Police/O issued/O new/O measures/O to/O enforce/O law/O and/O order/O ./O 
+They/O include/O a/O ban/O on/O carrying/O knives/O and/O sticks/O in/O the/O street/O ,/O shouting/O slogans/O ,/O waving/O banners/O or/O handing/O out/O flyers/O ./O 
+In/O Turkey/LOCATION ,/O Norway/LOCATION ,/O Germany/LOCATION and/O the/O Netherlands/LOCATION demonstrators/O threw/O eggs/O ,/O Molotov/O cocktails/O and/O stones/O at/O Chinese/O embassies/O and/O consulates/O ./O 
+Xinhua/ORGANIZATION ,/O China/LOCATION 's/O official/O news/O agency/O ,/O reported/O that/O unrest/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> and/O protests/O in/O front/O of/O China/LOCATION 's/O diplomatic/O missions/O appeared/O ``/O well-orchestrated/O ''/O by/O ``/O supporters/O of/O the/O <U_LOCATION>East/LOCATION Turkestan/LOCATION</U_LOCATION> ''/O ./O 
+It/O blamed/O the/O unrest/O on/O the/O <U_ORGANIZATION>World/ORGANIZATION Uyghur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O an/O organisation/O that/O represents/O Uyghurs/O outside/O of/O China/LOCATION ./O 
+The/O official/O death/O toll/O stands/O at/O 184/O ,/O including/O 137/O ethnic/O Han/O Chinese/O and/O 46/O Muslim/O Uyghurs/O ./O 
+About/O 1,700/O people/O were/O injured/O ./O 
+Dissident/O groups/O in/O exile/O claim/O instead/O that/O hundreds/O of/O Muslims/O died/O during/O the/O clashes/O ./O

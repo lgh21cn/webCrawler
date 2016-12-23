@@ -1,0 +1,20 @@
+Police/O violence/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> is/O similar/O to/O that/O in/O Lhasa/LOCATION in/O March/O 2008/O ./O 
+Beijing/LOCATION should/O draw/O some/O lessons/O from/O the/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> riots/O ,/O namely/O find/O a/O solution/O to/O the/O Tibetan/O question/O with/O the/O <PERSON>Dalai/O Lama/O</PERSON> ./O 
+Tibet/LOCATION 's/O spiritual/O leader/O has/O urged/O his/O countrymen/O and/O women/O to/O use/O non-violence/O ,/O but/O once/O he/O is/O dead/O Tibetan/O frustrations/O could/O turn/O into/O an/O uprising/O ./O 
+<U_LOCATION>Daramshala/PERSON</U_LOCATION> -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O --/O ``/O The/O policy/O of/O the/O Chinese/O government/O towards/O the/O Uyghurs/O is/O very/O similar/O to/O that/O towards/O the/O Tibetan/O people/O ./O 
+Uyghurs/O and/O Tibetans/O suffer/O the/O same/O Chinese/O occupation/O ;/O both/O of/O us/O are/O repressed/O and/O dominated/O and/O have/O to/O endure/O humiliations/O ,/O ''/O said/O <PERSON>Urgen/O</PERSON> Tenzin/PERSON ,/O executive/O director/O of/O the/O Tibetan/O Centre/ORGANIZATION for/ORGANIZATION Human/ORGANIZATION Rights/ORGANIZATION and/ORGANIZATION Democracy/ORGANIZATION -LRB-/O <ORGANIZATION>TCHRD/O</ORGANIZATION> -RRB-/O as/O he/O spoke/O to/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> about/O China/LOCATION 's/O crackdown/O against/O protests/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> and/O other/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> cities/O ./O 
+``/O However/O unlike/O the/O Uighur/O people/O ,/O the/O people/O of/O Tibet/LOCATION have/O the/O spiritual/O and/O moral/O guidance/O of/O His/O Holiness/O the/O Dalai/PERSON Lama/PERSON ,/O who/O repeatedly/O emphasises/O and/O insists/O that/O all/O Tibetans/O follow/O the/O non-violent/O path/O for/O the/O resolution/O of/O the/O Tibetan/O issue/O ./O ''/O 
+Current/O events/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> are/O very/O similar/O to/O what/O happened/O last/O year/O in/O Tibet/LOCATION ./O 
+Demonstrations/O in/O Lhasa/LOCATION and/O other/O Tibetan/O regions/O turned/O into/O an/O uprising/O and/O violence/O against/O the/O Chinese/O military/O and/O ethnic/O Han/O Chinese/O ./O 
+Beijing/LOCATION in/O turn/O accused/O Tibetans/O of/O terrorism/O and/O of/O trying/O to/O disrupt/O the/O 2008/O Olympics/O with/O violence/O ./O 
+The/O accusation/O of/O violence/O ``/O is/O official/O Chinese/O propaganda/O ./O 
+In/O March/O 2008/O there/O was/O a/O global/O protest/O ./O 
+Inspired/O by/O the/O Mahatma/PERSON Gandhi/PERSON and/O on/O the/O advice/O of/O the/O <PERSON>Dalai/O Lama/O</PERSON> it/O was/O supposed/O to/O be/O non-violent/O ./O 
+Unfortunately/O ,/O China/LOCATION 's/O propaganda/O machine/O created/O the/O impression/O that/O the/O protest/O was/O just/O violent/O ./O 
+In/O fact/O ,/O incidents/O that/O occurred/O after/O 14/O March/O ,/O when/O some/O Chinese-owned/O stores/O were/O set/O on/O fire/O and/O some/O ethnic/O Han/O Chinese/O were/O killed/O ,/O were/O due/O to/O severe/O provocation/O ./O 
+Chinese/O propaganda/O chose/O to/O show/O Tibetans/O '/O `/O violence/O '/O ,/O but/O the/O world/O was/O able/O to/O see/O that/O Tibetan/O demonstrations/O were/O non-violent/O ./O ''/O 
+According/O to/O Tenzin/PERSON ,/O China/LOCATION should/O draw/O some/O lessons/O from/O the/O demonstrations/O and/O violence/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+``/O The/O frustrations/O of/O Tibetans/O are/O mounting/O ;/O we/O are/O getting/O increasingly/O tired/O with/O Chinese/O insincerity/O in/O solving/O the/O Tibetan/O issue/O ,/O ''/O Tenzin/PERSON said/O ./O 
+``/O Beijing/LOCATION should/O try/O to/O negotiate/O with/O the/O Dalai/PERSON Lama/PERSON and/O find/O a/O solution/O whilst/O he/O is/O still/O alive/O ./O 
+None/O of/O us/O can/O predict/O what/O will/O happen/O after/O his/O death/O ./O 
+So/O far/O he/O has/O preached/O and/O called/O for/O non-violence/O ,/O but/O we/O do/O not/O know/O what/O will/O eventually/O happen/O .../O ''/O
