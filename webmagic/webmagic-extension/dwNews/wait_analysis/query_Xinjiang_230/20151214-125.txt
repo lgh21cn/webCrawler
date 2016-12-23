@@ -1,0 +1,77 @@
+<ID>20151214-125
+<DATE>20151214<\DATE>
+<URL>
+http://www.dw.com/en/alarm-over-chinas-trial-of-rights-lawyer/a-18915517
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Alarm over China's trial of rights lawyer
+<\TITLE>
+<ABSTRACT>
+A human rights lawyer has been charged with "picking quarrels and provoking trouble" for criticizing the Communist Party. Pu Zhiqiang - who has spent 19 months in custody - faces eight years in prison, if convicted.
+<\ABSTRACT>
+<CONTENT>
+
+ Pu appeared Sunday before the 2nd Beijing Intermediate People's Court in a 
+case that international rights groups have criticized as political persecution.
+
+ He is a public figure in China and was instrumental in pushing for the 
+eventual abolishment of the labor camp system, which allowed police to jail 
+people for up to four years without a trial.
+
+ "Pu's trial is extremely important - he's the ultimate canary in the coal 
+mine," Maya Wang, a China researcher for Human Rights Watch said. "If they 
+decide to be harsh against him, I'd say it'll signify a further escalation of 
+hostility towards human rights activism."
+
+His case revolves around a number of posts 
+ on 
+China's Twitter-like Sina Weibo that questioned the ruling Communist Party's 
+policies toward theTibetan 
+
+ and Uighur ethnic minorities in the Tibet and Xinjiang regions, and mocked 
+political figures.
+
+ If convicted, Pu faces up to eight years in prison.
+
+ Police forcefully barred observers - including diplomats, journalists and 
+supporters - from entering the courtroom. Some 40 well-wishers gathered outside 
+the courthouse and chanted slogans to show solidarity with the accused.
+
+ "Pu Zhiqiang is not a criminal. He will be judged by history," Qu Biao, a 
+53-year-old teacher from the northern Shaanxi province, told the Reuters news 
+agency. "The Chinese constitution protects freedom of speech, so putting him on 
+trial is unjust and shameless. If Pu Zhiqiang is guilty, then we are all 
+guilty."
+  
+A woman is caught in a scuffle on a spring day in 1989. Later that night, the 
+38th army would open fire on unarmed civilians in one of the bloodiest 
+crackdowns of the 20th century
+
+Arrested at illegal commemoration of 1989 Tiananmen Square massacre
+
+ China routinely prosecutes activists and dissidents under a law forbidding 
+"picking quarrels and provoking trouble" and dismisses any criticism of its 
+rights record.
+
+ Beijing has launched a crackdown on online rumors over the past two years, 
+detained hundreds of human rights lawyers in a nationwide sweep and jailed a 
+reporter on a charge of leaking state secrets.
+
+ The 50-year-old attorney was taken into custody in May 2014 after he attended 
+a meeting in a private home to commemorate thebloody 1989 crackdown on 
+pro-democracy protesters on the capital's Tiananmen Square. 
+ 
+Pu, who had participated in the protests, had vowed to commemorate the 
+anniversary every year in memory of the hundreds killed by security services.
+
+ jar/gsw (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

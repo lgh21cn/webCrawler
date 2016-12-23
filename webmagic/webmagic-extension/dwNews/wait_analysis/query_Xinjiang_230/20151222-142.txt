@@ -1,0 +1,133 @@
+<ID>20151222-142
+<DATE>20151222<\DATE>
+<URL>
+http://www.dw.com/en/china-set-to-pass-controversial-anti-terrorism-law/a-18935003
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China set to pass controversial anti-terrorism law
+<\TITLE>
+<ABSTRACT>
+China's new anti-terrorism laws, likely to be passed the end of this month, would pose further restrictions on media freedom and freedom of speech, analysts have told DW.
+<\ABSTRACT>
+<CONTENT>
+
+ China's top legislative body, the National People's Congress (NPC), is 
+currently reviewing the third draft of the law, which was first proposed in 
+October last year. The NPC Standing Committee's current meeting is set to end 
+this Sunday, and according to state media Xinhua, the package of laws is 
+"already quite mature" and is likely to be passed.
+
+New clause addressing individuals 
+
+ The new draft of the law includes a provision stating that "no institutions 
+or individuals" shall report or disseminate details of terrorist activities 
+that might lead to "imitation." It would also prohibit people from publishing 
+scenes of "cruelty and inhumanity" in terrorist activities.
+
+ Xinhua reported that the clause was especially revised from the previous 
+draft to restrict the distribution of terrorism-related information by 
+individual users on social media.
+
+ "The law raises serious concerns about restriction on freedom of expression, 
+as the definition of terrorism in China is vague and broad," Patrick Poon China 
+researcher of Amnesty International, told DW.
+ 
+
+Reporting or discussing restless states like Xinjiang could become more risky 
+once the laws pass
+
+"It would expose NGOs and individuals who talk about terrorism-related issues 
+such as the situation in Xinjiang Uighur Autonomous Region," Poon added, 
+referring to particularly restless state in China with a high proportion of 
+Muslim Uighur inhabitants.
+
+Broad definitions, and implications
+
+ Terrorism, as defined by the new draft law, refers to "any proposition or 
+activity - that, by means of violence, sabotage or threat, generates social 
+panic, undermines public security, infringes on personal and property rights, 
+and menaces government organs and international organization - with the aim to 
+realize certain political and ideological purpose." This definition has drawn 
+criticism from analysts and human rights groups.
+
+ "Terrorism here is defined in very vague terms," Moritz Rudolf, an expert in 
+China and terrorism at the Berlin-based Mercator Institute for China Studies 
+(MERICS), told DW. "In accordance with the draft, a single tweet which causes 
+an outcry on social media could be classified as an act of terrorism."
+
+DW recommends
+
+Amnesty: China's draft anti-terror law 'contravenes international human rights 
+law'
+
+The overly broad definition of extremism in China's proposed anti-terrorism 
+law could mean that almost any behavior or speech that the government dislikes 
+could qualify as "extremism," AI's William Nee tells DW. (05.03.2015)
+ 
+
+Chinese rights lawyer avoids prison time with three-year suspended sentence
+
+A Chinese court has given prominent human rights lawyer Pu Zhiqiang a 
+suspended three-year sentence for making comments critical of the Communist 
+Party. The ruling will likely keep him out of prison for now. (22.12.2015)
+ 
+
+ Apart from the problematic definition of "terrorism," Sophie Richardson, 
+China director at Human Rights Watch, told DW that there is also a need to 
+define the meaning of "generating social panic."
+
+ "When such harsh consequences flow from such vaguely-defined laws, it leaves 
+the Chinese government, already deeply dismissive of basic human rights 
+protection, all the more room to violate rights," says Richardson.
+
+More infringement on freedom of speech
+
+ Analyst Rudolf also said the new laws would make it more difficult for media 
+to report on terrorist incidents, as they include a clause stating that only 
+outlets approved by the state's counterterrorism authorities can disseminate 
+information about hostages or any reaction plans from the authorities.
+
+ As the use of social media to express one's opinions has been more common in 
+the country, observers fear the laws could be turned against rights activists.
+ 
+
+At an estimated 668 million, China's online population is the world's largest
+
+ "The new law would even legitimize the currently vaguely-defined criminal 
+charges against dissidents, such as inciting subversion of state power and 
+separatism," says Poon. "Anyone can easily fall into this trap if she or he 
+posted comments like what Pu Zhiqiang did."
+
+ Human rights lawyer Pu Zhiqiang was found guilty of "inciting ethnic hatred" 
+and "picking quarrels and provoking trouble"early on Tuesday, 
+
+ for his comments on social media over China's ethnic policies and criticism of 
+officials. He was given a three-year suspended sentence.
+
+ "The latest amendment is especially disturbing, given the incredibly harsh 
+penalties that could be handed down under the new law," HRW's Richardson added.
+
+International criticism
+
+ The latest draft also included a provision of clauses that require 
+telecommunication and Internet service providers to install special so-called 
+"backdoors" in their software, enabling government access. They are required to 
+provide Beijing with their encryption keys, so that the Chinese government can 
+"prevent" and "investigate" terrorist activities. These clauses, which are 
+applied to both domestic and foreign firms, were already established in its 
+initial draft, and have drawn criticism.
+
+ US President Barack Obama said earlier this year, after the new laws' second 
+reading, that he had raised concerns with Chinese President Xi Jinping, and 
+urged Beijing to change the law. Yet no such changes were seen in the latest 
+draft.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

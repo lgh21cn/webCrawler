@@ -1,0 +1,53 @@
+<ID>20160316-118
+<DATE>20160316<\DATE>
+<URL>
+http://www.dw.com/en/indonesian-security-kill-two-ethnic-uighur-chinese-militants-in-shootout/a-19119462
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Indonesian security kill two ethnic Uighur Chinese militants in shootout
+<\TITLE>
+<ABSTRACT>
+Indonesian security forces have killed two ethnic-Uighur Chinese militants following a shootout. The two men belonged to a militant network run by the country's most wanted man.
+<\ABSTRACT>
+<CONTENT>
+
+ The shootout happened while police were hunting for Abu Wardah Santoso, a 
+militant, in Poso, in central Sulawesi. The two men had reportedly joined 
+Santoso's group after leaving the Muslim region of western China.
+
+Indonesian security forces have been intensifying operations against the 
+Mujahidin Indonesia Timur network led by Santoso 
+
+, Indonesia's most high-profile supporter of "Islamic State" (IS), who has been 
+on the run for over three years.
+
+ "We hope Santoso will surrender, but we are prepared for the worst-case 
+scenario," Security Minister Luhut Panjaitan said.
+
+ Tuesday's shootout followed a standoff between security forces and a group of 
+unknown men during an operation in a forested area of Poso, over 1,600 
+kilometers (950 miles) northeast of the capital, Jakarta.
+
+ "Based on testimony from another suspect we had arrested, those two were 
+identified as Uighurs," Central Sulawesi police spokesman Hari Suprapto said.
+
+Hundreds of Uighurs escaping unrest in the western Chinese homeland of Xinjiang
+ 
+
+ have also traveled secretly via Southeast Asia to Turkey and often end up 
+crossing into Syria and Iraq to fight for IS.
+
+ Four Uighur men were jailed in Indonesia last year for attempting to join the 
+same militant network.
+
+ jh/rg (Reuters/AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

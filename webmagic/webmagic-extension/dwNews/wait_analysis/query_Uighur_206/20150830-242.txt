@@ -1,0 +1,86 @@
+<ID>20150830-242
+<DATE>20150830<\DATE>
+<URL>
+http://www.dw.com/en/thailand-bombing-suspect-part-of-people-smuggling-gang/a-18682049
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Thailand bombing suspect 'part of people-smuggling gang'
+<\TITLE>
+<ABSTRACT>
+Thai authorities say the man arrested in connection with last week's deadly bombing at a shrine in Bangkok is not cooperating with investigators. Police believe he is part of a people-smuggling gang.
+<\ABSTRACT>
+<CONTENT>
+
+ The foreign suspect reportedly refused to answer any questions or provide 
+details about whether he played a role in the bomb attack thatkilled 20 people 
+ and 
+left scores wounded, Thai officials said Sunday.
+
+ Police spokesman Prawuth Thawornsiri also said the detained suspect may have 
+been part of a people-smuggling ring helping illegal migrants obtain forged 
+documents. The spokesman added it was possible the attack was in retaliation 
+for a recent Thai crackdown on the trade in the region.
+
+ "They (the gang) are unsatisfied with police arresting illegal entrants," he 
+told Channel 3 in an interview.
+
+ "The interrogation is not making progress because the suspect is not really 
+giving useful information," army chief General Udomdej Sitabutr told AFP.
+
+ "We have to conduct further interrogations and make him better understand so 
+he will be more cooperative - while we have to be careful not to violate the 
+suspect's rights," he added.
+
+ The 28-year-old foreigner was arrested on Saturday 
+
+ at a flat in Nong Jok on Bangkok's eastern outskirts. Police allegedly found 
+bomb-making materials as well as a stack of fake passports at the property. 
+Police spokesman Prawuth said the materials were similar to those used in the 
+bomb that went off at the Erawan Shrine in the heart of the Thai capital on 
+August 17. He added, however, that the detained man may only be linked to the 
+attack, not the bomber himself.
+ 
+
+Thais mourn victims of the country's worst-ever bombing attack
+
+Identity unknown
+
+ The suspect, whose identity is yet to be verified, is being held at an army 
+base north of Bangkok on charges of possessing illegal explosives. Local 
+reports suggested he could be from Turkey, but the Turkish embassy has denied 
+the claim.
+
+ Following the blast, images were circulated of a yellow-shirted individual 
+who was captured on camera leaving a bag at the scene of the explosion. It's 
+not clear whether the man arrested Saturday is the same man in the video 
+footage.
+
+ Thai police on Sunday were monitoring about 1,000 mobile phone numbers and 
+checking photographs used in some 200 seized passports to track down other 
+people who may have been involved in orchestrating the strike.
+
+Who's responsible?
+
+ No group has claimed responsibility for the attack 
+
+, which mainly killed tourists from across Asia. But local officials and 
+experts haveput forward a number of potential perpetrators 
+
+ and motives.
+
+ Some experts have suggested southern ethnic Malay insurgents, opponents of 
+the military government and sympathizers of Uighur Muslims may be behind the 
+bombing. Thailand forcibly repatriated more than 100 Uighur refugees to China 
+last month, prompting an international outcry.
+
+ nm/bk (Reuters, AFP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -19,5 +19,10 @@ public interface AsianViewDetailItem {
 	
 	public static final String ADDNEW="addnew";
 	
+	public static final String QUERY="query";
+	
+	//【VISITED】用于表示 是否已经访问过
+	public static final String VISITED="visited";
+	
 	
 }

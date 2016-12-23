@@ -17,11 +17,22 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		// TODO Auto-generated constructor stub
 		mNewsProcess=this;
 	}
+	
 	//http://www.dw.com/search/en?languageCode=en&origin=gN&item=Xinjiang&searchNavigationId=9097
+	//
 	@Override
 	public boolean isConvert(Page page) {
 		// TODO Auto-generated method stub
-		return page.getUrl().regex("http://www\\.dw\\.com/search/en\\?languageCode=en&origin=gN&item=.*&searchNavigationId=\\d+").match();
+		if(page.getUrl().regex("http://www\\.dw\\.com/search/en\\?languageCode=en&origin=gN&item=.*&searchNavigationId=\\d+").match()) return true;
+		//添加读取全文的匹配
+		else if(page.getHtml().xpath("//ul[@class='smallList']/allText()").match()){
+			if(page.getHtml().xpath("//ul[@class='smallList']/allText()").toString().contains("Full article") && page.getRequest().getExtra(AsianViewDetailItem.VISITED)!=null &&!(Boolean)page.getRequest().getExtra(AsianViewDetailItem.VISITED)) {
+		
+				System.out.println(page.getHtml().xpath("//ul[@class='smallList']/allText()").toString());
+				return true;
+			}
+		}
+		return false;
 	}
 //http://www.dw.com/search/?languageCode=en&item=Hui&searchNavigationId=9097&sort=RELEVANCE&resultsCounter=79
 	@Override
@@ -33,19 +44,55 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 	@Override
 	public boolean isContent(Page page) {
 		// TODO Auto-generated method stub
-		return page.getUrl().regex("http://www\\.dw\\.com/en/.*/a-\\d+").match();
+		return page.getUrl().regex("http://www\\.dw\\.com/en/.*/a-\\d+(-\\d+)?").match();
 	}
 
 	@Override
 	public void convertProcess(Page page) {
 		// TODO Auto-generated method stub
-		String num=page.getHtml().xpath("//span[@class='lotsOfResults']/span[@class='hits all']/text()").toString().trim();
-		String query=page.getUrl().regex("item=(.*)&").toString();
-		String url="http://www.dw.com/search/?languageCode=en&item="+query+"&searchNavigationId=9097&sort=RELEVANCE&resultsCounter="+num;
-		page.addTargetRequest(new Request(url)
-				.putExtra(AsianViewDetailItem.ORIGIN_URL, page.getUrl().toString())
-				.putExtra(AsianViewDetailItem.CONVERT_URL, page.getUrl().toString())
-				.putExtra(AsianViewDetailItem.ADDNEW, page.getRequest().getExtra(AsianViewDetailItem.ADDNEW)));
+		if(page.getUrl().regex("http://www\\.dw\\.com/search/en\\?languageCode=en&origin=gN&item=.*&searchNavigationId=\\d+").match()){
+			String num=page.getHtml().xpath("//span[@class='lotsOfResults']/span[@class='hits all']/text()").toString().trim();
+			String query=page.getUrl().regex("item=(.*)&").toString();
+			String url="http://www.dw.com/search/?languageCode=en&item="+query+"&searchNavigationId=9097&sort=RELEVANCE&resultsCounter="+num;
+			page.addTargetRequest(new Request(url)
+					.putExtra(AsianViewDetailItem.ORIGIN_URL, page.getUrl().toString())
+					.putExtra(AsianViewDetailItem.CONVERT_URL, page.getUrl().toString())
+					.putExtra(AsianViewDetailItem.ADDNEW, page.getRequest().getExtra(AsianViewDetailItem.ADDNEW)));
+		}else{
+			//找全文
+			List<String> allContents=page.getHtml().xpath("//ul[@class='smallList']/li/allText()").all();
+			for (String content : allContents) {
+				if(content.contains("Full article")){
+					final int li_index=allContents.indexOf(content)+1;
+					String[] url_locs=content.split("\\|");
+					int url_loc=0;
+					for (int index=0;index<url_locs.length;index++) {
+						if(url_locs[index].contains("Full article")){
+							url_loc=index+1;
+							break;
+						}
+					}
+					if(url_loc!=0){
+						final String xpath="//ul[@class='smallList']/li[%s]/a[%s]/@href";
+						String url=page.getHtml().xpath(String.format(xpath, li_index,url_loc)).toString();
+						page.addTargetRequest(new Request(url)
+								.putExtra(AsianViewDetailItem.ORIGIN_URL, page.getUrl().toString())
+								.putExtra(AsianViewDetailItem.CONVERT_URL, page.getUrl().toString())
+								.putExtra(AsianViewDetailItem.ADDNEW, page.getRequest().getExtra(AsianViewDetailItem.ADDNEW))
+								//【VISITED】=True ，表示 以获取 【全文链接】，下次不再转换
+								.putExtra(AsianViewDetailItem.VISITED, true)
+//								.putExtra(AsianViewDetailItem.QUERY, page.getRequest().getExtra(AsianViewDetailItem.QUERY))
+								);
+						
+					}
+					
+					break;
+					
+				}
+			}
+//			page.setSkip(true);
+		}
+		
 	}
 
 	@Override
@@ -80,24 +127,31 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		page.putField(AsianViewDetailItem.TITLE, page.getHtml().xpath("//div[@id='bodyContent']/div[@class='col3']/h1/text()").toString());
 //		String abstracts=page.getHtml().xpath("//div[@class='sub_title_det']/text()").toString();
 //		System.out.println("Abstract: "+ abstracts);
-		page.putField(AsianViewDetailItem.ABSTRACT, page.getHtml().xpath("//div[@id='bodyContent']/div[@class='col3']/p[@class='intro']/text()").toString());
-//		String content=page.getHtml().xpath("//div[@class='longText']/tidyText()").toString();
-		List<String> contents=page.getHtml().xpath("//div[@class='longText']/p/text()").all();
-		StringBuilder builder=new StringBuilder();
-		for (String para : contents) {
-			builder.append(para);
-			builder.append("\n");
-			
-		}
+		String abstracts=page.getHtml().xpath("//div[@id='bodyContent']/div[@class='col3']/p[@class='intro']/text()").toString();
+		page.putField(AsianViewDetailItem.ABSTRACT, abstracts);
 		
-		String content=builder.toString();
+		//方法1：（采用）
+		//问题：会出现 其他不必要的内容
+		String content=page.getHtml().xpath("//div[@class='longText']/tidyText()").toString();
+		
+		//方法2：（弃用）
+		//问题：会出现【漏词】现象
+//		List<String> contents=page.getHtml().xpath("//div[@class='longText']/p/text()").all();
+//		StringBuilder builder=new StringBuilder();
+//		for (String para : contents) {
+//			builder.append(para);
+//			builder.append("\n");
+//			
+//		}		
+//		String content=builder.toString();
 		
 //		System.out.println("Content: "+CorpusFormatter.removeTag(content));
 		content=CorpusFormatter.removeTag(content);
 		page.putField(AsianViewDetailItem.CONTENT, content);
 		String l_content=content.toLowerCase();
+		String l_abstracts=abstracts.toLowerCase();
 		
-		if(skipCrawler(l_content)){
+		if(skipCrawler(l_abstracts)&& skipCrawler(l_content)){
 			page.setSkip(true);		
 			System.out.println("[WARNING]Page :"+page.getUrl().toString()+" will NOT download......[WARNING]");
 			throw new ContentMatchException();
@@ -134,7 +188,8 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		// TODO Auto-generated method stub
 		List<Request> requests=new ArrayList<Request>();
 		boolean addNew=false;
-		FileUtils.loadUrlFile("./dwNews_url.txt", requests,addNew);
+//		FileUtils.loadUrlFile("./dwNews_url.txt", requests,addNew);
+		FileUtils.loadUrlFile("./content_unmatched_url.txt", requests,addNew);
 //		FileUtils.loadUrlFile(FileNumberVerifier.VERIFIED_SUCCESS_CRAWLER_LOG_PATH, requests,addNew);
 		Request[] requests2=requests.toArray(new Request[requests.size()]);
 		for (Request request : requests2) {
@@ -162,7 +217,13 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 //		.addRequest(getInitRequest("http://www.dw.com/en/xinjiang-restrictions-on-religion-may-lead-to-uighur-radicalization/a-17841070"))
 //		.addRequest(getInitRequest("http://www.dw.com/en/chinese-police-shoot-dead-terrorist-uighurs/a-18582486"))
 		//列表
-		.addRequest(getInitRequest("http://www.dw.com/search/en?languageCode=en&origin=gN&item=Rebiya+Kadeer&searchNavigationId=9097"))
+//		.addRequest(getInitRequest("http://www.dw.com/search/en?languageCode=en&origin=gN&item=Rebiya+Kadeer&searchNavigationId=9097"))
+		
+		//验证是否方法1是否包含全部所需内容（OK）
+//		.addRequest(getInitRequest("http://www.dw.com/en/german-press-review-german-weapons-for-the-red-mandarins/a-1050048"))
+		//分页文章获取全文(OK)
+		.addRequest(getInitRequest("http://www.dw.com/en/kyrgyzstan-unrest-adds-new-edge-to-global-powers-regional-rivalry/a-5682657").putExtra(AsianViewDetailItem.VISITED, false))
+		//
 		.thread(4)
 		.run();
 	}

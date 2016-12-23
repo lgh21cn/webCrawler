@@ -1,0 +1,57 @@
+<ID>20150914-127
+<DATE>20150914<\DATE>
+<URL>
+http://www.dw.com/en/malaysia-arrests-three-suspects-over-bangkok-shrine-bombing/a-18712350
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Malaysia arrests three suspects over Bangkok shrine bombing
+<\TITLE>
+<ABSTRACT>
+Police in Malaysia have arrested three people suspected in connection with last month's deadly bombing at a shrine in Bangkok. Thai authorities have already detained two foreign men over the attack.
+<\ABSTRACT>
+<CONTENT>
+
+ Malaysian police said a Pakistani man and two Malaysians were taken into 
+custody "a few days ago" based on information provided by Thai authorities.
+
+ "We believe the suspects can help in the investigation...our arrest was made 
+to assist the Thai police in the Thai bombing investigation," Khalid Abu Bakar, 
+the national police chief, told reporters.
+
+ He added that one of the local suspects was a woman, and that there were no 
+plans as yet to hand the three over to Thai police.
+
+ On August 17, a bomb went off at the Erawan Shrine 
+
+ in the heart of Bangkok, killing 20 people and injuring scores more. Most of 
+the victims were Chinese tourists.
+
+ Thai authorities have so far arrested two men 
+
+, whose nationalities remain unconfirmed, over the blast. They are stillseeking 
+a number of other suspects 
+
+.
+
+ No group has claimed responsibility for the bombing. One theory is that the 
+attack may have beencarried out by militants from China's Uighur minority 
+
+, or their supporters, as revenge for Thailand's forced deportation of 109 
+Uighur refugees in July.
+
+ The Uighurs, many of whom have their home in the northwestern Xinjiang region 
+of China, have long accused Beijing of discrimination as well as religious and 
+cultural repression, with scores fleeing to Turkey via Southeast Asia in recent 
+years.
+
+ nm/ rg (Reuters, AFP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,69 @@
+<ID>20080416-216
+<DATE>20080416<\DATE>
+<URL>
+http://www.dw.com/en/pakistan-welcomes-the-olympic-torch/a-5212368
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Pakistan Welcomes the Olympic Torch
+<\TITLE>
+<ABSTRACT>
+The Olympic torch has begun its journey through Asia. The first leg of its tour was Pakistan, where it arrived on Tuesday night. Amid safety fears the authorities had to cut short the route of the torch relay in Islamabad. Pakistan, a close ally of China, has been supporting its stand on the Tibet crisis, an issue which has led to widespread protests across the world.
+<\ABSTRACT>
+<CONTENT>
+
+The Olympic torch relay kicked off in Pakistan with music and a colourful 
+ceremony. President Pervez Musharraf and Prime Minister Yousaf Raza Gilani led 
+the event by holding the torch together and then passing it on to the former 
+hockey captain Samiullah Khan. More than 60 other sporting icons and 
+celebrities carried the flame along the 3.5-kilometre-long route.
+
+In his speech, Arif Hassan, the president of Pakistan’s Olympics Association 
+called the event a great honour for Pakistan: “The relay will promote the 
+Olympic spirit, further deepen our friendship and of course deepen our resolve 
+for the Olympic movement.”
+
+The original plan was to carry the torch on the street from the parliament 
+building in Islamabad to the city’s main Jinnah stadium. But safety fears 
+forced the authorities to make last minute changes in the plan. Instead, the 
+torch took the shortest route to the sports arena, which was surrounded by 
+around 3,000 policemen and soldiers.
+
+Support for China
+
+But Pakistan was not expecting any anti China protests as in London, Paris and 
+San Francisco, where the route of the torch relay had to be drastically 
+curtailed because of demonstrations against Beijing's crackdown in Tibet.
+
+President Pervez Musharraf, who has just returned from a week-long visit to 
+China, has condemned pro-Tibet protests and assured earlier this week his 
+country’s full support for the long term ally Beijing on the Tibet crisis: "As 
+far as action around the world, in some parts of the world, we condemn it very 
+strongly. Because we think that politics must be kept out of sports. Sports 
+generates brotherhood, sports generates closeness. Now if we bring politics 
+into it, then the whole idea of sports is killed."
+
+More protests
+
+However the authorities said the precautions were taken because of the 
+presence of Muslim separatists from China's north-western Xinjiang region in 
+Pakistan's troubled tribal areas. The country has also witnessed a surge in 
+attacks by Al-Qaeda and Taliban militants that has killed 1,000 people in the 
+past one year.
+
+After Pakistan, the torch will head to India, one of the most thorny legs of 
+the Asia tour. An estimated 100,000 Tibetan refugees live in India, which is 
+also the seat of the Dalai Lama’s government in exile. On Wednesday, a 
+pro-Tibetan group protested against Beijing in front of the Chinese embassy in 
+New Delhi. And another 3000 are expected to be on the streets of New Delhi on 
+Thursday, when the flame arrives. Indian authorities have boosted security in 
+the capital heavily to avoid any untoward incidents.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

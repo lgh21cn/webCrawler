@@ -1,0 +1,101 @@
+<ID>20081222-273
+<DATE>20081222<\DATE>
+<URL>
+http://www.dw.com/en/germany-considers-taking-in-guantanamo-prisoners/a-3895244
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Germany Considers Taking in Guantanamo Prisoners
+<\TITLE>
+<ABSTRACT>
+Germany is considering granting asylum to prisoners being held at Guantanamo Bay, a government spokesman said Monday. The move has been welcomed by the United States as it works to close the controversial prison camp.
+<\ABSTRACT>
+<CONTENT>
+
+Thomas Steg, German deputy government spokesman, said on Monday, Dec 22 
+Germany strongly backed Obama's plans to shutter the detention facility and 
+said Berlin was assessing the possibility of accepting inmates who declined to 
+return to their home countries.
+
+"In our view Guantanamo must be closed on legal and humanitarian grounds, in 
+terms of international law and human rights, and for moral reasons," Steg told 
+reporters in Berlin.
+
+Steg emphasized that it is up to the US to find a place for inmates it did not 
+want to accept and who could not be returned to their home countries.
+
+"We would need to, and want to, examine this issue when the United States has 
+made clear what its specific plans and timeline are," Steg said.
+
+"If we begin to review such closure plans and take a stance, then it can only 
+be in a European context based on a discussion with all member states," he 
+said, adding that Germany would reject any "side deals, swaps or conditions" 
+put forward by Washington linked to handing over Guantanamo prisoners.
+
+US hails EU acceptance of prisoners
+
+The US said on Monday it welcomed moves by European nations to take in 
+prisoners from the controversial prison camp which has prompted worldwide 
+criticism of what are considered aggressive detention practicies and which has 
+opened the US to allegations of torture.
+
+Guantanamo has come to symbolize aggressive detention practices
+
+An opening from Germany and other European countries to take prisoners marked 
+"positive steps forward" by governments that had been reluctant to help out in 
+the past, US State Department spokesman Sean McCormack said.
+
+"Many of these countries have previously been unwilling to work with us to 
+either resettle or to, in some way, detain these individuals under 
+circumstances where they won't pose a threat to others," McCormack said.
+
+Hamburg willing to take in prisoners
+
+US President-elect Barack Obama made it clear last week that he wants to 
+shutter the detention facility in Guantanamo Bay, Cuba, which holds 255 men 
+arrested on suspicion of fighting for al-Qaeda or the Taliban.
+
+Yet many of the men have languished in the detention center of the US Naval 
+Base for years without being charged. About 50 are now thought to be innocent, 
+but have not been released because they would face torture or death if sent 
+back to their countries of origin. Yet many do not want to live in the United 
+States.
+
+Rights groups have calls on EU countries to offer asylum to Guantanamo 
+detainees. German Chancellor Angela Merkel has long publicly advocated closing 
+the camp for terror suspects, situated at a US navy base in Cuba.
+
+Rights groups have welcomed Obama's plans to shutter Guantanamo
+
+In a surprise move, Hamburg's interior minister Christoph Ahlhaus signaled on 
+Monday that his state might be willing to take in Guantanamo prisoners. Ahlhaus 
+told theHamburger Abendblatt newspaper that prisoners who were shown to be 
+innocent should be given the option of coming to Germany.
+
+Germany not "dumping ground"
+
+Germans have been particularly interested in the plight of the Uighurs, a 
+Muslim minority in Central Asia. Germany has a small Uighur community, many of 
+whom live in Munich.
+
+Hamburg's Ahlhaus and fellow Christian Democrat Guenter Nooke, the 
+government's human rights envoy, are among the first high-ranking German 
+politician to publicly call for Germany to consider taking in some of 
+Guantanamo prisoners.
+
+Even so, both politicians have been careful to say that Germany should not 
+become a dumping ground for unwanted prisoners.
+
+Ruprecht Polenz, chair of the foreign relations committee in the Bundestag, 
+pointed out that just because a country wants to "get rid of someone" does not 
+mean that person would automatically qualify for German asylum. Yet it could be 
+enough if the Guantanamo prisoner had previously lived in Germany, Polenz said.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

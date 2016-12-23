@@ -27,7 +27,7 @@ public class AsiaNewsPipeline implements Pipeline {
 		 * if(url.matches("http://www\\.asianews\\.it/news-en/.*")){
 		 */
 		// 具体文章内容
-		String time = null, title = null, content = null, abstracts = null, convertUrl = null;
+		String time = null, title = null, content = null, abstracts = null, convertUrl = null,query="";
 
 		for (Map.Entry<String, Object> entry : resultItems.getAll().entrySet()) {
 			// System.out.println(entry.getKey()+":\n"+entry.getValue());
@@ -44,6 +44,10 @@ public class AsiaNewsPipeline implements Pipeline {
 				assert url.equals(entry.getValue());
 			} else if (AsianViewDetailItem.CONVERT_URL.equals(entry.getKey())) {
 				convertUrl = (String) entry.getValue();
+			}else if(AsianViewDetailItem.QUERY.equals(entry.getKey())){
+//				query="//query_"+(String) entry.getValue();
+				query=(entry.getValue()!=null)?"//query_"+entry.getValue():"";
+					
 			}
 
 		}
@@ -59,7 +63,7 @@ public class AsiaNewsPipeline implements Pipeline {
 
 		String id = String.format("%s-%s", time, ++counter);
 
-		final String fileName = String.format(".//" + FileUtils.docName + "//%s.txt", id);
+		final String fileName = String.format(".//" + FileUtils.docName + "%s//%s.txt",query, id);
 		System.out.println("File name :" + fileName);
 		// FileUtils.writeContent(fileName, time, title, content);
 		FileUtils.writeCorpus(fileName,

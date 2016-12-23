@@ -1,0 +1,66 @@
+<ID>20110831-82
+<DATE>20110831<\DATE>
+<URL>
+http://www.dw.com/en/pakistan-vows-to-work-more-closely-with-china-against-terrorism/a-6607981
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Pakistan vows to work more closely with China against terrorism
+<\TITLE>
+<ABSTRACT>
+On a visit to China's restive Xinjiang region, Pakistani President Asif Ali Zardari has promised to work more closely with the Chinese government to combat terrorism.
+<\ABSTRACT>
+<CONTENT>
+
+Pakistan's president has promised to work more closely with China in the fight 
+against terrorism. His comments came as he visited the restive province of 
+Xinjiang and met officials ahead of a trade expo in Urumqi, the provincial 
+capital where security was boosted.
+
+The Chinese government is accused of oppression
+
+It was President Zardari's first visit to China after two deadly attacks in 
+the ancient Silk Road city of Kashgar left 21 people dead and led to some 
+tension between the two countries, as officials blamed members of the "East 
+Turkmenistan Islamic Movement" for the violence and said they had been trained 
+in Pakistani camps before being sent to China.
+
+Some experts maintained that the Chinese government had not produced enough 
+evidence to establish an organized terrorist threat, saying that the violence 
+stemmed from a long-standing ethnic enmity in the area.
+
+On Wednesday, China's official Xinhua news agency reported that President Asif 
+Ali Zardari had met the head of the Xinjiang Communist Party Zhang Chunxian the 
+day before. "Zardari stated that Pakistan opposes any terrorist activities and 
+will work more closely with China in combating terrorism," the agency said in a 
+statement.
+
+Restive province
+
+Xinjiang, which borders Pakistan, has seen many violent outbreaks in the past. 
+Some members of the ethnic Uighur community have even sought refuge in 
+Pakistan. The mainly Muslim Uighur community resents the immigration of Han 
+Chinese into the area and accuses Beijing of oppression.
+
+There have been several instances of violence between ethnic Uighurs and Han 
+Chinese
+
+In 2009, riots between ethnic Uighurs and Han Chinese killed almost 200 
+people. Zardari endorsed Beijing's policies in the restive region at the time.
+
+Pakistan and China have always enjoyed smooth ties in the past and these have 
+become more intense in recent months as Islamabad's relationship with 
+Washington has deteriorated. However, China has also expressed its concerns 
+about Pakistan's security situation and its vulnerability to terrorists.
+
+Author: Manasi Gopalakrishnan (AFP, Reuters)
+Editor: Anne Thomas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

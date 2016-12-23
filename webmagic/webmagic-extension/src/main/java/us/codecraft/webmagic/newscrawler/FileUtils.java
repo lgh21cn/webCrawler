@@ -291,8 +291,8 @@ public class FileUtils {
 	}
 
 	static /*final*/ String docName=
-//			"dwNews";
-	"asianews";
+			"dwNews";
+//	"asianews";
 	
 	public static boolean moveFiles(String destDirPath, String ... srcFiles){
 		if (srcFiles == null || srcFiles.length == 0) {

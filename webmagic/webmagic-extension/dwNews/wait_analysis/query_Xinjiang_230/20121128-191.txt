@@ -1,0 +1,109 @@
+<ID>20121128-191
+<DATE>20121128<\DATE>
+<URL>
+http://www.dw.com/en/dissidents-remain-unheard-in-inner-mongolia/a-16410162
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Dissidents remain unheard in Inner Mongolia
+<\TITLE>
+<ABSTRACT>
+Hada, a high-profile dissident from Inner Mongolia, has been detained by authorities for nearly two years after having spent 15 years in prison. His wife hopes for change following the recent party congress.
+<\ABSTRACT>
+<CONTENT>
+
+ Inner Mongolia, in northeast China, is one of the country's autonomous 
+regions, like Xinjiang and Tibet in the west. But unlike these two regions, 
+Inner Mongolia is rarely in the public eye, due largely to ethnic tensions and 
+demands for greater independence.
+
+ Its five million inhabitants are hugely unhappy with the cultural and 
+economic dominance of the Han Chinese.
+
+ The most recent protest, in the capital Hohhot, was triggered in May 2012 by 
+the violent death of two Mongolian activists who had blocked Chinese mining 
+activities.
+
+Battlefor greater independence
+
+ Many Mongols reject China's intervention in their traditional way of life. 
+Their best-known protagonist in the battle for greater independence is Hada, 
+who, in line with Mongolian tradition, uses only one name.
+ 
+Conflicts - especially over mining - are rife in Inner Mongolia
+
+The activist, author and bookseller was arrested in 1995 after organizing an 
+anti-Chinese demonstration in Hohhot. He was convicted of separatism and, 
+because of an interview with Voice of America, of espionage as well, in 
+addition to his role in the banned "South Mongolian Alliance for Democracy." He 
+was sentenced to 15 years in prison.
+
+ After Hada's sentence expired on December 2010, photos of him at a family 
+reunion appeared on the Internet. The five photos, uploaded anonymously to the 
+website boxun.com, show the gray-haired Hada eating with his wife Xinna and 
+their son Uiles.
+
+ The normality depicted by the photos is false, however. Hada has not been 
+seen in public since his arrest. Family members say he continues to be held at 
+an undisclosed location. Amnesty International is among the groups protesting 
+his detention.
+
+Under constant surveillance
+
+ Xinna was also arrested for "illegal business activities" in connection with 
+the Mongolian Academic bookstore in Hohhot which she inherited from her 
+husband. After the 18th Chinese Communist Party Congress mid November, she 
+spoke with DW about the state of her husband.
+
+Photos of Hada and his family appeared on the Internet
+
+"He was physically weak then (in December 2010) because of the bad food in 
+prison but his mind was alert," she said. "After that visit, we were separated 
+again because both of us went on a hunger strike to protest our illegal 
+detention."
+
+ After seeing her husband a year later, Xinna said he looked depressed. "He 
+sat there all day without moving," she recalled. "His guards told me he was in 
+that state for nearly a year." Among the harassments to which he was subjected, 
+she added, was the denial of toilet paper.
+
+ Today, Xinna and her son live in a rented warehouse in Hohhot, under constant 
+surveillance by authorities. She was sentenced to five years probation for the 
+alleged business offense, while her son was accused of drug possession without 
+formal charges.
+
+No legal rights
+
+ Xi Haiming, a Chinese dissident living in Germany, told DW that Hada had been 
+threatened with another four years of detention - the justification being that 
+after 15 years of imprisonment, he had no legal rights for a period of four 
+years anyway.
+ 
+Inner Mongolian party leader Hu Chunhua is aware of the life of dissidents
+
+Hu Chunhua, secretary of the CPC Inner Mongolia Autonomous Region Committee, 
+said Xinna's bookstore remained closed and the books had been confiscated. 
+Since the beginning of the 18th Party Congress in Beijing, officials had been 
+following Xinna's every step, even her walks with the dog in the courtyard or 
+trips with her son to go swimming, according to Hu. Her telephone and Internet 
+access did not work during the party congress, he added.
+
+ Nevertheless, Xinna continues to write assiduously to party leader Hu and 
+high-level security officials in Beijing, demanding the release of her husband 
+and an end to the prosecution of her family. She remains confident, pointing to 
+the 18th Party Congress where there was talk of transparency in the justice 
+system.
+
+ "I added this sentence from the congress - 'put justice in the sunshine' - in 
+my letter to the Minister for Public Security and expressed my hope that these 
+would not remain empty words," Xinna said. She hopes China's new leadership 
+will embrace more openness and take a new approach to minority issues.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

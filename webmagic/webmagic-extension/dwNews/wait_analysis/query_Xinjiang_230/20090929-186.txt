@@ -1,0 +1,76 @@
+<ID>20090929-186
+<DATE>20090929<\DATE>
+<URL>
+http://www.dw.com/en/chinese-party-keeps-a-firm-grip-on-history-books/a-5213551
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese Party Keeps a Firm Grip on History Books
+<\TITLE>
+<ABSTRACT>
+The People’s Republic of China is celebrating its 60th birthday on 1st October. Tens of thousands will attend a big military parade. It has all been orchestrated by the Communist Party, which has direct control of which events are celebrated and how China’s recent history is portrayed.
+<\ABSTRACT>
+<CONTENT>
+
+"Social Progress in the Minority Regions": The exhibition in the Palace of 
+Nationalities has drawn hordes of visitors. Big, bright photos of happy people 
+in Tibet, Xinjiang and Inner Mongolia adorn the walls. Young women wearing 
+national dress guide the visitors through the exhibition.
+
+Harmony and economic progress are at the fore of the events to mark the 60th 
+anniversary of the foundation of the People’s Republic of China. Controversial 
+themes are nowhere to be seen. There is no talk about the pro-autonomy 
+movements in Tibet or Xinjiang.
+
+But the visitors are not complaining. "We can see the economic development of 
+China in the past few years and it’s really very good," one of them says. "As 
+far as I know, it’s only people outside China who want Tibet or Xinjiang to be 
+independent."
+
+History as an instrument of party propaganda
+
+Controversial themes are also omitted in history books. Nowhere is the bloody 
+suppression of the democracy movement in 1989 mentioned. The Cultural 
+Revolution might be mentioned fleetingly. The Great Leap Forward that triggered 
+a catastrophic famine at the end of the 1950s gets a passing mention only but 
+nowhere can the number of victims be found.
+
+Journalist Li Datong has nothing good to say about the Communist Party 
+although he was a member for years. "At the moment, all depictions of history 
+in the People’s Republic are lies. There is not one ounce of truth," Li says. 
+"The party controls every single aspect of the depiction of history in the 
+media. This includes schoolbooks, newspapers, film, radio and television, 
+literature and art -- all media."
+
+Historians and journalists also conduct their own form of self-censorship. 
+Especially when it comes to the state’s founder Mao Zedong. On People’s Daily 
+Online, the milestones of the past 60 years -- including the so-called 
+"peaceful liberation of Tibet" in 1951 -- have been listed but there is nothing 
+about what happened on the domestic front until 1978 -- two years after Mao’s 
+death.
+
+Making, not telling history
+
+Xiao Yanzhong from the Marxism Institute at the University of Beijing 
+explains: "History is not told here, it is made. Anything that sheds a negative 
+light on the government is left aside and everything positive is highlighted. 
+Small things are turned into big events and other events are played down."
+
+A new film has been screened across the country for the past few days: "The 
+Foundation of a Republic". The bombastic two-and-a-half-hour long drama depicts 
+the Communist Party as the saviour of the Chinese people and Mao Zedong as a 
+talented military strategist. It ends with the announcement of the People’s 
+Republic on 1st October 1949. Critics say that the film serves only to idealise 
+Mao and the Party. Nonetheless, people are flocking to the cinemas.
+
+Author: Ruth Kirchner / Anne Thomas
+Editor: Thomas Bärthlein
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

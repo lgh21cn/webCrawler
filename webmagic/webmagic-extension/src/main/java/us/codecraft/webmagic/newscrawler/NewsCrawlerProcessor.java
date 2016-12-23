@@ -35,7 +35,7 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 		//处理
 		public void convertProcess(Page page);
 		public void listProcess(Page page);
-		public void contentProcess(Page page) throws ContentMatchException;
+		public void contentProcess(Page page) throws ContentMatchException,QueryNULLException;
 		
 	}
 	
@@ -67,6 +67,26 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 				&&!l_content.contains("east turkestan")
 				//人物
 				&&!l_content.contains("kadeer")&&!l_content.contains("rebiya")
+				//Huseyincan Celil|| Huseyin Celil || Husein Dzhelil
+				//Housaiyinjiang Jialili ||
+				//Haishanjiang Jialili || Yushanjiang(玉山江)
+				&&!l_content.contains("huseyincan")&&!l_content.contains("celil")
+				&&!l_content.contains("huseyin")&&!l_content.contains("celil")
+				&&!l_content.contains("husein")&&!l_content.contains("dzhelil")
+				&&!l_content.contains("housaiyinjiang")&&!l_content.contains("jialili")
+				&&!l_content.contains("haishanjiang")&&!l_content.contains("jialili")
+				&&!l_content.contains("yushanjiang")
+
+				//Dilxat/PERSON Raxit/PERSON
+				&&!l_content.contains("dilxat")&&!l_content.contains("raxit")
+				
+				//Ismail Semed
+				&&!l_content.contains("ismail")&&!l_content.contains("semed")
+				
+				//Dolkun/PERSON Isa/PERSON
+				&&!l_content.contains("dolkun")
+				//注释原因：和其他单词中的部分重合，降低了准确率
+				//&&!l_content.contains("isa")
 				
 				//思想
 //				&&!l_content.contains("extremism")
@@ -76,7 +96,7 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 //				&&!l_content.contains("religious")&&!l_content.contains("ethnic")	
 				//组织
 				&&!l_content.contains("world uyghur congress")
-				&&!l_content.contains("WUC")
+				&&!l_content.contains("wuc")
 				//诉求
 //				&&!l_content.contains("independence")&&!l_content.contains("freedom")
 //				&&!l_content.contains("human rights")
@@ -105,6 +125,16 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 	private int mMatchCounter=0;
 	private int mErrorCounter=0;
 	
+	private int mQueryNullCounter=0;
+
+	@SuppressWarnings("serial")
+	class QueryNULLException extends Exception{
+		public QueryNULLException() {
+			// TODO Auto-generated constructor stub
+			super("Querry Null");
+		}		
+	}
+	
 	@SuppressWarnings("serial")
 	class MatchException extends Exception{
 		public MatchException() {
@@ -120,11 +150,13 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 			super("No Content Matches");
 		}		
 	}
+
 	
 	
 	public static String MATCH_PATH=".//"+FileUtils.docName+"//Match_Error//";
 	public static String CONTENT_MATCH_PATH=".//"+FileUtils.docName+"//Content_Match_Error//";
 	public static String ERROR_PATH=".//"+FileUtils.docName+"//Error_Log//";
+	public static String QUERY_NULL_PATH=".//"+FileUtils.docName+"//Query_Null_Error//";
 	
 	public static final String LOG_ORIGIN_URL_FORMAT="<ORIGIN_URL>"+CorpusFormatter.CRLF+"%s"+CorpusFormatter.CRLF+"<\\ORIGIN_URL>"+CorpusFormatter.CRLF;
 	public static final String LOG_URL_FORMAT=CorpusFormatter.URL;
@@ -152,16 +184,26 @@ public class NewsCrawlerProcessor implements PageProcessor,SpiderListener{
 			String url=page.getUrl().toString();
 			final String fileName=String.format(MATCH_PATH+"%s.match.log", ++mMatchCounter);
 			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
+			page.setSkip(true);
 		}catch(ContentMatchException e){
 			// TODO: handle exception
 			String url=page.getUrl().toString();
 			final String fileName=String.format(CONTENT_MATCH_PATH+"%s.match.log", ++mContentMatchCounter);
 			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
+			page.setSkip(true);
+		}catch(QueryNULLException e){
+			// TODO: handle exception
+			String url=page.getUrl().toString();
+			final String fileName=String.format(QUERY_NULL_PATH+"%s.query_null.log", ++mQueryNullCounter);
+			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
+			page.setSkip(true);
 		}catch (Exception e) {
 			// TODO: handle exception
 			String url=page.getUrl().toString();
 			final String fileName=String.format(ERROR_PATH+"%s.err.log", ++mErrorCounter);
 			FileUtils.writeErrorLog(fileName, e.toString()+"\n"+String.format(LOG_ORIGIN_URL_FORMAT, page.getRequest().getExtra(AsianViewDetailItem.ORIGIN_URL))+String.format(CorpusFormatter.URL, url));
+			page.setSkip(true);
+			e.printStackTrace();
 		}
 		
 		

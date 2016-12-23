@@ -1,0 +1,7 @@
+us.codecraft.webmagic.newscrawler.NewsCrawlerProcessor$ContentMatchException: No Content Matches
+<ORIGIN_URL>
+http://www.dw.com/search/?languageCode=en&item=Xinjiang&searchNavigationId=9097&sort=RELEVANCE&resultsCounter=230
+<\ORIGIN_URL>
+<URL>
+http://www.dw.com/en/china-promises-safe-olympics/a-5213790
+<\URL>

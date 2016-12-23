@@ -1,0 +1,90 @@
+<ID>20100201-18
+<DATE>20100201<\DATE>
+<URL>
+http://www.dw.com/en/chinas-afghan-engagement-a-strategy-to-tap-natural-resources/a-5213483
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China’s Afghan engagement: a strategy to tap natural resources?
+<\TITLE>
+<ABSTRACT>
+While western troops are fighting against the Taliban and Al Qaeda in Afghanistan, Chinese state-run companies are securing resources.
+<\ABSTRACT>
+<CONTENT>
+
+They are profiting from the troop deployments of the USA and its allies in 
+Afghanistan, and now the West is getting increasingly irritated about it. But 
+China says it is doing a lot for the stability of the country by investing in 
+its economy. Despite demands made by the US, Beijing has said sending its own 
+troops to Afghanistan is not an option.
+
+Afghanistan has large deposits of copper and iron ore and Chinese state-run 
+businesses are out to get it. Two years ago a Chinese mining consortium bought 
+the mining rights to a copper mine in Aynak, near Kabul, for 3.4 billion US 
+dollars.
+
+It is the largest copper mine in the world and the consortium is aiming to 
+produce 11 million tons of copper there within the next 25 years. Chinese 
+state-owned enterprises are now interested in the iron ore mines in Hajijak, 
+central Afghanistan.
+
+Western criticism
+
+Criticism from the West is getting louder. They say that China is capitalizing 
+on Afghanistan's resources while the US and its allies are fighting against the 
+Taliban and Al Qaeda.
+
+Conrad Schetter from Bonn University’s Center for Development and Research 
+says the West's anger is understandable.
+
+“The Chinese strategy is to concentrate on economic aspects and stay as far 
+away from politics as possible, while relying on the Americans and NATO to take 
+care of terrorism. And they don't feel they need to participate in the latter,” 
+he says.
+
+China says projects strengthen Afghanistan
+
+South Asia expert at the Chinese Academy for Social Sciences, Ye Hailin, says 
+such accusations are plain nonsense. He says, investment projects like in Aynak 
+are part of China's development strategy and that China also has an interest in 
+Afghanistan's stability. By strengthening Afghanistan's regional economy, jobs 
+will be created and, in the long run, that would certainly help improve the 
+situation there.
+
+"Stability has an impact on the order of society in northwest China,” says Ye. 
+“We do not want Afghanistan to become a training camp for extremists from all 
+over the world. If that happens, it would pose a threat for all of East Asia 
+and Afghanistan's neighbors. China's interests are not only of economic nature."
+
+Statements like this are not enough to appease the West. US Secretary of State 
+Hillary Clinton asked for China's help in Afghanistan on her first visit to 
+Beijing in February last year. She suggested Chinese military intervention, 
+which the communist government turned down because, as they said, China and the 
+USA have different goals in Afghanistan. They said the US and NATO would have 
+to shoulder the responsibility alone.
+
+China seeks distance from NATO
+
+Bernt Berger from the German Institute for International and Security Affairs 
+explains, "When it comes to Afghanistan, they don't want it to look like they 
+have the same security objectives as NATO."
+
+However, Berger points out that Al Qaeda is also a threat to China, as it 
+shares a border with Afghanistan in its north-western province, Xinjiang. This 
+province is home to a large Muslim community, the Uyghurs. Time and again, 
+civil unrest and riots break out, with the Uyghur people fighting for their 
+independence from China. Berger says Al Qaeda is trying to turn this movement 
+into an Islamist struggle -- which means that NATO is doing what is best for 
+China by fighting terrorists in the Hindu Kush.
+
+Author: Christoph Ricking / sb
+Editor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,59 @@
+<ID>20160830-230
+<DATE>20160830<\DATE>
+<URL>
+http://www.dw.com/en/deadly-blast-hits-near-chinese-embassy-in-kyrgyzstan/a-19511937
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Deadly blast hits near Chinese embassy in Kyrgyzstan
+<\TITLE>
+<ABSTRACT>
+A car has exploded near the Chinese embassy in Kyrgyzstan killing at least one person, according to media reports. Three people have also been wounded.
+<\ABSTRACT>
+<CONTENT>
+
+ The Kyrgyz state security authority GKNB said on Tuesday that it was carrying 
+out an investigation after a car blew up near the Chinese embassy in the 
+capital, Bishkek, killing at least one person and wounding several others.
+
+ The Russian news agency Interfax cited a representative of the emergency 
+minister as saying that the exact death toll was being verified.
+
+ According to local medics, the driver of the car was killed while two Kyrgyz 
+embassy staff and a woman were slightly wounded in the incident, which occurred 
+around 10 am local time (0400 UTC).
+
+ Interfax quoted Deputy Prime Minister Zhenish Razakov as saying it was a 
+suicide attack and that the car had rammed the gate of the embassy before 
+exploding.
+
+Condemnation from Beijing
+
+ The Chinese Foreign Ministry called the incident a "serious terrorist 
+attack," stating that China would "resolutely strike against all forms of 
+terrorism."
+
+ Authorities in Kyrgyzstan, a former Soviet republic with a mostly Muslim 
+population of 6 million people, have detained a number of suspected Islamist 
+militants accused of having links to the extremist group "Islamic State" (IS). 
+The jihadists are known to recruit from Central Asia.
+
+ The region has also seen activity by an anti-Chinese group comprised of 
+ethnic Uighurs. In 2014, alleged members of the group illegally crossed into 
+Kyrgyzstan from neighboring China and were intercepted by Kyrgzyz border 
+guards. Eleven Uighurs were killed.
+
+ The attack comes a day before Kyrgyzstan celebrates the 25th anniversary of 
+its independence from the Soviet Union.
+ 
+
+ tj/jm (Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

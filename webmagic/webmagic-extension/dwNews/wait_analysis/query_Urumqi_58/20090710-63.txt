@@ -1,0 +1,79 @@
+<ID>20090710-63
+<DATE>20090710<\DATE>
+<URL>
+http://www.dw.com/en/exiled-uighurs-worry-about-situation-in-urumqi/a-5214140
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Exiled Uighurs Worry About Situation in Urumqi
+<\TITLE>
+<ABSTRACT>
+Thousands of people have started to flee Xinjiang in western China since ethnic unrest erupted in the region last weekend. Security remained tight in the regional capital Urumqi on Friday. Many mosques in the city and also in Kashgar stayed closed. Exiled Uighurs all over the world are concerned about the safety of their family members in Xinjiang. 25-year-old Haiyur Kurban lives in Munich, where the biggest Uighur community in Europe -- numbering some 500 -- is based. Chi-Viet Giang met him.
+<\ABSTRACT>
+<CONTENT>
+
+Everyday, Haiyur Kurban watches the news to get more information about the 
+situation in Xinjiang. His eyes are focused on the screen. They show anger and 
+worry as he sees all the violence and chaos on the streets of Urumqi where he 
+still has many friends and relatives.
+
+It is hard to get any information. The Chinese authorities are trying to 
+control all information coming out of the province. They have shut down 
+web-pages, blocked telephone lines and also jammed foreign radio and television 
+programmes.
+
+Since Kurban heard about the hundreds of Uighur protesters being arrested by 
+Chinese security forces, he has desperately been trying to contact his family 
+-- he does not know whether they are safe or not.
+
+“At the moment, I am very concerned about my family. They live in the area 
+where the mass arrests of protesters took place. It is very important for me to 
+get in touch with my family. But unfortunately, the telephone lines are always 
+busy. Nothing works. There is no getting through.”
+
+No more information since the first days
+
+There was a trickle of information during the first days of the turmoil in 
+Urumqi, at the very beginning of the bloody riots.
+
+Kurban was able to talk to a friend of his there: “He was right in the middle 
+of this chaos. He was not participating. He was there by accident. He described 
+to me what was going on. He said that there were a lot of people screaming on 
+the streets. Then police forces appeared and used tear gas. There were 
+explosions -- it was absolute chaos.”
+
+There were reports about dead bodies in the streets of Urumqi. The number of 
+victims is still unclear. The Uighurs and the Han Chinese blame each other for 
+the bloodshed.
+
+Haiyur Kurban's daily routine has changed. He cannot get the pictures of 
+violence out of his head. He has sleepless nights because he can’t do anything: 
+“These days, I fall asleep at three o'clock in the morning and wake up at seven 
+or eight. In my dreams, I see all kinds of chaos. The events in Urumqi have 
+definitely had an impact on my normal daily life. In the past two days, I have 
+only eaten once. I have just lost my appetite.”
+
+Some time to go until normality returns
+
+The riots seem to have stopped in Urumqi. Beijing boosted its security forces 
+in Urumqi to get the situation under control and imposed a night curfew at the 
+beginning of the week.
+
+But the rift between the Uighurs and Han-Chinese has deepened even more. It 
+seems likely that the already fragile relationship between the two ethnic 
+groups will remain damaged for decades.
+
+Normality will not come back any time soon -- neither for the Uighurs in 
+Xinjiang nor for Haiyur Kurban in Munich.
+
+Author: Chi-Viet Giang
+Editor: Anne Thomas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,135 @@
+<ID>20100217-17
+<DATE>20100217<\DATE>
+<URL>
+http://www.dw.com/en/europeans-still-resisting-obama-over-guantanamo-inmates/a-5257326
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Europeans still resisting Obama over Guantanamo inmates
+<\TITLE>
+<ABSTRACT>
+European countries on the whole are still reluctant to take in detainees from Guantanamo Bay despite the best persuasive efforts of the United States. While some have grudgingly agreed to help, others still resist.
+<\ABSTRACT>
+<CONTENT>
+
+Despite missing his self-imposed original deadline, US President Barack Obama 
+still aims to shut down the US prison in Guantanamo Bay during his first term, 
+according to sources in Washington. But one of the major obstacles in finally 
+closing the book on the military prison in Cuba is the White House's struggle 
+to convince foreign governments to accept detainees.
+
+Obama had promised to close the facility during his first year in office but 
+that deadline passed in January. At the time of the deadline passing, 192 
+detainees remained at the much-criticized camp, with fewer than 50 inmates 
+having left Cuba since Obama took office.
+
+While canvassing for host nations has been worldwide, the Obama administration 
+has specifically concentrated its powers of persuasion on its allies in Europe. 
+However, Obama has yet to charm many in Europe into accepting detainees.
+
+Obama's charisma has failed to inspire some EU leaders to help
+
+"The US is taking a salesmanship approach to Europe," Anthony Dworkin, a US 
+foreign policy expert at the European Center for Foreign Relations, told 
+Deutsche Welle. "It's a mixture of appreciation and pressure. On the one hand, 
+the US says it would be really grateful if the Europeans help, and on the other 
+it says, 'well, you told us to sort out this mess, now help us to sort it out'. 
+Mostly the Americans are making it very clear that any help will be much 
+appreciated."
+
+Despite being given the chance to curry favor with Washington, European 
+governments on the whole are reluctant to help, although some have grudgingly 
+pledged to assist. Some of those who have agreed to take in Guantanamo 
+detainees have preferred not to advertise the fact. As a result, the official 
+numbers relating to European nations who have heeded Obama's call are sketchy. 
+It is thought that about 10 EU member states have already accepted detainees, 
+including Britain, France, Ireland, Italy and Portugal.
+
+Spain agrees to host detainees and rebuild US ties
+
+Spain confirmed its status as a public supporter of the policy this week when 
+it announced that the process of accepting five inmates was nearing completion; 
+a move which earned praise from the US.
+
+Zapatero's Spain hopes to mend relations with the US
+
+Dworkin believes that Spain is acting out of good faith towards the United 
+States, a reason that has inspired other countries to take in inmates, but he 
+also believes the Spanish government is looking to mend some fences.
+
+"This agreement to take in five inmates is an attempt to improve relations 
+between Spain and the US," he said. "Relations took a downturn when Spain 
+withdrew its troops out of Iraq. This offer is demonstrating a new Spanish 
+approach to the United States."
+
+Spain had announced in January that it was finalizing procedures for taking in 
+two Guantanamo detainees, a Palestinian and a Yemeni national, but had not 
+revealed the nationalities of the other three.
+
+Spain calls on EU members to make good on pledge
+
+Moratinos called on the EU to honor its pledge to help the US
+
+On Monday, Spain's Foreign Minister Miguel Angel Moratinos called on European 
+Union members to follow his country in taking in detainees.
+
+"We are encouraging other European countries to do their utmost" on taking in 
+former Guantanamo detainees, he said. "If we all agree (in the European Union) 
+that Guantanamo was a horror, an unacceptable and morally reprehensible 
+anachronism, then let us make the effort to close it down."
+
+Moratinos also recalled that all 27 EU member states had previously said they 
+would help President Obama, a commitment "which explicitly included the 
+possibility of accepting Guantanamo detainees on European soil."
+
+European powers dragging their heels
+
+Some European governments have been wary of agreeing to transfers because of 
+security concerns and other domestic factors, with a number of powerful EU 
+states the most conspicuous in their reluctance to help out.
+
+EU nations harbor a number of concerns over detainees
+
+"Those countries which have not accepted inmates are refusing to do so for a 
+variety of domestic reasons," Dworkin said. "They wonder why they should take 
+the security risk when the US is not prepared to do so; there are also 
+questions of internal politics which are preventing them for making decisions, 
+questions on legal issues and how accepting detainees would fit in with their 
+asylum policies. The slow progress in the US in wrapping this all up is also a 
+determining factor in some countries' reluctance."
+
+Germany is one of the most high profile countries to be dragging its heels.
+
+"Germany was asked by the US administration last year to take in between nine 
+and 12 (ethnic Chinese) Uyghur inmates, mainly because there is an Uyghur exile 
+community in Hamburg, but the Germans refused," Henning Riecke, the head of the 
+Transatlantic Relations Program at the German Council on Foreign Relations, 
+told Deutsche Welle. "The German government did not accept because this would 
+overshadow German-Chinese relations as Beijing considers the Uyghurs to be 
+terrorists because they fight for independence. This was a weak response, in my 
+opinion. The Ministry of the Interior also cited a fear of Islamist 
+infiltration in its decision."
+
+The Interior Ministry said at the time that the information it had received on 
+the Uyghurs Germany was being asked to accept included details that they had 
+been in terrorist training camps in Afghanistan before being sent to Guantanamo 
+Bay. It also expressed concern that any detainees accepted by an EU country 
+belonging to the Schengen area - in which there are no border controls - would 
+be allowed to move freely among these countries.
+
+Almost a year on, Germany - and many other EU countries - have still yet to 
+make a commitment to hosting detainees and assisting President Obama to achieve 
+his goal of closing down Guantanamo Bay.
+
+Author: Nick Amies
+
+Editor: Michael Knigge
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

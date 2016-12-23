@@ -1,0 +1,101 @@
+<ID>20151222-277
+<DATE>20151222<\DATE>
+<URL>
+http://www.dw.com/en/chinese-rights-lawyer-avoids-prison-time-with-three-year-suspended-sentence/a-18933516
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese rights lawyer avoids prison time with three-year suspended sentence
+<\TITLE>
+<ABSTRACT>
+A Chinese court has given prominent human rights lawyer Pu Zhiqiang a suspended three-year sentence for making comments critical of the Communist Party. The ruling will likely keep him out of prison for now.
+<\ABSTRACT>
+<CONTENT>
+
+ A Beijing court found Pu guilty of "inciting ethnic hatred" and "picking 
+quarrels and provoking trouble" forcomments he made on social media 
+ 
+over China's ethnic policies and criticism of officials.
+
+ Pu has been a vocal supporter of free speech 
+ 
+and represented dissident artist Ai Weiwei. He has also represented labor camp 
+victims and criticized government policies over Tibet and the ethnic Uyghur.
+
+ "Today's verdict also means, Pu Zhiqiang could not serve as a practicing 
+lawyer. He can't provide legal services or assistance as a lawyer," Shang 
+Baojun, one of Pu's lawyers, told DW.
+
+ "However, the verdict was still a relief to us. At least, it means he can be 
+released quite soon after spending almost 19 months in jail," explained Shang, 
+who is worried about the working environment of Chinese lawers after Pu's case.
+
+ His supporters were relieved that the suspended sentence likely means the 
+human rights lawyer will not have to spend time in prison, but expressed 
+outrage over the guilty verdict and a sentence that effectively silences him 
+for the near future.
+
+ Under the three-year sentence, Pu will be monitored by police and can only 
+leave Beijing with permission.
+
+ According to the Xinhua News Agency, Pu decided not to lodge an appeal 
+against the court's decision.
+  Watch video 01:59 
+Share
+
+Prominent Chinese human rights lawyer to be freed
+
+Send 
+
+Facebook 
+
+Twitter 
+
+Google+ 
+
+Whatsapp  Tumblr 
+
+linkedin 
+
+stumble 
+
+Digg 
+
+reddit 
+
+Newsvine 
+
+
+Permalink http://dw.com/p/1HRcH
+
+Prominent Chinese human rights lawyer to be freed
+
+ "Clearly it is positive that Pu Zhiqiang is unlikely to spend another night 
+in jail, yet that cannot hide the gross injustice against him," said William 
+Nee, China researcher at Amnesty International. "He is no criminal and this 
+guilty verdict effectively shackles one of China's bravest champions of human 
+rights from practicing law."
+
+ Pu was arrested in May 2014 as part of a wider nationwide crackdown on 
+dissidents after attending a meeting to discusscommemorating the 25th 
+anniversary of the Tiananmen Square massacre, a taboo topic in China. 
+ 
+
+ The case against him related to seven social media posts between 2011 and 
+2014 in what critics argue is a politically motivated attack on rights 
+defenders.
+
+ Pu's case has drawn the attention of rights groups and foreign governments, 
+several of which said they were not allowed into the courtroom because 
+officials said it was overcrowded.
+
+ cw/jil (AFP, AP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>
