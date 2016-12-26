@@ -1,7 +1,7 @@
 Huseyin/PERSON Celil/PERSON fled/O China/LOCATION years/O ago/O arriving/O in/O Canada/LOCATION where/O he/O became/O a/O naturalised/O Canadian/O citizen/O ./O 
 Beijing/LOCATION which/O refuses/O to/O recognise/O his/O new/O citizenship/O sentenced/O him/O to/O life/O in/O prison/O on/O terrorism/O and/O separatism/O charges/O ./O 
-Canada鈥檚/O foreign/O minister/O warns/O the/O decision/O will/O harm/O relations/O between/O the/O two/O countries/O ./O 
-Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O 鈥/O A/O court/O in/O Urumqi/LOCATION -LRB-/O Xinjiang/LOCATION -RRB-/O sentenced/O Uighur/O Canadian/O HuseyinCelil/O to/O life/O in/O prison/O on/O charges/O of/O trying/O to/O 鈥渟plit/O China鈥/O and/O 鈥渙rganising/O ,/O leading/O and/O participating/O in/O terrorist/O groups鈥/O in/O order/O to/O establish/O an/O independent/O East/LOCATION Turkistan/LOCATION ./O 
+Canada/LOCATION 's/O foreign/O minister/O warns/O the/O decision/O will/O harm/O relations/O between/O the/O two/O countries/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O --/O A/O court/O in/O Urumqi/LOCATION -LRB-/O Xinjiang/LOCATION -RRB-/O sentenced/O Uighur/O Canadian/O HuseyinCelil/O to/O life/O in/O prison/O on/O charges/O of/O trying/O to/O ``/O split/O China/LOCATION ''/O and/O ``/O organising/O ,/O leading/O and/O participating/O in/O terrorist/O groups/O ''/O in/O order/O to/O establish/O an/O independent/O East/LOCATION Turkistan/LOCATION ./O 
 Canada/LOCATION slammed/O the/O decision/O ,/O saying/O that/O the/O trial/O process/O was/O unfair/O and/O might/O harm/O relations/O between/O the/O two/O countries/O Huseyin/PERSON Celil/PERSON -LRB-/O or/O Husein/PERSON Dzhelil/PERSON -RRB-/O fled/O China/LOCATION in/O the/O 1990s/O ,/O receiving/O refugee/O status/O in/O Turkey/LOCATION from/O the/O United/ORGANIZATION Nations/ORGANIZATION High/ORGANIZATION Commission/ORGANIZATION for/ORGANIZATION Refugees/ORGANIZATION ./O 
 He/O moved/O to/O Canada/LOCATION in/O 2001/O and/O in/O November/O 2005/O became/O a/O naturalised/O Canadian/O ./O 
 But/O during/O a/O March/O 2006/O visit/O to/O his/O wife/O 's/O relatives/O in/O Uzbekistan/LOCATION ,/O he/O was/O arrested/O and/O extradited/O to/O China/LOCATION ./O 
@@ -12,11 +12,12 @@ In/O 1997/O he/O is/O said/O to/O have/O provided/O 80,000/O yuan/O -LRB-/O US$/
 A/O spokesperson/O for/O the/O Canadian/ORGANIZATION Embassy/ORGANIZATION in/O Beijing/LOCATION complained/O that/O Canadian/O officials/O were/O not/O allowed/O to/O visit/O Celil/PERSON ,/O provide/O him/O with/O legal/O council/O or/O attend/O his/O trial/O ./O 
 He/O further/O noted/O that/O the/O Canadian/O government/O would/O examine/O the/O decision/O and/O determine/O what/O to/O do/O next/O ./O 
 Canadian/O Foreign/ORGANIZATION Affairs/ORGANIZATION Minister/O Peter/PERSON MacKay/PERSON said/O he/O was/O deeply/O disappointed/O at/O the/O sentence/O ./O 
-He/O also/O said/O that/O his/O country/O was/O 鈥済ravely/O concerned/O about/O allegations/O that/O Mr/O Celil/PERSON has/O been/O mistreated/O while/O in/O Chinese/O custody/O and/O possibly/O subjected/O to/O torture/O ,/O 鈥/O adding/O that/O the/O case/O had/O harmed/O relations/O between/O the/O two/O countries/O ./O 
+He/O also/O said/O that/O his/O country/O was/O ``/O gravely/O concerned/O about/O allegations/O that/O Mr/O Celil/PERSON has/O been/O mistreated/O while/O in/O Chinese/O custody/O and/O possibly/O subjected/O to/O torture/O ,/O ''/O adding/O that/O the/O case/O had/O harmed/O relations/O between/O the/O two/O countries/O ./O 
 Mr/O Mackay/PERSON is/O scheduled/O to/O travel/O to/O China/LOCATION in/O ten/O days/O time/O ./O 
-Chinese/O foreign/O ministry/O spokesman/O Liu/PERSON Jianchao/PERSON responded/O saying/O that/O the/O 鈥渃ase/O of/O Huseyincan/PERSON Celil/PERSON is/O an/O internal/O affair/O ,/O and/O Canada/LOCATION has/O no/O right/O to/O interfere.鈥/O Oil-rich/O Xinjiang/LOCATION is/O home/O to/O eight/O million/O Uighurs/O ./O 
+Chinese/O foreign/O ministry/O spokesman/O Liu/PERSON Jianchao/PERSON responded/O saying/O that/O the/O ``/O case/O of/O Huseyincan/O Celil/O is/O an/O internal/O affair/O ,/O and/O Canada/LOCATION has/O no/O right/O to/O interfere/O ./O ''/O 
+Oil-rich/O Xinjiang/LOCATION is/O home/O to/O eight/O million/O Uighurs/O ./O 
 Mostly/O Muslim/O ,/O Uighurs/O are/O ethnically/O different/O from/O the/O ruling/O Han/O Chinese/O population/O ./O 
 For/O decades/O Beijing/LOCATION has/O pursued/O a/O policy/O of/O resettling/O ethnic/O Han/O Chinese/O in/O the/O region/O ./O 
-At/O present/O Han/O Chinese/O dominate/O Xinjiang鈥檚/O administration/O and/O control/O its/O commercial/O sector/O ./O 
+At/O present/O Han/O Chinese/O dominate/O Xinjiang/LOCATION 's/O administration/O and/O control/O its/O commercial/O sector/O ./O 
 China/LOCATION has/O jailed/O and/O sentenced/O to/O death/O many/O Uighurs/O on/O terrorism/O and/O separatism/O charges/O ./O 
 Three/O days/O ago/O ,/O the/O son/O of/O prominent/O US-based/O Uighur/O activist/O Rebiya/PERSON Kadeer/PERSON was/O sentenced/O to/O nine/O years/O in/O prison/O on/O separatism/O charges/O ./O 

@@ -1,0 +1,98 @@
+<ID>20141121-77
+<DATE>20141121<\DATE>
+<URL>
+http://www.dw.com/en/chinese-courts-reject-uighur-scholars-appeal-try-journalist/a-18078459
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Chinese courts reject Uighur scholar's appeal, try journalist
+<\TITLE>
+<ABSTRACT>
+A Chinese court has rejected the appeal of prominent Uighur scholar Ilham Tohti against his life sentence for "separatism." This comes as journalist Gao Yu is tried on charges of leaking state secrets.
+<\ABSTRACT>
+<CONTENT>
+
+ A court in China's western Xinjiang region on Friday upheld a life sentence 
+imposed on a well-known Uighur scholar who was convicted on charges of 
+fomenting unrest and advocating separatism.
+
+ The harsh verdict handed down in September to Ilham Tohti, 45, 
+ was the most 
+severe in decades to be pronounced against a goverment critic in China. 
+
+
+ Tohti, an economics professor, has repeatedly criticized the government in 
+Beijing for its policies toward the Uighur minority in Xinjiang, but he has 
+always denied promoting violence or separatism.
+
+Hearing set at short notice
+
+ His lawyers, Liu Xiaoyuan and Li Fangping, said the appeal hearing at a 
+detention center in the regional capital, Urumqi, was a violation of normal 
+judicial procedure, and that the date was set at such short notice that neither 
+of them was able to attend.
+
+ Tohti would appeal the ruling at the High Court and the Supreme Court, Li 
+said, adding that his client had been kept in leg irons for almost two months.
+
+ Li also said that Tohti would request that his place of detention be shifted 
+to Beijing, where his wife and children live.
+
+ Xianjing has been hit by a wave of violence that Beijing blames on separatist 
+groups from among the mostly-Muslim Uighur minority. Rights groups say 
+repressive government policies have fueled the unrest, in which 200 people have 
+died this year alone.
+
+Crackdown on dissidence
+
+ In a second case that underlines Chinese President Xi Jinping's ongoing 
+campaign to silence government critics, a Beijing court on Fridaybegan its 
+trial of outspoken journalist Gao Yu. 
+ She is 
+accused of providing state secrets to foreign contacts.
+ 
+
+Gao Yu's lawyers say she confessed under duress
+
+The journalist, who suffers from heart problems, had to pause to take medicine 
+several times during the four-hour hearing, her lawyer Mo Shaoping told the 
+news agency AFP.
+
+ The 70-year-old Gao has contributed to Deutsche Welle 
+
+ along with other foreign media outlets,and is known for her articles 
+criticizing government leaders.
+
+ Gao has already served a prison sentence in the 1990s. She was arrested in 
+April this year 
+ 
+on charges of having illegally obtained a Communist party document and handing 
+it to an overseas website for publication, according to previous official 
+reports.
+
+ The internal party communiqué reportedly called for a harsh crackdown on 
+dissent and warning against Western-style democracy.
+
+'Frontal assault' on freedom
+
+ Sophie Richardson, China director of the US-based activist group Human Rights 
+Watch, called Gao's case "a frontal assault on the freedom of expression and 
+access to information," adding that Chinese laws on "state secrets" were being 
+abused to silence political dissent.
+
+ Since coming to power in 2012, President Xi has overseen the detention or 
+imprisonment of hundreds of government critics. Among them are promiinent legal 
+expert Xu Zhiyong, who was sentenced to four years' imprisonment in January, 
+and well-known human rights lawyer Pu Zhiqiang, who has not been released after 
+being detained in May.
+
+ tj/ipj (AFP, AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

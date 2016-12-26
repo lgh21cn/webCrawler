@@ -1,0 +1,84 @@
+<ID>20090714-41
+<DATE>20090714<\DATE>
+<URL>
+http://www.dw.com/en/turkish-support-for-uighurs-in-xinjiang/a-5213595
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Turkish Support For Uighurs in Xinjiang
+<\TITLE>
+<ABSTRACT>
+China called on Turkey’s prime minister to withdraw his controversial remarks about the recent crackdown on ethnic protests in its Western Xinjiang region. Erdogan called on the Chinese authorities to prevent more deaths and said the incidents were simply “genocide”. Chinese media on Tuesday said Erdogan should not “twist facts” and pointed out that a majority of the 184 deaths were of Han Chinese, not of Muslim Uighurs. Like the Uzbeks and most Central Asians, the Uighurs are a Turkic people and speak a language closely related to Turkish. Many call their homeland "East Turkestan" instead of using the Chinese name "Xinjiang".
+<\ABSTRACT>
+<CONTENT>
+
+More than 5,000 Uighurs live in Turkey -- and there have been demonstrations 
+of support for the Uighurs in Xinjiang across the country.
+
+One could think that the words of legendary exiled Uighur leader Isa Yusup 
+Alptekin were true. He once said: "The area that stretches from Edirne in 
+western Turkey to East Turkestan forms a united whole. The Turks of Turkestan 
+are also a religious and cultural entity. They are above all Turks and then 
+they are Uzbeks, Kazakhs or Uighurs."
+
+But in Istanbul, the Uighurs know that such lofty words do not have much 
+weight.
+
+Erol Cihangir, the owner and editor of Turân, a magazine based in Istanbul 
+that covers Turkic issues, says that the Turkish state does not give 
+preferential treatment to other Turkic peoples.
+
+"It’s not as if they say: ‘Come, brother we’ll give you Turkish citizenship 
+because you fled China. They have the same procedures as for the Kurdish 
+Peshmerga from Iraq or for Chechens from the Caucasus. I think that Turkey is 
+even less compliant than European countries."
+
+Disappointment with the Turkic world
+
+Sehr Zengi, a young woman connected to the East Turkestan cultural foundation 
+in Istanbul is also disappointed by the lack of support from the Turkic world 
+in general: "We were full of hope when Kazakhstan, Uzbekistan and the other 
+Turkic states got their independence and we hoped that the Uighurs of these 
+countries would support us against China but we hoped in vain. Turkey hasn’t 
+done anything either, although Tayyip Erdogan is now finally protesting."
+
+In actual fact, Turkey called on China to punish those responsible for the 
+deaths, right after the riots in the city of Urumqi early last week and Erdogan 
+has been the most vocal foreign leader to oppose Beijing’s measures in Xinjiang.
+
+Generally, however, Turkish official policy has been to support China’s 
+territorial integrity and respect Beijing’s right to oppose separatist 
+movements.
+
+Support from general population
+
+However, the Turkish population backs the Uighurs. Thousands took to the 
+streets to protest against the events in Xinjiang last week.
+
+Erol Cihangir, who comes from a family of Tatar refugees, offers a simple 
+explanation for this show of support: “I spent my childhood in a village where 
+there wasn’t a television or anything. In the evenings, the adults would sit 
+and tell stories about war and having to escape. Until I was 11 or 12."
+
+“The stories were always about the cruelty of the Russians. They weren’t 
+stories of heroes or heroic acts but of tragedy, suppression, having to escape 
+and of those who had died whilst fleeing. This had a strong effect on me and 
+that’s why I started working for Turkic peoples when I understood more about 
+the world.”
+
+Cihangir’s experience is not exceptional in Turkey. Before, during and after 
+the First World War, millions of Muslims fled there from the Balkans, the 
+Crimea and the Caucasus. Today, their descendents make up a large part of the 
+Turkish population.
+
+Authors: Günther Seufert/Anne Thomas
+Editor: Thomas Bärthlein
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

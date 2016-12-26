@@ -1,7 +1,7 @@
 A/O year/O after/O bloody/O riots/O broke/O out/O between/O Han/O Chinese/O and/O Uighurs/O in/O Urumqi/LOCATION ,/O it/O seems/O relatively/O calm/O ./O 
 However/O ,/O mutual/O suspicion/O and/O a/O lack/O of/O employment/O prospects/O threaten/O to/O break/O the/O peace/O ./O 
 The/O atmosphere/O is/O pleasant/O and/O peaceful/O at/O this/O market/O in/O south/O Urumqi/LOCATION ./O 
-Uighur/O traders/O sell/O anything/O members/O of/O their/O community/O might/O need/O 鈥/O melons/O and/O T-shirts/O for/O example/O ./O 
+Uighur/O traders/O sell/O anything/O members/O of/O their/O community/O might/O need/O --/O melons/O and/O T-shirts/O for/O example/O ./O 
 A/O jade/O trader/O from/O northern/O Xinjiang/LOCATION ,/O called/O Daot/O */O says/O there/O is/O a/O lot/O of/O mutual/O distrust/O ./O 
 Many/O Uighurs/O were/O arrested/O arbitrarily/O last/O year/O ./O 
 People/O are/O constantly/O asked/O to/O show/O their/O papers/O ,/O even/O today/O ./O 
@@ -17,9 +17,9 @@ Some/O Han/O Chinese/O also/O wonder/O whether/O money/O alone/O will/O be/O abl
 If/O we/O do/O not/O interact/O ,/O we/O can/O not/O understand/O each/O other/O ./O 
 If/O we/O do/O not/O understand/O many/O things/O ,/O this/O will/O create/O misunderstandings/O ./O 
 Because/O our/O customs/O are/O different/O in/O many/O fields/O ,/O our/O lifestyle/O and/O also/O some/O religious/O beliefs/O ./O ''/O 
-To/O aid/O interaction/O and/O understanding/O ,/O the/O authorities/O not/O only/O want/O to/O boost/O economic/O aid/O but/O to/O introduce/O more/O language/O courses/O so/O that/O the/O Uighurs鈥/O grasp/O of/O Chinese/O improves/O ./O 
+To/O aid/O interaction/O and/O understanding/O ,/O the/O authorities/O not/O only/O want/O to/O boost/O economic/O aid/O but/O to/O introduce/O more/O language/O courses/O so/O that/O the/O Uighurs/O '/O grasp/O of/O Chinese/O improves/O ./O 
 ``/O The/O Chinese/O say/O we/O need/O more/O workers/O but/O when/O our/O people/O go/O for/O a/O job/O you/O have/O to/O speak/O Chinese/O ,/O ''/O says/O Memet/PERSON ,/O who/O works/O as/O a/O guard/O in/O a/O bank/O in/O another/O city/O in/O Xinjiang/LOCATION ,/O north/O of/O Urumqi/LOCATION ./O 
-``/O If/O you/O don鈥檛/O know/O Chinese/O ,/O there鈥檚/O no/O way/O ./O ''/O 
+``/O If/O you/O do/O n't/O know/O Chinese/O ,/O there/O 's/O no/O way/O ./O ''/O 
 Memet/PERSON speaks/O good/O Chinese/O but/O most/O of/O his/O relatives/O do/O not/O ./O 
 Most/O of/O them/O are/O unemployed/O ./O 
 They/O live/O in/O the/O southern/O part/O of/O the/O city/O like/O the/O other/O Uighurs/O ,/O in/O houses/O made/O of/O mud/O and/O grass/O ,/O where/O there/O is/O no/O running/O water/O or/O electricity/O ./O 

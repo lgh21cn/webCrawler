@@ -1,6 +1,6 @@
 Manfred/PERSON Nowak/PERSON ,/O UN/ORGANIZATION Rapporteur/O on/O Torture/O who/O led/O the/O inquiry/O ,/O accuses/O Chinese/O authorities/O of/O obstructing/O his/O work/O ./O 
 Victims/O and/O witnesses/O were/O threatened/O in/O an/O atmosphere/O of/O palpable/O fear/O with/O constant/O surveillance/O during/O the/O hearings/O ./O 
-Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O 聳/O The/O use/O of/O torture/O is/O widespread/O in/O China/LOCATION and/O many/O trials/O are/O not/O fair/O ,/O top/O UN/ORGANIZATION Special/O Rapporteur/O on/O Torture/O Manfred/PERSON Nowak/PERSON said/O on/O Friday/O after/O a/O 12-day/O inquiry/O into/O the/O country/O 's/O judicial/O and/O penal/O system/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O --/O The/O use/O of/O torture/O is/O widespread/O in/O China/LOCATION and/O many/O trials/O are/O not/O fair/O ,/O top/O UN/ORGANIZATION Special/O Rapporteur/O on/O Torture/O Manfred/PERSON Nowak/PERSON said/O on/O Friday/O after/O a/O 12-day/O inquiry/O into/O the/O country/O 's/O judicial/O and/O penal/O system/O ./O 
 Despite/O a/O certain/O decline/O ,/O ``/O torture/O remains/O widespread/O in/O the/O country/O ,/O ''/O he/O told/O a/O news/O conference/O ./O 
 ``/O There/O is/O much/O that/O still/O needs/O to/O be/O done/O ,/O there/O is/O a/O need/O for/O many/O more/O structural/O reforms/O ,/O ''/O he/O added/O ./O 
 ``/O Criminal/O procedures/O need/O to/O come/O into/O line/O with/O international/O standards/O of/O fair/O trial/O ''/O ./O 

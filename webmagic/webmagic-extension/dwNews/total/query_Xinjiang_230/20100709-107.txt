@@ -1,0 +1,64 @@
+<ID>20100709-107
+<DATE>20100709<\DATE>
+<URL>
+http://www.dw.com/en/china-renews-googles-licence/a-5779146
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China renews Google's licence
+<\TITLE>
+<ABSTRACT>
+A spokesperson for Google in China has said the government has accepted the company's application to renew its internet content provider licence. It expired on June 30.
+<\ABSTRACT>
+<CONTENT>
+
+Renewal had been in doubt following a row between Google and the Chinese 
+authorities. After complaining that its e-mail service had been hacked in 
+China, Google in January threatened to pull out of China completely and 
+announced it would not continue censoring search results, as required under 
+Chinese regulations. From March onwards, the company automatically redirected 
+the users of its Chinese page google.cn to the uncensored Chinese-language 
+Google page based in Hong Kong (google.com.hk).
+
+Google's operations have faced other problems in China. Its video sharing 
+platform YouTube is banned there, for example. But as China is a huge and 
+rapidly growing internet market, Google didn't want to be completely shut out 
+from it either.
+
+Google's compromise
+
+Retaining an internet content provider's licence in China therefore became 
+crucial. In the course of negotiations about the extension, Google agreed to 
+implement a compromise: Visitors to google.cn are no longer automatically 
+redirected to the Hong Kong page, but a link to google.com.hk is displayed in 
+big letters immediately underneath the search window.
+
+Many websites are blocked by the government in China
+
+The whole fight is more about taking a stance than about making a real 
+difference: Chinese users will still have an incentive to use the uncensored 
+Hong Kong-based search engine. On the other hand, even search results that 
+Chinese users find via Google Hong Kong are not accessible to them if the sites 
+are blocked by the Chinese authorities. The links simply won't open.
+
+Facebook is a security threat: report
+
+Meanwhile, a top Chinese think tank has claimed that social networking sites 
+like Facebook pose a threat to national security. In its annual report on the 
+development of new media in China, the Beijing-based Chinese Academy of Social 
+Sciences (CASS) said Western countries including the US were using these 
+websites to stir up political unrest in China. The report mentioned - by way of 
+example - last year's rioting in the northwestern Xinjiang region and claimed 
+that overseas separatist groups had used Facebook as a rallying point.
+
+tb/AFP/AP/dpa/Reuters
+Editor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

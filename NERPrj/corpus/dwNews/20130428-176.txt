@@ -1,0 +1,69 @@
+<ID>20130428-176
+<DATE>20130428<\DATE>
+<URL>
+http://www.dw.com/en/seeking-asylum-in-afghanistan/a-16774149
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Seeking asylum in Afghanistan
+<\TITLE>
+<ABSTRACT>
+The plight of Afghan refugees is known, but less familiar are the dissidents and victims of civil war who have sought refuge in Afghanistan although the war-torn country has no asylum law as yet.
+<\ABSTRACT>
+<CONTENT>
+
+ Amir Hamza Halimov fled to Kabul in the early 1990s. He was one of tens of 
+thousands of Tajiks who crossed the border to Afghanistan when Emomali Rahmon 
+became president and civil war broke out in Tajikistan.
+
+ Most returned after the end of the war but Halimov, a dissident who feared 
+repercussions because of his anti-regime activity if he returned, stayed in 
+Afghanistan. He and his two sons live in a guesthouse provided by the Afghan 
+Ministry of Refugees and Repatriations.
+
+ The ministry has provided accommodation to about 150 asylum seekers from 
+Iran, Tajikistan, Pakistan, Bangladesh and Iraq. Although there is no asylum 
+law, it acts according to the tradition ofnanawatai that allows a beleaguered 
+person, even an enemy, to enter the house of any other person and make a 
+request of him which cannot be refused, even at the cost of the host's own life 
+or fortune.
+  
+Amir Hamza Halimov and his sons live precariously
+
+ There are also countless numbers of separatists from Indian-administered 
+Kashmir who have taken refuge in Afghanistan as well as Muslims from China's 
+Xinjiang province.
+
+Confused status
+
+ Until now, Halimov's food and living expenses had been covered by the 
+ministry but he says this support stopped three months ago. Now he has to buy 
+food on credit. He cannot work because his status is unclear. He has spent six 
+years going from one authority to the next to clear his case but in vain. He is 
+still not officially recognized as an asylum seeker nor does he have Afghan 
+nationality.
+
+ The Afghan president has the right to grant Afghan nationality if he wants 
+to. Earlier this month, four Iranians who fled their country after taking part 
+in post-election protests in 2009 were granted Afghan nationality by President 
+Hamid Karzai.
+  
+Amir Hamza Halimov is still struggling to overcome all the red tape
+
+ The government is currently drafting asylum and nationality legislation. 
+Finally Afghanistan will be "a country that can provide refuge in the classical 
+sense" says Karl Kopp from German rights organization Pro Asyl. People 
+persecuted for political reasons or fleeing civil war will be able to apply for 
+asylum. The country can be a "corridor of protection" in a region where there 
+is no traditional system of protection. However, Kopp points out that the main 
+problem is still how to create stable, secure conditions in the devastated 
+country.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

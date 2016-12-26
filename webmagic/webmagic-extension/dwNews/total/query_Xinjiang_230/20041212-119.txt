@@ -1,0 +1,33 @@
+<ID>20041212-119
+<DATE>20041212<\DATE>
+<URL>
+http://www.dw.com/en/germans-probe-china-terror-cell-claims/a-1426146
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Germans Probe China Terror Cell Claims
+<\TITLE>
+<CONTENT>
+
+German investigators are expected in China to examine allegations from Beijing 
+that exiles from China's Uighur minority are planning terrorist activities from 
+German soil, the weeklyDer Spiegel said in its edition to appear on Monday. 
+Germany has so far refused to follow up China's demand that it ban two Uighur 
+groups based on its territory and ban its leaders, on the grounds that it lacks 
+enough evidence, according to the magazine. The Muslim, Turkish-speaking 
+Uighurs advocate separatism for the Islamic, northwestern Xinjiang region of 
+China and Beijing has already classified four Uighur groups as terrorists. Two 
+German investigators are due to travel to China to consult the evidence 
+collected by the Chinese authorities, the weekly reported. German Chancellor 
+Gerhard Schröder this week visited China for the sixth time in as many years, 
+as China and Germany step up their cooperation both economically and 
+politically.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

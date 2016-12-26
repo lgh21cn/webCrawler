@@ -14,7 +14,7 @@ Stepan/PERSON added/O that/O this/O type/O of/O reshuffling/O is/O not/O unusual
 ``/O We/O will/O see/O a/O larger/O number/O of/O people/O assuming/O office/O as/O governors/O or/O vice-governors/O in/O the/O provinces/O over/O the/O course/O of/O the/O year/O ./O 
 At/O the/O same/O time/O ,/O many/O high/O level/O officials/O will/O transfer/O to/O positions/O in/O Beijing/LOCATION ./O ''/O 
 To/O rise/O in/O party/O ranks/O ,/O experience/O in/O the/O provinces/O is/O often/O necessary/O ./O 
-``/O A/O number/O of/O people/O currently/O holding/O office/O in/O Beijing/LOCATION will/O need/O to/O gain/O experience/O in/O the/O provinces/O 鈥/O even/O if/O it/O is/O only/O for/O a/O year/O ,/O ''/O underlined/O Stepan/PERSON ./O 
+``/O A/O number/O of/O people/O currently/O holding/O office/O in/O Beijing/LOCATION will/O need/O to/O gain/O experience/O in/O the/O provinces/O --/O even/O if/O it/O is/O only/O for/O a/O year/O ,/O ''/O underlined/O Stepan/PERSON ./O 
 While/O Xi/O has/O progressively/O increased/O the/O authority/O of/O the/O party/O 's/O core/O since/O he/O became/O chief/O in/O 2012/O ,/O he/O still/O lacks/O support/O in/O the/O Central/ORGANIZATION Committee/ORGANIZATION ,/O which/O comprises/O 205/O full/O members/O that/O are/O the/O leaders/O of/O the/O Chinese/ORGANIZATION Communist/ORGANIZATION Party/ORGANIZATION ./O 
 At/O the/O party/O congress/O in/O 2017/O ,/O Xi/O will/O have/O the/O chance/O to/O control/O the/O process/O and/O exercise/O influence/O over/O new/O members/O ./O 
 According/O to/O figures/O published/O in/O ,/O the/O number/O of/O seats/O available/O will/O be/O 92/O ,/O an/O unusually/O high/O figure/O resulting/O from/O members/O retiring/O or/O being/O removed/O because/O of/O corruption/O ./O 

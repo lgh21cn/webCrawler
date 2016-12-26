@@ -1,0 +1,169 @@
+<ID>20091025-37
+<DATE>20091025<\DATE>
+<URL>
+http://www.dw.com/en/europe-could-pay-the-price-for-improved-us-china-ties/a-4807113
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Europe could pay the price for improved US-China ties
+<\TITLE>
+<ABSTRACT>
+Since taking office President Obama has worked hard to improve Washington's relationship with Beijing. While the US and China grow closer together, Europe could find itself relegated to the sidelines.
+<\ABSTRACT>
+<CONTENT>
+
+In a move that wasn't widely reported, but probably didn't go unnoticed in 
+Beijing, President Barack Obama last month turned the authority to monitor and 
+approve missile and technology sales to China from the White House to the 
+Commerce Department.
+
+While the administration says the change won't loosen the strict rules on 
+military technology exports to Beijing, non-proliferation experts noted the 
+fact that the enforcement of export rules was turned over to the Commerce 
+Department to promote US business interests instead of the Pentagon or the 
+State Department.
+
+Earlier, Obama's decision not to meet the Dalai Lama before the president's 
+upcoming trip to China - the first presidential snub for Tibet's spiritual 
+leader since 1991 - had made international news and triggered a debate about a 
+possible shift of US-China policy.
+
+Another indicator of a new US approach was a statement by Secretary of State 
+Hillary Clinton that human rights issues were still part of US-China policy, 
+but couldn't ultimately damage the relationship.
+
+A third aspect of a change in the White House's human rights policy toward 
+China are its dealings with Rebiya Kadeer and the World Uighur Congress.
+
+"Rebiya Kadeer in previous administrations was having meetings with the 
+president. She has found it very difficult to get a similiar level of access, 
+even to meet with a number of officials on lower levels in the administration 
+and the Chinese are aware of this too," said Andrew Small, a China expert at 
+the German Marshall Fund of the United States.
+
+All these instances, adds Small, constitute a clear change in human rights 
+policy from earlier administrations.
+
+That shift in focus by the new administration - less emphasis on human rights 
+issues, more emphasis on trade and security issues - is reminiscent of a China 
+approach favored by German Chancellor Gerhard Schroeder.
+
+During his tenure from 1998 to 2005 he repeatedly argued for overturning a EU 
+weapons embargo against China, but his move was rejected at home by the Green 
+party, his coalition partner, and abroad by other EU member states.
+
+President Obama may prove to be more successful in altering US human rights 
+policy toward China than Chancellor Schroeder was in his efforts to reframe the 
+EU's China policy.
+
+Still, argue experts, aside from human rights, Washington's approach toward 
+Beijing is very much a continuation of long-standing US foreign policy.
+
+"There are significant elements of continuity with the Bush policy on China," 
+said Small.
+
+Good grades
+
+Josef Braml, a US expert with the German Council on Foreign Relations, agreed: 
+"I think there is a continuity of American foreign policy toward China which 
+can be labeled 'congagement,' a convergence of two diverting strategies - 
+containment and engagement."
+
+The Dalai Lama has to wait until he can meet President Bush's successor.
+
+Relations between Washington and Beijing have improved under Obama to an 
+extent that even when the US slapped tariffs on Chinese tires, the reaction 
+from China was rather restrained.
+
+"I think the Chinese have treated some of these trade and economic issues with 
+some degree of equanimity, partly because of the policy on issues such as the 
+Dalai Lama and contacts with Rabiya Kadeer as well have been placatory to the 
+Chinese," said Small, adding that Obama's first year gets very good grades from 
+Beijing:
+
+"The Chinese expect a lot tensions usually in the first year of a new 
+administration and the fact that it has been restricted largely to some of 
+these trade issues in what is in any case a difficult time for all sides on the 
+trade issues - and the Chinese themselves are not averse to some of these 
+protectionist measures too - they see the overall tenor of this first year as 
+very positive."
+
+What's more, noted Braml, both the US and China are basically forced to get 
+along, because they simply are dependent on each other.
+
+"If one wanted to describe it with a strategic metaphor, there is a new MAD 
+system - mutually assured destruction. China could destroy America if it pulled 
+the trigger in terms of financing US debt, but it would also hurt itself."
+
+With Beijing holding approximately two billion dollars, mostly in government 
+bonds, it is a major financier of US debt.
+
+However, a quick disposal of those funds would seriously undermine the value 
+of the US dollar and by extension the ability of American consumers to buy 
+Chinese products. Therefore both China and the US have an avid interest in good 
+economic and political relations.
+
+While Obama's so called concept of "strategic reassurance" has been successful 
+on the political and economic front at least for now and Washington still hopes 
+it will lead to improved Chinese cooperation on Iran and North Korea, progress 
+is more difficult on military issues.
+
+"This is an area where the blame that relations have not been improving on the 
+military side lies very much with the Chinese," said Small.
+
+"There have been a number of efforts on the US side to improve crisis 
+management mechanisms, to upgrade relations between the two militaries and the 
+pushback comes from the Chinese side."
+
+Beijing still perceives Washington to be militarily superior and thinks the US 
+will gain more from better cooperation than China, he said.
+
+He predicts future tensions between the US and China in the Asia-Pacific 
+region until the Chinese military changes its stance toward cooperation.
+
+Euro-skeptic China
+
+Despite the slow pace of improving military ties - something that the Bush 
+administration had also worked on - relations between two of the world's major 
+players have improved so much under Obama that there have been concerns about 
+the so-called G2, the US and China, determining international policy with 
+others left to follow.
+
+"I don't think so," said Braml, adding that there remain many issues were the 
+US and China don't see eye to eye and that Europe is still a more reliable 
+partner and known quantity for Washington than China.
+
+China's policy is increasingly focused on the US instead of Europe
+
+Small also doesn't believe that the US or China can actually decide alone, but 
+that unless there is an agreement between them, it is very hard to achieve a 
+global deal on an issue.
+
+"And if you look on the Chinese side, there is a lot of what they would 
+describe as Euro-skepticism where the China-European relationship has got to 
+and a sense that US-China relations are continuing to move in a very good 
+direction and if anything are being upgraded with the new administration which 
+has led them to become even more US-centric than they were before."
+
+The Obama administration's more pragmatic and multilateral approach to foreign 
+policy places less of an emphasis on the traditional transatlantic relations 
+than previous US governments.
+
+"And that's meant that countries like China in particular and Russia are 
+seeing quite a different environment and in some cases that is taking place at 
+the expense of ties with Europe," said Small.
+
+"The standing of Europe for the new administration you would have to say in 
+the grand scheme of things is probably not as high as it was under Bush."
+
+Author: Michael Knigge
+Editor: Rob Mudge
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

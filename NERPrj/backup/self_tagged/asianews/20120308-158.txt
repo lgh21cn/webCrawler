@@ -1,0 +1,19 @@
+Leaders/O from/O provinces/O in/O turmoil/O take/O a/O tough/O stance/O ,/O saying/O that/O the/O ``/O Dalai/O Lama/O clique/O ''/O will/O not/O win/O against/O Beijing/LOCATION and/O that/O ``/O terrorists/O ''/O will/O be/O defeated/O In/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O -/O The/O recent/O wave/O of/O self-immolations/O ``/O will/O not/O stop/O development/O ''/O in/O Tibet/LOCATION ,/O said/O Li/PERSON Changping/PERSON ,/O a/O senior/O party/O official/O in/O Sichuan/LOCATION province/O ,/O adding/O that/O ``/O separatist/O activities/O by/O the/O <PERSON>Dalai/O Lama/O</PERSON> clique/O are/O doomed/O to/O fail/O ./O ''/O 
+He/O spoke/O on/O the/O sidelines/O of/O the/O annual/O session/O of/O the/O National/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION -LRB-/O NPC/ORGANIZATION -RRB-/O currently/O underway/O in/O Beijing/LOCATION ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> party/O boss/O echoed/O such/O sentiments/O ,/O saying/O that/O in/O his/O province/O ``/O terrorists/O ''/O would/O be/O stopped/O by/O any/O means/O ./O 
+China/LOCATION 's/O parliament/O opened/O its/O annual/O session/O on/O Monday/O in/O the/O Great/LOCATION Hall/LOCATION of/LOCATION the/LOCATION People/LOCATION on/O Tiananmen/LOCATION Square/LOCATION ./O 
+Attended/O by/O some/O 3,000/O delegates/O ,/O the/O meetings/O in/O the/O huge/O hall/O are/O often/O viewed/O as/O useless/O because/O the/O NPC/ORGANIZATION rubberstamps/O decisions/O already/O made/O by/O the/O politburo/O ./O 
+However/O ,/O it/O is/O an/O important/O catwalk/O for/O provincial/O leaders/O to/O showcase/O their/O achievements/O to/O national/O leaders/O -LRB-/O and/O media/O -RRB-/O ./O 
+Not/O surprisingly/O ,/O some/O Tibetan/O leaders/O use/O the/O venue/O ./O 
+``/O Some/O of/O the/O suicides/O are/O committed/O by/O clerics/O returning/O to/O lay/O life/O ,/O ''/O said/O Wu/PERSON Zegang/PERSON ,/O the/O government/O 's/O top/O administrator/O in/O Aba/LOCATION Prefecture/LOCATION ,/O as/O he/O spoke/O about/O the/O recent/O spate/O of/O self-immolations/O in/O Tibet/LOCATION and/O Tibetan/O districts/O ./O 
+``/O They/O -LSB-/O the/O monks/O -RSB-/O all/O have/O criminal/O records/O or/O ''/O have/O been/O involved/O in/O ``/O suspicious/O activities/O ./O 
+They/O have/O a/O very/O bad/O reputation/O in/O society/O ''/O ./O 
+Such/O ``/O people/O can/O neither/O represent/O all/O Tibetans/O nor/O stop/O the/O stably-developing/O trend/O in/O these/O regions/O ,/O ''/O said/O Li/PERSON Changping/PERSON ,/O a/O senior/O party/O official/O in/O Sichuan/LOCATION province/O ./O 
+Things/O are/O not/O much/O better/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O where/O for/O years/O indigenous/O Uyghur/O have/O been/O fighting/O for/O autonomy/O against/O the/O Communist/O central/O government/O ./O 
+The/O local/O party/O boss/O ,/O Zhang/PERSON Chunxian/PERSON ,/O said/O that/O terrorism/O in/O the/O province/O would/O be/O wiped/O out/O ./O 
+To/O do/O this/O ,/O he/O urged/O neighbouring/O countries/O to/O stop/O terrorists/O from/O crossing/O into/O China/LOCATION ./O 
+In/O his/O view/O ,/O the/O conflict/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ``/O is/O not/O a/O religious/O issue/O ,/O nor/O an/O ethnic/O issue/O ''/O ./O 
+In/O reality/O ,/O ``/O The/O terrorists/O are/O basically/O against/O humanity/O ./O 
+They/O are/O brutal/O to/O innocent/O people/O ,/O including/O the/O elderly/O and/O even/O boys/O and/O girls/O ./O 
+We/O are/O determined/O to/O fight/O back/O against/O these/O violent/O terrorists/O ./O ''/O

@@ -2,7 +2,7 @@ The/O World/ORGANIZATION Health/ORGANIZATION Organisation/ORGANIZATION -LRB-/O W
 Two/O new/O outbreaks/O reported/O in/O Hubei/LOCATION and/O Xinjiang/LOCATION provinces/O ./O 
 Indonesia/LOCATION asks/O for/O the/O world/O 's/O help/O ./O 
 Tamiflu/O is/O under/O probe/O in/O Japan/LOCATION ./O 
-Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O 聳/O After/O one/O death/O and/O two/O new/O human/O bird/O flu/O cases/O ,/O China/LOCATION is/O expecting/O things/O to/O get/O worse/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O --/O After/O one/O death/O and/O two/O new/O human/O bird/O flu/O cases/O ,/O China/LOCATION is/O expecting/O things/O to/O get/O worse/O ./O 
 Indonesia/LOCATION openly/O acknowledges/O it/O is/O unable/O to/O cope/O with/O the/O emergency/O and/O asks/O for/O help/O ./O 
 In/O Japan/LOCATION authorities/O start/O probe/O into/O possible/O Tamiflu/O side/O effects/O ./O 
 China/LOCATION ./O 
@@ -10,7 +10,7 @@ The/O death/O of/O Zhou/PERSON Maoya/PERSON ,/O a/O woman/O from/O Anhui/LOCATIO
 State-owned/O media/O reported/O that/O Ms/O Zhou/O ,/O 24/O ,/O was/O a/O poultry/O worker/O from/O Yantan/LOCATION village/O ,/O Zhoutan/LOCATION County/LOCATION ,/O -LRB-/O Anhui/LOCATION -RRB-/O ./O 
 She/O fell/O ill/O on/O November/O 1/O and/O was/O admitted/O to/O a/O hospital/O in/O Tongling/LOCATION city/O on/O November/O 6/O after/O developing/O a/O fever/O ,/O a/O cough/O and/O difficulty/O in/O breathing/O ./O 
 She/O died/O on/O November/O 10/O ./O 
-Zhou/PERSON 's/O family/O told/O a/O Hong/LOCATION Kong/LOCATION paper/O that/O for/O a/O while/O she/O had/O been/O working/O in/O Jiangsu聴a/LOCATION province/LOCATION where/O no/O outbreaks/O had/O been/O recently/O reported/O 聴and/O returned/O home/O a/O month/O ago/O to/O prepare/O for/O her/O wedding/O ./O 
+Zhou/PERSON 's/O family/O told/O a/O Hong/LOCATION Kong/LOCATION paper/O that/O for/O a/O while/O she/O had/O been/O working/O in/O Jiangsu/LOCATION --/O a/O province/O where/O no/O outbreaks/O had/O been/O recently/O reported/O --/O and/O returned/O home/O a/O month/O ago/O to/O prepare/O for/O her/O wedding/O ./O 
 Guan/PERSON Yi/PERSON ,/O a/O virologist/O from/O Hong/ORGANIZATION Kong/ORGANIZATION University/ORGANIZATION ,/O said/O Zhou/PERSON 's/O case/O could/O be/O linked/O to/O fake/O vaccines/O ,/O which/O can/O keep/O chickens/O infected/O by/O H5N1/O alive/O and/O are/O widely/O used/O in/O mainland/O China/LOCATION ./O 
 The/O Ministry/ORGANIZATION of/ORGANIZATION Agriculture/ORGANIZATION named/O Xiaogan/LOCATION city/LOCATION in/O Hubei/LOCATION province/LOCATION on/O November/O 5/O ,/O and/O Hetian/LOCATION city/O in/O Xinjiang/LOCATION on/O November/O 10/O as/O the/O latest/O bird-flu-infected/O areas/O ./O 
 A/O total/O of/O 88,937/O birds/O within/O a/O three/O km/O radius/O of/O the/O two/O cities/O were/O culled/O ./O 
@@ -30,7 +30,7 @@ There/O are/O growing/O concerns/O after/O the/O deaths/O of/O 12/O children/O w
 The/O US/ORGANIZATION Food/ORGANIZATION and/ORGANIZATION Drug/ORGANIZATION Administration/ORGANIZATION -LRB-/O FDA/ORGANIZATION -RRB-/O wants/O to/O investigate/O the/O deaths/O to/O ascertain/O the/O drug/O 's/O potential/O risks/O ./O 
 Tamiflu/O 's/O maker/O ,/O Roche/LOCATION ,/O has/O been/O asked/O to/O provide/O more/O information/O about/O the/O deaths/O ./O 
 The/O FDA/ORGANIZATION also/O said/O it/O was/O also/O concerned/O that/O 32/O psychiatric/O events/O ,/O such/O as/O hallucinations/O and/O abnormal/O behaviour/O ,/O have/O been/O reported/O in/O children/O who/O took/O Tamiflu/O ,/O which/O is/O in/O high/O demand/O because/O it/O is/O considered/O to/O be/O one/O of/O the/O best/O defences/O against/O bird/O flu/O in/O people/O ./O 
-聽However/O ,/O the/O FDA/ORGANIZATION acknowledged/O that/O is/O was/O ``/O extremely/O difficult/O to/O interpret/O ''/O the/O causes/O of/O death/O listed/O for/O the/O 12/O children/O ,/O mostly/O cardio-respiratory/O arrest/O ,/O because/O of/O limited/O data/O ./O 
+However/O ,/O the/O FDA/ORGANIZATION acknowledged/O that/O is/O was/O ``/O extremely/O difficult/O to/O interpret/O ''/O the/O causes/O of/O death/O listed/O for/O the/O 12/O children/O ,/O mostly/O cardio-respiratory/O arrest/O ,/O because/O of/O limited/O data/O ./O 
 The/O FDA/ORGANIZATION 's/O investigation/O comes/O after/O reports/O on/O Saturday/O that/O two/O teenage/O boys/O in/O Japan/LOCATION exhibited/O abnormal/O behaviour/O after/O taking/O Tamiflu/O then/O committed/O suicide/O ./O 
 In/O one/O case/O ,/O a/O junior/O high/O school/O student/O apparently/O fell/O from/O the/O ninth/O floor/O of/O his/O apartment/O building/O in/O February/O this/O year/O ./O 
 In/O the/O second/O case/O ,/O a/O 17-year-old/O high/O school/O student/O who/O was/O at/O home/O alone/O ran/O out/O of/O the/O house/O and/O jumped/O over/O a/O railing/O into/O the/O path/O of/O a/O truck/O in/O February/O 2004/O shortly/O after/O taking/O the/O medicine/O ./O 
@@ -38,4 +38,4 @@ Roche/PERSON has/O denied/O that/O the/O incidence/O of/O Tamiflu-related/O deat
 Vietnam/LOCATION ./O 
 Four/O outbreaks/O hit/O Phu/PERSON Tho/PERSON and/O Hoa/PERSON Binh/PERSON provinces/O ,/O with/O several/O thousand/O chickens/O ,/O ducks/O and/O geese/O found/O dead/O or/O slaughtered/O by/O health/O workers/O ./O 
 Since/O October/O the/O virus/O has/O spread/O to/O 16/O of/O the/O country/O 's/O 64/O provinces/O ./O 
--LRB-/O PB/O -RRB-/O 聽/O 
+-LRB-/O PB/O -RRB-/O 

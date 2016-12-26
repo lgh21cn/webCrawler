@@ -1,0 +1,83 @@
+<ID>20150430-148
+<DATE>20150430<\DATE>
+<URL>
+http://www.dw.com/en/chinas-freedom-cage/a-18420430
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China's 'freedom' cage
+<\TITLE>
+<ABSTRACT>
+In China, journalists often face reprisals. But the editor in the mind plays a major role in the lack of critical reporting. Journalist Chang Ping looks back home from his place in exile.
+<\ABSTRACT>
+<CONTENT>
+
+ When I was young, I read Kafka's "Hunger Artist." At the end of the story, 
+when, following the death of the hunger artist, a young panther is locked in a 
+cage, Kafka wrote: "…it didn't even appear to miss its freedom. This noble 
+body, equipped with everything it needed, almost to the point of rupture, even 
+appeared to carry freedom around with it. It seemed to keep it somewhere in its 
+teeth…" Drawn by his words, I decided back then to learn from the panther and 
+carry my freedom around with me.
+
+ Initially I used that freedom to write poetry and novels, then later I moved 
+into journalism. I soon discovered a secret. Unlike the cage in which the young 
+panther seemed to enjoy living, the one in which we are locked, is constantly 
+changing. Ever present around us, it is growing more constrictive without our 
+even noticing.
+
+ Ten years ago the Internet was used a tool to fight against the restriction 
+of freedom, now it is used by the state to, allegedly, ensure stability. Ten 
+years ago, although press freedom, civil society, Tibet and Xinjiang were 
+sensitive subjects, "mainstream" media was still at liberty to discuss them. 
+Now that space has gone.
+  
+Chang Ping
+
+Ten years ago, I had been fired once for critical reporting, but a short while 
+thereafter I had the chance to publish two political weekly magazines and to 
+write many commentaries as a result. Since then, I have been stripped of the 
+opportunity to work as a journalist and write articles on mainland China, and 
+even the government of Hong Kong denies me permission to work there. Against 
+that backdrop, my family and I now live in exile.
+
+ Meanwhile the cage continues to contract, fooling many who live within its 
+confines. Some see it as big enough to allow them and their friends to live and 
+work in peace as long as they do not come up against its edges. Others believe 
+the cage is getting bigger by the day, and their freedom with it. Then there 
+are those who have recognized the truth, but who fool themselves and others, or 
+people who blame the conditions of the cage on those locked inside, saying it 
+is becoming more restrictive as a result of their own disobedience.
+
+ This thinking results in the cage becoming ever smaller. But the most 
+monstrous thing is that such thoughts were spawned from within its bounds. The 
+cage doesn't only restrict freedom through imprisonment, but by changing 
+thinking. It leads people to believe that life inside it is full of freedom, 
+prosperity and happiness.
+
+ While those in the cage have to accept the brainwashing, those on the outside 
+are happy not to be locked in, to have avoided that fate. But what they don't 
+recognize is that the cage is constantly changing, swallowing more pieces of 
+the world.
+
+ Caged China doesn't only lack freedom, but resistance to the restraints upon 
+it. And the world outside is threatened by this narrowing of liberties and 
+weakening of the very spirit of freedom.
+
+ I used to see opinion pieces as missions more than acts of writing. Akin to 
+shouting loudly on the streets. I would dream, having fought for my freedom, of 
+returning to my study to read and write in peace. Now I finally understand that 
+such freedom doesn't exist in this world. The fight for freedom is an eternal 
+battle.
+
+Chang Ping is a Chinese journalist and political commentator with many years 
+of media experience. He currently lives in Germany.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

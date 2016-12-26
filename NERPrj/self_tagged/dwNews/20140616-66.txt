@@ -1,0 +1,12 @@
+Three/O people/O have/O been/O sentenced/O to/O death/O in/O connection/O with/O a/O deadly/O attack/O at/O Beijing/LOCATION 's/O Tiananmen/LOCATION Square/LOCATION earlier/O this/O year/O ./O 
+The/O government/O has/O blamed/O the/O attack/O on/O Muslim/O separatists/O ./O 
+The/O Intermediate/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Court/ORGANIZATION in/O Urumqi/LOCATION ,/O the/O capital/O of/O the/O western/O China/LOCATION region/O of/O Xinjiang/LOCATION sentenced/O the/O three/O suspects/O to/O death/O after/O finding/O them/O guilty/O of/O organizing/O and/O leading/O a/O terrorist/O group/O and/O endangering/O public/O security/O ./O 
+Specifically/O ,/O they/O were/O accused/O of/O providing/O funds/O to/O carry/O out/O the/O attack/O ,/O which/O killed/O five/O people/O ./O 
+Five/O other/O suspects/O were/O also/O sentenced/O in/O connection/O with/O the/O attack/O ,/O including/O one/O who/O received/O a/O life/O sentence/O for/O joining/O a/O terrorist/O group/O and/O endangering/O public/O security/O ,/O according/O to/O Chinese/O state/O media/O ./O 
+All/O eight/O suspects/O had/O been/O arrested/O within/O days/O of/O the/O October/O 28/O attack/O ,/O in/O which/O a/O Philippine/O tourist/O and/O a/O visitor/O from/O elsewhere/O in/O China/LOCATION were/O killed/O and/O dozens/O of/O others/O injured/O after/O a/O car/O crashed/O into/O a/O crowd/O of/O people/O before/O bursting/O into/O flames/O ./O 
+The/O three/O occupants/O of/O the/O car/O were/O also/O killed/O ./O 
+Ethnic/O Uighurs/O blamed/O The/O authorities/O in/O Beijing/LOCATION have/O blamed/O ethnic/O Uighurs/O for/O this/O and/O other/O acts/O of/O violence/O that/O have/O hit/O China/LOCATION in/O recent/O months/O ./O 
+Last/O month/O ,/O 39/O people/O were/O killed/O and/O many/O more/O wounded/O in/O a/O suicide/O bombing/O in/O Urumqi/LOCATION ./O 
+In/O March29/O people/O were/O stabbed/O to/O death/O and/O close/O to/O 150/O others/O wounded/O in/O an/O attack/O in/O the/O southern/O city/O of/O Kunming/LOCATION ./O 
+Under/O China/LOCATION 's/O justice/O system/O ,/O death/O sentences/O are/O automatically/O forwarded/O to/O the/O Supreme/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Court/ORGANIZATION for/O appeal/O ,/O however/O such/O rulings/O are/O rarely/O overturned/O ./O 
+pfd/kms/O -LRB-/O AP/ORGANIZATION ,/O Reuters/ORGANIZATION ,/O AFP/O -RRB-/O 

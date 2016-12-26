@@ -1,5 +1,5 @@
 Uighur/O woman/O released/O yesterday/O arrives/O in/O the/O United/LOCATION States/LOCATION where/O she/O says/O she/O will/O continue/O to/O fight/O for/O the/O human/O rights/O of/O her/O people/O ./O 
-Chicago/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O 聳/O Rebyia/PERSON Kadeer/PERSON ,/O a/O woman/O released/O yesterday/O by/O Chinese/O authorities/O ,/O arrived/O in/O Chicago/LOCATION over/O night/O ./O 
+Chicago/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O --/O Rebyia/PERSON Kadeer/PERSON ,/O a/O woman/O released/O yesterday/O by/O Chinese/O authorities/O ,/O arrived/O in/O Chicago/LOCATION over/O night/O ./O 
 Speaking/O to/O Radio/ORGANIZATION Free/ORGANIZATION Asia/ORGANIZATION Ms/O Kadeer/PERSON said/O :/O ``/O I/O can/O smile/O at/O my/O people/O ./O 
 I/O can/O work/O for/O my/O people/O ,/O and/O I/O can/O work/O for/O the/O entire/O Uighur/O nation/O ''/O ./O 
 To/O the/O Radio/O 's/O Uighur-service/O ,/O she/O said/O to/O ``/O say/O goodbye/O to/O my/O people/O and/O my/O homeland/O for/O me/O ./O ''/O 
@@ -7,7 +7,7 @@ John/PERSON Kamm/PERSON ,/O president/O of/O the/O San/ORGANIZATION Francisco-ba
 He/O also/O said/O :/O ``/O I/O 've/O been/O led/O to/O believe/O .../O that/O the/O Chinese/O are/O doing/O this/O as/O a/O gesture/O for/O Condi/PERSON Rice/PERSON ./O 
 I/O was/O told/O they/O wanted/O to/O do/O this/O before/O she/O arrived/O ./O ''/O 
 Rebiya/PERSON Kadeer/PERSON ,/O 58/O ,/O is/O one/O of/O the/O best/O known/O activists/O for/O women/O 's/O and/O Uighur/O rights/O ./O 
-Uighurs/O 聽are/O predominantly/O Muslim/O and/O live/O in/O Xinjiang/LOCATION ,/O China/LOCATION 's/O western-most/O province/O ,/O where/O a/O separatist/O movement/O has/O been/O demanding/O independence/O for/O some/O time/O ./O 
+Uighurs/O are/O predominantly/O Muslim/O and/O live/O in/O Xinjiang/LOCATION ,/O China/LOCATION 's/O western-most/O province/O ,/O where/O a/O separatist/O movement/O has/O been/O demanding/O independence/O for/O some/O time/O ./O 
 Until/O 1999/O Ms/O Kadeer/PERSON was/O a/O successful/O businesswoman/O ./O 
 She/O was/O then/O jailed/O on/O national/O security/O charges/O for/O sending/O Chinese/O newspapers/O to/O her/O husband/O in/O the/O US/LOCATION ./O 
 She/O was/O first/O sentenced/O to/O eight/O years/O in/O prison/O ,/O reduced/O to/O seven/O for/O good/O behaviour/O ./O 

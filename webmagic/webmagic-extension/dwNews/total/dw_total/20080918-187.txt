@@ -1,0 +1,35 @@
+<ID>20080918-187
+<DATE>20080918<\DATE>
+<URL>
+http://www.dw.com/en/hong-kong-recalls-chinese-dairys-products/a-5213760
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Hong Kong Recalls Chinese Dairy's Products
+<\TITLE>
+<ABSTRACT>
+China's milk scandal has continued to escalate amid reports that a wide range of dairy products have been found contaminated.
+<\ABSTRACT>
+<CONTENT>
+
+The latest discoveries were made in the southern territory of Hong Kong, where 
+melamine had been discovered in milk drinks, ice creams and yoghurt made by the 
+leading Yili brand. The government has now recalled all the company's products.
+
+The news came as Chinese officials reported a fourth baby had died in the 
+northwest Xinjiang region after drinking milk made of a powder containing the 
+chemical melamine.
+
+More than 6,000 babies across the country have been fallen ill so far. 
+
+Meanwhile the authorities have continued nationwide checks on milk powder and 
+have made 12 new arrests in connection to the scandal.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

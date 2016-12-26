@@ -1,0 +1,52 @@
+<ID>20140522-61
+<DATE>20140522<\DATE>
+<URL>
+http://www.dw.com/en/explosions-at-market-in-restive-xinjiang-capital-claim-lives/a-17652738
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Explosions at market in restive Xinjiang capital claim lives
+<\TITLE>
+<ABSTRACT>
+Blasts in China’s restive Xinjiang region have claimed many lives, according to Chinese state media. The attack was carried out in Xinjiang’s capital city, Urumqi.
+<\ABSTRACT>
+<CONTENT>
+
+ Flames and heavy smoke consumed the market place of Urumqi, the capital of 
+China's restive Xinjiang region on Thursday following an attack.
+
+ China's state-run Xinhua news agency said that more than 31 people had been 
+killed and 90 injured.
+
+ Around 7:50 a.m. (2350 UTC) on Thursday, unidentified assailants rammed two 
+vehicles into the city's market place. They then threw explosive devices from 
+the windows, according to Xinhua news agency.
+
+ China's Ministry of Public Security has described the attack as a "serious 
+violent terorist incident."
+
+ Violence has plagued Xinjiang province, home to an ethnically diverse 
+population comprised primarily ofMuslim Uighurs 
+
+. Beijing has blamed the unrest on terrorists backed by foreigners, however 
+rights groups cite cultural repression as the cause of the ethnic clashes in 
+recent years.
+
+ Earlier this month, Urumqi's southern train station (pictured above) was the 
+scene of a bombing and knife attack on passengers 
+
+. At least three people were killed and dozens more injured. The incident 
+coincided with final day of Chinese President Xi Jinping's visit to the region. 
+He has called for more support for local police and a greater security for the 
+people of the region.
+
+ kms,rc/jm (AP, AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

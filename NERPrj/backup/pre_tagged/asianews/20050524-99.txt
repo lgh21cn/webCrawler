@@ -1,6 +1,6 @@
 Social/O tensions/O due/O to/O farmers/O '/O unrest/O and/O ethnic/O strife/O are/O boosting/O revenues/O for/O a/O Chongqing/LOCATION company/O ./O 
 Its/O list/O of/O products/O includes/O a/O `/O Holy/O Road/O '/O armoured/O car/O with/O a/O multi-barrel/O canon/O for/O firing/O tear/O gas/O and/O a/O `/O death/O car/O '/O designed/O to/O be/O a/O mobile/O station/O for/O death/O penalty/O execution/O by/O lethal/O injection/O ./O 
-Beijing/LOCATION -LRB-/O AsiaNews/SCMP/O -RRB-/O 聳/O Rising/O crime/O rates/O and/O social/O unrest/O and/O the/O growing/O gap/O between/O rich/O and/O poor/O have/O created/O a/O niche/O market/O in/O mainland/O China/LOCATION :/O armoured/O cars/O and/O anti-riot/O gear/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/SCMP/O -RRB-/O --/O Rising/O crime/O rates/O and/O social/O unrest/O and/O the/O growing/O gap/O between/O rich/O and/O poor/O have/O created/O a/O niche/O market/O in/O mainland/O China/LOCATION :/O armoured/O cars/O and/O anti-riot/O gear/O ./O 
 With/O courts/O last/O year/O dealing/O with/O 228,000/O violent/O crimes/O ranging/O from/O bombings/O to/O robbery/O and/O growing/O social/O strife/O caused/O by/O protesting/O ethnic/O minorities/O ,/O farmers/O and/O even/O soccer/O hooligans/O ,/O the/O Gold/ORGANIZATION Crown/ORGANIZATION Group/ORGANIZATION has/O become/O the/O largest/O maker/O of/O armoured/O vehicles/O in/O the/O country/O with/O business/O worth/O 500/O million/O yuan/O ./O 
 Liu/PERSON Ningbo/PERSON ,/O deputy/O manager/O of/O the/O Group/ORGANIZATION 's/O subsidiary/O Chongqing/ORGANIZATION Jinguan/ORGANIZATION Automobile/ORGANIZATION Manufacturing/ORGANIZATION ,/O showed/O off/O the/O latest/O model/O of/O the/O Holy/O Road/O brand/O armoured/O car/O ./O 
 ``/O Even/O if/O the/O tyre/O is/O hit/O by/O a/O bullet/O ,/O the/O car/O can/O still/O run/O ,/O ''/O he/O said/O ./O 
@@ -12,7 +12,7 @@ In/O October/O in/O neighbouring/O Sichuan/LOCATION province/O ,/O tens/O of/O t
 Mr/O Liu/PERSON said/O ``/O farmers/O smashed/O the/O shields/O carried/O by/O police/O ,/O highlighting/O the/O need/O for/O better/O equipment/O ./O ''/O 
 Gold/O Crown/O offers/O a/O line/O of/O bullet-proof/O vests/O ,/O body/O armour/O ,/O helmets/O and/O shields/O ./O 
 ``/O There/O 's/O no/O way/O these/O shields/O can/O break/O ./O 
-Knives/O or/O sticks聴there/O wo/O n't/O be/O any/O problem/O ,/O ''/O he/O said/O ./O 
+Knives/O or/O sticks/O --/O there/O wo/O n't/O be/O any/O problem/O ,/O ''/O he/O said/O ./O 
 In/O another/O October/O incident/O ,/O tens/O of/O thousands/O of/O protesters/O in/O Wanzhou/LOCATION ,/O part/O of/O Chongqing/LOCATION ,/O burned/O cars/O and/O destroyed/O government/O offices/O ./O 
 ``/O Wanzhou/LOCATION police/O did/O not/O use/O equipment/O or/O vehicles/O made/O by/O Gold/O Crown/O at/O the/O time/O ,/O but/O they/O are/O now/O a/O customer/O ,/O ''/O Mr/O Liu/PERSON said/O ./O 
 Armoured/O cars/O and/O vehicles/O with/O bullet-proof/O windows/O have/O proved/O to/O be/O the/O best/O sellers/O ./O 

@@ -1,4 +1,4 @@
-Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O 聳/O China/LOCATION has/O admitted/O to/O a/O probable/O case/O of/O human/O infection/O of/O bird/O flu/O while/O the/O virus/O continues/O to/O invade/O new/O regions/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/Agencies/O -RRB-/O --/O China/LOCATION has/O admitted/O to/O a/O probable/O case/O of/O human/O infection/O of/O bird/O flu/O while/O the/O virus/O continues/O to/O invade/O new/O regions/O ./O 
 This/O is/O the/O first/O case/O since/O 2003/O ./O 
 China/LOCATION ./O 
 Preliminary/O testing/O reveals/O that/O He/PERSON Junyao/PERSON ,/O a/O nine-year-old/O boy/O from/O Wantang/LOCATION ,/O Xiangtan/LOCATION county/LOCATION in/O Hunan/LOCATION ,/O has/O contracted/O bird/O flu/O ./O 

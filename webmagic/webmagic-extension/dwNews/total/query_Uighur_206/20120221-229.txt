@@ -1,0 +1,64 @@
+<ID>20120221-229
+<DATE>20120221<\DATE>
+<URL>
+http://www.dw.com/en/xi-arrives-for-turkey-talks-amid-uighur-protests/a-15753989
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Xi arrives for Turkey talks amid Uighur protests
+<\TITLE>
+<ABSTRACT>
+Dozens of ethnic Uighurs have protested the presence of Chinese Vice President Xi Jinping in Turkey, as the man expected to become China's next leader arrived for talks with Turkish leaders.
+<\ABSTRACT>
+<CONTENT>
+
+ The man slated to become China's next leader, Xi Jinping, was in Turkey on 
+Tuesday for talks with President Abdullah Gul.
+
+ The visit marks the rise of Turkish clout on the international stage and 
+recognition of the country's role in maintaining stability in the Middle East.
+
+ "In today's complex and changing international situation, the enrichment of 
+the strategic cooperation between China and Turkey is to the benefit of both 
+countries, now and in the long term," Xi told the Turkey Sabah newspaper in an 
+interview.
+
+ "A member of the G20 with a growing economy and an important country in the 
+Middle East, Turkey has for a long time tried to bring stability and 
+development to the region and played an active role in trying to solve 'hot' 
+issues," Xi said, citing Afghanistan and the Iranian nuclear dispute among 
+others.
+
+DW recommends
+
+Turkey, China eye closer cooperation
+
+Xi Jinping, the expected next leader of China, is making a key visit to 
+Turkey. While the emerging global powers aim at developing strategic ties, the 
+crisis in Syria has offered a test case for their cooperation. (19.02.2012)
+  
+ But Xi's arrival has already been marked by protests by dozens of ethnic 
+Uighurs, who desecrated a poster of the senior official and set fire to two 
+Chinese flags. The demonstrators were venting anger over Beijing's treatment of 
+Uighur populations in China. Turkey is also home to a large Uighur community.
+
+ On Wednesday, Xi is to attend a business forum in Istanbul, where he is 
+likely to be assailed by exporters eager to bridge a wide trade gap between the 
+countries.
+
+ China sells some $21.6 billion worth of goods to Turkey, whilst Turkey sends 
+only $2.5 billion worth to its Asian partner.
+
+ Xi is wrapping up a world tour that saw him meet with US President Barack 
+Obama in Washington and most recently travel to Ireland.
+
+ dfm/jw (AP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

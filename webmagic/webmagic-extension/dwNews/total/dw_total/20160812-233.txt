@@ -1,0 +1,90 @@
+<ID>20160812-233
+<DATE>20160812<\DATE>
+<URL>
+http://www.dw.com/en/multiple-bombings-hit-thailand/a-19469420
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Multiple bombings hit Thailand
+<\TITLE>
+<ABSTRACT>
+A series of bomb attacks have hit Thailand in the past 24 hours. Authorities said they were coordinated attacks meant to stir up chaos in the country.
+<\ABSTRACT>
+<CONTENT>
+
+ Four people have been killed and dozens wounded in multiple bomb blasts 
+across Thailand.
+
+ An explosion occurred in the seaside resort of Hua Hin early Friday morning, 
+less than 12 hours after separate twin bomb attacks killed one person and 
+injured 20, including foreigners.
+
+ Two explosions also struck the southern province of Surat Thani, another hit 
+the southern province Trang and yet another two bombs blew up in the tourist 
+area of Phuket.
+
+ "The bombings have the same attack profile," Army General Danai Kritmethavee 
+told reporters. "We believe at this time that this was a coordinated attack."
+
+ Junta chief Prayut Chan-O-Cha said he would not speculate on the motive 
+behind the attacks, but suggested the bombings were an attempt to stir up chaos.
+
+ "The bombs are an attempt to create chaos and confusion," he said.
+
+ The bombings come a week after a referendum put forward by the military junta 
+was approved, paving the way for a new constitution and elections next year. 
+Opponents of the military-drafted constitution argue it is laced with 
+undemocratic principles and was designed to keep the military in power for five 
+more years.
+  Watch video 01:56 
+Share
+
+Constitutional referendum in Thailand
+
+Send  Facebook
+ 
+
+Twitter 
+
+Google+ 
+
+Whatsapp  Tumblr 
+
+linkedin 
+
+stumble 
+
+Digg 
+
+reddit 
+
+Newsvine 
+
+
+Permalink http://dw.com/p/1JcuR
+
+Constitutional referendum in Thailand
+
+ Thailand is faced with a low-level insurgency in three majority-Muslim 
+southern provinces, but attacks are usually localized to the region.
+
+ The coordinated blasts on Thursday and Friday come several days before the 
+one-year anniversary of the last major attack on tourists in Thailand. A bomb 
+in the Thai capital ripped through a Hindi shrine and killed 20 people on 
+August 17, mostly foreigners.
+
+ Thai authorities accused two Uighur men from western China of the bombing, 
+the deadliest attack of its kind in Thailand in recent years. The two accused 
+have denied involvement in the attack and their trial is set to begin later 
+this month.
+
+ cw/kl (AFP, AP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

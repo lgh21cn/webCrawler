@@ -16,7 +16,7 @@ But/O Moscow/LOCATION has/O denied/O these/O allegations/O ./O
 Annette/PERSON Bohr/PERSON ,/O an/O expert/O at/O the/O London/LOCATION based/O think/O tank/O Chatham/ORGANIZATION House/ORGANIZATION ,/O thinks/O there/O would/O have/O been/O little/O reason/O for/O Russia/LOCATION to/O fuel/O the/O present/O crisis/O in/O Kyrgyzstan/LOCATION ./O 
 Nor/O does/O she/O think/O the/O country/O 's/O new/O leader/O ,/O former/O Foreign/O Minister/O ,/O Roza/PERSON Otunbayeva/PERSON is/O likely/O to/O shut/O down/O the/O US/LOCATION base/O in/O Manas/LOCATION ./O 
 ``/O Otunbayeva/PERSON is/O a/O very/O Westernized/O figure/O ,/O ''/O she/O explained/O ./O 
-``/O She/O is/O a/O known/O quantity/O for/O us/O ,/O someone/O we/O know/O quite/O well/O 鈥/O she/O 's/O acted/O as/O foreign/O minister/O on/O three/O occasions/O and/O has/O served/O as/O ambassador/O in/O London/LOCATION and/O in/O Washington/LOCATION ./O 
+``/O She/O is/O a/O known/O quantity/O for/O us/O ,/O someone/O we/O know/O quite/O well/O --/O she/O 's/O acted/O as/O foreign/O minister/O on/O three/O occasions/O and/O has/O served/O as/O ambassador/O in/O London/LOCATION and/O in/O Washington/LOCATION ./O 
 She/O speaks/O five/O or/O six/O languages/O ./O 
 She/O has/O a/O reputation/O of/O being/O a/O very/O clean/O and/O experienced/O politician/O ./O 
 It/O is/O very/O unlikely/O that/O she/O would/O suspend/O the/O current/O agrement/O with/O the/O US/LOCATION ./O ''/O 

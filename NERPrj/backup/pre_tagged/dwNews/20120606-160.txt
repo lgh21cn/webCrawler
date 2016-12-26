@@ -11,4 +11,4 @@ However/O ,/O it/O has/O been/O dealing/O mainly/O with/O economic/O issues/O ac
 It/O includes/O Russia/LOCATION ,/O China/LOCATION ,/O Kazakhstan/LOCATION ,/O Kyrgyzstan/LOCATION ,/O Tajikistan/LOCATION and/O Uzbekistan/LOCATION ./O 
 Iran/LOCATION ,/O Mongolia/LOCATION and/O political/O rivals/O India/LOCATION and/O Pakistan/LOCATION are/O observer/O members/O ,/O while/O Afghanistan/LOCATION is/O a/O guest/O at/O the/O current/O meeting/O ./O 
 Afghan/O President/O Hamid/PERSON Karzai/PERSON and/O Iran/LOCATION 's/O President/O Mahmoud/PERSON Ahmedinejad/PERSON are/O attending/O the/O Beijing/LOCATION conference/O ,/O which/O is/O expected/O to/O prepare/O for/O talks/O on/O Iran/LOCATION 's/O nuclear/O program/O scheduled/O for/O June/O 18/O in/O Moscow/LOCATION ./O 
-rg/ncy/O 聽/O -LRB-/O AFP/ORGANIZATION ,/O dpa/O -RRB-/O 
+rg/ncy/O -LRB-/O AFP/ORGANIZATION ,/O dpa/O -RRB-/O 

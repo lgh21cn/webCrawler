@@ -92,7 +92,8 @@ public class FileUtils {
 				url=FileNumberVerifier.removeURLTag(url);
 				if(!urlsSet.contains(url)){
 					requests.add(new Request(url).putExtra(AsianViewDetailItem.ORIGIN_URL, AsianViewDetailItem.ORIGIN_URL_CONTENT)
-							.putExtra(AsianViewDetailItem.ADDNEW, addNew));
+							.putExtra(AsianViewDetailItem.ADDNEW, addNew)
+							.putExtra(AsianViewDetailItem.VISITED, false));
 				}else{
 					System.out.println("Url ["+url+"] exists. ");
 				}
@@ -216,6 +217,22 @@ public class FileUtils {
 					else if(fileName.matches("\\d+\\.match\\.log")){
 						names.add(fileName);
 					}
+				}
+			}
+		}
+	}
+	
+	public static void readFileAbsolutePath(String path,Set<String> names){
+		File root=new File(path);
+		if(root.exists() && root.isDirectory()){
+			File[] subFiles=root.listFiles();
+			for (File file : subFiles) {
+				if(file.isFile()){
+//					System.out.println(file.getName());
+					String fileName=file.getName();
+					if(fileName.matches("\\d+-\\d+(\\.txt)?"))
+						names.add(fileName);
+					
 				}
 			}
 		}

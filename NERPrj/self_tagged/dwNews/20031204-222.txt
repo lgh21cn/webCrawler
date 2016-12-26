@@ -1,0 +1,26 @@
+German/O newspapers/O commented/O on/O Chancellor/O Gerhard/PERSON Schröder/PERSON 's/O visit/O to/O China/LOCATION and/O his/O controversial/O calls/O for/O lifting/O a/O weapons/O embargo/O and/O offering/O to/O sell/O a/O plutonium/O plant/O ./O 
+In/O Berlin/LOCATION ,/O the/O conservative-oriented/O Die/O Welt/ORGANIZATION spared/O no/O amount/O of/O sarcasm/O in/O praising/O Schröder/PERSON 's/O sudden/O outpouring/O of/O generosity/O ./O 
+``/O German/O weapons/O for/O the/O red/O mandarins/O ?/O 
+Certainly/O ,/O after/O all/O ,/O the/O embargo/O is/O costing/O us/O jobs/O ,/O ''/O the/O paper/O waxed/O ./O 
+``/O German/O plutonium/O technology/O to/O the/O Middle/LOCATION Kingdom/LOCATION ?/O 
+Why/O not/O --/O the/O red-green/O anti-nuclear/O consensus/O is/O just/O domestic/O folklore/O anyway/O ./O 
+One/O China/LOCATION with/O Taiwan/LOCATION under/O the/O flag/O of/O the/O red/O dragon/O ?/O 
+Go/O right/O ahead/O ,/O ''/O the/O editorial/O sneered/O ./O 
+The/O signals/O coming/O back/O from/O Schröder/ORGANIZATION 's/O sales/O tour/O of/O China/LOCATION are/O unmistakable/O ,/O ''/O the/O paper/O concluded/O :/O ``/O You/O can/O make/O my/O life/O a/O misery/O at/O home/O by/O moaning/O about/O economic/O crisis/O and/O social/O reforms/O --/O but/O just/O let/O me/O off/O the/O hook/O and/O see/O me/O sweep/O aside/O all/O moral/O and/O political/O export/O barriers/O ./O ''/O 
+Munich/LOCATION 's/O Süddeutsche/PERSON Zeitung/PERSON also/O described/O good/O business/O relations/O with/O China/LOCATION as/O Schröder/PERSON 's/O top/O priority/O ./O 
+It/O criticized/O him/O for/O brushing/O aside/O concerns/O about/O Beijing/LOCATION 's/O human/O rights/O record/O ./O 
+The/O paper/O commented/O that/O Schröder/PERSON has/O failed/O to/O understand/O that/O respect/O for/O human/O rights/O is/O a/O precondition/O for/O long-term/O investment/O ;/O and/O it/O warned/O that/O any/O country/O that/O fails/O this/O test/O remains/O potentially/O unstable/O ./O 
+``/O Travel/O broadens/O the/O mind/O ,/O ''/O declared/O Berlin/LOCATION 's/O Tagesspiegel/O ,/O and/O added/O that/O Chancellor/O Schröder/PERSON has/O clearly/O learned/O a/O great/O deal/O ./O 
+``/O He/O 's/O discovered/O what/O he/O calls/O a/O `/O new/O China/LOCATION ,/O '/O and/O that/O seems/O to/O be/O reason/O enough/O to/O drop/O the/O arms/O embargo/O ,/O ''/O the/O paper/O sighed/O sarcastically/O ./O 
+Although/O the/O majority/O of/O Chinese/O have/O more/O freedom/O now/O than/O they/O used/O to/O ,/O the/O paper/O noted/O ,/O the/O rights/O of/O certain/O individuals/O are/O still/O greatly/O abused/O ./O 
+It/O cited/O the/O persecution/O of/O Falun/ORGANIZATION Gong/ORGANIZATION followers/O ,/O as/O well/O as/O of/O the/O people/O in/O Tibet/LOCATION and/O Xinjiang/LOCATION ./O 
+If/O the/O chancellor/O pushes/O human/O rights/O issues/O and/O China/LOCATION 's/O threatening/O behavior/O towards/O Taiwan/LOCATION onto/O the/O sidelines/O ,/O both/O he/O and/O his/O China/LOCATION policy/O will/O lose/O all/O credibility/O ,/O the/O paper/O warned/O ./O 
+But/O some/O of/O the/O smaller/O papers/O ventured/O to/O offer/O the/O chancellor/O some/O muted/O support/O ./O 
+Dodging/O the/O deeper/O moral/O issues/O ,/O theNordbayerischer/O Kurier/O from/O Bayreuth/LOCATION said/O that/O Schröder/PERSON 's/O decision/O to/O visit/O China/LOCATION every/O year/O was/O a/O clever/O one/O ./O 
+Greater/O cooperation/O is/O good/O for/O both/O sides/O ,/O it/O maintained/O ./O 
+China/LOCATION needs/O the/O innovation/O and/O skills/O the/O West/O can/O provide/O ,/O while/O Germany/LOCATION needs/O hungry/O new/O markets/O to/O encourage/O growth/O ./O 
+Looking/O at/O the/O proposal/O to/O export/O the/O unused/O plutonium/O factory/O in/O Hanau/LOCATION ,/O the/O Badische/ORGANIZATION Neueste/ORGANIZATION Nachrichten/ORGANIZATION from/O Karlsruhe/ORGANIZATION remarked/O that/O Schröder/O is/O not/O entirely/O in/O the/O wrong/O ./O 
+Since/O the/O controversial/O plant/O is/O not/O an/O arms/O project/O in/O the/O conventional/O sense/O ,/O it/O will/O hardly/O be/O possible/O to/O prevent/O it/O from/O being/O sold/O to/O China/LOCATION ,/O the/O paper/O explained/O ./O 
+The/O eastern/O German/O Märkische/PERSON Oderzeitung/PERSON agreed/O ./O 
+It/O argued/O that/O those/O in/O favor/O of/O nuclear/O energy/O will/O be/O annoyed/O that/O the/O technology/O will/O only/O be/O used/O abroad/O ,/O while/O Green/O politicians/O will/O be/O annoyed/O at/O the/O moral/O loophole/O in/O the/O German/O decision/O to/O opt/O out/O of/O nuclear/O power/O altogether/O ./O 
+But/O as/O far/O as/O doubts/O about/O its/O usage/O are/O concerned/O ,/O the/O paper/O noted/O that/O Beijing/LOCATION is/O already/O officially/O recognized/O as/O a/O nuclear/O power/O ,/O and/O does/O n't/O need/O German/O help/O to/O obtain/O weapons-grade/O plutonium/O ./O 

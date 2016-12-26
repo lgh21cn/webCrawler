@@ -1,0 +1,89 @@
+<ID>20141108-146
+<DATE>20141108<\DATE>
+<URL>
+http://www.dw.com/en/sierens-china-two-birds-with-one-afghanistan/a-18048590
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Sieren's China: Two Birds with One Afghanistan
+<\TITLE>
+<ABSTRACT>
+The newly burgeoning relationship between China and Afghanistan is of mutual benefit, writes DW columnist Frank Sieren.
+<\ABSTRACT>
+<CONTENT>
+
+ If you want to see who is Afghanistan’s new friend, all you have to do is 
+look at the new president’s travel schedule. Ashraf Ghani had hardly been in 
+office for a month when he took off on his first foreign visit. Where did he 
+go? To China of course - which is, politically and economically, the strongest 
+of Afghanistan’s neighbors. The Chinese leader and Party boss Xi Jinping 
+received the Afghan president in Beijing last week. And not only was it Ghani’s 
+first state visit, his final day in Beijing happened to coincide with the 
+opening day of the Istanbul Process 2014.
+
+ This was China’s first time as host for the coming together of 14 Asian 
+states, including Afghanistan, Azerbaijan, China, India, Iran, Kazakhstan, 
+Kyrgyzistan, Pakistan, Russia, Saudi Arabia, Tajikistan, Turkey, Turkmenistan 
+and United Arab Emirates. China has fostered close ties to Pakistan for 
+decades. Now it is building a friendship with Afghanistan. The country is 
+simply too strategically important for China to ignore. It is indeed of such 
+significance that in the 19th century, the British tried to bring the divided 
+land under their control, followed by the Russians in the 20th century and the 
+Americans and NATO in the 21st.
+
+So Far Unsuccessful
+
+ China, however, is not planning to control Afghanistan by military means. 
+Beijing’s strategy is one of economic cooperation. While Western firms have 
+neither the political back-up, the money, nor the economic interest, Chinese 
+companies have no such problems and are slated to move into Afghanistan.
+ 
+ 
+DW columnist Frank Sieren
+
+But they do have others. In 2007, Beijing paid $3 billion for a copper mine 
+outside Kabul. This needled the Americans, who then began to support 
+archaeological excavations on the site with millions of US dollars. Lack of 
+infrastructure and Taliban attacks also took their toll on the project. As 
+recently as September, another Chinese delegation came by for a visit. A date 
+for when they can get started with the extraction of copper has yet to be 
+arranged.
+
+ Another Chinese raw materials project which has had a bit of a bumpy ride is 
+on the border to Turkmenistan. The Chinese Petro-chemical company CNPC has 
+begun extracting oil in the Amu Darya oil field. Disputes about costs between 
+Afghan authorities and Chinese sub-contractors, as well as antiquated 
+equipment, have led to a standstill here, too. Additionally, China would like 
+to build infrastructure in Afghanistan in order to realize the dream of a new 
+Silk Road. Afghanistan could then be at a crossroads between China and its 
+partners further west including Iran. ‘Could’, though, is the operative word: 
+this project too is more theory than practice.
+
+Shared interest
+
+ But there is another reason why Beijing remains so undeterred that it 
+recently even earmarked a further $3 million for investment in the country. On 
+the one hand, China - in time-honored fashion - is attempting to secure access 
+to raw materials. But when it comes to Afghanistan, Beijing is also pursuing 
+other interests. With "Islamic State" militants declaring their intention to 
+liberate the autonomous region of Xinjiang, the urgency of maintaining 
+stability in Afghanistan is greater than ever. Not least because Beijing 
+believes that the terrorists who have been active in Xinjiang in the past 
+hailed from eastern Afghanistan.
+
+ Afghanistan itself could also benefit from a closer cooperation with Beijing, 
+which would help it banish the specter of the Taliban. The Chinese have long 
+nurtered a friendship with Pakistan, a bastion of the Taliban. A closer 
+friendship between Kabul and Beijing boost the likelihood of constructive talks 
+between Kabul and Islamabad on how to tackle the threat of theTaliban.
+
+ DW columnist Frank Sieren has lived in Beijing for 20 years.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

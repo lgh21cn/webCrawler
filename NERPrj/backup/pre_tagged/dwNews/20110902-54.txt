@@ -1,6 +1,6 @@
 Khom/PERSON Raj/PERSON Sharma/PERSON is/O n't/O letting/O social/O barriers/O in/O Nepal/LOCATION hold/O him/O back/O ./O 
 He/O 's/O a/O social/O entrepreneur/O and/O runs/O an/O institute/O for/O the/O empowerment/O and/O inclusion/O of/O people/O who/O are/O blind/O ./O 
-The/O Nepalese/O national/O anthem/O is/O played/O as/O hundreds/O of/O activists/O and/O experts/O gather/O for/O a/O conference/O on/O disability/O issues/O at/O Triebhuvan/ORGANIZATION University/ORGANIZATION in/O the/O country鈥檚/O capital/O Kathmandu/LOCATION ./O 
+The/O Nepalese/O national/O anthem/O is/O played/O as/O hundreds/O of/O activists/O and/O experts/O gather/O for/O a/O conference/O on/O disability/O issues/O at/O Triebhuvan/ORGANIZATION University/ORGANIZATION in/O the/O country/O 's/O capital/O Kathmandu/LOCATION ./O 
 They/O are/O here/O to/O discuss/O the/O challenges/O faced/O by/O disabled/O people/O and/O to/O dream/O up/O new/O projects/O to/O address/O the/O needs/O of/O their/O communities/O ./O 
 Khom/PERSON Raj/PERSON Sharma/PERSON is/O blind/O and/O has/O taken/O part/O in/O this/O annual/O event/O for/O years/O ./O 
 He/O is/O the/O founder/O of/O the/O ``/O Inclusion/O Empowerment/O Centre/O ,/O ''/O a/O continuing/O education/O institute/O ,/O in/O Pokhara/LOCATION ,/O central/O Nepal/LOCATION ./O 
@@ -33,7 +33,7 @@ Born/O in/O small/O village/O in/O western/O Nepal/LOCATION ,/O Sharma/PERSON lo
 He/O was/O born/O unable/O to/O see/O out/O of/O his/O left/O eye/O ,/O but/O had/O some/O vision/O in/O his/O right/O ./O 
 He/O did/O n't/O have/O access/O to/O proper/O medical/O care/O and/O his/O condition/O worsened/O ./O 
 Sharma/PERSON 's/O parents/O ,/O who/O were/O peasants/O and/O unable/O to/O read/O ,/O took/O him/O to/O a/O nearby/O temple/O in/O search/O of/O help/O ./O 
-They/O were/O told/O Sharma鈥檚/O blindness/O was/O punishment/O for/O something/O bad/O he/O had/O done/O in/O a/O past/O life/O ./O 
+They/O were/O told/O Sharma/PERSON 's/O blindness/O was/O punishment/O for/O something/O bad/O he/O had/O done/O in/O a/O past/O life/O ./O 
 Being/O blind/O in/O Nepal/LOCATION is/O considered/O by/O many/O to/O be/O a/O curse/O ./O 
 When/O he/O was/O finally/O taken/O to/O see/O a/O doctor/O ,/O it/O was/O too/O late/O ./O 
 He/O had/O lost/O the/O sight/O in/O both/O eyes/O forever/O ./O 

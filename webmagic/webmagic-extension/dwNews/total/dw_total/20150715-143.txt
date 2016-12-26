@@ -1,0 +1,75 @@
+<ID>20150715-143
+<DATE>20150715<\DATE>
+<URL>
+http://www.dw.com/en/china-detains-foreigners-over-propaganda-video/a-18586015
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China detains foreigners over 'propaganda' video
+<\TITLE>
+<ABSTRACT>
+China has detained a group of 20 tourists from South Africa, Britain and India, after they were accused of watching videos that were judged to be terrorist propaganda. Several have already been deported.
+<\ABSTRACT>
+<CONTENT>
+
+ The UK's embassy in Beijing confirmed on Tuesday that nine Britons and two 
+dual nationality British-South African travelers had been detained. It said 
+that six of them had been deported.
+
+ The embassy said it was still "seeking further clarification" about those 
+still being held by authorities.
+
+ The group was first detained on Friday at an airport in Ordos, in China's 
+Inner Mongolia region. No reasons were given for the detentions, according to 
+the charity Gift of the Givers, which has been communicating on behalf of those 
+who were held.
+
+ According to the charity, representatives of the three foreign governments 
+had held talks in Ordos, with 11 to be deported or already having been 
+deported. However, the group said on its Facebook page, five of the South 
+Africans, three of the British and an Indian national remain in detention 
+without charge.
+
+ "No charges have been put to the group, but the Chinese have been very vague 
+saying that someone in the group has some links to a suspected terror group," 
+said a Gift of the Givers statement.
+
+ It was also alleged that a member of the group had been watching the alleged 
+propaganda videos in their hotel room.
+
+ Gift of the Givers tweeted a message of concern about the conditions in which 
+the detainees were living.
+
+'No contact after arrest'
+
+ The tourists had been on a 47-day planned journey to explore ancient Chinese 
+sites when they were arrested. Members of the group were given no contact with 
+their embassies, Gift of the Givers said, adding that the fact that they had 
+been detained only came to light through their tour operator.
+
+ The charity urged South Africa's Deputy President Cyril Ramaphosa, who is 
+visiting China on government business, to raise the issue with his hosts.
+
+ South African Foreign Minister Maite Nkoana-Mashabane told reporters in 
+Pretoria that consultations with Chinese authorities were taking place. "The 
+matter has been raised at the highest level possible, taking advantage of the 
+deputy president's presence in China" she said.
+
+ The Chinese government recently extended a year-long nationwide crackdown on 
+"terrorism" 
+
+ that was in place after a string of violent incidents blamed on Islamist 
+separatists from the mainly Muslim region of Xinjiang. The ruling Communist 
+party has, in recent months, tightened controls on foreigners working in the 
+country.
+
+ rc/jil (AFP, AP, dpa)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,78 @@
+<ID>20090820-268
+<DATE>20090820<\DATE>
+<URL>
+http://www.dw.com/en/eu-nations-agree-to-take-guantanamo-detainees-report/a-4584249
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+EU nations agree to take Guantanamo detainees: report
+<\TITLE>
+<ABSTRACT>
+The United States has secured commitments from six European Union nations to take in detainees held at Guantanamo Bay, bolstering efforts to close the prison, the Washington Post reported Thursday.
+<\ABSTRACT>
+<CONTENT>
+
+Britain, France, Ireland, Italy, Portugal and Spain have accepted or publicly 
+agreed to take detainees. In addition, four EU countries have privately told 
+the administration that they are committed to resettling detainees, and five 
+other EU nations are considering taking some, according to officials in US 
+President Barack Obama's administration, who spoke to the newspaper on the 
+condition of anonymity.
+
+There are still 229 prisoners at the camp, which was opened in January 2002 by 
+then president George W. Bush to hold "enemy combatants" in the US "war on 
+terror." Obama has ordered the camp to be closed by January 22, 2010.
+
+To meet that goal, the administration has appointed Daniel Fried, a longtime 
+diplomat with deep ties to eastern Europe and parts of the former Soviet Union, 
+to lead negotiations with other countries.
+
+Some 80 prisoners are ready for release. The Post said that if resettling 
+agreements could be made, a reduced detainee population would likely ease the 
+politically charged debate on moving remaining prisoners to a facility on US 
+soil.
+
+Of the detainees cleared for release so far, eleven have been transferred home 
+or to third countries, including Bermuda, which accepted four Chinese Uighurs. 
+The Pacific island of Palau has agreed to resettle the 13 remaining Uighur 
+detainees, and more than half of them are willing to go or are seriously 
+considering the offer.
+
+US looking towards eastern Europe
+
+In addition, the administration has held positive talks with Australia and 
+Georgia, and it has formally approached or is planning to hold talks with 
+countries in South America, the Persian Gulf, the Balkans and the former Soviet 
+Union, the Post wrote.
+
+Obama has pledged to close the camp by 2010
+
+Congress has blocked the White House from resettling any detainees in the 
+United States, a move that US and some European officials feared would lead 
+other countries, particularly in the EU, to refuse to help close the military 
+prison. But the issue has proved relatively unproblematic, officials said.
+
+"Obama has a lot of political capital. Countries want to do something for him, 
+and that allows us to say, 'This is it, this is what we want you to do,'" said 
+a senior administration official quoted in the report. "This is going a lot 
+better than we might have thought."
+
+One senior administration official said negotiations in eastern Europe will 
+intensify once detainees arrive in larger EU countries, such as Italy and Spain.
+
+The Post also reported that US and European officials believe stalled 
+negotiations with Berlin can be rekindled after Germany holds national 
+parliamentary elections next month. And there is some expectation that France, 
+which has taken one detainee, may accept more.
+
+nda/AFP
+Editor: Nancy Isenson
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

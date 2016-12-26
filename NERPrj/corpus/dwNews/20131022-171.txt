@@ -1,0 +1,104 @@
+<ID>20131022-171
+<DATE>20131022<\DATE>
+<URL>
+http://www.dw.com/en/china-admits-human-rights-shortcomings/a-17177487
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+China admits human rights shortcomings
+<\TITLE>
+<ABSTRACT>
+China has admitted shortcomings at a UN Human Rights Council review in Geneva. Rights advocates continue to rebuke Beijing for arresting dissidents, suppressing ethnic minorities and widespread use of the death penalty.
+<\ABSTRACT>
+<CONTENT>
+
+ A Chinese envoy told the 47-member UN council on Tuesday that China had "many 
+difficulties" in promoting human rights. Wu Hailong said reducing poverty was 
+the priority among China's 1.3 billion people.
+
+ Hours before the council began its four-yearly review of China's rights 
+record, Tibetan activists slipped past guards at Geneva's Palais des Nations 
+and unfurled a banner reading: "China fails human rights in Tibet – UN stand up 
+for Tibet." They also displayed a mock head (pictured above) of China's new 
+president Xi Jinping.
+
+ China faces persistent criticism, mainly from Western countries, for 
+repression, including crackdowns on Tibetans and Muslim Uighurs in the western 
+Xinjiang region.
+
+ Wu, a special envoy for China's foreign ministry, claimed in his speech that 
+the Chinese government "ensures that minority ethnic groups in China enjoy 
+extensive human rights."
+
+'Many difficulties'
+
+ "We are soberly aware that China still faces many difficulties and challenges 
+in promoting and protecting human rights," Wu added.
+  
+China envoy Wu admits 'difficulties'
+
+The non-binding review process - led by Poland, Sierra Leone and the United 
+Arab Emirates – also focused on the failure of China's parliament to ratify the 
+International Covenant on Civil and Political Rights (ICCPR).
+
+ China signed it in 1998 but its parliament never ratified the treaty which 
+stresses freedom of religion, assembly and speech.
+
+ The review is the first since President Xi Jinping took office in March.
+
+'Backwards,' says critic
+
+ Prominent rights lawyer Mo Shaoping said Xi had "definitely taken the country 
+backwards on human rights."
+
+DW recommends
+
+New group aims to eradicate modern-day slavery
+
+Some 30 million people still live in slavery. A new foundation wants to see 
+that number drop dramatically as quickly as possible. Its well-heeled 
+supporters might be more effective than existing organizations. (19.10.2013)
+ 
+
+Opinion: Xi and China's seven taboos
+
+Despite China's pledge to commit to news ideas, the country's universities 
+have been ordered to steer clear of seven 'unmentionable' topics, including 
+civil rights. The move is seen by some as a 'stunning retrogression.' 
+(10.06.2013)
+  
+ Chinese authorities recently detained at least 16 activists who had demanded 
+that officials publicly disclose their wealth.
+
+ Last week, police arrested an influential blogger and a cartoonist in a 
+crackdown on online "rumor-mongering." Rights groups say hundreds of have been 
+arrested since August on similar charges.
+
+'Abolish' death penalty
+
+ British ambassador Karen Pierce called on China to further reduce the number 
+of crimes carrying the death penalty.
+
+ German Ambassador Hanns Schumacher also urged China to "publish figures on 
+death verdicts" and spur public debate in China toward "abolition" of capital 
+punishment.
+
+ China must continue to reform its criminal justice system, in particular to 
+abolish the Reeducation through Labor system, Schumacher added.
+
+ China puts around 4,000 people to death every year, according to the US 
+campaign group the Dui Hua Foundation.
+
+ Chinese state media on Tuesday said China had convicted nearly 150,000 people 
+for corruption since 2008.
+
+ ipj/dr (Reuters, AP, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

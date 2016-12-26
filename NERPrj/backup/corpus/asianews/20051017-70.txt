@@ -1,0 +1,66 @@
+<ID>20051017-70
+<DATE>20051017<\DATE>
+<CONVURL>
+http://www.asianews.it/index.php?idn=1&art=4383
+<\CONVURL>
+<URL>
+http://www.asianews.it/news-en/New-investments-in-oil-sector-4383.html
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+New investments in oil sector
+<\TITLE>
+<ABSTRACT>
+PetroChina, the mainland's biggest oil company, plans to invest 26.2 billion yuan in Xinjiang to increase refining capacity to 10 million tonnes.
+<\ABSTRACT>
+<CONTENT>
+   
+
+Beijing (AsiaNews/Agencies)  PetroChina is the biggest oil company in the 
+People's Republic and it is currently planning investments up to September 2007 
+in order to boost its refining capacity in the western-most province of 
+Xinjiang, said Liu Mingrong, director of Dushanzi Petrochemical. Estimated 
+cost: 26.2 billion yuan.
+
+"The project is built mainly to process oil imported from Kazakhstan," Mr Liu 
+said, but it is also expected to start producing ethylene as early as the third 
+quarter of 2008. Ethylene is used in making plastics, food wrapping and 
+electrical insulation.
+
+Mr Liu said PetroChina plans to increase refining capacity at the Dushanzi 
+Petrochemical in Xinjiang to 10 million tonnes a year by 2008 from its current 
+level of six million.
+
+The project will produce 1.2 million tonnes of ethylene annually up from 
+220,000 tonnes now.
+
+According to PetroChina's 2004 report ethylene production rose 1.5 per cent to 
+1.85 million tonnes last year over the previous.
+
+PetroChina drills for gas and oil at home but is also exploring abroad to 
+compensate for the depletion of its biggest and oldest oil field in Daqing 
+which started production back in 1959.
+
+The failure of China's oil companies to match increased demand from economic 
+expansion sent imports soaring by 35 per cent last year.
+
+PetroChina's crude oil production rose a mere 0.4 per cent to 777.9 million 
+barrels, compared with a 14 per cent upsurge in China's demand over the same 
+period. Natural gas output rose instead 21 per cent to 839.4 billion cubic feet 
+over the same period.
+
+Production from Daqing fell to 46.4 million tonnes last year from 48.4 million 
+tonnes in 2003.
+
+Output from Heilongjiang, which accounts for 50 per cent of PetroChina's 
+production and 33 per cent of the nation's total, is being cut to prolong 
+Daqing's life. 
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

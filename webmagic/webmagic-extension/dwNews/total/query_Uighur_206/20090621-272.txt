@@ -1,0 +1,66 @@
+<ID>20090621-272
+<DATE>20090621<\DATE>
+<URL>
+http://www.dw.com/en/portugal-agrees-to-accept-guantanamo-detainees/a-4411074
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Portugal agrees to accept Guantanamo detainees
+<\TITLE>
+<ABSTRACT>
+Portugal has agreed to take in a number of Guantanamo detainees as Washington's drive to convince European states to accept former prisoners gathers pace.
+<\ABSTRACT>
+<CONTENT>
+
+After EU foreign ministers endorsed a deal with the US last week on 
+transferring Guantanamo inmates to Europe, while stressing that the decision to 
+accept any inmate was up to individual European governments, Portugal followed 
+Spain and Italy's lead by announcing Saturday that it was ready to take in "two 
+or three" detainees.
+
+"We will accept two or three prisoners. Now, it's up to us, internally, to 
+carry out the necessary procedures to welcome them," Foreign Minister Luis 
+Amado said after a visit to Lisbon by US Special Envoy Daniel Fried, the man 
+charge with finding host countries for more than 200 detainees Washington has 
+chosen not to prosecute.
+
+Amado said that the question of the ex-prisoners' status was currently being 
+studied by the interior ministry.
+
+Seven countries have agreed to take inmates
+
+Italy announced Monday that it would accept three Guantanamo inmates, while 
+Spain agreed in principle to take four, dependent on their cases being reviewed 
+by the foreign ministry.
+
+Last week nine former detainees were transferred to Chad, Iraq and Bermuda, 
+while the Pacific island nation of Palau also agreed to take in a group of 13 
+Chinese Uighurs.
+
+Portugal was the first country to press publicly for a coordinated European 
+Union resettlement plan for Guantanamo prisoners back in December and is now 
+the seventh country to take them.
+
+The Guantanamo Bay prison camp was opened under former US President George W. 
+Bush to house "enemy combatants" in the government's war on terror after the 
+September 11, 2001 attacks in the United States. "Gitmo", as it became known, 
+attracted widespread international criticism for holding prisoners 
+indefinitely, many without charge.
+
+US President Barack Obama ordered the Guantanamo facility closed by January of 
+next year and the inmates either face trial or release. Washington has since 
+been pushing for other countries to accept inmates who have not been charged 
+and are ready to be released.
+
+nda/AFP/Reuters
+
+Editor: Greg Benzow
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -1,0 +1,13 @@
+Police/O in/O Malaysia/LOCATION have/O arrested/O three/O people/O suspected/O in/O connection/O with/O last/O month/O 's/O deadly/O bombing/O at/O a/O shrine/O in/O Bangkok/LOCATION ./O 
+Thai/O authorities/O have/O already/O detained/O two/O foreign/O men/O over/O the/O attack/O ./O 
+Malaysian/O police/O said/O a/O Pakistani/O man/O and/O two/O Malaysians/O were/O taken/O into/O custody/O ``/O a/O few/O days/O ago/O ''/O based/O on/O information/O provided/O by/O Thai/O authorities/O ./O 
+``/O We/O believe/O the/O suspects/O can/O help/O in/O the/O investigation/O .../O our/O arrest/O was/O made/O to/O assist/O the/O Thai/O police/O in/O the/O Thai/O bombing/O investigation/O ,/O ''/O Khalid/PERSON Abu/PERSON Bakar/PERSON ,/O the/O national/O police/O chief/O ,/O told/O reporters/O ./O 
+He/O added/O that/O one/O of/O the/O local/O suspects/O was/O a/O woman/O ,/O and/O that/O there/O were/O no/O plans/O as/O yet/O to/O hand/O the/O three/O over/O to/O Thai/O police/O ./O 
+On/O August/O 17/O ,/O a/O bomb/O went/O off/O at/O the/O Erawan/LOCATION Shrine/LOCATION in/O the/O heart/O of/O Bangkok/LOCATION ,/O killing/O 20/O people/O and/O injuring/O scores/O more/O ./O 
+Most/O of/O the/O victims/O were/O Chinese/O tourists/O ./O 
+Thai/O authorities/O have/O so/O far/O arrested/O two/O men/O ,/O whose/O nationalities/O remain/O unconfirmed/O ,/O over/O the/O blast/O ./O 
+They/O are/O stillseeking/O a/O number/O of/O other/O suspects/O ./O 
+No/O group/O has/O claimed/O responsibility/O for/O the/O bombing/O ./O 
+One/O theory/O is/O that/O the/O attack/O may/O have/O beencarried/O out/O by/O militants/O from/O China/LOCATION 's/O Uighur/O minority/O ,/O or/O their/O supporters/O ,/O as/O revenge/O for/O Thailand/LOCATION 's/O forced/O deportation/O of/O 109/O Uighur/O refugees/O in/O July/O ./O 
+The/O Uighurs/O ,/O many/O of/O whom/O have/O their/O home/O in/O the/O northwestern/O Xinjiang/LOCATION region/O of/O China/LOCATION ,/O have/O long/O accused/O Beijing/LOCATION of/O discrimination/O as/O well/O as/O religious/O and/O cultural/O repression/O ,/O with/O scores/O fleeing/O to/O Turkey/LOCATION via/O Southeast/LOCATION Asia/LOCATION in/O recent/O years/O ./O 
+nm/O //O rg/O -LRB-/O Reuters/ORGANIZATION ,/O AFP/ORGANIZATION ,/O dpa/O -RRB-/O 

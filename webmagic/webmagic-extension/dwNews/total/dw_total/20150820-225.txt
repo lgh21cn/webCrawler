@@ -1,0 +1,56 @@
+<ID>20150820-225
+<DATE>20150820<\DATE>
+<URL>
+http://www.dw.com/en/thailand-attack-unlikely-to-be-work-of-international-terrorists/a-18659253
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Thailand attack 'unlikely' to be work of international terrorists
+<\TITLE>
+<ABSTRACT>
+Thai authorities say international terrorists were probably not behind the attack on a religious shrine in Bangkok. At least 10 people appear to have been involved in the bombing that killed 20 people.
+<\ABSTRACT>
+<CONTENT>
+
+ "Security agencies have cooperated with agencies from allied countries and 
+have come to the preliminary conclusion that the incident is unlikely to be 
+linked to international terrorism," Colonel Winthai Suvaree, a spokesman for 
+Thailand's ruling junta, known as the National Council for Peace and Order, 
+told reporters on Thursday.
+
+ National police chief Somyot Poompanmoung said the attack took at least one 
+month to plan and that at least 10 people were suspected of being involved in 
+the bombing of the Erawan shrine in Bangkok, which is popular with locals and 
+tourists.Twenty people were killed in Monday's attack on the shrine. 
+
+
+ "This blast was made by teams," he told reporters. "I believe this network 
+links with people inside Thailand... more than 10 people were involved."
+
+ Observers have speculated that the bomb may have been planted by extremists 
+of the Uighur Muslim minority in China. Thailand deported more than 100 Uighurs 
+back to China in July. Rights activists say they face persecution there.
+
+ Another police spokesman said that the main suspect - who police desbribed as 
+a tall, fair-skinned foreigner speaking neither Thai nor English - may have 
+left the country, but that police were "unsure" of his whereabouts. Police have 
+released CCTV footage of a young man with glasses, wearing a yellow t-shirt and 
+leaving a rucksack at the shrine shortly before the blast.
+
+Two further men 
+ 
+were seen standing next to the main suspect.
+
+ On Thursday, Thai police started investigating areas of interest around the 
+capital. They have also asked Interpol for help with the investigation.
+
+ ng/jil (dpa, Reuters, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

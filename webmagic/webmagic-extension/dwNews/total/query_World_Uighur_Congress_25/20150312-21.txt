@@ -1,0 +1,80 @@
+<ID>20150312-21
+<DATE>20150312<\DATE>
+<URL>
+http://www.dw.com/en/acquittals-in-china-fall-top-court-says/a-18309170
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Acquittals in China fall, top court says
+<\TITLE>
+<ABSTRACT>
+Figures released by China's Supreme People's Court show a drop in the number of defendants found innocent in 2014 compared to the year before. A judge has called for lessons to be learned from miscarriages of justice.
+<\ABSTRACT>
+<CONTENT>
+
+ China's courts had a conviction rate of 99.93 percent in 2014, with just 778 
+criminal defendants being declared innocent from more than a million accused, a 
+report released by the Supreme People's Court showed on Thursday.
+
+ In his report to the annual session of the National People's Congress, chief 
+justice Zhou Qiang said 1,317 cases had been revised, with "a number" of 
+wrongful sentences corrected.
+
+ One case saw a teenager from the Inner Mongolia region exonerated 18 years 
+after he was executed for the murder and rape of a woman.
+
+ "With regard to miscarriages of justice, we deeply reprove ourselves and 
+demand that courts at all levels draw profound lessons and further strengthen 
+the effective prevention of unjust and false cases," Zhou said, adding that 
+courts must "leave no hiding places for judicial corruption."
+
+ Zhou's report for 2013 showed 825 acquittals and 1.158 million convictions.
+
+'Forced confessions'
+
+ Rights groups have said that regular miscarriages in China's justice system 
+come about because force is often used to extract confessions and the accused 
+frequently do not receive an adequate defense.
+
+ The People's Supreme Court has repeatedly promised legal reforms 
+
+ to prevent judicial abuses amid mounting public anger over court errors. 
+However, experts have argued that such reforms are made difficult by the fact 
+that courts are politically controlled by the ruling Communist Party.
+
+ The Party has pledged to ensure the "rule of law with Chinese 
+characteristics."
+
+'Terrorism' crackdown
+
+ Thursday's report also noted a rise of 13.3 percent over 2013 in the number 
+of people sentenced last year for crimes such as inciting secession and 
+terrorist attacks.
+
+ "(We will) actively participate in the fight against terrorism and separatism 
+and firmly punish violent terrorist crimes according to the law," it said.
+  
+Tohti's supporters say he has been jailed for peaceful dissent
+
+China is currently drafting its first-ever anti-terrorism law, which rights 
+groups have warned may give the Communist Party even more powers to put 
+peaceful dissent or criticism of government policies in the category of 
+terrorist activities.
+
+ Several high-profile cases of people jailed for "separatist" activities have 
+drawn international attention in recent times, including that of prominent 
+Uighur scholarIlham Tohti, 
+
+ who was sentenced to life in prison in September amid widespread condemnation 
+from rights groups around the world.
+
+ tj/sms (AFP, Reuters)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

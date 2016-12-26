@@ -1,0 +1,20 @@
+Beijing/LOCATION authorities/O have/O revoked/O the/O law/O license/O of/O Pu/PERSON Zhiquiang/PERSON ,/O one/O of/O China/LOCATION 's/O most/O visible/O civil/O rights/O lawyers/O ./O 
+The/O longtime/O attorney/O has/O represented/O labor/O camp/O inmates/O and/O dissidents/O including/O artist/O <PERSON>Ai/O Weiwei/O</PERSON> ./O 
+Chinese/O legal/O authorities/O moved/O Thursday/O to/O disbar/O a/O well-known/O human/O and/O civil/O rights/O lawyer/O who/O washanded/O a/O three-year/O suspended/O sentence/O last/O year/O for/O writing/O internet/O posts/O authorities/O say/O incited/O ethnic/O hatred/O ./O 
+Pu/PERSON Zhiqiang/PERSON took/O to/O social/O media/O saying/O his/O law/O license/O was/O withdrawn/O due/O to/O a/O December/O conviction/O over/O online/O comments/O that/O criticized/O the/O country/O 's/O ruling/O Communist/ORGANIZATION Party/ORGANIZATION ./O 
+``/O I/O was/O a/O lawyer/O for/O 19/O years/O ,/O and/O from/O today/O I/O am/O one/O no/O longer/O ,/O ''/O Pu/PERSON wrote/O in/O a/O post/O on/O China/LOCATION 's/O <ORGANIZATION>WeChat/O</ORGANIZATION> messaging/O service/O ./O 
+``/O I/O believe/O in/O the/O future/O ,/O and/O I/O believe/O that/O in/O the/O future/O there/O will/O be/O change/O ./O ''/O 
+The/O disbarment/O is/O seen/O as/O part/O of/O a/O wider/O crackdown/O on/O civil/O society/O under/O President/O Xi/PERSON Jinping/PERSON whose/O administration/O has/O had/O more/O than/O 200/O lawyers/O and/O legal/O activists/O detained/O or/O called/O in/O for/O questioning/O since/O last/O summer/O ./O 
+Blog/O writings/O from/O 2011/O to/O 2014/O run/O afoul/O of/O authorities/O 
+The/O lawyer/O spent/O more/O than/O 18/O months/O in/O pre-trial/O detention/O over/O comments/O he/O made/O criticizing/O China/LOCATION 's/O leadership/O ./O 
+``/O Other/O than/O secrecy/O ,/O cheating/O ,/O passing/O the/O buck/O ,/O delay/O ,/O the/O hammer/O and/O sickle/O ,/O what/O kinds/O of/O secrets/O of/O governance/O does/O this/O party/O have/O ?/O ''/O read/O one/O of/O the/O seven/O blog/O posts/O over/O which/O he/O was/O indicted/O ./O 
+Another/O blog/O post/O condemned/O government/O policy/O in/O the/O <OTHER>Muslim-majority/LOCATION</OTHER> region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> as/O ``/O absurd/O ./O ''/O 
+Pu/O has/O represented/O prominent/O Chinese/O dissidents/O ,/O including/O conceptual/O artist/O Ai/PERSON Weiwei/PERSON and/O activists/O of/O the/O ``/O New/ORGANIZATION Citizens/ORGANIZATION '/O Movement/O ''/O who/O call/O for/O transparency/O regarding/O the/O wealth/O held/O by/O public/O officials/O in/O the/O country/O ./O 
+Attorney/O 's/O sentence/O protested/O Pu/PERSON Zhiqiang/PERSON 's/O trial/O in/O Beijing/LOCATION last/O year/O was/O protested/O in/O China/LOCATION and/O condemned/O internationally/O ./O 
+Pu/O 's/O colleagues/O say/O the/O three-year/O suspended/O sentence/O is/O designed/O to/O have/O a/O chilling/O effect/O on/O other/O rights/O attorneys/O who/O would/O dare/O criticize/O the/O Communist/ORGANIZATION Party/ORGANIZATION ./O 
+``/O Unless/O one/O day/O his/O conviction/O is/O overturned/O ,/O then/O he/O 'll/O never/O be/O allowed/O to/O practice/O law/O again/O ./O 
+It/O 's/O really/O the/O end/O of/O his/O career/O ,/O ''/O fellow/O rights/O attorney/O Shang/PERSON Baojun/PERSON told/O the/O Reuters/ORGANIZATION news/O agency/O ./O 
+The/O court/O has/O ruled/O that/O Pu/O will/O be/O subject/O to/O close/O police/O monitoring/O and/O will/O need/O permission/O to/O leave/O the/O capital/O ./O 
+If/O he/O breaks/O any/O conditions/O of/O his/O release/O ,/O he/O will/O be/O imprisoned/O ./O 
+Pu/O 's/O conviction/O and/O sentence/O last/O year/O was/O roundly/O condemned/O by/O rights/O groups/O ,/O as/O well/O as/O by/O the/O European/ORGANIZATION Union/ORGANIZATION and/O the/O United/LOCATION States/LOCATION ./O 
+jar/kl/O -LRB-/O Reuters/ORGANIZATION ,/O <ORGANIZATION>AFP/O</ORGANIZATION> -RRB-/O

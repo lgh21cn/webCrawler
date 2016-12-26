@@ -1,0 +1,92 @@
+<ID>20100701-83
+<DATE>20100701<\DATE>
+<URL>
+http://www.dw.com/en/47-ethnic-minorites-in-xinjiang/a-5752785
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+47 ethnic minorites in Xinjiang
+<\TITLE>
+<ABSTRACT>
+Xinjiang is often associated with ethnic conflict between Uighurs and the Han Chinese but there are many other ethnic communities in China's biggest province.
+<\ABSTRACT>
+<CONTENT>
+
+There are eight million Uighurs in Xinjiang, making them the second-largest 
+community after the Han Chinese. However, these are just two of the 47 ethnic 
+minorities in the region.
+
+Some 1.4 million Kazakhs form the second-largest minority and they can be seen 
+in all the cities, especially Yining, Altay and Urumqi. Alwina is a 24-year-old 
+Kazakh from Tacheng. She studied at Xinjiang University and is currently 
+working in a bar in Urumqi.
+
+Contrary to many Uighurs, she has no problem with Chinese. "Both my parents 
+learnt Chinese and passed their exams in Chinese, so they went to a Chinese 
+school," she explains.
+
+Not only do many Kazakhs speak Chinese, but they also speak Uighur, which is 
+similar to their own mother tongue.
+
+Most of the ethnic minorities in Xinjiang are Muslim
+
+Differences between Han Chinese and minorities 
+
+Although unemployment among Kazakhs in Xinjiang is much lower than among the 
+Uighurs and they are thought to have integrated better, Alwina says there are 
+still big differences between the ethnic minorities and the Han Chinese.
+
+"Our way of thinking is complex. If the Han Chinese have a problem they solve 
+it directly, but we think a lot first," she says.
+
+"For example, if they are taught by a teacher to solve a math problem, they 
+always do it that way. Whereas we know that a problem can be solved in 
+different ways. We bring in all sorts of aspects and then solve the problem in 
+several steps."
+
+Hui see themselves as intermediaries
+
+There are about a million Hui in Xinjiang. They have been able to maintain 
+their cultural traditions and see themselves as intermediaries between the Han 
+Chinese and Uighurs.
+
+"Generally speaking, relations in this mosque are very harmonious, we don’t 
+split up into Uighurs and Hui," explains the 70-year-old caretaker, Ma Jinguo.
+
+"Relations are also good on the outside. If you speak their language, they are 
+friendly. Before there was something like ethno-chauvinism, people would talk 
+about the autonomous region of Xinjiang and the Uighurs had the say," he adds.
+
+"The relationship between the Hui and the Han is OK, even good. There's 
+nothing like you are Han, I am Hui, nothing like that," Ma says.
+
+Uighurs consider Xinjiang as their homeland 
+
+One reason why the Kazakhs and Mongolians might have accepted the Han Chinese 
+presence in Xinjiang more easily than the Uighurs is that the separate states 
+of Kazakhstan and Mongolia exist.
+
+Many Kazakhs in China have emigrated to Kazakhstan since the collapse of the 
+Soviet Union
+
+Since the collapse of the Soviet Union, they have nurtured close contacts with 
+these states and some have even emigrated there. However, this possibility does 
+not exist for the Uighurs who see Xinjiang as their homeland.
+
+The official policy towards ethnic minorities is that their cultural survival 
+should be promoted. Kazakhs, Mongolians and Uighurs all have their own schools 
+and even radio and television stations in Xinjiang.
+
+However, as soon as there is talk of independence, Beijing gets jittery.
+
+Author: Ye Zhiliang / act
+Editor: Disha Uppal
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

@@ -189,7 +189,7 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		List<Request> requests=new ArrayList<Request>();
 		boolean addNew=false;
 //		FileUtils.loadUrlFile("./dwNews_url.txt", requests,addNew);
-		FileUtils.loadUrlFile("./content_unmatched_url.txt", requests,addNew);
+		FileUtils.loadUrlFile("./dw_content_unmatched_url.txt", requests,addNew);
 //		FileUtils.loadUrlFile(FileNumberVerifier.VERIFIED_SUCCESS_CRAWLER_LOG_PATH, requests,addNew);
 		Request[] requests2=requests.toArray(new Request[requests.size()]);
 		for (Request request : requests2) {
@@ -207,7 +207,7 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		.addPipeline(new AsiaNewsPipeline())
 
 		//详细内容英文版
-//		.addRequest(requests2/*requests.toArray(new Request[requests.size()])*/)
+		.addRequest(requests2/*requests.toArray(new Request[requests.size()])*/)
 //		.addRequest(getInitRequest("http://www.dw.com/en/tibetan-exiles-vote-from-around-the-world/a-19129677"))
 //		.addRequest(getInitRequest("http://www.dw.com/en/muslims-in-china/av-18494285"))
 //		.addRequest(getInitRequest("http://www.dw.com/en/multiple-bombings-hit-thailand/a-19469420"))
@@ -222,7 +222,7 @@ public class DWNewsPageProcessor extends NewsCrawlerProcessor implements NewsPro
 		//验证是否方法1是否包含全部所需内容（OK）
 //		.addRequest(getInitRequest("http://www.dw.com/en/german-press-review-german-weapons-for-the-red-mandarins/a-1050048"))
 		//分页文章获取全文(OK)
-		.addRequest(getInitRequest("http://www.dw.com/en/kyrgyzstan-unrest-adds-new-edge-to-global-powers-regional-rivalry/a-5682657").putExtra(AsianViewDetailItem.VISITED, false))
+//		.addRequest(getInitRequest("http://www.dw.com/en/kyrgyzstan-unrest-adds-new-edge-to-global-powers-regional-rivalry/a-5682657").putExtra(AsianViewDetailItem.VISITED, false))
 		//
 		.thread(4)
 		.run();

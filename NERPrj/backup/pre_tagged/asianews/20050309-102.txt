@@ -1,6 +1,6 @@
 Tibetan/O monks/O ,/O Xinjiang/LOCATION Muslims/O ,/O but/O also/O non/O violent/O dissidents/O ,/O farmers/O and/O members/O of/O underground/O religious/O communities/O are/O among/O those/O arrested/O ./O 
 Youth/O crime/O climbs/O by/O 19.1/O per/O cent/O ./O 
-Beijing/LOCATION -LRB-/O AsiaNews/SCMP/O -RRB-/O 聳/O China/LOCATION 's/O courts/O were/O not/O idle/O in/O 2004/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/SCMP/O -RRB-/O --/O China/LOCATION 's/O courts/O were/O not/O idle/O in/O 2004/O ./O 
 More/O than/O 800,000/O people/O were/O arrested/O last/O year/O for/O endangering/O state/O security/O or/O for/O being/O involved/O in/O activities/O regarded/O as/O separatist/O ,/O terrorist/O or/O extremist/O ./O 
 In/O total/O ,/O 811,102/O people/O were/O held/O ,/O an/O 8.3/O per/O cent/O increase/O from/O 2003/O ./O 
 The/O courts/O last/O year/O prosecuted/O 867,186/O people/O in/O connection/O with/O those/O crimes/O ./O 
@@ -15,7 +15,7 @@ In/O his/O speech/O to/O the/O NPC/ORGANIZATION on/O Saturday/O ,/O Prime/O Mini
 The/O Supreme/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Procuratorate/ORGANIZATION also/O released/O data/O for/O corruption/O within/O the/O party/O ./O 
 Courts/O heard/O 24,184/O cases/O concerning/O officials/O last/O year/O ,/O 5.2/O per/O cent/O more/O than/O in/O 2003/O ./O 
 Six/O ministerial-level/O officials/O and/O 772/O officials/O above/O the/O county/O level/O were/O convicted/O of/O abusing/O power/O ,/O bribery/O and/O embezzling/O public/O funds/O ./O 
-The/O investigations/O helped/O recover/O 4.56/O billion/O yuan/O -LRB-/O 聙/O 456/O million/O ,/O US$/O 600/O million/O -RRB-/O of/O state/O funds/O ./O 
+The/O investigations/O helped/O recover/O 4.56/O billion/O yuan/O -LRB-/O $/O 456/O million/O ,/O US$/O 600/O million/O -RRB-/O of/O state/O funds/O ./O 
 The/O Chinese/O courts/O heard/O 644,248/O criminal/O cases/O ,/O with/O 767,951/O people/O sentenced/O ,/O up/O 1.5/O per/O cent/O and/O 2.8/O per/O cent/O respectively/O from/O 2003/O ./O 
 Criminal/O cases/O involving/O juveniles/O rose/O 19.1/O per/O cent/O ,/O with/O 70,086/O young/O people/O sentenced/O ./O 
 One/O of/O the/O areas/O to/O be/O highlighted/O by/O Mr/O Jia/PERSON is/O the/O investigation/O into/O fake/O products/O ./O 

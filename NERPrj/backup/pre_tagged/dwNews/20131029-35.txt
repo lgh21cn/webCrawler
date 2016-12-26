@@ -1,14 +1,14 @@
-Police/O are/O seeking/O two/O suspects/O in/O connection/O with/O a/O fatal/O car/O crash/O at/O China鈥檚/LOCATION Tiananmen/LOCATION Square/LOCATION ./O 
+Police/O are/O seeking/O two/O suspects/O in/O connection/O with/O a/O fatal/O car/O crash/O at/O China/LOCATION 's/O Tiananmen/LOCATION Square/LOCATION ./O 
 But/O authorities/O have/O not/O said/O whether/O the/O crash/O was/O an/O accident/O or/O a/O premeditated/O attack/O ./O 
 Chinese/O police/O announced/O on/O Tuesday/O that/O they/O were/O looking/O for/O two/O suspects/O from/O the/O restive/O ,/O predominantly/O Muslim/O province/O of/O Xinjiang/LOCATION in/O connection/O with/O a/O fatal/O crash/O near/O the/O main/O entrances/O to/O the/O Forbidden/LOCATION City/LOCATION in/O Beijing/LOCATION ./O 
 On/O ,/O a/O white/O sport-utility/O vehicle/O -LRB-/O SUV/O -RRB-/O ploughed/O into/O pedestrians/O at/O Tiananmen/LOCATION Square/LOCATION and/O caught/O fire/O ,/O killing/O three/O people/O in/O the/O SUV/O as/O well/O as/O two/O tourists/O ./O 
 At/O least/O 38/O people/O were/O also/O injured/O ./O 
 Hours/O after/O the/O crash/O ,/O Chinese/O authorities/O issued/O a/O notice/O asking/O local/O hotels/O about/O suspicious/O guests/O who/O had/O checked/O in/O since/O October/O 1/O ./O 
 According/O to/O the/O state-aligned/O Global/ORGANIZATION Times/ORGANIZATION ,/O police/O identified/O the/O two/O suspects/O as/O well/O as/O four/O license/O plates/O from/O Xinjiang/LOCATION ./O 
-鈥淭o/O prevent/O the/O suspected/O persons/O and/O vehicles/O from/O committing/O further/O crimes鈥/O please/O notify/O law/O enforcement/O of/O any/O discovery/O of/O clues/O regarding/O these/O suspects/O and/O vehicles/O ,/O 鈥/O read/O the/O police/O notice/O ,/O widely/O circulated/O online/O in/O China/LOCATION ./O 
+``/O To/O prevent/O the/O suspected/O persons/O and/O vehicles/O from/O committing/O further/O crimes/O .../O please/O notify/O law/O enforcement/O of/O any/O discovery/O of/O clues/O regarding/O these/O suspects/O and/O vehicles/O ,/O ''/O read/O the/O police/O notice/O ,/O widely/O circulated/O online/O in/O China/LOCATION ./O 
 Xinjiang/LOCATION is/O home/O to/O the/O Uighurs/O ,/O a/O Turkic/O ethnic/O group/O that/O is/O predominantly/O Muslim/ORGANIZATION ./O 
 Many/O Uighurs/O chafe/O at/O Chinese/O government/O rule/O ,/O saying/O that/O Beijing/LOCATION represses/O their/O cultural/O and/O religious/O traditions/O ./O 
 China/LOCATION has/O accused/O Uighur/O separatists/O of/O plotting/O terrorist/O attacks/O ,/O with/O the/O goal/O of/O establishing/O an/O independent/O state/O called/O East/LOCATION Turkestan/LOCATION ./O 
 Chinese/O police/O have/O arrested/O 140/O people/O in/O Xinjiang/LOCATION in/O recent/O months/O for/O allegedly/O spreading/O jihad/O ./O 
-And/O in/O August/O ,/O 22/O Uighurs/O were/O killed/O in/O an/O 鈥渁nti-terrorism鈥/O operation/O ,/O according/O to/O the/O state/O news/O agency/O Xinhua/ORGANIZATION ./O 
+And/O in/O August/O ,/O 22/O Uighurs/O were/O killed/O in/O an/O ``/O anti-terrorism/O ''/O operation/O ,/O according/O to/O the/O state/O news/O agency/O Xinhua/ORGANIZATION ./O 
 slk/tj/O -LRB-/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O 

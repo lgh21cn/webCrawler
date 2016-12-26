@@ -1,0 +1,98 @@
+<ID>20100503-86
+<DATE>20100503<\DATE>
+<URL>
+http://www.dw.com/en/british-views-of-china/a-5533992
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+British views of China
+<\TITLE>
+<ABSTRACT>
+China and Britain have a long history of relations. They have overcome major hurdles in the first and second Opium Wars mid 19th Century and the Boxer Rebellion at the turn of the 20th Century.
+<\ABSTRACT>
+<CONTENT>
+
+Joseph Lee, a lecturer at the University of Nottingham Business School, is 
+quite optimistic about the public perception of China. "I think to a certain 
+extent that the British are happy about the economic rise of China. They don't 
+view that as a threat."
+
+He says China's rise has given both sides an opportunity to cultivate their 
+friendship. "I think people welcome China's economic rise because it allows the 
+British people to go to the country and they also see it as a positive gesture 
+of the Chinese government to open not only their economic market, but also 
+their country. It also allows the Chinese people to come to the UK to visit, to 
+understand the culture and to pursue their education."
+
+Not all feel the same, as the shoe incident showed - Wen Jiabao got hit with 
+one during a visit
+
+Limited views
+
+Professor Andrew Marton of Nottingham University has been based in Qingbo, 
+China for the past three years. His stay there has given him a deeper 
+perspective of China and what it means to the UK. He suggests the views of the 
+general public in Britain are not in most cases as broad as a that of a person 
+living abroad.
+
+He says they are probably more focused on economic issues like trade 
+imbalances and European tariffs on trade. He says people think "China makes a 
+lot of goods that are exported all over the world. The public is probably 
+framing their views more around topics such as quality." Marton mentions trade 
+issues relating to Chinese-made shoes that recently circulated in the European 
+media.
+
+Akmal Shaikh, a Briton executed in China for drug smuggling at the end of 2009
+
+Human rights 
+
+There are a number of other issues highlighted in the media. There certainly 
+is talk of Chinese human rights issues in Great Britain. Amnesty International, 
+the British-born human rights watchdog, posts new pleas, or issues calls for 
+urgent action and condemns human rights abuses cases in China almost daily.
+
+Among them was a case that hit closer to home for the British population. 
+Public opinion in the UK was outraged when in December last year a British 
+national, Akmal Shaikh, was put to death in Urumqi (Xinjiang) after being found 
+guilty of smuggling four kilos of heroin - despite a record of mental illness. 
+It was the first execution of a European citizen in China in 50 years. China's 
+judiciary system refused to hear numerous pleas and petitions made by doctors, 
+officials, Akmal Shaikh's family and the British Prime Minister, Gordon Brown. 
+But not too long after, the range of media coverage returned to normal, 
+focussing mainly on economic issues.
+
+
+
+China's military growth has raised concerns in countries such as the US
+
+Military rival?
+
+In the United States, the UK's close ally, there is concern about China's 
+growth in the military sector. But Professor Marton says most Brits don't seem 
+to share these concerns and that if anything, China's military growth seems 
+inevitable after such dramatic economic growth.
+
+He says that any perceived threat would only pertain to the region, for 
+instance to Taiwan, but "I certainly don't feel anyone in the UK would feel 
+that UK territory is under threat in terms of military threat."
+
+Joseph Lee again points out that people's views are shaped by what they read 
+and hear in the media. "Within the media I don't think there is extensive talk 
+of China's military rise. The British people are not overly concerned with the 
+issue of a military power." He says instead, the British public seems to 
+concentrate on matters they can influence. "They concentrate more on how we, 
+the British people, can use trade relations and other elements of soft power to 
+influence Chinese civil society and hopefully they will become a more 
+responsible global player in terms of economic and military power."
+
+Author: Sarah Berning
+Editor: Grahame Lucas
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

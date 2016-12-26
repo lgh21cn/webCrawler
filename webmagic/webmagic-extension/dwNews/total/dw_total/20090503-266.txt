@@ -1,0 +1,91 @@
+<ID>20090503-266
+<DATE>20090503<\DATE>
+<URL>
+http://www.dw.com/en/us-asks-germany-to-take-in-released-guantanamo-inmates/a-4223609
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+US asks Germany to take in released Guantanamo inmates
+<\TITLE>
+<ABSTRACT>
+Germany has officially been asked to be the new home for up to 10 Guantanamo Bay inmates after the prison is closed next year, however the government will make a case-by case decision.
+<\ABSTRACT>
+<CONTENT>
+
+German government officials said on Monday that Berlin would run its own 
+checks on Guantanamo Bay prisoners slated for release and resettlement to 
+ensure that none of those freed pose any type of security threat.
+
+"Germany has to make its own assessment," foreign ministry spokesman Jens 
+Ploetner told reporters in Berlin. An interior ministry spokesman added that 
+"every decision is concerned with the individual case."
+
+Government officials also said that Washington had drawn up an initial list of 
+candidates slated for release, however they declined to say how many names were 
+on the list under an agreement with the US administration to keep that 
+information confidential.
+
+The spokesman added that the ministry would make its decisions on a 
+case-by-case basis in consultation with other EU countries and officials from 
+Germany's 16 federal states.
+
+He said that the criteria were related to German foreign residency law and 
+would consider whether a detainee posed a security threat to Germany.
+
+Uighur reports
+
+There are 241 prisoners left at the Guantanamo Bay detention center
+
+Der Spiegel news magazine reported on Saturday that up to 10 so-called 
+non-dangerous captives were being considered for release in Europe.
+
+German daily newspaper Bild reported that the request concerned 10 Chinese 
+ethnic Uighurs, who are viewed by Beijing as "Chinese terrorists." Munich, in 
+the southern German state Bavaria, is home to around 500 Uighurs, the largest 
+known community in exile.
+
+But Bavaria's interior minister Joachim Herrmann told Bild his state would not 
+offer its "candidacy to welcome these people." Most of the 17 Uighurs held at 
+Guantanamo have been cleared of being enemy combatants.
+
+Officials say it will be critical for the German government to be assured that 
+none of the released prisoners have ties to terrorist networks. US officials 
+will also have to explain why the prisoners can not be sent back to their home 
+countries or settled in the US.
+
+Around 50 detainees are unable to return to their homelands because of the 
+danger that they will be tortured there.
+
+Government divided
+
+The SPD and CDU appear to be on a collision course over accepting Guantanamo 
+inmates
+
+US President Barack Obama fulfilled one of his campaign promises in the first 
+days of his presidency by ordering the closure of the controversial detention 
+center on the Cuban coast. Now he must decide what to do with the 241 remaining 
+prisoners. US Attorney General Eric Holder said in Berlin last week that 
+Washington would soon like to release 30 prisoners.
+
+While other European nations, including France and Portugal, have indicated 
+they are willing to accept Guantanamo prisoners, Germany's fractious left-right 
+government is at odds over the issue.
+
+Foreign Minister Frank-Walter Steinmeier, a Social Democrat running for 
+chancellor this year, said in an open letter to Obama in January that Germany 
+would be willing to take in detainees if it helped him close Guantanamo.
+
+But the conservative Interior Minister Wolfgang Schaeuble said Obama could not 
+expect Germany to accept freed inmates.
+
+According to Bild, Schaeuble wants first to exhaust all possibilities of their 
+being resettled within the United States.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

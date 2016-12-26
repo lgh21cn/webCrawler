@@ -1,0 +1,24 @@
+Manfred/PERSON Nowak/PERSON ,/O UN/ORGANIZATION Rapporteur/O on/O Torture/O who/O led/O the/O inquiry/O ,/O accuses/O Chinese/O authorities/O of/O obstructing/O his/O work/O ./O 
+Victims/O and/O witnesses/O were/O threatened/O in/O an/O atmosphere/O of/O palpable/O fear/O with/O constant/O surveillance/O during/O the/O hearings/O ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> /O Agencies/O -RRB-/O --/O The/O use/O of/O torture/O is/O widespread/O in/O China/LOCATION and/O many/O trials/O are/O not/O fair/O ,/O top/O UN/ORGANIZATION Special/O Rapporteur/O on/O Torture/O Manfred/PERSON Nowak/PERSON said/O on/O Friday/O after/O a/O 12-day/O inquiry/O into/O the/O country/O 's/O judicial/O and/O penal/O system/O ./O 
+Despite/O a/O certain/O decline/O ,/O ``/O torture/O remains/O widespread/O in/O the/O country/O ,/O ''/O he/O told/O a/O news/O conference/O ./O 
+``/O There/O is/O much/O that/O still/O needs/O to/O be/O done/O ,/O there/O is/O a/O need/O for/O many/O more/O structural/O reforms/O ,/O ''/O he/O added/O ./O 
+``/O Criminal/O procedures/O need/O to/O come/O into/O line/O with/O international/O standards/O of/O fair/O trial/O ''/O ./O 
+Torture/O methods/O include/O use/O of/O electric/O shock/O batons/O ,/O cigarette/O burns/O ,/O submersion/O in/O pits/O of/O water/O or/O sewage/O and/O exposure/O to/O conditions/O of/O extreme/O heat/O or/O cold/O ./O 
+Nowak/PERSON 's/O visit/O also/O included/O stops/O in/O Tibet/LOCATION and/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O regions/O notorious/O for/O police/O violence/O against/O residents/O accused/O of/O separatism/O ./O 
+His/O visit/O was/O the/O first/O one/O granted/O to/O the/O UN/ORGANIZATION in/O a/O decade/O ./O 
+He/O complained/O that/O his/O team/O was/O under/O frequent/O surveillance/O ,/O especially/O when/O meeting/O victims/O and/O their/O relatives/O ./O 
+And/O government/O officials/O and/O security/O authorities/O tried/O to/O obstruct/O or/O restrict/O his/O fact-finding/O attempts/O ./O 
+Nowak/PERSON said/O he/O also/O received/O reports/O that/O victims/O '/O family/O members/O were/O prevented/O from/O meeting/O him/O as/O they/O were/O either/O put/O under/O house/O arrest/O ,/O stopped/O physically/O from/O seeing/O him/O ,/O or/O simply/O intimidated/O ./O 
+There/O was/O ``/O a/O palpable/O level/O of/O fear/O and/O self-censorship/O ,/O ''/O he/O said/O ./O 
+He/O and/O his/O team/O were/O not/O allowed/O to/O bring/O photographic/O and/O electronic/O equipment/O into/O the/O prisons/O ./O 
+And/O all/O inspections/O were/O announced/O in/O advance/O ./O 
+China/LOCATION has/O the/O largest/O prison/O population/O and/O is/O responsible/O for/O more/O than/O 90/O per/O cent/O of/O all/O executions/O in/O the/O world/O ./O 
+In/O early/O 2005/O the/O National/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION imposed/O mandatory/O punishment/O for/O police/O officers/O who/O torture/O prisoners/O during/O interrogation/O ./O 
+Still/O ,/O China/LOCATION 's/O judicial/O authorities/O are/O often/O charged/O with/O extorting/O confessions/O from/O prisoners/O ./O 
+In/O April/O ,/O a/O man/O who/O spent/O 11/O years/O in/O jail/O for/O allegedly/O murdering/O his/O wife/O was/O freed/O after/O the/O woman/O turned/O up/O alive/O ./O 
+The/O man/O ,/O <PERSON>She/O</PERSON> Xianglin/PERSON ,/O said/O he/O had/O confessed/O the/O crime/O under/O torture/O ./O 
+In/O June/O a/O woman/O showed/O up/O after/O her/O alleged/O murderer/O ,/O Teng/PERSON Xingshan/PERSON ,/O was/O executed/O despite/O his/O pleas/O of/O innocence/O ./O 
+The/O man/O 's/O sentence/O read/O that/O ``/O Teng/PERSON confessed/O to/O the/O crime/O of/O his/O own/O initiative/O ''/O ./O 
+Although/O China/LOCATION is/O a/O signatory/O to/O the/O 1998/O International/O Convention/O on/O Civil/O and/O Political/O Rights/O ,/O a/O key/O treaty/O on/O human/O rights/O protection/O ,/O it/O has/O not/O yet/O ratified/O it/O ./O 
+-LRB-/O PB/O -RRB-/O

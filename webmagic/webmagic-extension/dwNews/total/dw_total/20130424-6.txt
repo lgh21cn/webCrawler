@@ -1,0 +1,54 @@
+<ID>20130424-6
+<DATE>20130424<\DATE>
+<URL>
+http://www.dw.com/en/fatal-clash-in-chinas-xinjiang-region/a-16766547
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Fatal clash in China's Xinjiang region
+<\TITLE>
+<ABSTRACT>
+Sketchy reports from China's western region of Xinjiang say 21 people were killed when police searched the homes of the region's Uyghur ethnic minority.
+<\ABSTRACT>
+<CONTENT>
+
+ Chinese authorities say 21 people were killed as Chinese police raided a 
+suspected terrorist hideout in China's far-western region of Xinjiang.
+
+ A regional government-run website Tianshan Net said gun fights broke out on 
+Tuesday afternoon while police were searching for weapons in Bachu district.
+
+ Those killed included six Uyghur suspects, the website said. It described the 
+others killed as police officers and government "social workers."
+
+ Mainly Muslim Uyghurs make up about 40 percent of the 21 million people in 
+the vast, ethnically divided region of Xinjiang.
+
+ Exiles and human rights groups have long accused China's government of 
+favoring Chinese Han migrants and using tensions to stage crackdowns on Uyghurs.
+
+Captives killed
+
+ The news release said Tuesday's violence began when three local officials 
+reported a group of suspicious men armed with knives hiding inside a home in 
+the township of Selibuya, near China's westernmost city of Kashgar.
+
+ It said the officials were then taken captive by the suspects and later 
+killed when security units arrived on the scene. Police also detained eight 
+other suspects. Investigations had shown that they were part of a group 
+planning "terrorist" activities, the release said.
+
+ Rioting in July 2009 between Uyghurs and Han left nearly 200 people dead in 
+Xinjiang's capital, Urumqi. Sporadic incidents since then were quickly 
+suppressed by local paramilitary units.
+
+ ipj/ccp (dpa, AFP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

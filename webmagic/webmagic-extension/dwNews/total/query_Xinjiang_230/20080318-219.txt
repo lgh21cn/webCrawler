@@ -1,0 +1,87 @@
+<ID>20080318-219
+<DATE>20080318<\DATE>
+<URL>
+http://www.dw.com/en/indian-media-on-tibetan-protests/a-5212397
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+Indian Media on Tibetan Protests
+<\TITLE>
+<ABSTRACT>
+Tibetans’ protests against Chinese rule have been reported widely in the Indian media. Editorials call for restraint by the Chinese authorities and criticize the New Delhi government for not speaking up for the Tibetans. They also cover the activities of the exile community in India in detail.
+<\ABSTRACT>
+<CONTENT>
+
+The “Mail Today” advises Beijing to allow more cultural autonomy in Tibet:
+
+It is one thing to construct great wonders like the Lhasa railway, but quite 
+another to meet the aspirations of the Tibetans. A great deal of Chinese policy 
+is motivated by a morbid fear of China breaking up. Yet, almost every country 
+in the world recognizes that Tibet is a part of China. What the Tibetans, or 
+for that matter Uighurs of Xinjiang want is essentially to preserve their 
+culture. A celebration of diversity will add to the glory of a great country 
+like China, rather than detract from it.
+
+In India, home to the exiled Tibetan spiritual leader, the Dalai Lama, there 
+is a lot of sympathy for the Tibetan cause- and for the Tibetans’ way of 
+protest. “The Asian Age” observes:
+
+It is also noteworthy that unlike agitations by disaffected populations in 
+other lands, where the gun quickly comes into play, the Tibetans’ strategy is 
+largely Gandhian. This is true of the protests inside Tibet and China, as well 
+as those by their compatriots living in exile in this country who began a march 
+from Dharamsala, seat of the government-in-exile, to the Tibetan border. Some 
+of them carried portraits not only of the Dalai Lama but also that of Mahatma 
+Gandhi, as a mark of tribute to the land which has given them as well as their 
+spiritual head refuge for the last 50 years.
+
+The Indian government is caught in a bit of a bind: New Delhi recognises that 
+Tibet is a part of China, and has indeed given undertakings to Beijing that 
+political activity directed against the People’s Republic would not be 
+permitted from Indian soil. But at the same time this is a democracy, the 
+world’s biggest as we so proudly proclaim, and the Indian people will find it 
+hard to stomach any kind of brutal crackdown on peaceful demonstrators in Lhasa.
+
+The “Times of India” is not satisfied with the government’s handling of this 
+dilemma. It accuses New Delhi of “kowtowing” to Beijing by cracking down 
+harshly on peaceful protests and arresting Tibetan demonstrators:
+
+The ministry of external affairs has intoned that no “anti-China” activity 
+will be permitted from Indian soil. It's an authoritarian trait to describe any 
+protest as anti-national. India is a democracy. That principle isn't worth 
+suspending just because Beijing is offended. Neither has it paid much dividend. 
+Beijing's response to India's wholehearted backing of Chinese claims on Tibet 
+and Taiwan has so far been meagre: recognition perhaps of India's claims on 
+Sikkim, but not a settling of the boundary question in its entirety. China 
+still continues to claim Arunachal Pradesh.
+
+It won't hurt if New Delhi were to say to Beijing that while it fully 
+recognises Chinese claims over Tibet, it won't jail people who think otherwise.
+
+The “Hindustan Times”, too, thinks the Indian government should be more 
+outspoken:
+
+At the very least, India can be more supportive of the Dalai Lama’s call for 
+Tibetan autonomy within China’s borders.
+
+The Dalai Lama’s government-in-exile has always been featured prominently by 
+Indian media. But this time around, it’s also the more radical groups within 
+the Tibetans in India that get their bit of attention. “The Telegraph” reports:
+
+The Dalai Lama’s restrained criticism of the Chinese crackdown in Lhasa has 
+annoyed the Tibetan youth in India who now say his “middle way” has become 
+irrelevant.
+
+The Buddhist spiritual leader said the Beijing Olympics should not be called 
+off. Radical youth groups that want the Games scrapped right away reacted with 
+disappointment. The Tibetan Women’s Association too said the middle way, which 
+it backed till recently, had “failed so far”.
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

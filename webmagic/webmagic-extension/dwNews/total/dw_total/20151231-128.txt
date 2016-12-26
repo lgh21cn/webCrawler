@@ -1,0 +1,84 @@
+<ID>20151231-128
+<DATE>20151231<\DATE>
+<URL>
+http://www.dw.com/en/french-journalist-ursula-gauthier-prepares-to-be-effectively-expelled-from-china/a-18952536
+<\URL>
+<CATEGORY>T<\CATEGORY>
+<SENTIMENT>P<\SENTIMENT>
+<TITLE>
+French journalist Ursula Gauthier prepares to be effectively expelled from China
+<\TITLE>
+<ABSTRACT>
+French journalist Ursula Gauthier is preparing to leave China after being effectively expelled by authorities. She was condemned for her article on China's "anti-terror" operations against Xinjiang's Uighur Muslims.
+<\ABSTRACT>
+<CONTENT>
+
+ Gauthier, who is based in Beijing and works for the news magazine "L'Obs," is 
+due to leave the Chinese capital on a 1 a.m. flight on Friday (Thursday, 1500 
+UTC).
+
+ Speaking ahead of her departure, she told the AFP news agency that she has 
+been left with "a very strong feeling of surreality" on her last night in 
+Beijing.
+
+ Chinese authorities refused to renew Gauthier's press card 
+
+ earlier this month, leaving the journalist unable to apply for a visa. The 
+move came in the aftermath of her essay, "After the attacks [in Paris], Chinese 
+solidarity is not without ulterior motives," published on November 8.
+
+ Her report questioned China's motives in expressing sympathy for the victims 
+of the Paris attacks, criticizing that they were calulated to link Beijing's 
+harsh policies in Xinjiang - where most of China's ethnic Uighur Muslim 
+minority lives - with the fight against global terrorism.
+
+ Chinese officials said the report justified violence against the government. 
+"The article criticized China's counterterrorism efforts and denigrated and 
+slandered Chinese policies. It provoked the strong indignation of the Chinese 
+public," the foreign ministry said earlier this month.
+
+Death threats
+
+ Gauthier's essay also triggered abusive comments from social media users in 
+China and was condemned by the state-run "Global Times" and "China Daily."
+
+ "They wanted me to apologize publicly for my wrongs," Gauthier said, "But my 
+wrongs were all invented by the Global Times."
+
+ After receiving death threats, Gauthier said she didn't contact authorities 
+as she "did not expect the police to take the case seriously."
+
+ During a press conference on Wednesday, however, Foreign Ministry 
+Spokesperson Lu Kang rejected Gauthier's claims.
+
+ "Ursula Gauthier should go to the police if she really believes she is 
+threatened," Lu said. "Instead she is flaunting it in front of the press which 
+is rather unusual, unless she is doing it for other purposes."
+
+French media uproar
+
+ Back home in France, Gauthier's expulsion has sparked outrage among the 
+French media, who have condemned the "abusive treatment" of the journalist.
+
+ French daily "Le Monde" also criticized French authorities, describing their 
+"lacking determination" in Gauthier's case as "irresponsible."
+
+ Press organization Reporters Without Borders also denounced the incident, 
+calling it "media lynching" and a "campaign of defamation and intimidation" 
+against Gauthier. According to the organization's press freedom index, China 
+sits in position 176 out of 180 countries.
+
+ The last time China refused to renew a foreign reporter's press credentials 
+was in 2012 when Melissa Chan, a reporter for Al Jazeera, was accussed of 
+violating Chinese regulations. At the time, Chan's expulsion was the first such 
+case in 13 years.
+
+ ksb/msh (Reuters, AFP, AP)
+
+<\CONTENT>
+<POS>
+
+<\POS>
+<NER>
+
+<\NER>

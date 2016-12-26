@@ -1,0 +1,48 @@
+Xi/PERSON Jinping/PERSON ,/O the/O expected/O next/O leader/O of/O China/LOCATION ,/O is/O making/O a/O key/O visit/O to/O Turkey/LOCATION ./O 
+While/O the/O emerging/O global/O powers/O aim/O at/O developing/O strategic/O ties/O ,/O the/O crisis/O in/O Syria/LOCATION has/O offered/O a/O test/O case/O for/O their/O cooperation/O ./O 
+Turkey/LOCATION and/O China/LOCATION are/O seeking/O to/O expand/O their/O political/O and/O economic/O ties/O during/O a/O visit/O by/O Chinese/O Vice/O President/O Xi/PERSON Jinping/PERSON to/O Turkey/LOCATION 's/O capital/O ,/O Ankara/LOCATION ,/O from/O Monday/O to/O Wednesday/O ./O 
+``/O Not/O only/O Turkey/LOCATION ,/O but/O the/O whole/O world/O is/O trying/O to/O understand/O the/O ideas/O and/O vision/O of/O Xi/PERSON Jinping/PERSON ,/O wondering/O whether/O he/O will/O adopt/O more/O moderate/O or/O tougher/O policies/O ,/O ''/O Baris/PERSON Adibelli/PERSON ,/O an/O associate/O professor/O at/O Dumlupinar/ORGANIZATION University/ORGANIZATION ,/O told/O DW/O ./O 
+``/O This/O visit/O offers/O an/O important/O opportunity/O for/O Ankara/LOCATION ,/O ''/O Adibelli/PERSON added/O ./O 
+``/O Our/O impression/O is/O that/O China/LOCATION is/O seeking/O a/O new/O period/O of/O cooperation/O with/O Turkey/LOCATION ,/O centered/O on/O the/O Middle/LOCATION East/LOCATION ./O ''/O 
+With/O its/O booming/O economy/O and/O growing/O political/O influence/O in/O the/O Middle/LOCATION East/LOCATION ,/O Turkey/LOCATION has/O emerged/O as/O a/O regional/O power/O and/O China/LOCATION 's/O growing/O interest/O in/O the/O region/O is/O drawing/O Beijing/LOCATION and/O Ankara/LOCATION closer/O ./O 
+Syria/LOCATION a/O `/O test/O case/O '/O The/O two/O countries/O established/O strategic/O relations/O in/O 2010/O ./O 
+Since/O then/O ,/O they/O have/O held/O close/O dialogue/O on/O bilateral/O and/O international/O issues/O ./O 
+However/O ,/O Turkey/LOCATION and/O China/LOCATION are/O yet/O to/O settle/O their/O differences/O on/O issues/O like/O the/O situation/O in/O Syria/LOCATION ./O 
+China/LOCATION 's/O stance/O on/O Syria/LOCATION is/O a/O bone/O of/O contention/O Early/O this/O month/O ,/O Turkish/O Foreign/O Minister/O Ahmet/PERSON Davutoglu/PERSON criticized/O China/LOCATION and/O Russia/LOCATION for/O vetoing/O a/O UN/ORGANIZATION resolution/O aimed/O at/O stopping/O the/O violence/O in/O Syria/LOCATION ./O 
+``/O Russia/LOCATION and/O China/LOCATION did/O not/O vote/O based/O on/O the/O existing/O realities/O ,/O but/O more/O because/O of/O a/O reflexive/O attitude/O against/O the/O West/O ,/O ''/O Davutoglu/PERSON said/O during/O a/O panel/O discussion/O at/O the/O Munich/O Security/O Conference/O shortly/O after/O the/O UN/ORGANIZATION Security/ORGANIZATION Council/ORGANIZATION vote/O ./O 
+Davutoglu/PERSON called/O for/O an/O international/O show/O of/O solidarity/O with/O Syrians/O and/O for/O pressure/O on/O the/O Syrian/O regime/O to/O stop/O massacring/O its/O own/O people/O ./O 
+According/O to/O Adibelli/PERSON ,/O what/O Xi/PERSON says/O about/O Syria/LOCATION during/O his/O Turkey/LOCATION visit/O will/O be/O a/O test/O case/O for/O future/O cooperation/O between/O Ankara/LOCATION and/O Beijing/LOCATION ./O 
+``/O China/LOCATION 's/O opposition/O to/O Syrian/O intervention/O is/O mainly/O based/O on/O its/O traditional/O foreign/O policy/O principles/O ,/O as/O well/O as/O universal/O principles/O like/O not/O interfering/O in/O the/O internal/O affairs/O of/O another/O country/O ,/O ''/O Adibelli/PERSON said/O ./O 
+``/O On/O the/O other/O hand/O ,/O China/LOCATION has/O domestic/O concerns/O ./O 
+It/O is/O afraid/O of/O a/O reaction/O to/O the/O Arab/O Spring/O ./O 
+It/O is/O afraid/O of/O possible/O internal/O problems/O with/O its/O own/O opponents/O ./O ''/O 
+Turkish/O support/O for/O Uighurs/O One/O of/O China/LOCATION 's/O biggest/O concerns/O is/O unrest/O in/O Uighur-dominated/O Xinjiang/LOCATION province/O ./O 
+With/O Turkey/LOCATION 's/O historical/O ties/O to/O the/O Uighurs/O ,/O a/O predominantly/O Muslim/ORGANIZATION minority/O in/O China/LOCATION ,/O Chinese/O policy/O toward/O the/O group/O weighs/O on/O Turkish-Chinese/O ties/O ./O 
+China/LOCATION has/O long/O viewed/O Turkey/LOCATION 's/O policies/O toward/O the/O Uighurs/O with/O suspicion/O ./O 
+Turks/O protested/O China/LOCATION 's/O treatment/O of/O Uighurs/O in/O 2009/O In/O 2009/O ,/O Turkish/O officials/O strongly/O criticized/O China/LOCATION 's/O crackdown/O on/O riots/O in/O Xinjiang/LOCATION province/O ./O 
+Turkey/LOCATION 's/O Prime/O Minister/O Recep/PERSON Tayyip/PERSON Erdogan/PERSON compared/O the/O crackdown/O to/O genocide/O ./O 
+The/O incident/O dealt/O Turkish-Chinese/O relations/O a/O serious/O blow/O ,/O but/O economic/O and/O political/O interests/O soon/O prevailed/O ./O 
+Relations/O have/O improved/O since/O Davutoglu/PERSON visited/O China/LOCATION in/O 2010/O ./O 
+The/O historical/O visit/O of/O Chinese/O Premier/O Wen/PERSON Jiabao/PERSON to/O Turkey/LOCATION in/O 2010/O and/O the/O signing/O of/O eight/O agreements/O also/O strengthened/O the/O countries/O '/O ties/O ./O 
+`/O Turkey/LOCATION can/O address/O China/LOCATION 's/O concerns/O '/O Adibelli/PERSON said/O Xi/O 's/O visit/O to/O Ankara/LOCATION marks/O a/O good/O opportunity/O for/O both/O sides/O to/O establish/O mutual/O trust/O ./O 
+``/O If/O Turkey/LOCATION can/O assure/O China/LOCATION on/O Syria/LOCATION and/O give/O strong/O assurances/O about/O Beijing/LOCATION 's/O national/O security/O concerns/O ,/O then/O we/O may/O be/O able/O to/O expect/O a/O policy/O change/O ,/O ''/O he/O said/O ./O 
+``/O Developing/O a/O new/O mechanism/O for/O dialogue/O or/O cooperation/O between/O the/O two/O countries/O will/O help/O bring/O solutions/O to/O regional/O crises/O like/O the/O one/O in/O Syria/LOCATION ,/O and/O will/O also/O help/O overcome/O some/O decades-long/O political/O problems/O between/O Turkey/LOCATION and/O China/LOCATION ,/O ''/O Adibelli/PERSON added/O ./O 
+Turkish/O diplomats/O are/O optimistic/O about/O Xi/O 's/O visit/O and/O expect/O that/O it/O will/O further/O boost/O economic/O ties/O ./O 
+Xi/O is/O scheduled/O to/O attend/O a/O business/O forum/O with/O about/O 50/O Turkish/O and/O Chinese/O companies/O on/O Wednesday/O ./O 
+Crucial/O trade/O partners/O Trade/O between/O Turkey/LOCATION and/O China/LOCATION came/O to/O about/O $/O 24/O billion/O -LRB-/O 18/O billion/O euros/O -RRB-/O in/O 2011/O ./O 
+China/LOCATION is/O Turkey/LOCATION 's/O third-biggest/O trading/O partner/O after/O Russia/LOCATION and/O Germany/LOCATION ./O 
+DW/O recommends/O Interview/O :/O Xi/PERSON Jinping/PERSON 's/O trip/O to/O the/O US/LOCATION comes/O at/O an/O important/O time/O After/O his/O visit/O to/O the/O White/ORGANIZATION House/ORGANIZATION ,/O China/LOCATION 's/O next/O leader/O Xi/PERSON Jinping/PERSON continues/O his/O trip/O in/O the/O US/LOCATION ./O 
+Alexander/PERSON Lennon/PERSON provides/O insight/O into/O the/O political/O thinking/O of/O the/O American/O elite/O towards/O China/LOCATION ./O 
+-LRB-/O 16.02.2012/O -RRB-/O Last/O year/O ,/O Turkish/O exports/O from/O China/LOCATION increased/O by/O 26.3/O percent/O over/O 2010/O to/O $/O 21.69/O billion/O ./O 
+However/O ,/O Turkish/O imports/O to/O China/LOCATION remain/O weak/O ,/O going/O up/O just/O 8.7/O percent/O during/O the/O same/O period/O to/O $/O 2.47/O billion/O ./O 
+Turkey/LOCATION 's/O growing/O trade/O deficit/O with/O China/LOCATION is/O a/O major/O issue/O in/O their/O relations/O ./O 
+Ankara/LOCATION wants/O Chinese/O officials/O to/O ease/O import/O ,/O trade/O and/O investment/O conditions/O for/O Turkish/O businesses/O ./O 
+Ankara/LOCATION is/O also/O seeking/O Chinese/O support/O for/O a/O dramatic/O increase/O in/O Chinese/O tourism/O to/O Turkey/LOCATION ./O 
+Turkey/LOCATION also/O wants/O to/O develop/O its/O national/O defense/O industry/O and/O diversify/O its/O defense/O purchases/O ./O 
+Trade/O in/O technology/O is/O one/O priority/O ./O 
+Turkey/LOCATION has/O several/O joint/O projects/O with/O China/LOCATION ,/O including/O in/O air/O defense/O ./O 
+Turkish/O officials/O insist/O these/O projects/O do/O not/O undermine/O Turkey/LOCATION 's/O commitment/O to/O NATO/ORGANIZATION ./O 
+The/O year/O of/O China/LOCATION in/O Turkey/LOCATION Turkey/LOCATION and/O China/LOCATION celebrated/O 40/O years/O of/O diplomatic/O relations/O in/O 2010/O ./O 
+This/O year/O is/O Chinese/O Culture/O Year/O in/O Turkey/LOCATION ,/O and/O 2013/O will/O be/O Turkish/O Culture/O Year/O in/O China/LOCATION ./O 
+Officials/O from/O Ankara/LOCATION and/O Beijing/LOCATION expect/O the/O events/O to/O broaden/O prospects/O for/O cultural/O exchange/O between/O the/O two/O countries/O ./O 
+Author/O :/O Ayhan/PERSON Simsek/PERSON Editor/O :/O Nicole/PERSON Goebel/PERSON 

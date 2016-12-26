@@ -1,0 +1,29 @@
+China/LOCATION 's/O cities/O are/O full/O of/O energy/O --/O in/O every/O sense/O of/O the/O term/O ./O 
+But/O this/O is/O not/O true/O of/O the/O country/O 's/O rural/O areas/O ./O 
+Hundreds/O of/O villages/O have/O never/O had/O access/O to/O electricity/O ./O 
+But/O things/O are/O changing/O in/O more/O than/O 140/O villages/O at/O least/O ./O 
+Photovoltaic/O solar/O panels/O have/O been/O installed/O to/O directly/O convert/O sunlight/O into/O electricity/O ./O 
+The/O Chinese/ORGANIZATION Finance/ORGANIZATION Ministry/ORGANIZATION ,/O a/O German/O banking/O group/O and/O the/O local/O authorities/O are/O financing/O the/O scheme/O ./O 
+Germany/LOCATION 's/O biggest/O solar/O energy/O company/O ,/O Solarworld/ORGANIZATION ,/O is/O carrying/O out/O the/O work/O ./O 
+It/O is/O very/O difficult/O and/O expensive/O to/O provide/O electricity/O to/O many/O of/O China/LOCATION 's/O more/O remote/O villages/O ,/O especially/O those/O located/O in/O the/O border/O regions/O with/O Mongolia/LOCATION ,/O Kazakhstan/LOCATION and/O Myanmar/LOCATION ./O 
+The/O photovoltaic/O project/O coordinator/O Ulrich/PERSON Warna/PERSON explains/O :/O ``/O Much/O of/O the/O land/O in/O the/O provinces/O of/O Yunnan/LOCATION ,/O Xinjiang/LOCATION and/O Qinghai/LOCATION is/O very/O sparsely/O populated/O ./O 
+Some/O places/O are/O 50/O kilometres/O away/O from/O the/O next/O road/O ./O 
+And/O some/O hamlets/O only/O have/O a/O dozen/O houses/O ./O 
+A/O connection/O to/O the/O grid/O is/O extremely/O expensive/O ./O 
+The/O Chinese/O government/O has/O developed/O the/O electricity/O grid/O in/O these/O provinces/O over/O the/O past/O few/O years/O but/O the/O very/O remote/O villages/O will/O only/O get/O access/O in/O some/O years/O '/O time/O if/O at/O all/O ./O ''/O 
+This/O is/O why/O Warna/PERSON and/O his/O colleagues/O have/O chosen/O to/O set/O up/O photovoltaic/O facilities/O in/O these/O very/O remote/O villages/O ./O 
+Advantages/O of/O photovoltaic/O panels/O And/O although/O photovoltaic/O panels/O are/O expensive/O the/O government/O wants/O to/O support/O the/O project/O and/O invest/O in/O them/O as/O part/O of/O its/O drive/O to/O protect/O the/O environment/O ./O 
+Solar/O power/O is/O pollution-free/O during/O use/O and/O waste/O is/O low/O ./O 
+Once/O facilities/O have/O been/O set/O up/O they/O can/O operate/O with/O little/O maintenance/O ./O 
+Solar/O electric/O generation/O is/O cheaper/O than/O grid/O connection/O ./O 
+Moreover/O ,/O the/O panels/O ,/O which/O are/O made/O mainly/O of/O glass/O and/O silicon/O ,/O are/O recyclable/O ./O 
+Furthermore/O there/O are/O rarely/O power/O cuts/O when/O electricity/O is/O solar-powered/O ./O 
+``/O Instead/O of/O using/O harmful/O oil/O lamps/O ,/O energy-saving/O lamps/O can/O be/O used/O thanks/O to/O the/O electricity/O ,/O ''/O says/O Warna/PERSON ./O 
+``/O The/O light/O quality/O is/O much/O better/O ./O 
+Clinics/O and/O hospitals/O ,/O schools/O and/O small/O businesses/O can/O also/O have/O better/O lighting/O ./O 
+Mobile/O telephones/O and/O televisions/O can/O be/O used/O ./O 
+In/O emergencies/O ,/O telephones/O or/O the/O Internet/O can/O be/O used/O to/O contact/O doctors/O or/O order/O medicine/O from/O the/O next/O city/O ./O ''/O 
+Replication/O of/O the/O project/O For/O places/O which/O do/O not/O have/O landlines/O ,/O it/O is/O a/O significant/O development/O to/O be/O able/O to/O communicate/O by/O mobile/O phone/O ./O 
+If/O the/O project/O is/O a/O success/O ,/O all/O the/O actors/O involved/O hope/O that/O they/O will/O be/O able/O to/O expand/O it/O to/O other/O remote/O parts/O of/O China/LOCATION ./O 
+In/O future/O ,/O photovoltaic/O panels/O might/O be/O seen/O all/O over/O the/O country/O ./O 
+Environmentalists/O would/O be/O happy/O point/O out/O observers/O ,/O as/O would/O the/O local/O authorities/O because/O it/O goes/O without/O saying/O that/O the/O building/O of/O photovoltaic/O facilities/O also/O generates/O jobs/O ./O 
