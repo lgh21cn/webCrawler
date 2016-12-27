@@ -1,14 +1,14 @@
-Blasts/O in/O China/LOCATION 's/O restive/O Xinjiang/LOCATION region/O have/O claimed/O many/O lives/O ,/O according/O to/O Chinese/O state/O media/O ./O 
-The/O attack/O was/O carried/O out/O in/O Xinjiang/LOCATION 's/O capital/O city/O ,/O Urumqi/LOCATION ./O 
-Flames/O and/O heavy/O smoke/O consumed/O the/O market/O place/O of/O Urumqi/LOCATION ,/O the/O capital/O of/O China/LOCATION 's/O restive/O Xinjiang/LOCATION region/O on/O Thursday/O following/O an/O attack/O ./O 
+Blasts/O in/O China/LOCATION 's/O restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O have/O claimed/O many/O lives/O ,/O according/O to/O Chinese/O state/O media/O ./O 
+The/O attack/O was/O carried/O out/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 's/O capital/O city/O ,/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+Flames/O and/O heavy/O smoke/O consumed/O the/O market/O place/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O the/O capital/O of/O China/LOCATION 's/O restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O on/O Thursday/O following/O an/O attack/O ./O 
 China/LOCATION 's/O state-run/O Xinhua/ORGANIZATION news/O agency/O said/O that/O more/O than/O 31/O people/O had/O been/O killed/O and/O 90/O injured/O ./O 
 Around/O 7:50/O a.m./O -LRB-/O 2350/O UTC/O -RRB-/O on/O Thursday/O ,/O unidentified/O assailants/O rammed/O two/O vehicles/O into/O the/O city/O 's/O market/O place/O ./O 
 They/O then/O threw/O explosive/O devices/O from/O the/O windows/O ,/O according/O to/O Xinhua/ORGANIZATION news/O agency/O ./O 
 China/LOCATION 's/O Ministry/ORGANIZATION of/ORGANIZATION Public/ORGANIZATION Security/ORGANIZATION has/O described/O the/O attack/O as/O a/O ``/O serious/O violent/O terorist/O incident/O ./O ''/O 
-Violence/O has/O plagued/O Xinjiang/LOCATION province/O ,/O home/O to/O an/O ethnically/O diverse/O population/O comprised/O primarily/O ofMuslim/O Uighurs/O ./O 
+Violence/O has/O plagued/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O ,/O home/O to/O an/O ethnically/O diverse/O population/O comprised/O primarily/O of/O Muslim/O Uighurs/O ./O 
 Beijing/LOCATION has/O blamed/O the/O unrest/O on/O terrorists/O backed/O by/O foreigners/O ,/O however/O rights/O groups/O cite/O cultural/O repression/O as/O the/O cause/O of/O the/O ethnic/O clashes/O in/O recent/O years/O ./O 
-Earlier/O this/O month/O ,/O Urumqi/LOCATION 's/O southern/O train/O station/O -LRB-/O pictured/O above/O -RRB-/O was/O the/O scene/O of/O a/O bombing/O and/O knife/O attack/O on/O passengers/O ./O 
+Earlier/O this/O month/O ,/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> 's/O southern/O train/O station/O -LRB-/O pictured/O above/O -RRB-/O was/O the/O scene/O of/O a/O bombing/O and/O knife/O attack/O on/O passengers/O ./O 
 At/O least/O three/O people/O were/O killed/O and/O dozens/O more/O injured/O ./O 
 The/O incident/O coincided/O with/O final/O day/O of/O Chinese/O President/O Xi/PERSON Jinping/PERSON 's/O visit/O to/O the/O region/O ./O 
 He/O has/O called/O for/O more/O support/O for/O local/O police/O and/O a/O greater/O security/O for/O the/O people/O of/O the/O region/O ./O 
-kms/O ,/O rc/jm/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O 
+kms/O ,/O rc/jm/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O

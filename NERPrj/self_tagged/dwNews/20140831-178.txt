@@ -1,8 +1,8 @@
-On/O the/O sidelines/O of/O his/O visit/O to/O Hamburg/LOCATION ,/O the/O Dalai/PERSON Lama/PERSON talked/O exclusively/O to/O DW/O about/O his/O optimism/O for/O Tibet/LOCATION ,/O the/O situation/O in/O Iraq/LOCATION and/O Syria/LOCATION ,/O and/O the/O growing/O number/O of/O Tibetan/O Buddhists/O in/O China/LOCATION ./O 
-DW/O :/O Your/O Holiness/O ,/O China/LOCATION is/O becoming/O more/O powerful/O ,/O both/O economically/O and/O politically/O ./O 
+On/O the/O sidelines/O of/O his/O visit/O to/O Hamburg/LOCATION ,/O the/O Dalai/PERSON Lama/PERSON talked/O exclusively/O to/O <ORGANIZATION>DW/O</ORGANIZATION> about/O his/O optimism/O for/O Tibet/LOCATION ,/O the/O situation/O in/O Iraq/LOCATION and/O Syria/LOCATION ,/O and/O the/O growing/O number/O of/O Tibetan/O Buddhists/O in/O China/LOCATION ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> :/O Your/O Holiness/O ,/O China/LOCATION is/O becoming/O more/O powerful/O ,/O both/O economically/O and/O politically/O ./O 
 Beijing/LOCATION is/O also/O using/O its/O power/O to/O increasingly/O isolate/O you/O --/O the/O face/O of/O the/O struggle/O for/O meaningful/O Tibetan/O autonomy/O ./O 
 What/O do/O you/O think/O :/O If/O China/LOCATION had/O been/O that/O powerful/O already/O in/O 1989/O ,/O would/O you/O have/O been/O awarded/O the/O Nobel/O peace/O prize/O ?/O 
-Dalai/O Lama/O :/O I/O have/O completely/O retired/O from/O my/O political/O responsibilities/O since/O 2011/O ./O 
+<PERSON>Dalai/O Lama/O</PERSON> :/O I/O have/O completely/O retired/O from/O my/O political/O responsibilities/O since/O 2011/O ./O 
 The/O nature/O of/O your/O question/O is/O rather/O political/O ./O 
 However/O ,/O since/O you/O ask/O that/O question/O :/O Yes/O ,/O the/O People/LOCATION 's/LOCATION Republic/LOCATION of/LOCATION China/LOCATION is/O gaining/O more/O strength/O economically/O and/O militarily/O ./O 
 But/O ,/O in/O the/O meantime/O ,/O we/O can/O see/O that/O a/O number/O of/O Chinese/O very/O much/O support/O our/O basic/O rights/O because/O we/O are/O not/O seeking/O independence/O ./O 
@@ -15,21 +15,21 @@ During/O the/O last/O four/O years/O we/O noticed/O about/O 1000/O articles/O in
 They/O are/O very/O critical/O about/O their/O own/O government/O 's/O policy/O ./O 
 So/O this/O is/O not/O our/O criticism/O ./O 
 It/O is/O criticism/O within/O the/O Chinese/O community/O ./O 
-On/O top/O of/O that/O ,/O there/O is/O quite/O a/O large/O Buddhist/PERSON population/O in/O China/LOCATION ./O 
+On/O top/O of/O that/O ,/O there/O is/O quite/O a/O large/O <OTHER>Buddhist/PERSON</OTHER> population/O in/O China/LOCATION ./O 
 About/O three/O or/O four/O years/O ago/O ,/O a/O Chinese/O university/O carried/O out/O a/O survey/O about/O how/O many/O Buddhists/O there/O are/O in/O mainland/O China/LOCATION ./O 
 They/O came/O up/O with/O a/O figure/O of/O more/O than/O 300/O million/O ./O 
 Many/O of/O these/O Buddhists/O are/O educated/O people/O ./O 
-And/O nowadays/O more/O and/O more/O Chinese/O Buddhists/O really/O show/O interest/O in/O Tibetan/O Buddhism/O ./O 
-Even/O a/O number/O of/O Chinese/ORGANIZATION Communist/ORGANIZATION Party/ORGANIZATION members/O ,/O officials/O ,/O even/O high/O officials/O are/O showing/O interest/O in/O Tibetan/O Buddhism/O ./O 
-Dalai/O Lama/O :/O `/O In/O the/O long/O run/O ,/O the/O power/O of/O truth/O is/O much/O stronger/O '/O Then/O on/O the/O practical/O level/O :/O The/O Chinese/O government/O is/O very/O much/O concerned/O about/O the/O image/O of/O China/LOCATION ./O 
+And/O nowadays/O more/O and/O more/O Chinese/O Buddhists/O really/O show/O interest/O in/O <ORGANIZATION>Tibetan/O Buddhism/O</ORGANIZATION> ./O 
+Even/O a/O number/O of/O Chinese/ORGANIZATION Communist/ORGANIZATION Party/ORGANIZATION members/O ,/O officials/O ,/O even/O high/O officials/O are/O showing/O interest/O in/O <ORGANIZATION>Tibetan/O Buddhism/O</ORGANIZATION> ./O 
+<PERSON>Dalai/O Lama/O</PERSON> :/O `/O In/O the/O long/O run/O ,/O the/O power/O of/O truth/O is/O much/O stronger/O '/O Then/O on/O the/O practical/O level/O :/O The/O Chinese/O government/O is/O very/O much/O concerned/O about/O the/O image/O of/O China/LOCATION ./O 
 The/O military/O ,/O the/O economy/O alone/O can/O not/O make/O a/O constructive/O contribution/O to/O world/O affairs/O ./O 
 The/O People/LOCATION 's/LOCATION Republic/LOCATION of/LOCATION China/LOCATION needs/O moral/O authority/O ,/O more/O respect/O ,/O more/O trust/O from/O the/O outside/O world/O ./O 
 And/O the/O Chinese/O people/O themselves/O are/O very/O much/O concerned/O about/O the/O image/O of/O China/LOCATION ,/O too/O ./O 
 Many/O Chinese/O told/O me/O ,/O that/O even/O though/O their/O country/O has/O over/O 1.3/O billion/O inhabitants/O ,/O it/O is/O lacking/O moral/O authority/O or/O moral/O power/O ./O 
 But/O now/O ,/O President/O Xi/PERSON Jinping/PERSON is/O seriously/O tackling/O corruption/O ./O 
-And/O also/O recently/O during/O his/O visit/O in/O Europe/LOCATION ,/O in/O Paris/LOCATION ,/O Xi/O openly/O stated/O ,/O that/O Buddhism/O has/O a/O very/O important/O role/O for/O Chinese/O culture/O ./O 
+And/O also/O recently/O during/O his/O visit/O in/O Europe/LOCATION ,/O in/O Paris/LOCATION ,/O <PERSON>Xi/</PERSON>O openly/O stated/O ,/O that/O <ORGANIZATION>Buddhism/O</ORGANIZATION> has/O a/O very/O important/O role/O for/O Chinese/O culture/O ./O 
 So/O Buddhists/O should/O take/O more/O responsibility/O ./O 
-For/O me/O this/O is/O something/O very/O unusual/O :/O A/O communist/O leader/O publicly/O praising/O or/O making/O a/O positive/O remark/O about/O Buddhism/O ./O 
+For/O me/O this/O is/O something/O very/O unusual/O :/O A/O communist/O leader/O publicly/O praising/O or/O making/O a/O positive/O remark/O about/O <ORGANIZATION>Buddhism/O</ORGANIZATION> ./O 
 So/O things/O are/O changing/O ./O 
 But/O ,/O your/O Holiness/O ,/O do/O you/O see/O any/O improvements/O on/O the/O ground/O in/O Tibet/LOCATION ?/O 
 Our/O struggle/O is/O the/O struggle/O between/O the/O power/O of/O the/O gun/O and/O the/O power/O of/O truth/O ./O 
@@ -38,7 +38,7 @@ But/O in/O the/O long/O run/O ,/O the/O power/O of/O truth/O is/O much/O stronge
 I/O believe/O that/O ./O 
 Already/O there/O are/O some/O signs/O that/O Chinese/O leaders/O or/O intellectuals/O now/O raise/O questions/O whether/O the/O existing/O policy/O is/O really/O helpful/O in/O the/O long/O run/O to/O the/O interest/O of/O the/O People/LOCATION 's/LOCATION Republic/LOCATION of/LOCATION China/LOCATION ./O 
 So/O things/O are/O changing/O ./O 
-But/O ,/O up/O to/O now/O ,/O my/O impression/O is/O that/O the/O Chinese/O leadership/O is/O still/O thinking/O that/O the/O way/O to/O deal/O with/O ethnic/O minorities/O in/O Tibet/LOCATION or/O in/O Xinjiang/LOCATION is/O repression/O and/O investment/O ./O 
+But/O ,/O up/O to/O now/O ,/O my/O impression/O is/O that/O the/O Chinese/O leadership/O is/O still/O thinking/O that/O the/O way/O to/O deal/O with/O ethnic/O minorities/O in/O Tibet/LOCATION or/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O repression/O and/O investment/O ./O 
 That/O is/O their/O twofold/O approach/O ./O 
 Investment/O is/O good/O ./O 
 But/O at/O the/O same/O time/O they/O should/O be/O seriously/O concerned/O about/O the/O environment/O ./O 
@@ -51,9 +51,9 @@ In/O China/LOCATION there/O is/O basically/O a/O similar/O situation/O ./O
 Talking/O about/O Iraq/LOCATION ,/O this/O brings/O me/O to/O a/O question/O that/O is/O troubling/O a/O lot/O of/O people/O in/O Germany/LOCATION right/O now/O ./O 
 It/O is/O the/O question/O of/O how/O to/O deal/O with/O the/O ``/O Islamic/ORGANIZATION State/ORGANIZATION ./O ''/O 
 You/O are/O loved/O and/O respected/O the/O world/O over/O because/O your/O approach/O is/O dialogue/O and/O tolerance/O ./O 
-But/O now/O in/O Germany/LOCATION we/O are/O debating/O whether/O Germany/LOCATION should/O supply/O weapons/O to/O the/O Kurds/O in/O Northern/LOCATION Iraq/LOCATION to/O fight/O the/O ``/O Islamic/O State/O ''/O --/O which/O would/O be/O a/O breach/O with/O former/O policies/O ./O 
+But/O now/O in/O Germany/LOCATION we/O are/O debating/O whether/O Germany/LOCATION should/O supply/O weapons/O to/O the/O Kurds/O in/O Northern/LOCATION Iraq/LOCATION to/O fight/O the/O ``/O <ORGANIZATION>Islamic/O State/O</ORGANIZATION> ''/O --/O which/O would/O be/O a/O breach/O with/O former/O policies/O ./O 
 What/O do/O you/O do/O if/O dialogue/O fails/O or/O if/O the/O other/O is/O not/O ready/O for/O dialogue/O ?/O 
-I/O am/O student/O of/O Buddhist/ORGANIZATION psychology/O ./O 
+I/O am/O student/O of/O <OTHER>Buddhist/ORGANIZATION</OTHER> psychology/O ./O 
 And/O I/O am/O also/O a/O firm/O believer/O in/O the/O law/O of/O causality/O ./O 
 There/O are/O these/O unthinkable/O ,/O sad/O events/O :/O The/O killings/O of/O human/O beings/O ,/O mercilessly/O ,/O including/O children/O ,/O women/O ./O 
 I/O believe/O this/O is/O the/O result/O of/O certain/O causes/O ./O 
@@ -67,11 +67,18 @@ The/O best/O thing/O would/O be/O to/O try/O to/O talk/O ./O
 If/O that/O fails/O ,/O according/O to/O the/O reality/O ,/O according/O to/O circumstances/O .../O That/O ´/O s/O very/O difficult/O to/O judge/O ./O 
 Coming/O back/O to/O Tibet/LOCATION ,/O you/O sounded/O very/O optimistic/O about/O the/O prospects/O of/O positive/O change/O in/O Tibet/LOCATION through/O the/O Chinese/O government/O side/O ./O 
 So/O are/O you/O optimistic/O yourself/O to/O be/O able/O to/O visit/O Tibet/LOCATION ,/O see/O Lhasa/LOCATION and/O the/O Potala/LOCATION ?/O 
-DW/O recommends/O Protesters/O greet/O Dalai/PERSON Lama/PERSON in/O Germany/LOCATION visit/O At/O the/O beginning/O of/O a/O four-day/O trip/O to/O Germany/LOCATION ,/O the/O Dalai/PERSON Lama/PERSON spoke/O out/O critically/O of/O Islamic/ORGANIZATION State/ORGANIZATION -LRB-/O IS/O -RRB-/O militants/O fighting/O in/O Iraq/LOCATION and/O Syria/LOCATION ./O 
-His/O arrival/O was/O met/O by/O protests/O from/O a/O fundamentalist/O Buddhist/ORGANIZATION group/O ./O 
--LRB-/O 23.08.2014/O -RRB-/O Sangay/PERSON :/O `/O Tibetans/O seek/O genuine/O autonomy/O ,/O not/O independence/O '/O The/O leader/O of/O Tibet/LOCATION 's/O exiled/O government/O ,/O Lobsang/PERSON Sangay/PERSON ,/O spoke/O with/O DW/O about/O his/O new/O campaign/O aimed/O at/O resuming/O long-stalled/O talks/O with/O Beijing/LOCATION and/O softening/O China/LOCATION 's/O handling/O of/O his/O homeland/O ./O 
--LRB-/O 06.06.2014/O -RRB-/O Dalai/PERSON Lama/PERSON advocates/O dialogue/O in/O Kashmir/LOCATION The/O Tibetan/O spiritual/O leader/O has/O advocated/O dialogue/O as/O the/O only/O way/O to/O resolve/O any/O issue/O during/O his/O first/O trip/O to/O the/O conflict-prone/O Kashmir/LOCATION Valley/LOCATION in/O 25/O years/O ./O 
--LRB-/O 16.07.2012/O -RRB-/O Watching/O China/LOCATION for/O more/O than/O 60/O years/O ,/O I/O describe/O four/O eras/O :/O the/O Mao/PERSON Zedong/PERSON era/O ,/O the/O Deng/PERSON Xiaoping/PERSON era/O ,/O the/O Jiang/PERSON Zemin/PERSON era/O and/O the/O Hu/LOCATION Jintao/LOCATION era/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Protesters/O greet/O Dalai/PERSON Lama/PERSON in/O Germany/LOCATION visit/O 
+At/O the/O beginning/O of/O a/O four-day/O trip/O to/O Germany/LOCATION ,/O the/O Dalai/PERSON Lama/PERSON spoke/O out/O critically/O of/O Islamic/ORGANIZATION State/ORGANIZATION -LRB-/O <ORGANIZATION>IS/O</ORGANIZATION> -RRB-/O militants/O fighting/O in/O Iraq/LOCATION and/O Syria/LOCATION ./O 
+His/O arrival/O was/O met/O by/O protests/O from/O a/O fundamentalist/O <OTHER>Buddhist/ORGANIZATION</OTHER> group/O ./O 
+-LRB-/O 23.08.2014/O -RRB-/O 
+Sangay/PERSON :/O `/O Tibetans/O seek/O genuine/O autonomy/O ,/O not/O independence/O '/O 
+The/O leader/O of/O Tibet/LOCATION 's/O exiled/O government/O ,/O Lobsang/PERSON Sangay/PERSON ,/O spoke/O with/O <ORGANIZATION>DW/O</ORGANIZATION> about/O his/O new/O campaign/O aimed/O at/O resuming/O long-stalled/O talks/O with/O Beijing/LOCATION and/O softening/O China/LOCATION 's/O handling/O of/O his/O homeland/O ./O 
+-LRB-/O 06.06.2014/O -RRB-/O 
+Dalai/PERSON Lama/PERSON advocates/O dialogue/O in/O Kashmir/LOCATION 
+The/O Tibetan/O spiritual/O leader/O has/O advocated/O dialogue/O as/O the/O only/O way/O to/O resolve/O any/O issue/O during/O his/O first/O trip/O to/O the/O conflict-prone/O Kashmir/LOCATION Valley/LOCATION in/O 25/O years/O ./O 
+-LRB-/O 16.07.2012/O -RRB-/O 
+Watching/O China/LOCATION for/O more/O than/O 60/O years/O ,/O I/O describe/O four/O eras/O :/O the/O Mao/PERSON Zedong/PERSON era/O ,/O the/O Deng/PERSON Xiaoping/PERSON era/O ,/O the/O Jiang/PERSON Zemin/PERSON era/O and/O the/O Hu/LOCATION Jintao/LOCATION era/O ./O 
 Within/O these/O four/O eras/O a/O lot/O of/O changes/O happened/O ./O 
 The/O Mao/PERSON Zedong/PERSON era/O put/O very/O much/O emphasis/O on/O ideology/O ./O 
 Then/O the/O Deng/PERSON Xiaoping/PERSON era/O :/O He/O considered/O the/O economy/O ,/O the/O living/O standard/O to/O be/O more/O important/O than/O just/O the/O ideology/O ./O 
@@ -103,4 +110,4 @@ Xi/PERSON Jinping/PERSON seems/O to/O follow/O that/O same/O sort/O of/O more/O 
 So/O there/O is/O some/O hope/O ./O 
 In/O any/O way/O :/O It/O is/O better/O to/O remain/O with/O hope/O and/O in/O the/O meantime/O better/O prepare/O for/O the/O worst/O ./O 
 Thank/O you/O very/O much/O your/O Holiness/O ./O 
-The/O interview/O was/O conducted/O by/O Matthias/PERSON von/PERSON Hein/PERSON ./O 
+The/O interview/O was/O conducted/O by/O Matthias/PERSON von/PERSON Hein/PERSON ./O

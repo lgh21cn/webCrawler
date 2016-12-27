@@ -1,5 +1,5 @@
 Chinese/O journalist/O Gao/PERSON Yu/PERSON has/O been/O sentenced/O to/O seven/O years/O in/O prison/O ./O 
-This/O again/O shows/O how/O the/O authorities/O in/O Beijing/LOCATION deal/O with/O critics/O of/O the/O regime/O ,/O writes/O the/O head/O of/O DW/O 's/O Chinese/O department/O ,/O Philipp/PERSON Bilsky/PERSON ./O 
+This/O again/O shows/O how/O the/O authorities/O in/O Beijing/LOCATION deal/O with/O critics/O of/O the/O regime/O ,/O writes/O the/O head/O of/O <ORGANIZATION>DW/O</ORGANIZATION> 's/O Chinese/O department/O ,/O Philipp/PERSON Bilsky/PERSON ./O 
 Over/O the/O past/O few/O months/O it/O seemed/O like/O the/O Chinese/O government/O was/O delaying/O a/O decision/O in/O the/O ``/O Gao/PERSON Yu/PERSON case/O ./O 
 ``/O The/O verdict/O was/O postponed/O twice/O ,/O which/O is/O rather/O unusual/O for/O Chinese/O courts/O ./O 
 ``/O The/O political/O leadership/O has/O not/O decided/O yet/O ,/O ''/O one/O of/O the/O judges/O admitted/O in/O an/O informal/O conversation/O ./O 
@@ -17,16 +17,16 @@ The/O court/O confirmed/O the/O indictment/O that/O she/O had/O illegally/O pass
 The/O defense/O 's/O arguments/O were/O discarded/O ,/O according/O to/O Gao/PERSON 's/O lawyers/O ./O 
 The/O verdict/O is/O a/O clear/O signal/O to/O all/O those/O who/O are/O critical/O of/O the/O Chinese/O government/O ./O 
 For/O months/O Beijing/LOCATION repeatedly/O cracked/O down/O on/O critics/O ./O 
-A/O recent/O example/O being/O the/O arrest/O offive/O feminists/O who/O had/O wanted/O to/O protest/O against/O sexual/O harassment/O on/O public/O transport/O ./O 
+A/O recent/O example/O being/O the/O arrest/O of/O five/O feminists/O who/O had/O wanted/O to/O protest/O against/O sexual/O harassment/O on/O public/O transport/O ./O 
 The/O protesters/O were/O released/O on/O bail/O ,/O but/O their/O legal/O cases/O are/O still/O pending/O ./O 
 That/O case/O seemed/O particularly/O absurd/O because/O the/O Communist/ORGANIZATION Party/ORGANIZATION likes/O to/O portray/O itself/O as/O a/O champion/O of/O women/O 's/O rights/O ./O 
 Obviously/O only/O one/O thing/O counts/O for/O the/O Chinese/O government/O :/O Stifling/O any/O form/O of/O dissent/O ./O 
 And/O there/O are/O many/O more/O examples/O :/O The/O arrest/O of/O human/O rights/O lawyer/O Pu/PERSON Zhiqiang/PERSON ,/O for/O instance/O ./O 
 In/O May/O 2014/O ,/O he/O was/O charged/O with/O ``/O agitation/O ./O ''/O 
-Amongst/O other/O things/O ,/O Pu/PERSON Zhiqiang/PERSON had/O defended/O the/O artistAi/O Weiwei/O ./O 
-Or/O the/O verdict/O against/O the/O Uighur/O academic/O Ilham/PERSON Tohti/PERSON in/O September/O ./O 
-He/O was/O one/O of/O the/O more/O moderate/O representatives/O of/O that/O ethnic/O minority/O in/O China/LOCATION 's/O Xinjiang/LOCATION province/O ./O 
+Amongst/O other/O things/O ,/O Pu/PERSON Zhiqiang/PERSON had/O defended/O the/O artist/O <PERSON>Ai/O Weiwei/O</PERSON> ./O 
+Or/O the/O verdict/O against/O the/O Uighur/O academic/O <U_PERSON>Ilham/PERSON Tohti/PERSON</U_PERSON> in/O September/O ./O 
+He/O was/O one/O of/O the/O more/O moderate/O representatives/O of/O that/O ethnic/O minority/O in/O China/LOCATION 's/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O ./O 
 Now/O he/O is/O serving/O a/O life/O sentence/O in/O prison/O ./O 
 The/O verdict/O against/O Gao/PERSON Yu/PERSON fits/O into/O this/O pattern/O ./O 
 The/O Chinese/O government/O clearly/O wants/O to/O quickly/O suppress/O everything/O that/O could/O be/O a/O challenge/O to/O President/O Xi/PERSON Jinpin/PERSON 's/O ``/O Chinese/O Dream/O ./O ''/O 
-The/O ice/O in/O China/LOCATION has/O become/O very/O thin/O for/O those/O who/O have/O a/O critical/O point/O of/O view/O ./O 
+The/O ice/O in/O China/LOCATION has/O become/O very/O thin/O for/O those/O who/O have/O a/O critical/O point/O of/O view/O ./O
