@@ -1,11 +1,11 @@
 Chinese/O state/O media/O has/O declared/O Monday/O 's/O mystery/O car/O crash/O on/O Tiananmen/LOCATION Square/LOCATION a/O ``/O terrorist/O attack/O ,/O '/O saying/O arrests/O have/O ensued/O ./O 
 Five/O people/O ,/O including/O three/O occupants/O ,/O were/O killed/O in/O the/O incident/O ./O 
-Reports/O from/O China/LOCATION 's/O state-run/O CCTV/ORGANIZATION on/O Wednesday/O say/O that/O Chinese/O authorities/O made/O the/O arrests/O in/O Beijing/LOCATION ten/O hours/O afterMonday/O 's/O car/O crash/O ./O 
+Reports/O from/O China/LOCATION 's/O state-run/O CCTV/ORGANIZATION on/O Wednesday/O say/O that/O Chinese/O authorities/O made/O the/O arrests/O in/O Beijing/LOCATION ten/O hours/O after/O Monday/O 's/O car/O crash/O ./O 
 The/O news/O station/O 's/O report/O said/O the/O three/O people/O in/O the/O car/O ,/O who/O died/O in/O the/O attack/O ,/O and/O the/O five/O suspects/O who/O had/O been/O arrested/O belonged/O to/O the/O same/O family/O ./O 
 CCTV/ORGANIZATION also/O referred/O to/O the/O incident/O as/O a/O ``/O terrorist/O attack/O ''/O for/O the/O first/O time/O ./O 
 An/O accident/O or/O an/O attack/O ?/O 
 Initially/O ,/O it/O was/O unclear/O whether/O the/O crash/O had/O been/O an/O accident/O or/O a/O deliberate/O attack/O on/O the/O infamous/O square/O in/O China/LOCATION 's/O capital/O city/O ./O 
 The/O Chinese/O government/O 's/O official/O news/O agency/O ,/O Xinhua/ORGANIZATION ,/O quoted/O a/O police/O spokesperson/O as/O saying/O the/O crash/O was/O a/O ``/O planned/O ,/O organized/O ,/O premeditated/O ,/O violent/O terrorist/O act/O ./O ''/O 
-Chinese/O police/O announced/O on/O Tuesday/O that/O they/O were/O looking/O for/O two/O suspects/O from/O the/O restive/O ,/O predominantly/O Muslim/O province/O of/O Xinjiang/LOCATION in/O connection/O with/O the/O crash/O ./O 
+Chinese/O police/O announced/O on/O Tuesday/O that/O they/O were/O looking/O for/O two/O suspects/O from/O the/O restive/O ,/O predominantly/O Muslim/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> in/O connection/O with/O the/O crash/O ./O 
 It/O occurred/O near/O the/O main/O entrances/O to/O Beijing/LOCATION 's/O Forbidden/LOCATION City/LOCATION when/O a/O white/O sport-utility/O vehicle/O -LRB-/O SUV/O -RRB-/O ploughed/O into/O pedestrians/O at/O Tiananmen/LOCATION Square/LOCATION and/O caught/O fire/O ./O 
-mz/ipj/O -LRB-/O dpa/O ,/O AFP/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O 
+mz/ipj/O -LRB-/O dpa/O ,/O AFP/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O

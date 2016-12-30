@@ -13,12 +13,13 @@ But/O because/O the/O country/O needs/O rapid/O growth/O because/O it/O 's/O dep
 Moreover/O ,/O it/O is/O unclear/O whether/O the/O brakes/O will/O really/O be/O put/O on/O economic/O growth/O ./O 
 Although/O the/O government/O has/O said/O it/O will/O aim/O for/O annual/O growth/O of/O only/O 7/O percent/O ,/O it/O made/O the/O same/O promise/O five/O years/O ago/O and/O that/O was/O not/O kept/O ./O 
 Provinces/O are/O set/O on/O economic/O growth/O The/O provinces/O do/O not/O seem/O keen/O to/O rally/O around/O the/O center/O in/O this/O regard/O either/O ./O 
-Delegates/O from/O the/O northwest/O region/O of/O Xinjiang/LOCATION were/O full/O of/O praise/O for/O the/O prime/O minister/O at/O the/O People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION ,/O and/O yet/O at/O the/O same/O time/O they/O announced/O growth/O targets/O of/O 10/O percent/O and/O called/O for/O more/O coal/O production/O ./O 
-``/O In/O order/O to/O drive/O forward/O the/O industrialization/O of/O Xinjiang/LOCATION we/O need/O to/O generate/O electricity/O from/O coal/O ,/O we/O need/O the/O chemicals/O industry/O ,/O heavy/O industry/O --/O we/O need/O all/O of/O these/O for/O our/O economic/O development/O ,/O ''/O one/O delegate/O argued/O ./O 
+Delegates/O from/O the/O northwest/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> were/O full/O of/O praise/O for/O the/O prime/O minister/O at/O the/O People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION ,/O and/O yet/O at/O the/O same/O time/O they/O announced/O growth/O targets/O of/O 10/O percent/O and/O called/O for/O more/O coal/O production/O ./O 
+``/O In/O order/O to/O drive/O forward/O the/O industrialization/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> we/O need/O to/O generate/O electricity/O from/O coal/O ,/O we/O need/O the/O chemicals/O industry/O ,/O heavy/O industry/O --/O we/O need/O all/O of/O these/O for/O our/O economic/O development/O ,/O ''/O one/O delegate/O argued/O ./O 
 China/LOCATION still/O fuels/O 70/O percent/O of/O its/O energy/O needs/O with/O coal/O The/O goal/O stipulated/O by/O the/O new/O five-year/O plan/O is/O to/O cut/O energy/O and/O carbon/O intensity/O by/O 16/O to/O 17/O percent/O ./O 
 But/O this/O is/O not/O enough/O said/O Li/PERSON Yan/PERSON because/O ``/O China/LOCATION faces/O huge/O environmental/O and/O energy-related/O problems/O ./O 
 The/O government/O has/O to/O give/O clear/O and/O ambitious/O targets/O from/O top/O to/O bottom/O so/O that/O there/O is/O pressure/O at/O every/O level/O and/O in/O every/O sector/O ./O ''/O 
 Other/O environment/O NGOs/O in/O China/LOCATION agree/O ./O 
-The/O World/O Wide/O Fund/O for/O Nature/O recently/O said/O that/O green/O concepts/O should/O not/O only/O be/O an/O appendix/O to/O government/O policy/O but/O a/O central/O component/O ./O 
+<ORGANIZATION>The/O World/O Wide/O Fund/O for/O Nature/O</ORGANIZATION> recently/O said/O that/O green/O concepts/O should/O not/O only/O be/O an/O appendix/O to/O government/O policy/O but/O a/O central/O component/O ./O 
 However/O ,/O as/O long/O as/O China/LOCATION needs/O growth/O to/O ensure/O social/O stability/O and/O the/O provinces/O cater/O only/O to/O their/O own/O requirements/O ,/O the/O environment/O is/O not/O likely/O to/O be/O a/O top/O priority/O ./O 
-Author/O :/O Ruth/PERSON Kirchner/act/O Editor/O :/O Thomas/PERSON Bärthlein/PERSON 
+Author/O :/O Ruth/PERSON Kirchner/act/O 
+Editor/O :/O Thomas/PERSON Bärthlein/PERSON

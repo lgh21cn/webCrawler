@@ -3,7 +3,8 @@ As/O a/O permanent/O member/O of/O the/O UN/ORGANIZATION Security/ORGANIZATION C
 Iran/LOCATION is/O the/O second/O largest/O supplier/O of/O oil/O to/O the/O People/LOCATION 's/LOCATION Republic/LOCATION of/LOCATION China/LOCATION and/O within/O the/O first/O nine/O months/O of/O 2009/O ,/O it/O became/O largest/O market/O for/O the/O investment/O of/O Chinese/O companies/O in/O construction/O and/O projects/O ./O 
 Fariborz/PERSON Laghaie/PERSON likes/O to/O trade/O with/O the/O Chinese/O ./O 
 The/O successful/O businessman/O from/O Teheran/LOCATION imports/O a/O number/O of/O goods/O ,/O among/O them/O ,/O electronics/O ./O 
-Iranian/O President/O Mahmoud/PERSON Ahmadinejad/PERSON ,/O left/O ,/O greets/O Chinese/O President/O Hu/PERSON Jintao/PERSON He/PERSON has/O been/O flying/O frequently/O to/O China/LOCATION for/O the/O past/O three/O years/O ./O 
+Iranian/O President/O Mahmoud/PERSON Ahmadinejad/PERSON ,/O left/O ,/O greets/O Chinese/O President/O Hu/PERSON Jintao/PERSON 
+He/PERSON has/O been/O flying/O frequently/O to/O China/LOCATION for/O the/O past/O three/O years/O ./O 
 He/O says/O China/LOCATION 's/O influence/O on/O the/O Iranian/O market/O is/O growing/O by/O the/O day/O ./O 
 ``/O Of/O course/O sanctions/O against/O Iran/LOCATION play/O a/O big/O role/O ./O 
 But/O those/O who/O do/O business/O with/O the/O Chinese/O know/O the/O saying/O :/O the/O Chinese/O never/O say/O no/O to/O anyone/O ./O 
@@ -14,7 +15,9 @@ But/O it/O has/O been/O in/O vain/O ,/O says/O Laghaie/PERSON :/O ``/O We/O stil
 The/O majority/O of/O Iranians/O can/O not/O afford/O to/O buy/O expensive/O ,/O high-quality/O products/O ./O 
 On/O the/O other/O hand/O ,/O the/O Chinese/O authorities/O do/O not/O have/O the/O capacities/O to/O control/O everything/O that/O is/O produced/O in/O and/O exported/O from/O such/O a/O large/O country/O ./O 
 So/O everyone/O just/O does/O what/O they/O want/O ./O ''/O 
-A/O view/O of/O phase/O five/O of/O the/O South/O Pars/O gas/O field/O in/O the/O southern/O port/O of/O Assaluyeh/LOCATION ,/O Iran/LOCATION Oil/O deals/O with/O China/LOCATION are/O kept/O secret/O The/O Iranian/O economy/O is/O mostly/O centralized/O and/O is/O almost/O completely/O state-controlled/O ./O 
+A/O view/O of/O phase/O five/O of/O the/O <LOCATION>South/O Pars/O</LOCATION> gas/O field/O in/O the/O southern/O port/O of/O Assaluyeh/LOCATION ,/O Iran/LOCATION 
+Oil/O deals/O with/O China/LOCATION are/O kept/O secret/O 
+The/O Iranian/O economy/O is/O mostly/O centralized/O and/O is/O almost/O completely/O state-controlled/O ./O 
 In/O the/O Iranian/O economy/O ,/O corruption/O is/O a/O wide-spread/O problem/O ./O 
 In/O its/O latest/O corruption/O index/O ,/O Transparency/ORGANIZATION International/ORGANIZATION has/O ranked/O Iran/LOCATION 168/O of/O 180/O countries/O ./O 
 This/O year/O ,/O China/LOCATION became/O Iran/LOCATION 's/O number/O one/O trade/O partner/O ./O 
@@ -23,13 +26,15 @@ The/O oppositional/O journalist/O Mehdi/PERSON Mohseni/PERSON is/O surprised/O .
 ``/O Nobody/O knows/O about/O oil/O deals/O with/O China/LOCATION in/O Iran/LOCATION ./O 
 Outside/O of/O Iran/LOCATION is/O where/O I/O heard/O about/O it/O and/O I/O was/O really/O shocked/O ./O 
 China/LOCATION is/O only/O known/O to/O us/O in/O our/O country/O because/O of/O its/O cheap/O products/O ./O ''/O 
-Aside/O from/O cheap/O products/O ,/O people/O in/O Iran/LOCATION hardly/O know/O anything/O about/O China/LOCATION ,/O although/O both/O cultures/O have/O been/O linked/O by/O the/O Silk/LOCATION Road/LOCATION for/O centuries/O ./O 
-Iranians/O do/O n't/O hear/O about/O things/O like/O the/O Tiananmen/LOCATION Massacre/LOCATION nor/O about/O the/O brutal/O crackdown/O of/O Chinese/O security/O forces/O on/O demonstrators/O in/O Tibet/LOCATION and/O Xinjiang/LOCATION ./O 
-Chinese/O and/O Iranian/O officials/O hold/O talks/O Iranian/O lawyer/O ,/O human/O rights/O defender/O and/O Nobel/O Peace/O Prize/O winner/O ,/O Shirin/PERSON Ebadi/PERSON ,/O criticizes/O the/O country/O 's/O blindness/O ./O 
+Aside/O from/O cheap/O products/O ,/O people/O in/O Iran/LOCATION hardly/O know/O anything/O about/O China/LOCATION ,/O although/O both/O cultures/O have/O been/O linked/O by/O the/O <U_LOCATION>Silk/LOCATION Road/LOCATION</U_LOCATION> for/O centuries/O ./O 
+Iranians/O do/O n't/O hear/O about/O things/O like/O the/O Tiananmen/LOCATION <OTHER>Massacre/LOCATION</OTHER> nor/O about/O the/O brutal/O crackdown/O of/O Chinese/O security/O forces/O on/O demonstrators/O in/O Tibet/LOCATION and/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Chinese/O and/O Iranian/O officials/O hold/O talks/O 
+Iranian/O lawyer/O ,/O human/O rights/O defender/O and/O Nobel/O Peace/O Prize/O winner/O ,/O Shirin/PERSON Ebadi/PERSON ,/O criticizes/O the/O country/O 's/O blindness/O ./O 
 ``/O The/O Chinese/O government/O exploits/O the/O rights/O of/O its/O people/O to/O a/O great/O extent/O -/O just/O like/O the/O Iranian/O government/O ./O 
 Whenever/O a/O Moslem/O is/O killed/O in/O the/O Middle/LOCATION East/LOCATION ,/O the/O Iranian/O government/O makes/O a/O huge/O deal/O out/O of/O it/O ./O 
 But/O when/O thousands/O of/O Muslim/O Uighurs/O are/O killed/O in/O China/LOCATION ,/O they/O say/O nothing/O ./O 
 And/O they/O make/O sure/O the/O press/O says/O nothing/O ./O ''/O 
 Shirin/PERSON Ebadi/PERSON has/O observed/O how/O the/O Iranian/O people/O are/O starting/O to/O see/O through/O the/O government/O despite/O censored/O media/O coverage/O ./O 
 She/O says/O now/O ,/O when/O the/O state/O marches/O on/O the/O streets/O shouting/O ``/O down/O with/O America/LOCATION and/O down/O with/O Israel/LOCATION ''/O ,/O the/O people/O shout/O instead/O ,/O ``/O down/O with/O Russia/LOCATION ''/O and/O ``/O down/O with/O China/LOCATION ./O ''/O 
-Author/O :/O Nourian/O ,/O Shabnam/PERSON //O sb/O Editor/O :/O Thomas/PERSON Baerthlein/PERSON 
+Author/O :/O Nourian/O ,/O Shabnam/PERSON //O sb/O 
+Editor/O :/O Thomas/PERSON Baerthlein/PERSON

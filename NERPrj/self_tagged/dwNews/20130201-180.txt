@@ -1,29 +1,31 @@
 Citizen/O journalists/O in/O China/LOCATION have/O taken/O the/O leadership/O 's/O overtures/O about/O fighting/O corruption/O as/O a/O challenge/O ./O 
 But/O while/O low/O and/O middle-ranking/O officials/O have/O been/O caught/O out/O ,/O scandal/O at/O the/O top/O level/O is/O still/O off-limits/O ./O 
-It/O did/O n't/O take/O long/O for/O Lei/LOCATION Zhengfu/LOCATION to/O fall/O from/O grace/O ./O 
-Only/O 66/O hours/O after/O a/O video/O surfaced/O on/O the/O internet/O showing/O the/O 57-year-old/O local/O party/O chief/O from/O south/LOCATION west/LOCATION China/LOCATION having/O sex/O with/O an/O 18-year-old/O ,/O Lei/PERSON lost/O his/O job/O ./O 
+It/O did/O n't/O take/O long/O for/O <PERSON>Lei/LOCATION Zhengfu/LOCATION</PERSON> to/O fall/O from/O grace/O ./O 
+Only/O 66/O hours/O after/O a/O video/O surfaced/O on/O the/O internet/O showing/O the/O 57-year-old/O local/O party/O chief/O from/O <OTHER>south/LOCATION west/LOCATION</OTHER> China/LOCATION having/O sex/O with/O an/O 18-year-old/O ,/O Lei/PERSON lost/O his/O job/O ./O 
 Lei/O ,/O a/O district-level/O party/O secretary/O in/O the/O city/O of/O Chongqing/LOCATION ,/O had/O made/O sure/O that/O contacts/O of/O the/O young/O woman/O were/O given/O lucrative/O construction/O contracts/O and/O profited/O handsomely/O from/O it/O ./O 
 The/O scandal/O was/O uncovered/O by/O investigative/O journalist/O Zhu/PERSON Rhifeng/PERSON ,/O for/O whom/O the/O cadre/O 's/O dismissal/O was/O a/O triumph/O ./O 
 ``/O The/O Internet/O in/O China/LOCATION is/O now/O the/O strongest/O weapon/O we/O have/O in/O the/O fight/O against/O corruption/O ,/O ''/O said/O Zhu/PERSON ./O 
 ``/O We/O have/O no/O democracy/O and/O no/O rule/O of/O law/O ./O 
-Party/O officials/O are/O not/O subject/O to/O any/O kind/O of/O public/O control/O ./O 
+<ORGANIZATION>Party/O</ORGANIZATION> officials/O are/O not/O subject/O to/O any/O kind/O of/O public/O control/O ./O 
 That/O 's/O why/O microblogs/O have/O an/O important/O role/O in/O the/O distribution/O of/O information/O ./O ''/O 
 Lei/O was/O not/O the/O only/O person/O to/O lose/O his/O job/O thanks/O to/O Zhu/PERSON reporting/O ./O 
 Since/O the/O affair/O got/O out/O ,/O ten/O other/O officials/O and/O managers/O of/O public/O corporations/O in/O Chongqing/LOCATION have/O also/O been/O dismissed/O ./O 
 He/O has/O made/O the/O uncovering/O of/O corruption/O his/O vocation/O ,/O despite/O receiving/O threats/O and/O even/O death/O threats/O ./O 
 In/O spite/O of/O the/O pressure/O ,/O the/O 44-year-old/O feels/O he/O is/O going/O about/O his/O work/O with/O new/O optimism/O and/O vigor/O ./O 
 The/O words/O of/O new/O party/O leader/O Xi/PERSON Jinping/PERSON upon/O his/O entry/O to/O office/O give/O some/O grounds/O for/O hope/O ,/O on/O the/O surface/O at/O least/O ./O 
-Lucrative/O construction/O contracts/O were/O offered/O to/O Lei/O 's/O contacts/O ``/O The/O problems/O among/O party/O members/O and/O officials/O -/O corruption/O and/O taking/O bribes/O and/O undue/O emphasis/O on/O formalities/O and/O bureaucracy/O -/O all/O of/O that/O must/O be/O fought/O against/O with/O the/O utmost/O effort/O ,/O ''/O Xi/O said/O ./O 
+Lucrative/O construction/O contracts/O were/O offered/O to/O <PERSON>Lei/O</PERSON> 's/O contacts/O 
+``/O The/O problems/O among/O party/O members/O and/O officials/O -/O corruption/O and/O taking/O bribes/O and/O undue/O emphasis/O on/O formalities/O and/O bureaucracy/O -/O all/O of/O that/O must/O be/O fought/O against/O with/O the/O utmost/O effort/O ,/O ''/O <PERSON>Xi/O</PERSON> said/O ./O 
 ``/O The/O whole/O party/O must/O be/O on/O guard/O ./O ''/O 
 String/O of/O scandals/O Bloggers/O and/O citizen/O journalists/O such/O as/O Zhu/PERSON have/O interpreted/O these/O words/O as/O a/O challenge/O ./O 
 Since/O this/O speech/O ,/O barely/O a/O week/O has/O gone/O by/O in/O which/O a/O party/O official/O somewhere/O in/O the/O country/O has/O not/O fallen/O from/O power/O through/O Internet/O revelations/O ./O 
-In/O one/O case/O ,/O a/O village/O official/O in/O Shanxi/LOCATION province/LOCATION was/O found/O to/O have/O four/O wives/O and/O ten/O children/O ,/O in/O a/O country/O where/O the/O one-child/O policy/O still/O applies/O ./O 
-Another/O was/O the/O security/O chief/O of/O a/O small/O town/O in/O Xinjiang/LOCATION province/O who/O had/O two/O mistresses/O -/O who/O happen/O to/O be/O sisters/O -/O for/O whom/O he/O had/O arranged/O jobs/O ./O 
+In/O one/O case/O ,/O a/O village/O official/O in/O Shanxi/LOCATION <OTHER>province/LOCATION</OTHER> was/O found/O to/O have/O four/O wives/O and/O ten/O children/O ,/O in/O a/O country/O where/O the/O one-child/O policy/O still/O applies/O ./O 
+Another/O was/O the/O security/O chief/O of/O a/O small/O town/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O who/O had/O two/O mistresses/O -/O who/O happen/O to/O be/O sisters/O -/O for/O whom/O he/O had/O arranged/O jobs/O ./O 
 In/O Yunnan/LOCATION ,/O meanwhile/O ,/O one/O party/O cadre/O was/O exposed/O over/O his/O fondness/O for/O opium/O and/O expensive/O overseas/O properties/O ./O 
 Then/O ,/O there/O was/O the/O story/O of/O the/O boss/O of/O a/O provincial/O bank/O who/O used/O illegal/O means/O to/O buy/O houses/O and/O apartments/O ./O 
-``/O The/O officials/O have/O started/O to/O hate/O the/O Internet/O and/O the/O officials/O in/O Xinjiang/LOCATION have/O even/O said/O that/O not/O everyone/O should/O have/O access/O to/O it/O ,/O that/O the/O web/O should/O be/O shut/O down/O ,/O ''/O Zhu/PERSON said/O ./O 
-Xi/PERSON stressed/O that/O the/O utmost/O effort/O must/O be/O made/O to/O fight/O corruption/O The/O various/O online/O revelations/O have/O badly/O damaged/O the/O party/O 's/O image/O -/O in/O particular/O where/O middle/O and/O lower/O ranking/O officials/O are/O concerned/O ./O 
-No/O trouble/O at/O the/O top/O In/O a/O new/O study/O ,/O Beijing/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION University/ORGANIZATION professor/O Tang/PERSON Jun/PERSON has/O highlighted/O a/O ``/O crisis/O ''/O in/O public/O life/O ,/O citing/O ,/O among/O other/O cases/O ,/O the/O Lei/O affair/O ./O 
+``/O The/O officials/O have/O started/O to/O hate/O the/O Internet/O and/O the/O officials/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> have/O even/O said/O that/O not/O everyone/O should/O have/O access/O to/O it/O ,/O that/O the/O web/O should/O be/O shut/O down/O ,/O ''/O Zhu/PERSON said/O ./O 
+Xi/PERSON stressed/O that/O the/O utmost/O effort/O must/O be/O made/O to/O fight/O corruption/O 
+The/O various/O online/O revelations/O have/O badly/O damaged/O the/O party/O 's/O image/O -/O in/O particular/O where/O middle/O and/O lower/O ranking/O officials/O are/O concerned/O ./O 
+No/O trouble/O at/O the/O top/O In/O a/O new/O study/O ,/O Beijing/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION University/ORGANIZATION professor/O Tang/PERSON Jun/PERSON has/O highlighted/O a/O ``/O crisis/O ''/O in/O public/O life/O ,/O citing/O ,/O among/O other/O cases/O ,/O the/O<PERSON> Lei/O</PERSON> affair/O ./O 
 The/O authorities/O had/O not/O done/O enough/O to/O repair/O the/O damage/O done/O ,/O claimed/O Tang/PERSON ./O 
 Despite/O his/O success/O in/O exposing/O the/O Lei/O affair/O ,/O Zhu/PERSON is/O under/O no/O illusions/O ./O 
 Citizen/O journalists/O like/O him/O have/O so/O far/O only/O been/O able/O to/O expose/O the/O relatively/O minor/O officials/O ./O 
@@ -35,10 +37,11 @@ He/O was/O speaking/O about/O of/O corruption/O ,/O and/O acting/O against/O bot
 He/O spoke/O a/O lot/O ./O 
 We/O have/O heard/O the/O thunder/O ,/O now/O it/O 's/O time/O for/O the/O rain/O ./O ''/O 
 There/O 's/O good/O reason/O to/O be/O skeptical/O ./O 
-Xi/O 's/O predecessor/O Hu/PERSON Jintao/PERSON also/O spoke/O about/O the/O fight/O against/O corruption/O when/O he/O took/O office/O ./O 
+<PERSON>Xi/O</PERSON> 's/O predecessor/O Hu/PERSON Jintao/PERSON also/O spoke/O about/O the/O fight/O against/O corruption/O when/O he/O took/O office/O ./O 
 As/O too/O did/O his/O predecessor/O Jiang/PERSON Zemin/PERSON ./O 
 So/O far/O ,/O no/O one/O has/O dared/O to/O implement/O necessary/O conditions/O ,/O for/O example/O ,/O transparency/O ,/O curbs/O on/O power/O ,/O an/O independent/O judicial/O system/O and/O a/O free/O press/O ,/O to/O prevent/O corruption/O ./O 
-Signs/O of/O hesitation/O And/O there/O are/O signs/O that/O the/O government/O is/O already/O rowing/O back/O on/O its/O promises/O ./O 
+Signs/O of/O hesitation/O 
+And/O there/O are/O signs/O that/O the/O government/O is/O already/O rowing/O back/O on/O its/O promises/O ./O 
 The/O uncovering/O of/O scandals/O must/O be/O regulated/O ,/O according/O the/O ``/O Global/ORGANIZATION Times/ORGANIZATION ''/O commentary/O ,/O belonging/O to/O the/O party/O newspaper/O People/ORGANIZATION 's/ORGANIZATION Daily/ORGANIZATION ./O 
 Some/O party/O officials/O have/O called/O for/O the/O internet/O to/O be/O unplugged/O For/O Zhu/PERSON ,/O the/O argument/O that/O such/O action/O is/O necessary/O to/O avoid/O undue/O intrusion/O is/O a/O smokescreen/O ./O 
 ``/O With/O the/O argument/O that/O they/O have/O to/O protect/O people/O 's/O privacy/O ,/O they/O are/O trying/O to/O curtail/O people/O 's/O freedom/O to/O share/O information/O on/O the/O Internet/O ,/O ''/O he/O said/O ./O 
@@ -47,4 +50,4 @@ Zhu/PERSON himself/O was/O summonsed/O by/O police/O at/O the/O start/O of/O the
 He/O refused/O ,/O preferring/O to/O protect/O his/O informants/O and/O evidence/O ./O 
 However/O ,/O it/O served/O as/O a/O reminder/O that/O he/O has/O made/O his/O fair/O share/O of/O enemies/O in/O the/O corridors/O of/O power/O ./O 
 Nonetheless/O ,/O Zhu/PERSON says/O he/O has/O further/O material/O that/O might/O see/O the/O rug/O pulled/O from/O beneath/O corrupt/O officials/O ./O 
-Once/O the/O facts/O have/O been/O checked/O ,/O he/O said/O ,/O they/O will/O be/O made/O public/O ./O 
+Once/O the/O facts/O have/O been/O checked/O ,/O he/O said/O ,/O they/O will/O be/O made/O public/O ./O

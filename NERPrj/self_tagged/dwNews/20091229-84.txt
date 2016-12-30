@@ -9,9 +9,10 @@ The/O father/O of/O three/O from/O London/LOCATION had/O become/O estranged/O fr
 However/O ,/O China/LOCATION 's/O official/O Xinhua/ORGANIZATION news/O agency/O reported/O that/O the/O court/O said/O evidence/O provided/O by/O the/O British/O was/O not/O enough/O ./O 
 ``/O The/O materials/O provided/O by/O the/O British/O side/O were/O insufficient/O in/O proving/O that/O Akmal/PERSON has/O a/O mental/O illness/O and/O that/O Akmal/PERSON 's/O family/O has/O a/O history/O of/O mental/O illness/O ./O 
 Akmal/PERSON himself/O also/O did/O not/O provide/O such/O materials/O ,/O ''/O said/O the/O court/O 's/O report/O ./O 
-Shaikh/PERSON ,/O who/O is/O said/O to/O have/O suffered/O from/O bipolar/O disorder/O ,/O was/O arrested/O in/O September/O 2007/O at/O Urumqi/LOCATION Airport/LOCATION in/O Xinjiang/LOCATION province/O with/O four/O kilograms/O of/O heroin/O in/O his/O suitcase/O ./O 
+Shaikh/PERSON ,/O who/O is/O said/O to/O have/O suffered/O from/O bipolar/O disorder/O ,/O was/O arrested/O in/O September/O 2007/O at/O <U_LOCATION>Urumqi/LOCATION Airport/LOCATION</U_LOCATION> in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O with/O four/O kilograms/O of/O heroin/O in/O his/O suitcase/O ./O 
 His/O family/O says/O he/O was/O tricked/O by/O drug/O smugglers/O ,/O who/O promised/O they/O would/O help/O him/O become/O a/O pop/O star/O ./O 
 Relatives/O say/O Shaikh/PERSON was/O unaware/O his/O luggage/O contained/O drugs/O ./O 
 According/O to/O Reprieve/O ,/O the/O British/O legal/O defense/O foundation/O that/O took/O the/O lead/O in/O publicizing/O Shaikh/PERSON 's/O case/O ,/O the/O last/O time/O a/O European/O was/O executed/O in/O China/LOCATION was/O in/O 1951/O ./O 
 Italian/O Antonio/PERSON Riva/PERSON was/O put/O to/O death/O for/O his/O alleged/O involvement/O in/O a/O plot/O to/O assassinate/O Mao/PERSON Zedong/PERSON ./O 
-mh/mk/AFP/O //O Reuters/ORGANIZATION Editor/O :/O Chuck/PERSON Penfold/PERSON 
+mh/mk/AFP/O //O Reuters/ORGANIZATION 
+Editor/O :/O Chuck/PERSON Penfold/PERSON

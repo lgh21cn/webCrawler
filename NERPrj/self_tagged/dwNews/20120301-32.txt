@@ -1,5 +1,5 @@
-As/O China/LOCATION gears/O up/O for/O the/O National/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION ,/O another/O explosion/O of/O violence/O in/O the/O country/O 's/O west/O shows/O that/O policies/O towards/O minorities/O are/O at/O a/O dead/O end/O ,/O says/O DW/O 's/O Matthias/PERSON von/PERSON Hein/PERSON ./O 
-The/O world/O may/O never/O really/O find/O out/O what/O happened/O in/O the/O oasis/O city/O of/O Yecheng/LOCATION in/O China/LOCATION 's/O western/O region/O of/O Xinjiang/LOCATION on/O Wednesday/O -LRB-/O 29.02/O -RRB-/O ./O 
+As/O China/LOCATION gears/O up/O for/O the/O National/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION ,/O another/O explosion/O of/O violence/O in/O the/O country/O 's/O west/O shows/O that/O policies/O towards/O minorities/O are/O at/O a/O dead/O end/O ,/O says/O <ORGANIZATION>DW/O</ORGANIZATION> 's/O Matthias/PERSON von/PERSON Hein/PERSON ./O 
+The/O world/O may/O never/O really/O find/O out/O what/O happened/O in/O the/O oasis/O city/O of/O <U_LOCATION>Yecheng/LOCATION</U_LOCATION> in/O China/LOCATION 's/O western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> on/O Wednesday/O -LRB-/O 29.02/O -RRB-/O ./O 
 What/O is/O clear/O is/O that/O it/O was/O the/O most/O violent/O outbreak/O since/O last/O summer/O ./O 
 At/O least/O 20/O people/O are/O reported/O to/O have/O died/O ./O 
 According/O to/O unconfirmed/O reports/O ,/O the/O attackers/O were/O Uighurs/O ,/O the/O victims/O Han/O Chinese/O ./O 
@@ -8,7 +8,8 @@ The/O police/O then/O shot/O seven/O of/O them/O and/O arrested/O others/O ./O
 There/O is/O no/O independent/O news/O from/O the/O region/O ./O 
 Chinese/O state/O media/O initially/O spoke/O of/O a/O ``/O terrorist/O attack/O ./O ''/O 
 The/O paltry/O statements/O of/O the/O authorities/O are/O up/O against/O the/O comments/O of/O Uighur/O activists/O abroad/O ./O 
-Matthias/PERSON von/PERSON Hein/PERSON is/O the/O head/O of/O DW/O 's/O Chinese/O service/O Organized/O terror/O groups/O do/O not/O usually/O attack/O their/O victims/O with/O knives/O ./O 
+Matthias/PERSON von/PERSON Hein/PERSON is/O the/O head/O of/O <ORGANIZATION>DW/O</ORGANIZATION> 's/O Chinese/O service/O 
+Organized/O terror/O groups/O do/O not/O usually/O attack/O their/O victims/O with/O knives/O ./O 
 They/O tend/O to/O plant/O bombs/O or/O hijack/O planes/O ./O 
 The/O image/O of/O knife-wielding/O attackers/O seems/O like/O a/O violent/O explosion/O of/O long/O pent-up/O anger/O ./O 
 Many/O Turkic-speaking/O Uighurs/O have/O long/O complained/O of/O religious/O ,/O cultural/O and/O political/O oppression/O and/O about/O the/O fact/O that/O they/O are/O discriminated/O against/O by/O Han/O Chinese/O who/O have/O moved/O into/O the/O region/O ./O 
@@ -20,11 +21,12 @@ Many/O Chinese/O look/O down/O upon/O those/O on/O the/O poorer/O edges/O of/O t
 They/O even/O expect/O people/O to/O be/O grateful/O ./O 
 That/O Uighurs/O and/O Tibetans/O would/O like/O more/O say/O in/O determining/O their/O fate/O is/O ignored/O ./O 
 Moreover/O ,/O there/O is/O little/O understanding/O for/O the/O fact/O that/O to/O nurture/O and/O preserve/O cultural/O traditions/O goes/O beyond/O organizing/O folk/O dances/O for/O tourists/O and/O TV/O shows/O ./O 
-This/O is/O the/O only/O way/O of/O explaining/O the/O brutality/O with/O which/O the/O 1,000-year-old/O town/O of/O Kashgar/LOCATION was/O torn/O down/O in/O 2009/O ./O 
+This/O is/O the/O only/O way/O of/O explaining/O the/O brutality/O with/O which/O the/O 1,000-year-old/O town/O of/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> was/O torn/O down/O in/O 2009/O ./O 
 A/O unique/O specimen/O of/O architectural/O and/O cultural/O heritage/O was/O reduced/O to/O rubble/O ./O 
-The/O same/O year/O ,/O Urumqi/LOCATION ,/O the/O capital/O of/O Xinjiang/LOCATION ,/O witnessed/O terrible/O riots/O between/O Han/O Chinese/O and/O Uighurs/O that/O led/O to/O hundreds/O of/O deaths/O on/O both/O sides/O ./O 
+The/O same/O year/O ,/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O the/O capital/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O witnessed/O terrible/O riots/O between/O Han/O Chinese/O and/O Uighurs/O that/O led/O to/O hundreds/O of/O deaths/O on/O both/O sides/O ./O 
 The/O catalyst/O for/O the/O riots/O illustrates/O how/O explosive/O the/O situation/O is/O :/O A/O group/O of/O Han/O Chinese/O workers/O attacked/O a/O group/O of/O Uighur/O migrant/O workers/O at/O a/O factory/O in/O southern/O China/LOCATION after/O a/O rumor/O ,/O which/O was/O later/O proven/O to/O be/O false/O ,/O circulated/O that/O a/O Chinese/O woman/O had/O been/O raped/O by/O a/O Uighur/O ./O 
 When/O the/O 3,000/O members/O of/O the/O National/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Congress/ORGANIZATION meet/O in/O Beijing/LOCATION on/O Monday/O ,/O the/O representatives/O of/O China/LOCATION 's/O national/O minorities/O will/O be/O paraded/O in/O the/O state/O media/O wearing/O traditional/O costume/O ./O 
 But/O they/O will/O not/O have/O much/O say/O ./O 
 They/O are/O merely/O exotic/O decoration/O in/O China/LOCATION 's/O so-called/O parliament/O ./O 
-Author/O :/O Matthias/PERSON von/PERSON Hein/PERSON //O act/O Editor/O :/O Sarah/PERSON Berning/PERSON 
+Author/O :/O Matthias/PERSON von/PERSON Hein/PERSON //O act/O 
+Editor/O :/O Sarah/PERSON Berning/PERSON

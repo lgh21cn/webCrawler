@@ -1,16 +1,19 @@
-Chinese/O police/O have/O shot/O dead/O seven/O suspected/O kidnappers/O after/O a/O shootout/O in/O the/O restive/O Xinjiang/LOCATION region/O ./O 
+Chinese/O police/O have/O shot/O dead/O seven/O suspected/O kidnappers/O after/O a/O shootout/O in/O the/O restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O ./O 
 The/O kidnappers/O have/O been/O referred/O to/O as/O `/O violent/O terrorists/O '/O by/O official/O Chinese/O media/O ./O 
-Seven/O ``/O terrorists/O ''/O have/O been/O shot/O dead/O in/O China/LOCATION 's/O restive/O northwestern/O Xinjiang/LOCATION province/O ./O 
-According/O to/O official/O media/O ,/O members/O of/O a/O ``/O terror/O gang/O ,/O ''/O possibly/O influenced/O by/O Islamists/O ,/O had/O kidnapped/O two/O people/O late/O Wednesday/O in/O the/O county/O of/O Pishan/LOCATION near/O the/O borders/O of/O India/LOCATION and/O Pakistan/LOCATION ./O 
+Seven/O ``/O terrorists/O ''/O have/O been/O shot/O dead/O in/O China/LOCATION 's/O restive/O northwestern/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O ./O 
+According/O to/O official/O media/O ,/O members/O of/O a/O ``/O terror/O gang/O ,/O ''/O possibly/O influenced/O by/O Islamists/O ,/O had/O kidnapped/O two/O people/O late/O Wednesday/O in/O the/O county/O of/O <U_LOCATION>Pishan/LOCATION</U_LOCATION> near/O the/O borders/O of/O India/LOCATION and/O Pakistan/LOCATION ./O 
 The/O two/O hostages/O were/O freed/O when/O police/O shot/O dead/O seven/O of/O the/O suspected/O kidnappers/O in/O a/O rescue/O mission/O ,/O as/O reported/O by/O Chinese/O media/O ./O 
 According/O to/O the/O account/O ,/O police/O were/O forced/O to/O open/O fire/O after/O being/O shot/O at/O ./O 
 One/O police/O officer/O was/O also/O killed/O in/O the/O shootout/O and/O one/O was/O wounded/O ./O 
 Four/O other/O suspects/O were/O wounded/O and/O taken/O into/O custody/O ./O 
-Unrest/O An/O exile/O group/O referred/O to/O the/O incident/O as/O an/O act/O of/O desperation/O and/O protest/O by/O native/O Uighurs/O ,/O who/O are/O the/O subject/O of/O religious/O repression/O and/O are/O facing/O a/O police/O crackdown/O in/O the/O northwestern/O region/O of/O China/LOCATION ./O 
-Uighurs/O demonstrate/O against/O repression/O Dilxat/PERSON Raxit/PERSON ,/O spokesman/O for/O an/O exile/O group/O named/O World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION ,/O told/O the/O French/O news/O agency/O AFP/ORGANIZATION :/O ``/O The/O local/O government/O recently/O started/O a/O `/O strike/O hard/O '/O campaign/O ,/O which/O resulted/O in/O the/O disappearances/O of/O several/O people/O ./O 
+Unrest/O 
+An/O exile/O group/O referred/O to/O the/O incident/O as/O an/O act/O of/O desperation/O and/O protest/O by/O native/O Uighurs/O ,/O who/O are/O the/O subject/O of/O religious/O repression/O and/O are/O facing/O a/O police/O crackdown/O in/O the/O northwestern/O region/O of/O China/LOCATION ./O 
+Uighurs/O demonstrate/O against/O repression/O 
+<U_PERSON>Dilxat/PERSON Raxit/PERSON</U_PERSON> ,/O spokesman/O for/O an/O exile/O group/O named/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O told/O the/O French/O news/O agency/O AFP/ORGANIZATION :/O ``/O The/O local/O government/O recently/O started/O a/O `/O strike/O hard/O '/O campaign/O ,/O which/O resulted/O in/O the/O disappearances/O of/O several/O people/O ./O 
 They/O were/O taken/O away/O by/O armed/O forces/O ,/O who/O refused/O to/O say/O where/O they/O were/O ./O ''/O 
-Xinjiang/LOCATION is/O a/O resource-rich/O province/O and/O has/O seen/O bouts/O of/O violence/O between/O locals/O and/O the/O Chinese/O government/O ,/O which/O tends/O to/O blame/O the/O unrest/O on/O religious/O extremism/O ,/O terrorism/O and/O separatist/O elements/O ./O 
-Violence/O most/O recently/O flared/O up/O in/O Kashgar/LOCATION and/O Hotan/LOCATION in/O the/O summer/O of/O 2011/O ,/O resulting/O in/O the/O death/O of/O 32/O people/O ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O a/O resource-rich/O province/O and/O has/O seen/O bouts/O of/O violence/O between/O locals/O and/O the/O Chinese/O government/O ,/O which/O tends/O to/O blame/O the/O unrest/O on/O religious/O extremism/O ,/O terrorism/O and/O separatist/O elements/O ./O 
+Violence/O most/O recently/O flared/O up/O in/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> and/O <U_LOCATION>Hotan/LOCATION</U_LOCATION> in/O the/O summer/O of/O 2011/O ,/O resulting/O in/O the/O death/O of/O 32/O people/O ./O 
 In/O September/O ,/O four/O people/O were/O sentenced/O to/O death/O for/O the/O incidents/O ./O 
 Beijing/LOCATION reacts/O to/O such/O violence/O by/O increasing/O police/O presence/O ,/O conducting/O raids/O ,/O restricting/O or/O cutting/O communication/O lines/O ,/O such/O as/O telephone/O and/O internet/O connections/O ,/O and/O sometimes/O limiting/O the/O practice/O of/O Islam/O ./O 
-Author/O :/O Sarah/PERSON Berning/PERSON -LRB-/O AFP/ORGANIZATION ,/O AP/ORGANIZATION ,/O Reuters/ORGANIZATION ,/O dpa/O -RRB-/O Editor/O :/O Arun/PERSON Chowdhury/PERSON 
+Author/O :/O Sarah/PERSON Berning/PERSON -LRB-/O AFP/ORGANIZATION ,/O AP/ORGANIZATION ,/O Reuters/ORGANIZATION ,/O dpa/O -RRB-/O 
+Editor/O :/O Arun/PERSON Chowdhury/PERSON

@@ -2,7 +2,7 @@ Pakistani/O PM/O Sharif/PERSON and/O Indian/O Defense/O Minister/O Antony/PERSON
 Experts/O say/O this/O tug-of-war/O is/O not/O good/O for/O South/LOCATION Asia/LOCATION ./O 
 Pakistani/O Prime/O Minister/O Nawaz/PERSON Sharif/PERSON has/O chosen/O Beijing/LOCATION for/O his/O first/O foreign/O destination/O after/O sweeping/O the/O May/O 11/O parliamentary/O elections/O ./O 
 It/O shows/O how/O important/O are/O the/O ties/O with/O China/LOCATION are/O for/O Pakistan/LOCATION ./O 
-In/O the/O past/O two/O years/O -/O particularly/O after/O the/O assassination/O of/O al/PERSON Qaeda/PERSON 's/O former/O head/O Osama/PERSON bin/PERSON Laden/PERSON in/O the/O Pakistani/O city/O of/O Abbottabad/LOCATION on/O May/O 2/O ,/O 2011/O -/O Pakistan/LOCATION has/O considerably/O drifted/O away/O from/O its/O biggest/O Cold/O War/O era/O ally/O ,/O the/O United/LOCATION States/LOCATION ./O 
+In/O the/O past/O two/O years/O -/O particularly/O after/O the/O assassination/O of/O <ORGANIZATION>al/PERSON Qaeda/PERSON</ORGANIZATION> 's/O former/O head/O Osama/PERSON bin/PERSON Laden/PERSON in/O the/O Pakistani/O city/O of/O Abbottabad/LOCATION on/O May/O 2/O ,/O 2011/O -/O Pakistan/LOCATION has/O considerably/O drifted/O away/O from/O its/O biggest/O Cold/O War/O era/O ally/O ,/O the/O United/LOCATION States/LOCATION ./O 
 International/O Relations/O experts/O say/O that/O Pakistan/LOCATION needs/O China/LOCATION more/O than/O ever/O now/O ./O 
 Though/O regional/O and/O strategic/O issues/O are/O crucial/O for/O both/O Islamabad/LOCATION and/O Beijing/LOCATION ,/O Sharif/PERSON is/O more/O concerned/O about/O Pakistan/LOCATION 's/O ailing/O economy/O ./O 
 Strengthening/O bilateral/O trade/O links/O with/O China/LOCATION is/O on/O top/O of/O his/O list/O in/O talks/O with/O the/O Chinese/O officials/O ./O 
@@ -13,16 +13,22 @@ He/O will/O also/O meet/O with/O officials/O of/O the/O China/ORGANIZATION Inves
 Politics/O of/O economics/O Asha'ar/PERSON Rehman/PERSON ,/O a/O Lahore-based/O senior/O journalist/O and/O political/O commentator/O ,/O says/O that/O though/O it/O is/O too/O soon/O to/O evaluate/O the/O performance/O of/O Sharif/PERSON 's/O government/O ,/O people/O in/O Pakistan/LOCATION are/O beginning/O to/O get/O frustrated/O ./O 
 Sharif/PERSON 's/O new/O government/O has/O imposed/O more/O taxes/O on/O people/O ,/O and/O there/O is/O no/O end/O to/O power/O cuts/O in/O sight/O ,/O he/O says/O ./O 
 ``/O Things/O are/O not/O going/O well/O with/O the/O IMF/ORGANIZATION in/O terms/O of/O the/O loans/O the/O Pakistani/O government/O is/O desperately/O seeking/O ./O 
-Due/O to/O the/O anti-US/O sentiment/O in/O Pakistan/LOCATION ,/O it/O is/O not/O wise/O for/O Sharif/PERSON to/O look/O too/O close/O to/O the/O Americans/O ,/O so/O his/O government/O is/O telling/O the/O people/O that/O only/O China/LOCATION can/O help/O Pakistan/LOCATION in/O the/O hour/O of/O crisis/O ,/O ''/O Rehman/PERSON told/O DW/O ./O 
-DW/O recommends/O Taliban/ORGANIZATION mountain/O attack/O could/O hurt/O tourism/O Taliban/ORGANIZATION fighters/O shot/O and/O killed/O 11/O mountain/O climbers/O in/O northern/O Pakistan/LOCATION on/O the/O weekend/O ./O 
+Due/O to/O the/O anti-US/O sentiment/O in/O Pakistan/LOCATION ,/O it/O is/O not/O wise/O for/O Sharif/PERSON to/O look/O too/O close/O to/O the/O Americans/O ,/O so/O his/O government/O is/O telling/O the/O people/O that/O only/O China/LOCATION can/O help/O Pakistan/LOCATION in/O the/O hour/O of/O crisis/O ,/O ''/O Rehman/PERSON told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Taliban/ORGANIZATION mountain/O attack/O could/O hurt/O tourism/O Taliban/ORGANIZATION fighters/O shot/O and/O killed/O 11/O mountain/O climbers/O in/O northern/O Pakistan/LOCATION on/O the/O weekend/O ./O 
 This/O attack/O was/O the/O first/O of/O its/O kind/O and/O will/O have/O repercussions/O on/O the/O country/O 's/O tourism/O ./O 
--LRB-/O 25.06.2013/O -RRB-/O Pakistan/LOCATION `/O brokered/O '/O US-Taliban/O talks/O After/O twelve/O years/O of/O war/O in/O Afghanistan/LOCATION ,/O the/O US/LOCATION and/O the/O Taliban/ORGANIZATION have/O finally/O agreed/O to/O engage/O in/O direct/O talks/O in/O Qatar/LOCATION ./O 
+-LRB-/O 25.06.2013/O -RRB-/O 
+Pakistan/LOCATION `/O brokered/O '/O US-Taliban/O talks/O 
+After/O twelve/O years/O of/O war/O in/O Afghanistan/LOCATION ,/O the/O US/LOCATION and/O the/O Taliban/ORGANIZATION have/O finally/O agreed/O to/O engage/O in/O direct/O talks/O in/O Qatar/LOCATION ./O 
 Experts/O say/O that/O Pakistan/LOCATION has/O played/O a/O key/O role/O in/O making/O this/O possible/O ./O 
--LRB-/O 20.06.2013/O -RRB-/O India/LOCATION and/O China/LOCATION bury/O the/O hatchet/O ,/O focus/O on/O trade/O Indian/O and/O Chinese/O leaders/O have/O played/O down/O their/O recent/O border/O dispute/O and/O other/O tensions/O and/O promised/O to/O work/O together/O towards/O regional/O stability/O and/O the/O economic/O growth/O ./O 
--LRB-/O 20.05.2013/O -RRB-/O But/O experts/O doubt/O that/O even/O China/LOCATION has/O an/O instant/O solution/O for/O the/O Pakistani/O economy/O and/O its/O energy/O crisis/O ./O 
+-LRB-/O 20.06.2013/O -RRB-/O 
+India/LOCATION and/O China/LOCATION bury/O the/O hatchet/O ,/O focus/O on/O trade/O Indian/O and/O Chinese/O leaders/O have/O played/O down/O their/O recent/O border/O dispute/O and/O other/O tensions/O and/O promised/O to/O work/O together/O towards/O regional/O stability/O and/O the/O economic/O growth/O ./O 
+-LRB-/O 20.05.2013/O -RRB-/O 
+But/O experts/O doubt/O that/O even/O China/LOCATION has/O an/O instant/O solution/O for/O the/O Pakistani/O economy/O and/O its/O energy/O crisis/O ./O 
 They/O are/O of/O the/O view/O that/O the/O Pakistani/O leaders/O use/O its/O relations/O with/O China/LOCATION to/O counter-balance/O US/LOCATION and/O Indian/O influence/O in/O the/O region/O ./O 
 Rehman/PERSON says/O that/O ``/O friendship/O with/O China/LOCATION ''/O has/O been/O a/O popular/O political/O slogan/O in/O Pakistan/LOCATION for/O many/O decades/O ./O 
-New/LOCATION Delhi/LOCATION steps/O in/O But/O Sino-Pakistani/O ties/O are/O not/O as/O warm/O now/O as/O they/O used/O to/O be/O ./O 
+New/LOCATION Delhi/LOCATION steps/O in/O 
+But/O Sino-Pakistani/O ties/O are/O not/O as/O warm/O now/O as/O they/O used/O to/O be/O ./O 
 In/O comparison/O ,/O relations/O between/O China/LOCATION and/O India/LOCATION have/O improved/O over/O the/O past/O five/O years/O ./O 
 The/O two/O emerging/O economic/O powers/O share/O a/O lot/O of/O business/O interests/O ,/O which/O means/O they/O are/O ready/O to/O resolve/O their/O territorial/O disputes/O ./O 
 Indian/O defense/O minister/O A./PERSON K./PERSON Antony/PERSON is/O currently/O on/O a/O high/O profile/O visit/O to/O China/LOCATION ,/O where/O he/O is/O expected/O to/O meet/O his/O Chinese/O counterpart/O ./O 
@@ -32,17 +38,18 @@ Experts/O say/O the/O fact/O that/O such/O a/O high-level/O Indian/O delegate/O 
 It/O is/O a/O complete/O failure/O of/O Pakistan/LOCATION 's/O foreign/O policy/O ./O 
 Pakistan/LOCATION 's/O leaders/O must/O change/O their/O priorities/O ,/O ''/O said/O Rehman/PERSON ,/O adding/O that/O Pakistan/LOCATION had/O nothing/O to/O offer/O to/O China/LOCATION ./O 
 On/O the/O contrary/O ,/O Pakistan/LOCATION 's/O alleged/O support/O to/O the/O Taliban/ORGANIZATION and/O other/O Islamists/O is/O a/O matter/O of/O serious/O concern/O for/O China/LOCATION ./O 
-Regional/O rivalry/O Experts/O say/O Pakistan/LOCATION sees/O India/LOCATION 's/O growing/O influence/O in/O Afghanistan/LOCATION with/O a/O lot/O of/O worry/O because/O a/O bigger/O and/O more/O active/O presence/O of/O India/LOCATION there/O would/O mean/O an/O insecure/O western/O border/O for/O Pakistan/LOCATION ./O 
+Regional/O rivalry/O 
+Experts/O say/O Pakistan/LOCATION sees/O India/LOCATION 's/O growing/O influence/O in/O Afghanistan/LOCATION with/O a/O lot/O of/O worry/O because/O a/O bigger/O and/O more/O active/O presence/O of/O India/LOCATION there/O would/O mean/O an/O insecure/O western/O border/O for/O Pakistan/LOCATION ./O 
 To/O counterbalance/O the/O US-Indian/O alliance/O in/O Afghanistan/LOCATION ,/O Pakistan/LOCATION is/O now/O seeking/O increased/O Chinese/O support/O ./O 
 China/LOCATION does/O not/O share/O Pakistan/LOCATION 's/O Afghanistan/LOCATION policy/O ,/O say/O experts/O ``/O Pakistan/LOCATION knows/O that/O China/LOCATION is/O going/O to/O be/O the/O superpower/O in/O ten/O years/O ./O 
-Islamabad/LOCATION is/O getting/O closer/O to/O Beijing/LOCATION and/O its/O alliance/O with/O Washington/LOCATION is/O slowly/O and/O gradually/O taking/O a/O back/O seat/O ,/O ''/O Ali/PERSON Shah/PERSON ,/O a/O Pakistani/O researcher/O in/O Karachi/LOCATION ,/O told/O DW/O ./O 
+Islamabad/LOCATION is/O getting/O closer/O to/O Beijing/LOCATION and/O its/O alliance/O with/O Washington/LOCATION is/O slowly/O and/O gradually/O taking/O a/O back/O seat/O ,/O ''/O Ali/PERSON Shah/PERSON ,/O a/O Pakistani/O researcher/O in/O Karachi/LOCATION ,/O told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
 But/O experts/O believe/O China/LOCATION does/O not/O share/O the/O same/O goals/O as/O Pakistan/LOCATION with/O regard/O to/O Afghanistan/LOCATION ./O 
 China/LOCATION is/O very/O wary/O of/O Islamist/O activities/O in/O its/O Muslim-dominated/O areas/O ./O 
 Beijing/LOCATION believes/O the/O Taliban/ORGANIZATION and/O al/ORGANIZATION Qaeda/ORGANIZATION ,/O or/O groups/O affiliated/O with/O them/O ,/O are/O instigating/O its/O Muslim/O population/O ./O 
-China/LOCATION is/O certainly/O not/O in/O favor/O of/O a/O Afghanistan/LOCATION which/O is/O dominated/O by/O the/O Taliban/ORGANIZATION ,/O who/O it/O believes/O lends/O sanctuary/O to/O the/O Muslim/O Uighur/O separatist/O groups/O in/O the/O autonomous/O western/O region/O of/O Xinjiang/LOCATION ./O 
+China/LOCATION is/O certainly/O not/O in/O favor/O of/O a/O Afghanistan/LOCATION which/O is/O dominated/O by/O the/O Taliban/ORGANIZATION ,/O who/O it/O believes/O lends/O sanctuary/O to/O the/O Muslim/O Uighur/O separatist/O groups/O in/O the/O autonomous/O western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 China/LOCATION has/O repeatedly/O asked/O Islamabad/LOCATION to/O use/O its/O influence/O over/O the/O Taliban/ORGANIZATION to/O quell/O the/O insurgency/O ./O 
 To/O add/O to/O that/O ,/O Chinese/O citizens/O have/O been/O targeted/O by/O the/O Taliban/ORGANIZATION in/O Pakistan/LOCATION on/O numerous/O occasions/O ./O 
-Recently/O ,/O three/O Chinese/O tourists/O were/O killed/O by/O the/O Pakistani/O Taliban/ORGANIZATION on/O the/O mountainous/O of/O Nanga/ORGANIZATION Parbat/ORGANIZATION ,/O which/O was/O a/O huge/O embarrassment/O to/O the/O Pakistani/O authorities/O ./O 
+Recently/O ,/O three/O Chinese/O tourists/O were/O killed/O by/O the/O Pakistani/O Taliban/ORGANIZATION on/O the/O mountainous/O of/O <LOCATION>Nanga/ORGANIZATION Parbat/ORGANIZATION</LOCATION> ,/O which/O was/O a/O huge/O embarrassment/O to/O the/O Pakistani/O authorities/O ./O 
 ``/O The/O issue/O of/O Islamist/O extremism/O wo/O n't/O completely/O damage/O the/O Sino-Pakistani/O ties/O ./O 
 But/O China/LOCATION will/O raise/O this/O issue/O with/O PM/O Sharif/PERSON ./O 
 China/LOCATION thinks/O that/O by/O helping/O Pakistan/LOCATION economically/O ,/O it/O can/O reduce/O the/O level/O of/O extremism/O in/O Pakistan/LOCATION ./O 
@@ -53,4 +60,4 @@ In/O that/O respect/O ,/O he/O thinks/O ,/O Pakistan/LOCATION 's/O improved/O ti
 He/O also/O believes/O that/O Islamabad/LOCATION should/O have/O better/O relations/O with/O New/LOCATION Delhi/LOCATION and/O Kabul/LOCATION ./O 
 Experts/O warn/O that/O India/LOCATION should/O be/O careful/O about/O isolating/O Pakistan/LOCATION and/O getting/O into/O a/O bigger/O alliance/O with/O China/LOCATION and/O other/O international/O powers/O ,/O as/O it/O would/O increase/O Pakistan/LOCATION 's/O insecurity/O and/O create/O more/O instability/O in/O the/O region/O ./O 
 ``/O The/O ideal/O situation/O would/O be/O a/O regional/O alliance/O between/O China/LOCATION ,/O Afghanistan/LOCATION ,/O Pakistan/LOCATION ,/O Iran/LOCATION and/O India/LOCATION ./O 
-This/O would/O ensure/O prosperity/O and/O growth/O for/O all/O nations/O of/O the/O region/O ,/O ''/O he/O said/O ,/O adding/O that/O regional/O disputes/O should/O be/O resolved/O regionally/O ./O 
+This/O would/O ensure/O prosperity/O and/O growth/O for/O all/O nations/O of/O the/O region/O ,/O ''/O he/O said/O ,/O adding/O that/O regional/O disputes/O should/O be/O resolved/O regionally/O ./O

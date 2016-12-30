@@ -1,16 +1,17 @@
-Chinese/O authorities/O have/O blamed/O Uighur/O separatists/O for/O the/O bloodbath/O at/O a/O train/O station/O in/O southwestern/O Yunnan/LOCATION province/LOCATION ./O 
+Chinese/O authorities/O have/O blamed/O Uighur/O separatists/O for/O the/O bloodbath/O at/O a/O train/O station/O in/O southwestern/O Yunnan/LOCATION <OTHER>province/LOCATION</OTHER> ./O 
 The/O assault/O by/O knife-wielding/O assailants/O left/O more/O than/O two/O dozen/O people/O dead/O ./O 
-Uighur/O separatists/O from/O the/O restive/O province/O of/O Xinjiang/LOCATION were/O responsible/O for/O the/O mass/O stabbing/O at/O a/O train/O station/O in/O Yunnan/LOCATION province/LOCATION on/O Saturday/O ,/O according/O to/O China/LOCATION 's/O Xinhua/ORGANIZATION state/O news/O agency/O ./O 
+Uighur/O separatists/O from/O the/O restive/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> were/O responsible/O for/O the/O mass/O stabbing/O at/O a/O train/O station/O in/O Yunnan/LOCATION <OTHER>province/LOCATION</OTHER> on/O Saturday/O ,/O according/O to/O China/LOCATION 's/O Xinhua/ORGANIZATION state/O news/O agency/O ./O 
 At/O least/O 10/O knife-wielding/O assailants/O clad/O in/O black/O randomly/O attacked/O pedestrians/O at/O the/O train/O station/O in/O the/O city/O of/O Kunming/LOCATION ./O 
 At/O least/O 33/O people/O died/O and/O another/O 130/O people/O were/O injured/O in/O the/O attack/O ./O 
 Police/O shot/O dead/O four/O of/O the/O assailants/O and/O detained/O another/O ./O 
 Five/O other/O culprits/O are/O on/O the/O run/O ,/O according/O to/O state/O media/O ./O 
-``/O Evidence/O at/O the/O crime/O scene/O showed/O that/O the/O Kunming/LOCATION railway/O station/O terrorist/O attack/O was/O carried/O out/O by/O Xinjiang/LOCATION separatist/O forces/O ,/O ''/O Xinhua/ORGANIZATION reported/O ./O 
+``/O Evidence/O at/O the/O crime/O scene/O showed/O that/O the/O Kunming/LOCATION railway/O station/O terrorist/O attack/O was/O carried/O out/O by/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> separatist/O forces/O ,/O ''/O Xinhua/ORGANIZATION reported/O ./O 
 Chinese/O President/O Xi/PERSON Jinping/PERSON has/O called/O for/O ``/O all-out/O efforts/O ''/O to/O bring/O the/O culprits/O to/O justice/O ``/O in/O accordance/O with/O the/O law/O ./O ''/O 
 The/O country/O 's/O domestic/O security/O chief/O ,/O Meng/PERSON Jianzhu/PERSON ,/O has/O been/O dispatched/O to/O the/O scene/O to/O oversee/O the/O handling/O of/O the/O case/O ,/O according/O to/O the/O state/O television/O broadcaster/O CCTV/ORGANIZATION ./O 
-Restive/O Xinjiang/LOCATION The/O western/O province/O of/O Xinjiang/LOCATION ,/O located/O 1,000/O kilometers/O away/O from/O the/O scene/O of/O Saturday/O 's/O attack/O in/O Yunnan/LOCATION ,/O has/O a/O long/O history/O of/O unrest/O ./O 
-Uighur/O Muslims/O native/O to/O Xinjiang/LOCATION accuse/O Beijing/LOCATION of/O restricting/O their/O religious/O and/O cultural/O practices/O ./O 
-Knife/O and/O bomb/O attacks/O against/O government/O officials/O are/O known/O to/O occur/O sporadically/O in/O Xinjiang/LOCATION ./O 
+Restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 
+The/O western/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O located/O 1,000/O kilometers/O away/O from/O the/O scene/O of/O Saturday/O 's/O attack/O in/O Yunnan/LOCATION ,/O has/O a/O long/O history/O of/O unrest/O ./O 
+Uighur/O Muslims/O native/O to/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> accuse/O Beijing/LOCATION of/O restricting/O their/O religious/O and/O cultural/O practices/O ./O 
+Knife/O and/O bomb/O attacks/O against/O government/O officials/O are/O known/O to/O occur/O sporadically/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 But/O violence/O related/O to/O the/O Uighur/O community/O 's/O political/O situation/O typically/O does/O not/O occur/O outside/O of/O their/O native/O province/O ./O 
 In/O one/O high-profile/O incident/O last/O October/O ,/O three/O Uighur/O family/O members/O set/O fire/O to/O their/O car/O in/O Beijing/LOCATION 's/O Tiananmen/LOCATION Square/LOCATION ,/O killing/O themselves/O and/O two/O bystanders/O ./O 
-slk/jr/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O 
+slk/jr/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O

@@ -1,31 +1,33 @@
-The/O Chinese/O authorities/O often/O cite/O religion/O in/O conjunction/O with/O acts/O of/O violence/O in/O Xinjiang/LOCATION ./O 
+The/O Chinese/O authorities/O often/O cite/O religion/O in/O conjunction/O with/O acts/O of/O violence/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 But/O for/O many/O Muslims/O in/O China/LOCATION 's/O northwest/O ,/O faith/O is/O not/O linked/O with/O politics/O ./O 
-Most/O see/O Islam/O as/O a/O positive/O force/O for/O society/O ./O 
-It/O 's/O time/O for/O afternoon/O prayers/O in/O Urumqi/LOCATION ./O 
+Most/O see/O <ORGANIZATION>Islam/O</ORGANIZATION> as/O a/O positive/O force/O for/O society/O ./O 
+It/O 's/O time/O for/O afternoon/O prayers/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
 The/O mosque/O administrator/O ,/O Ma/PERSON Jianguo/PERSON */O ,/O opens/O the/O iron/O door/O ./O 
 Men/O with/O beards/O wearing/O white/O shirts/O trail/O into/O the/O building/O ./O 
 Many/O of/O them/O are/O young/O ./O 
-``/O They/O think/O that/O if/O they/O do/O business/O everyday/O ,/O drink/O alcohol/O ,/O smoke/O and/O do/O n't/O accept/O Allah/O ,/O they/O will/O be/O punished/O and/O then/O business/O wo/O n't/O be/O so/O good/O ,/O ''/O the/O 70-year-old/O Ma/PERSON explains/O ./O 
-``/O They/O hope/O that/O if/O they/O go/O to/O prayers/O and/O behave/O in/O such/O and/O such/O a/O way/O ,/O Allah/O will/O also/O behave/O in/O such/O and/O such/O a/O manner/O .../O ''/O Some/O young/O businessmen/O hope/O they/O will/O be/O more/O successful/O if/O they/O go/O to/O prayers/O Different/O approaches/O to/O faith/O However/O ,/O Ma/PERSON says/O that/O faith/O should/O not/O be/O motivated/O by/O material/O desire/O ./O 
+``/O They/O think/O that/O if/O they/O do/O business/O everyday/O ,/O drink/O alcohol/O ,/O smoke/O and/O do/O n't/O accept/O <PERSON>Allah/O</PERSON> ,/O they/O will/O be/O punished/O and/O then/O business/O wo/O n't/O be/O so/O good/O ,/O ''/O the/O 70-year-old/O Ma/PERSON explains/O ./O 
+``/O They/O hope/O that/O if/O they/O go/O to/O prayers/O and/O behave/O in/O such/O and/O such/O a/O way/O ,/O <PERSON>Allah/O</PERSON> will/O also/O behave/O in/O such/O and/O such/O a/O manner/O .../O ''/O Some/O young/O businessmen/O hope/O they/O will/O be/O more/O successful/O if/O they/O go/O to/O prayers/O 
+Different/O approaches/O to/O faith/O However/O ,/O Ma/PERSON says/O that/O faith/O should/O not/O be/O motivated/O by/O material/O desire/O ./O 
 His/O father/O ,/O who/O was/O an/O imam/O ,/O was/O forced/O to/O work/O for/O seven/O years/O in/O a/O coal/O mine/O during/O the/O Cultural/O Revolution/O ./O 
-He/O taught/O his/O four/O children/O about/O Islam/PERSON and/O how/O to/O believe/O :/O ``/O Whether/O you/O have/O money/O or/O not/O ,/O something/O to/O eat/O or/O not/O ,/O I/O do/O not/O care/O about/O your/O things/O ./O 
-Pray/O to/O me/O the/O way/O I/O taught/O you/O to/O ,/O that/O 's/O the/O word/O of/O Allah/O ,/O ''/O Ma/PERSON says/O ./O 
-Many/O young/O Muslims/O in/O Urumqi/LOCATION listen/O to/O Western/O music/O and/O wear/O Western/O clothes/O ./O 
+He/O taught/O his/O four/O children/O about/O <ORGANIZATION>Islam/PERSON</ORGANIZATION> and/O how/O to/O believe/O :/O ``/O Whether/O you/O have/O money/O or/O not/O ,/O something/O to/O eat/O or/O not/O ,/O I/O do/O not/O care/O about/O your/O things/O ./O 
+Pray/O to/O me/O the/O way/O I/O taught/O you/O to/O ,/O that/O 's/O the/O word/O of/O <PERSON>Allah/O</PERSON> ,/O ''/O Ma/PERSON says/O ./O 
+Many/O young/O Muslims/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> listen/O to/O Western/O music/O and/O wear/O Western/O clothes/O ./O 
 They/O might/O even/O have/O a/O boyfriend/O or/O girlfriend/O before/O getting/O married/O ./O 
 Young/O women/O who/O wear/O headscarves/O are/O in/O the/O minority/O ./O 
-Alwina/LOCATION is/O Kazakh/O ./O 
-She/O has/O just/O finished/O her/O economics/O studies/O at/O Xinjiang/ORGANIZATION University/ORGANIZATION ./O 
+<PERSON>Alwina/LOCATION</PERSON> is/O Kazakh/O ./O 
+She/O has/O just/O finished/O her/O economics/O studies/O at/O <U_ORGANIZATION>Xinjiang/ORGANIZATION University/ORGANIZATION</U_ORGANIZATION> ./O 
 She/O is/O working/O over/O the/O summer/O in/O a/O bar/O ./O 
 ``/O It/O 's/O hard/O to/O talk/O about/O faith/O ,/O ''/O she/O says/O ./O 
 ``/O If/O you/O believe/O it/O 's/O enough/O ,/O you/O do/O n't/O have/O to/O go/O anywhere/O extra/O ./O 
 Sometimes/O I/O do/O n't/O pray/O or/O go/O to/O prayers/O but/O religion/O has/O an/O important/O place/O in/O my/O heart/O ./O ''/O 
 She/O used/O to/O think/O she/O would/O only/O marry/O a/O Muslim/O but/O now/O she/O does/O n't/O think/O religion/O should/O restrict/O love/O ./O 
-Alina/PERSON ,/O a/O Uighur/O student/O ,/O has/O a/O different/O viewpoint/O :/O ``/O I/O would/O not/O marry/O a/O Han/O Chinese/O ,/O our/O religion/O would/O n't/O allow/O it/O ./O 
+<U_PERSON>Alina/PERSON</U_PERSON> ,/O a/O Uighur/O student/O ,/O has/O a/O different/O viewpoint/O :/O ``/O I/O would/O not/O marry/O a/O Han/O Chinese/O ,/O our/O religion/O would/O n't/O allow/O it/O ./O 
 It/O 's/O a/O religious/O problem/O ./O ''/O 
-Elder/O Uighurs/O praying/O Discrimination/O against/O Muslims/O stepped/O up/O since/O riots/O Another/O problem/O is/O that/O people/O who/O belong/O to/O the/O university/O are/O not/O allowed/O to/O go/O to/O the/O mosque/O and/O praying/O is/O forbidden/O on/O the/O university/O campus/O ./O 
-``/O I/O do/O n't/O know/O why/O we/O 're/O not/O allowed/O to/O pray/O ,/O ''/O says/O Alina/PERSON ./O 
+Elder/O Uighurs/O praying/O Discrimination/O against/O Muslims/O stepped/O up/O since/O riots/O 
+Another/O problem/O is/O that/O people/O who/O belong/O to/O the/O university/O are/O not/O allowed/O to/O go/O to/O the/O mosque/O and/O praying/O is/O forbidden/O on/O the/O university/O campus/O ./O 
+``/O I/O do/O n't/O know/O why/O we/O 're/O not/O allowed/O to/O pray/O ,/O ''/O says/O <U_PERSON>Alina/PERSON</U_PERSON> ./O 
 ``/O They/O think/O it/O 's/O a/O waste/O of/O time/O ./O ''/O 
-After/O the/O riots/O last/O year/O in/O Urumqi/LOCATION ,/O the/O authorities/O stipulated/O that/O mosques/O could/O no/O longer/O teach/O and/O ordered/O the/O doors/O to/O be/O kept/O closed/O outside/O of/O prayer/O times/O ./O 
+After/O the/O riots/O last/O year/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O the/O authorities/O stipulated/O that/O mosques/O could/O no/O longer/O teach/O and/O ordered/O the/O doors/O to/O be/O kept/O closed/O outside/O of/O prayer/O times/O ./O 
 Banners/O with/O propaganda/O slogans/O criticising/O separatism/O have/O been/O plastered/O on/O the/O walls/O ./O 
 ``/O I/O would/O like/O to/O take/O them/O down/O but/O I/O do/O n't/O dare/O ,/O ''/O says/O Ma/PERSON ./O 
 ``/O As/O soon/O as/O I/O did/O it/O they/O would/O come/O and/O ask/O me/O why/O ./O 
@@ -33,4 +35,6 @@ I/O 'm/O scared/O ./O ''/O
 He/O adds/O that/O state/O officials/O come/O every/O Friday/O to/O ensure/O that/O the/O imam/O includes/O a/O spiel/O against/O separatism/O and/O violence/O as/O part/O of/O his/O sermon/O ./O 
 Repression/O against/O the/O mainly/O Sunni/O Muslim/O Uighurs/O has/O risen/O since/O last/O year/O 's/O riots/O ./O 
 Observers/O fear/O this/O could/O trigger/O a/O rise/O of/O extremism/O in/O the/O region/O ,/O which/O until/O now/O has/O had/O a/O largely/O liberal/O understanding/O of/O Islam/O ./O 
-Author/O :/O Ye/PERSON Zhiliang/PERSON -LRB-/O act/O -RRB-/O Editor/O :/O Thomas/PERSON Baerthlein/PERSON */O All/O the/O names/O have/O been/O changed/O 
+Author/O :/O Ye/PERSON Zhiliang/PERSON -LRB-/O act/O -RRB-/O 
+Editor/O :/O Thomas/PERSON Baerthlein/PERSON 
+*/O All/O the/O names/O have/O been/O changed/O
