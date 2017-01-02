@@ -1,9 +1,9 @@
-Bloody/O riots/O broke/O out/O a/O month/O ago/O in/O the/O northwestern/O Chinese/O province/O of/O Xinjiang/LOCATION ./O 
+Bloody/O riots/O broke/O out/O a/O month/O ago/O in/O the/O northwestern/O Chinese/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 The/O figures/O are/O still/O unknown/O ./O 
 The/O Chinese/O authorities/O say/O 197/O people/O died/O in/O the/O clashes/O between/O Han/O Chinese/O --/O the/O majority/O population/O in/O China/LOCATION --/O and/O Uighurs/O --/O a/O Muslim/ORGANIZATION minority/O ./O 
-The/O government/O has/O accused/O the/O Munich-based/O World/O Uighur/O Congress/O of/O inciting/O the/O violence/O ./O 
-A/O climate/O of/O fear/O currently/O reigns/O over/O the/O city/O of/O Urumqi/LOCATION where/O the/O riots/O broke/O out/O ./O 
-At/O a/O car/O dealership/O in/O Urumqi/LOCATION ,/O there/O are/O burnt-out/O cars/O and/O smoke-blackened/O walls/O ./O 
+The/O government/O has/O accused/O the/O Munich-based/O <U_ORGANIZATION>World/O Uighur/O Congress/O</U_ORGANIZATION> of/O inciting/O the/O violence/O ./O 
+A/O climate/O of/O fear/O currently/O reigns/O over/O the/O city/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> where/O the/O riots/O broke/O out/O ./O 
+At/O a/O car/O dealership/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O there/O are/O burnt-out/O cars/O and/O smoke-blackened/O walls/O ./O 
 Riot/O police/O with/O protective/O shields/O and/O machine/O guns/O stand/O on/O the/O opposite/O corner/O ./O 
 Duan/PERSON Zongcheng/PERSON is/O an/O 18-year-old/O mechanic/O ./O 
 He/O 's/O Han/O Chinese/O and/O he/O 's/O scared/O ./O 
@@ -20,8 +20,8 @@ Before/O it/O used/O to/O be/O perfectly/O normal/O when/O I/O greeted/O my/O Ui
 Duan/PERSON Zongcheng/PERSON lives/O across/O the/O road/O from/O the/O car/O dealership/O --/O in/O a/O poor/O district/O with/O small/O houses/O ./O 
 Most/O of/O his/O neighbours/O are/O Uighurs/O ./O 
 But/O the/O streets/O have/O been/O empty/O since/O the/O clashes/O ./O 
-Uighurs/O are/O also/O scared/O ``/O The/O people/O in/O this/O neighbourhood/O are/O all/O from/O the/O south/O of/O the/O province/O of/O Xinjiang/LOCATION ,/O from/O Aksu/PERSON ,/O Hotan/LOCATION and/O Kashgar/LOCATION ,/O ''/O explained/O this/O Uighur/O ,/O who/O was/O willing/O to/O talk/O for/O a/O short/O amount/O of/O time/O ./O 
-``/O When/O I/O arrived/O in/O Urumqi/LOCATION I/O could/O n't/O speak/O a/O word/O of/O Chinese/O ./O 
+Uighurs/O are/O also/O scared/O ``/O The/O people/O in/O this/O neighbourhood/O are/O all/O from/O the/O south/O of/O the/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O from/O <U_LOCATION>Aksu/PERSON</U_LOCATION> ,/O <U_LOCATION>Hotan/LOCATION</U_LOCATION> and/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> ,/O ''/O explained/O this/O Uighur/O ,/O who/O was/O willing/O to/O talk/O for/O a/O short/O amount/O of/O time/O ./O 
+``/O When/O I/O arrived/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> I/O could/O n't/O speak/O a/O word/O of/O Chinese/O ./O 
 A/O friend/O helped/O me/O and/O now/O it/O 's/O easier/O ./O 
 People/O like/O us/O do/O n't/O have/O land/O that/O we/O can/O cultivate/O back/O home/O ./O 
 That/O 's/O why/O we/O come/O here/O to/O find/O work/O ./O 
@@ -33,7 +33,7 @@ Business/O is/O bad/O ./O
 I/O only/O have/O enough/O to/O keep/O my/O head/O above/O water/O ./O ''/O 
 The/O man/O ran/O off/O after/O being/O asked/O for/O the/O reasons/O behind/O the/O violence/O last/O month/O ,/O saying/O he/O did/O n't/O know/O ./O 
 Many/O Han/O Chinese/O ,/O for/O their/O part/O ,/O say/O that/O Uighurs/O are/O ungrateful/O --/O they/O are/O allowed/O to/O have/O up/O to/O three/O children/O and/O have/O more/O access/O to/O higher/O education/O ./O 
-Change/O in/O minority/O policy/O needed/O Pan/PERSON Zhiping/PERSON from/O the/O Academy/ORGANIZATION of/ORGANIZATION Social/ORGANIZATION Sciences/ORGANIZATION in/O Urumqi/LOCATION thinks/O such/O privileges/O should/O be/O maintained/O but/O that/O there/O also/O needs/O to/O be/O a/O change/O in/O Chinese/O minority/O policy/O ./O 
+Change/O in/O minority/O policy/O needed/O Pan/PERSON Zhiping/PERSON from/O the/O Academy/ORGANIZATION of/ORGANIZATION Social/ORGANIZATION Sciences/ORGANIZATION in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> thinks/O such/O privileges/O should/O be/O maintained/O but/O that/O there/O also/O needs/O to/O be/O a/O change/O in/O Chinese/O minority/O policy/O ./O 
 ``/O I/O think/O that/O in/O a/O modern/O society/O we/O have/O to/O strengthen/O the/O notion/O of/O the/O citizen/O ,/O ''/O he/O said/O ./O 
 ``/O We/O should/O not/O highlight/O ethnic/O identity/O ./O 
 What/O 's/O it/O like/O in/O Germany/LOCATION ?/O 
@@ -42,7 +42,8 @@ That/O would/O not/O be/O allowed/O --/O it/O would/O be/O almost/O racist/O ./O
 What/O we/O have/O to/O achieve/O is/O that/O if/O somebody/O says/O he/O belongs/O to/O a/O certain/O ethnic/O group/O and/O wants/O to/O be/O respected/O for/O it/O ,/O he/O should/O get/O respect/O ./O 
 That/O 's/O the/O most/O important/O thing/O ./O 
 But/O if/O he/O does/O n't/O think/O it/O 's/O important/O we/O should/O n't/O care/O about/O his/O ethnic/O identity/O at/O all/O ./O ''/O 
-On/O Wednesday/O ,/O the/O head/O of/O the/O World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION Rebiya/PERSON Kadeer/PERSON said/O the/O Chinese/O authorities/O had/O inflamed/O ethnic/O tensions/O in/O Xinjiang/LOCATION by/O deceiving/O people/O about/O the/O unrest/O ./O 
+On/O Wednesday/O ,/O the/O head/O of/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> <U_PERSON>Rebiya/PERSON Kadeer/PERSON</U_PERSON> said/O the/O Chinese/O authorities/O had/O inflamed/O ethnic/O tensions/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> by/O deceiving/O people/O about/O the/O unrest/O ./O 
 So/O far/O ,/O hundreds/O of/O people/O have/O been/O detained/O in/O connection/O with/O the/O unrest/O ./O 
 According/O to/O Chinese/O state/O media/O 83/O people/O will/O formally/O face/O charges/O ./O 
-Author/O :/O Astrid/O Freyeisen/Anne/O Thomas/O Editor/O :/O Disha/PERSON Uppal/PERSON 
+Author/O :/O<PERSON> Astrid/O Freyeisen/O</PERSON> //O <PERSON>Anne/O Thomas/O</PERSON> 
+Editor/O :/O Disha/PERSON Uppal/PERSON

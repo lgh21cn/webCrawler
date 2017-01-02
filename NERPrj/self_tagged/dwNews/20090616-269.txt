@@ -1,6 +1,6 @@
 Italy/LOCATION has/O agreed/O to/O accept/O three/O Guantanamo/LOCATION detainees/O ./O 
 The/O announcement/O came/O after/O talks/O between/O US/LOCATION President/O Barack/PERSON Obama/PERSON and/O Italian/O Prime/O Minister/O Silvio/PERSON Berlusconi/PERSON in/O Washington/LOCATION ./O 
-``/O I/O thanked/O the/O prime/O minister/O for/O his/O support/O of/O our/O policy/O of/O closing/O Guantanamo/O ,/O ''/O Obama/PERSON said/O after/O the/O meeting/O at/O the/O White/LOCATION House/LOCATION ./O 
+``/O I/O thanked/O the/O prime/O minister/O for/O his/O support/O of/O our/O policy/O of/O closing/O Guantanamo/O ,/O ''/O Obama/PERSON said/O after/O the/O meeting/O at/O the/O <ORGANIZATION>White/LOCATION House/LOCATION</ORGANIZATION> ./O 
 ``/O This/O is/O not/O just/O talk/O ./O 
 Italy/LOCATION has/O agreed/O to/O accept/O three/O specific/O detainees/O ./O ''/O 
 The/O announcement/O comes/O after/O the/O European/ORGANIZATION Union/ORGANIZATION said/O earlier/O on/O Monday/O it/O agreed/O on/O a/O ``/O framework/O ''/O for/O its/O member/O states/O to/O accept/O released/O Guantanamo/LOCATION detainees/O ./O 
@@ -10,4 +10,5 @@ Within/O days/O of/O taking/O office/O on/O January/O ,/O Obama/PERSON set/O a/O
 The/O US/LOCATION administration/O last/O week/O sent/O three/O Saudi/O prisoners/O ,/O one/O Iraqi/O and/O one/O Chadian/O back/O to/O their/O homelands/O ./O 
 Four/O Uighurs/O were/O resettled/O on/O the/O Atlantic/LOCATION island/O of/O Bermuda/LOCATION ,/O and/O the/O US/LOCATION is/O in/O talks/O to/O send/O another/O 13/O of/O the/O Chinese/O Muslims/O to/O the/O Pacific/LOCATION island/O of/O Palau/LOCATION ./O 
 The/O US/LOCATION has/O refused/O to/O send/O them/O back/O to/O China/LOCATION over/O concerns/O they/O could/O be/O tortured/O ./O 
-ai/dpa/Reuters/O Editor/O :/O Jennifer/PERSON Abramsohn/PERSON 
+ai/dpa/Reuters/O 
+Editor/O :/O Jennifer/PERSON Abramsohn/PERSON

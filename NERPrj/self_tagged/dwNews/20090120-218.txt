@@ -3,11 +3,12 @@ China/LOCATION 's/O Ministry/ORGANIZATION of/ORGANIZATION Defence/ORGANIZATION s
 The/O remarks/O came/O as/O China/LOCATION issued/O a/O policy/O paper/O on/O national/O defence/O ./O 
 In/O 2008/O ,/O China/LOCATION raised/O its/O official/O defence/O budget/O by/O nearly/O 46/O billion/O euros/O ,/O which/O is/O an/O 18/O percent/O increase/O from/O 2007/O ./O 
 The/O Information/ORGANIZATION Office/ORGANIZATION for/ORGANIZATION the/ORGANIZATION State/ORGANIZATION Council/ORGANIZATION issued/O the/O military/O policy/O paper/O on/O Tuesday/O ,/O saying/O an/O increased/O defence/O budget/O is/O required/O to/O ensure/O social/O peace/O ./O 
-Speaking/O with/O reporters/O later/O ,/O the/O defence/O ministry/O spokesman/O Hu/PERSON Changming/PERSON said/O though/O China/LOCATION 's/O overall/O security/O situation/O has/O improved/O over/O the/O past/O year/O ,/O it/O needs/O to/O modernise/O its/O armed/O forces/O in/O order/O to/O tackle/O separatists/O in/O Tibet/LOCATION and/O Xinjiang/LOCATION ./O 
+Speaking/O with/O reporters/O later/O ,/O the/O defence/O ministry/O spokesman/O Hu/PERSON Changming/PERSON said/O though/O China/LOCATION 's/O overall/O security/O situation/O has/O improved/O over/O the/O past/O year/O ,/O it/O needs/O to/O modernise/O its/O armed/O forces/O in/O order/O to/O tackle/O separatists/O in/O Tibet/LOCATION and/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 Lili/PERSON Xiong/PERSON ,/O an/O expert/O from/O the/O Beijing/LOCATION based/O University/ORGANIZATION of/ORGANIZATION International/ORGANIZATION Business/ORGANIZATION and/ORGANIZATION Economics/ORGANIZATION ,/O explains/O why/O ,/O he/O thinks/O ,/O the/O country/O needs/O high/O defence/O spending/O :/O ``/O For/O such/O a/O vast/O and/O populous/O country/O the/O military/O budget/O can/O not/O be/O low/O ./O 
 Secondly/O ,/O the/O military/O technology/O of/O China/LOCATION is/O very/O backward/O ./O 
 And/O thirdly/O ,/O with/O the/O development/O of/O economy/O the/O cost/O of/O human/O resources/O in/O China/LOCATION is/O becoming/O higher/O and/O higher/O ,/O which/O means/O the/O salaries/O of/O soldiers/O are/O becoming/O higher/O too/O ./O ''/O 
-Taiwan/LOCATION issue/O China/LOCATION also/O insists/O that/O forces/O for/O independence/O in/O Taiwan/LOCATION are/O one/O of/O its/O top/O security/O concerns/O ./O 
+Taiwan/LOCATION issue/O 
+China/LOCATION also/O insists/O that/O forces/O for/O independence/O in/O Taiwan/LOCATION are/O one/O of/O its/O top/O security/O concerns/O ./O 
 Taiwan/LOCATION and/O China/LOCATION have/O been/O separated/O since/O the/O end/O of/O the/O civil/O war/O in/O 1949/O ./O 
 But/O China/LOCATION considers/O the/O self-ruled/O island/O a/O part/O of/O its/O territory/O and/O supports/O reunification/O ./O 
 Expert/O Lili/PERSON Xiong/PERSON says/O the/O increase/O in/O defence/O budget/O does/O n't/O mean/O Beijing/LOCATION is/O preparing/O for/O war/O against/O Taiwan/LOCATION ./O 
@@ -16,8 +17,9 @@ Hence/O the/O US/LOCATION decision/O to/O sell/O $/O 6.5/O billion/O worth/O arm
 And/O with/O the/O promises/O of/O change/O generated/O by/O Barack/PERSON Obama/PERSON 's/O presidency/O ,/O Beijing/LOCATION has/O urged/O the/O US/LOCATION to/O make/O efforts/O to/O create/O favourable/O conditions/O and/O promote/O better/O military/O relations/O ./O 
 ``/O That/O means/O we/O want/O to/O construct/O mutual/O trust/O between/O the/O two/O countries/O ./O 
 Though/O their/O ideologies/O are/O different/O ,/O China/LOCATION and/O the/O US/LOCATION have/O many/O issues/O in/O common/O ,/O ''/O says/O expert/O Lili/PERSON Xiong/PERSON ./O 
-Sino-US/O ties/O It/O has/O been/O 30/O years/O since/O the/O establishment/O of/O diplomatic/O relations/O between/O Washington/LOCATION and/O Beijing/LOCATION ./O 
+Sino-US/O ties/O 
+It/O has/O been/O 30/O years/O since/O the/O establishment/O of/O diplomatic/O relations/O between/O Washington/LOCATION and/O Beijing/LOCATION ./O 
 Bilateral/O political/O and/O trade/O ties/O have/O grown/O tremendously/O between/O the/O two/O sides/O since/O then/O ./O 
 Therefore/O expectations/O are/O high/O from/O Barack/PERSON Obama/PERSON ,/O as/O he/O takes/O over/O ,/O says/O Gu/PERSON Yuewu/PERSON ,/O a/O political/O expert/O from/O the/O University/ORGANIZATION of/ORGANIZATION Bochum/ORGANIZATION :/O ``/O Obama/PERSON is/O someone/O ,/O who/O ,/O from/O the/O Chinese/O perspective/O ,/O has/O a/O better/O understanding/O of/O non-American/O cultures/O and/O background/O ./O 
 Hence/O ,/O it/O is/O expected/O that/O while/O dealing/O with/O China/LOCATION ,/O he/O will/O try/O and/O understand/O the/O China-specific/O interests/O and/O concerns/O ,/O which/O do/O n't/O really/O correspond/O to/O American/O traditions/O ./O ''/O 
-However/O questions/O remain/O regarding/O whether/O Obama/PERSON and/O his/O government/O will/O be/O able/O to/O meet/O up/O to/O these/O expectations/O ,/O especially/O in/O view/O of/O a/O massive/O trade/O imbalance/O the/O US/LOCATION faces/O amid/O the/O global/O economic/O crisis/O ./O 
+However/O questions/O remain/O regarding/O whether/O Obama/PERSON and/O his/O government/O will/O be/O able/O to/O meet/O up/O to/O these/O expectations/O ,/O especially/O in/O view/O of/O a/O massive/O trade/O imbalance/O the/O US/LOCATION faces/O amid/O the/O global/O economic/O crisis/O ./O

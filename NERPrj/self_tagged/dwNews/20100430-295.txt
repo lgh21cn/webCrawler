@@ -6,19 +6,24 @@ China/LOCATION is/O Australia/LOCATION 's/O second/O largest/O buyer/O of/O expo
 Many/O Australians/O believe/O it/O is/O China/LOCATION 's/O consumption/O that/O saved/O Australia/LOCATION from/O the/O global/O economic/O crisis/O and/O Radio/ORGANIZATION Australia/ORGANIZATION 's/O Linda/PERSON Mottram/PERSON is/O one/O of/O them/O ./O 
 ``/O There/O is/O no/O question/O that/O purely/O on/O the/O numbers/O ,/O Australia/LOCATION has/O been/O lifted/O up/O by/O China/LOCATION ./O 
 Were/O it/O not/O for/O China/LOCATION 's/O very/O quick/O recovery/O and/O its/O resumption/O of/O very/O vigorous/O purchases/O of/O Australian/O commodities/O ,/O then/O Australia/LOCATION 's/O economy/O would/O be/O in/O a/O far/O worse/O situation/O than/O it/O is/O at/O the/O moment/O ./O ''/O 
-The/O Land/O Down/O Under/O relies/O heavily/O on/O the/O export/O of/O its/O raw/O materials/O The/O economic/O situation/O is/O a/O positive/O side/O for/O Australia/LOCATION ./O 
+The/O Land/O Down/O 
+Under/O relies/O heavily/O on/O the/O export/O of/O its/O raw/O materials/O The/O economic/O situation/O is/O a/O positive/O side/O for/O Australia/LOCATION ./O 
 But/O it/O is/O not/O the/O only/O factor/O that/O shapes/O Sino-Australian/O relations/O ./O 
 Mottram/PERSON says/O there/O are/O other/O fundamental/O issues/O ,/O such/O as/O human/O rights/O ,/O on/O which/O the/O two/O sides/O have/O difficulty/O agreeing/O ./O 
 Overall/O ,/O she/O believes/O ,/O Australians/O hold/O a/O ``/O kind/O of/O contradictory/O view/O of/O China/LOCATION --/O it/O is/O very/O difficult/O to/O reconcile/O because/O on/O the/O one/O hand/O there/O is/O a/O great/O strength/O in/O the/O economic/O relationship/O ,/O and/O there/O is/O the/O view/O that/O Australia/LOCATION is/O benefitting/O from/O that/O ,/O but/O on/O the/O other/O hand/O ,/O there/O are/O those/O very/O complex/O and/O fundamental/O issues/O of/O core/O values/O ./O ''/O 
-Core/O values/O The/O issue/O of/O core/O values/O was/O questioned/O again/O in/O March/O ,/O when/O coverage/O of/O the/O Rio/LOCATION Tinto/LOCATION trial/O dominated/O Australian/O media/O ./O 
-Stern/O Hu/O ,/O an/O Australian/O national/O and/O executive/O of/O the/O Australian/O Rio/LOCATION Tinto/LOCATION mining/O giant/O ,/O had/O been/O charged/O and/O was/O later/O convicted/O in/O a/O Chinese/O court/O on/O charges/O of/O corruption/O and/O industrial/O espionage/O ./O 
-Australia/LOCATION and/O China/LOCATION closed/O a/O uranium/O deal/O in/O 2006/O Throughout/O the/O case/O ,/O China/LOCATION was/O criticized/O largely/O by/O the/O Australian/O public/O and/O also/O by/O Australian/O Prime/O Minister/O ,/O Kevin/PERSON Rudd/PERSON ,/O for/O its/O handling/O of/O the/O case/O ,/O especially/O for/O holding/O trials/O in/O secret/O and/O not/O allowing/O the/O presence/O of/O the/O media/O or/O Australian/O officials/O ./O 
+Core/O values/O 
+The/O issue/O of/O core/O values/O was/O questioned/O again/O in/O March/O ,/O when/O coverage/O of/O the/O <ORGANIZATION>Rio/LOCATION Tinto/LOCATION</ORGANIZATION> trial/O dominated/O Australian/O media/O ./O 
+<PERSON>Stern/O Hu/O</PERSON> ,/O an/O Australian/O national/O and/O executive/O of/O the/O Australian/O <ORGANIZATION><LOCATION>Rio/LOCATION Tinto/LOCATION</ORGANIZATION> mining/O giant/O ,/O had/O been/O charged/O and/O was/O later/O convicted/O in/O a/O Chinese/O court/O on/O charges/O of/O corruption/O and/O industrial/O espionage/O ./O 
+Australia/LOCATION and/O China/LOCATION closed/O a/O uranium/O deal/O in/O 2006/O
+Throughout/O the/O case/O ,/O China/LOCATION was/O criticized/O largely/O by/O the/O Australian/O public/O and/O also/O by/O Australian/O Prime/O Minister/O ,/O Kevin/PERSON Rudd/PERSON ,/O for/O its/O handling/O of/O the/O case/O ,/O especially/O for/O holding/O trials/O in/O secret/O and/O not/O allowing/O the/O presence/O of/O the/O media/O or/O Australian/O officials/O ./O 
 ``/O It/O was/O seen/O as/O a/O classic/O example/O of/O China/LOCATION 's/O lack/O of/O transparency/O ,/O a/O weak/O legal/O system/O and/O perhaps/O political/O manipulation/O ,/O ''/O says/O Mottram/PERSON ./O 
 A/O further/O area/O of/O concern/O for/O Australia/LOCATION is/O China/LOCATION 's/O military/O spending/O ./O 
 Professor/O Carl/PERSON Thayer/PERSON from/O the/O University/ORGANIZATION of/ORGANIZATION New/ORGANIZATION South/ORGANIZATION Wales/ORGANIZATION says/O China/LOCATION is/O sometimes/O a/O cause/O for/O concern/O for/O Australia/LOCATION because/O of/O its/O geographical/O proximity/O :/O ``/O There/O are/O always/O reservations/O on/O the/O defense/O side/O and/O it/O echoes/O US/LOCATION concerns/O about/O greater/O transparency/O in/O rising/O Chinese/O budgets/O :/O why/O is/O china/O spending/O so/O much/O on/O defense/O ?/O 
 Australia/LOCATION can/O not/O be/O happy/O when/O China/LOCATION acquires/O military/O capabilities/O that/O can/O take/O out/O American/O satellites/O ,/O that/O can/O destroy/O aircraft/O carriers/O and/O prevent/O the/O United/LOCATION States/LOCATION e.g./O from/O coming/O to/O Taiwan/LOCATION 's/O aid/O in/O a/O crisis/O ./O ''/O 
-Smoke/O and/O mirrors/O The/O Rio/LOCATION Tinto/LOCATION case/O caused/O an/O uproar/O in/O Australian/O media/O ./O 
-The/O main/O defendant/O ,/O Stern/O Hu/O ,/O received/O 10/O years/O in/O prison/O Thayer/PERSON says/O there/O are/O a/O variety/O of/O separate/O issues/O which/O aggravate/O relations/O between/O the/O two/O countries/O on/O a/O minor/O level/O ,/O for/O example/O the/O showing/O of/O a/O Uighur/O film/O at/O an/O Australian/O film/O festival/O last/O year/O and/O official/O visits/O to/O Australia/LOCATION by/O the/O Dalai/PERSON Lama/PERSON ./O 
+Smoke/O and/O mirrors/O 
+<ORGANIZATION>The/O Rio/LOCATION Tinto/LOCATION</ORGANIZATION> case/O caused/O an/O uproar/O in/O Australian/O media/O ./O 
+The/O main/O defendant/O ,/O <PERSON>Stern/O Hu/O</PERSON> ,/O received/O 10/O years/O in/O prison/O 
+Thayer/PERSON says/O there/O are/O a/O variety/O of/O separate/O issues/O which/O aggravate/O relations/O between/O the/O two/O countries/O on/O a/O minor/O level/O ,/O for/O example/O the/O showing/O of/O a/O Uighur/O film/O at/O an/O Australian/O film/O festival/O last/O year/O and/O official/O visits/O to/O Australia/LOCATION by/O the/O Dalai/PERSON Lama/PERSON ./O 
 But/O Thayer/PERSON sees/O no/O need/O to/O worry/O ./O 
 ``/O We/O call/O that/O smoke/O and/O mirrors/O ./O 
 China/LOCATION goes/O through/O stamping/O on/O the/O stage/O ,/O expressing/O its/O anger/O and/O then/O it/O blows/O over/O ./O ''/O 
@@ -26,4 +31,5 @@ Thayer/PERSON believes/O these/O other/O issues/O do/O not/O overshadow/O the/O 
 ``/O The/O larger/O view/O is/O that/O it/O 's/O a/O win-win/O for/O Australia/LOCATION :/O we/O get/O locked/O in/O economic/O deals/O with/O China/LOCATION ,/O China/LOCATION is/O investing/O in/O this/O country/O ,/O there/O is/O tourism/O in/O both/O directions/O ./O 
 Australia/LOCATION sees/O itself/O as/O part/O of/O Asia/LOCATION and/O sees/O China/LOCATION generally/O as/O a/O positive/O force/O there/O ./O 
 And/O would/O want/O to/O encourage/O China/LOCATION to/O become/O a/O responsible/O stakeholder/O ,/O rather/O than/O antagonize/O or/O take/O on/O China/LOCATION ./O ''/O 
-Author/O :/O Sarah/PERSON Berning/PERSON Editor/O :/O Grahame/PERSON Lucas/PERSON 
+Author/O :/O Sarah/PERSON Berning/PERSON 
+Editor/O :/O Grahame/PERSON Lucas/PERSON

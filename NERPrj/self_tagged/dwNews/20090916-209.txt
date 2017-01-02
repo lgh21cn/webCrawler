@@ -4,10 +4,10 @@ World/O famous/O directors/O such/O as/O Zhang/PERSON Yimou/PERSON have/O contri
 At/O this/O year/O 's/O Chinese/O Film/O Festival/O in/O Cologne/LOCATION ,/O it/O was/O the/O turn/O of/O other/O talented/O Chinese/O filmmakers/O to/O try/O to/O make/O a/O name/O for/O themselves/O ./O 
 The/O Chinese/O movie/O industry/O is/O growing/O steadily/O ./O 
 More/O than/O 500/O films/O are/O produced/O each/O year/O --/O mainly/O in/O Shanghai/LOCATION and/O Beijing/LOCATION ./O 
-Cologne/LOCATION 's/O Filmhaus/O chose/O the/O title/O ``/O Visions/O of/O China/LOCATION ''/O for/O its/O third/O Chinese/O film/O festival/O ./O 
+Cologne/LOCATION 's/O <ORGANIZATION>Filmhaus/O</ORGANIZATION> chose/O the/O title/O ``/O Visions/O of/O China/LOCATION ''/O for/O its/O third/O Chinese/O film/O festival/O ./O 
 The/O annual/O festival/O offers/O young/O Chinese/O directors/O to/O show/O their/O work/O to/O a/O wide/O audience/O ./O 
 17/O full-length/O films/O as/O well/O as/O several/O short/O films/O are/O being/O shown/O this/O year/O ./O 
-The/O organisers/O have/O focused/O on/O works/O that/O deal/O with/O ethnic/O minorities/O with/O ,/O for/O example/O ,/O films/O about/O Inner/LOCATION Mongolia/LOCATION and/O the/O Muslim/O area/O of/O Xinjiang/LOCATION ./O 
+The/O organisers/O have/O focused/O on/O works/O that/O deal/O with/O ethnic/O minorities/O with/O ,/O for/O example/O ,/O films/O about/O Inner/LOCATION Mongolia/LOCATION and/O the/O Muslim/O area/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
 ``/O We/O did/O not/O get/O a/O general/O overview/O of/O Chinese/O cinema/O but/O only/O saw/O a/O small/O selection/O of/O the/O films/O that/O are/O produced/O there/O ,/O ''/O said/O Dirk/PERSON Werner/PERSON ,/O one/O of/O the/O festival/O 's/O curators/O ./O 
 ``/O Then/O ,/O we/O made/O a/O further/O selection/O and/O we/O decided/O to/O show/O films/O from/O different/O parts/O of/O China/LOCATION ./O 
 We/O also/O decided/O to/O show/O films/O from/O remote/O provinces/O ./O ''/O 
@@ -24,4 +24,5 @@ Instead/O ,/O it/O offers/O viewers/O the/O chance/O to/O see/O films/O that/O h
 ``/O We/O are/O not/O toeing/O the/O party/O line/O and/O only/O showing/O what/O China/LOCATION has/O approved/O ,/O ''/O insists/O Werner/PERSON ./O 
 ``/O We/O did/O n't/O do/O it/O last/O time/O either/O ./O 
 We/O want/O other/O voices/O also/O to/O have/O a/O chance/O to/O be/O heard/O ./O ''/O 
-Author/O :/O Chi/PERSON Viet/PERSON Giang/PERSON Editor/O :/O Anne/PERSON Thomas/PERSON 
+Author/O :/O Chi/PERSON Viet/PERSON Giang/PERSON 
+Editor/O :/O Anne/PERSON Thomas/PERSON
