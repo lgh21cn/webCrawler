@@ -1,0 +1,21 @@
+Teachers/O note/O who/O does/O not/O eat/O or/O drink/O ,/O threatening/O students/O with/O expulsion/O from/O university/O or/O no/O diplomas/O ./O 
+Many/O students/O fast/O in/O secret/O ./O 
+People/O using/O the/O internet/O to/O spread/O ``/O religious/O extremist/O violent/O terror/O video/O ''/O get/O sentences/O ranging/O from/O 15/O years/O to/O life/O ./O 
+Uygur/O spokesperson/O says/O Beijing/LOCATION is/O afraid/O of/O losing/O its/O information/O monopoly/O ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O -/O 
+Teachers/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> are/O forcing/O many/O Muslim/O students/O to/O eat/O during/O the/O month/O of/O Ramadan/O ./O 
+If/O they/O refuse/O ,/O they/O are/O threatened/O with/O expulsion/O or/O lost/O career/O opportunities/O ./O 
+A/O month/O ago/O ,/O the/O central/O government/O issued/O directives/O to/O stop/O Muslim/O government/O employees/O and/O young/O people/O under/O the/O age/O of/O 18/O from/O fasting/O ./O 
+Several/O days/O later/O ,/O even/O universities/O like/O the/O one/O in/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> did/O the/O same/O ./O 
+Students/O are/O forced/O to/O eat/O in/O front/O of/O their/O teachers/O and/O those/O who/O refuse/O are/O expelled/O or/O denied/O their/O diplomas/O ./O 
+Ramadan/PERSON is/O one/O of/O the/O five/O pillars/O of/O <OTHER>Islam/ORGANIZATION</OTHER> ;/O it/O involves/O not/O eating/O or/O drinking/O from/O dawn/O to/O dusk/O ./O 
+According/O to/O students/O ,/O the/O university/O administration/O hands/O out/O water/O bottles/O and/O food/O during/O the/O day/O ,/O noting/O which/O students/O refuse/O to/O take/O them/O ./O 
+At/O the/O same/O time/O ,/O the/O authorities/O have/O ordered/O restaurants/O to/O close/O during/O the/O evenings/O ,/O threatening/O fines/O for/O those/O who/O do/O not/O obey/O ./O 
+Many/O students/O try/O to/O fast/O in/O secret/O :/O they/O take/O food/O and/O water/O ,/O but/O keep/O them/O until/O the/O evening/O ./O 
+The/O government/O campaign/O against/O <OTHER>Ramadan/PERSON</OTHER> is/O part/O of/O a/O broader/O campaign/O against/O what/O it/O considers/O ``/O violent/O terrorist/O acts/O ''/O by/O minority/O <OTHER>Muslim/PERSON Uygur/PERSON</OTHER> ./O 
+In/O recent/O months/O ,/O attacks/O have/O occurred/O in/O a/O market/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O a/O train/O station/O in/O Kunming/LOCATION ,/O and/O in/O Tiananmen/LOCATION Square/LOCATION ,/O all/O blamed/O on/O Uyghur/O nationalism/O ./O 
+The/O Turkic/O minority/O has/O responded/O saying/O that/O they/O only/O want/O greater/O autonomy/O and/O a/O share/O their/O homeland/O 's/O wealth/O ,/O which/O are/O being/O grabbed/O instead/O by/O ethnic/O Han/O Chinese/O settlers/O ./O 
+In/O its/O fight/O against/O terrorism/O ,/O Beijing/LOCATION is/O depriving/O Uygur/O pf/O their/O freedom/O of/O religion/O and/O culture/O ./O 
+Two/O days/O ago/O ,/O a/O court/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> sentenced/O three/O people/O to/O life/O imprisonment/O and/O 29/O to/O terms/O ranging/O between/O 4/O to/O 15/O years/O in/O prison/O for/O posting/O ``/O religious/O extremist/O violent/O terror/O video/O ''/O online/O ,/O and/O participating/O in/O ``/O terrorist/O organisations/O ''/O ./O 
+<U_PERSON>Dilxat/PERSON Raxit/PERSON</U_PERSON> ,/O spokesman/O for/O the/O exiled/O group/O the/O <U_ORGANIZATION>World/ORGANIZATION Uygur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O said/O that/O the/O sentences/O show/O that/O China/LOCATION is/O afraid/O Uygurs/O would/O use/O the/O internet/O to/O break/O authorities/O '/O monopoly/O on/O information/O ./O 
+``/O China/LOCATION 's/O accusations/O are/O a/O political/O excuse/O to/O suppress/O the/O rights/O of/O Uygur/O to/O use/O the/O internet/O ,/O ''/O he/O said/O ./O

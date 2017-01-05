@@ -1,0 +1,23 @@
+Clashes/O between/O Uighurs/O and/O Han/O Chinese/O in/O northwest/O China/LOCATION have/O sparked/O protests/O and/O demonstrations/O in/O several/O cities/O around/O the/O world/O ./O 
+After/O nearly/O a/O week/O of/O unrest/O and/O clashes/O between/O Muslim/O Uighurs/O and/O Han/O Chinese/O in/O China/LOCATION 's/O northwest/O <U_LOCATION>Xinjian/LOCATION</U_LOCATION> <OTHER>province/LOCATION</OTHER> ,/O members/O of/O the/O Uighur/O community/O and/O supporters/O of/O their/O cause/O protested/O around/O the/O world/O ./O 
+Rising/O concerns/O over/O the/O situation/O have/O caused/O <OTHER>Muslim/PERSON</OTHER> leaders/O to/O speak/O out/O in/O condemnation/O of/O the/O Chinese/O government/O 's/O inability/O to/O calm/O the/O violence/O ./O 
+In/O Berlin/LOCATION around/O 250/O demonstrators/O marched/O from/O the/O Chinese/O embassy/O to/O the/O Brandenberg/LOCATION Gate/LOCATION on/O Friday/O ,/O calling/O on/O the/O international/O community/O to/O intervene/O ./O 
+``/O We/O lost/O our/O language/O 60/O years/O ago/O ,/O ''/O <U_PERSON>Erkin/PERSON Solon/PERSON</U_PERSON> ,/O 23/O ,/O a/O Uighur/O immigrant/O who/O came/O to/O Germany/LOCATION seven/O years/O ago/O ,/O said/O ./O 
+The/O violence/O in/O China/LOCATION has/O claimed/O 184/O lives/O according/O to/O the/O Chinese/O government/O ``/O We/O are/O not/O allowed/O to/O speak/O it/O ./O 
+Or/O learn/O it/O in/O school/O ,/O ''/O he/O said/O ./O 
+``/O Religious/O freedom/O is/O not/O allowed/O ./O 
+We/O are/O not/O allowed/O to/O go/O to/O the/O mosque/O because/O you/O lose/O your/O job/O or/O you/O could/O even/O get/O killed/O ./O ''/O 
+<U_PERSON>Asgar/PERSON Can/PERSON</U_PERSON> ,/O of/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> called/O on/O Germany/LOCATION and/O Europe/LOCATION to/O stop/O the/O persecution/O of/O the/O Uighurs/O in/O China/LOCATION ./O 
+Can/O accused/O the/O Chinese/O government/O of/O encouraging/O ethnic/O Han/O Chinese/O to/O move/O to/O the/O region/O to/O render/O the/O eight/O million-strong/O population/O of/O Uighurs/O a/O minority/O in/O the/O region/O ./O 
+Global/O demonstrations/O flaring/O up/O 
+Across/O the/O Muslim/O world/O ,/O concerns/O have/O been/O raised/O by/O the/O recent/O events/O in/O China/LOCATION ,/O where/O the/O Uighurs/O long/O maintained/O that/O they/O were/O oppressed/O by/O the/O Chinese/O government/O ./O 
+In/O Turkey/LOCATION Prime/O Minister/O Recep/PERSON Tayyip/PERSON Erdogan/PERSON told/O reporters/O :/O ``/O The/O events/O taking/O place/O in/O China/LOCATION amount/O to/O a/O form/O of/O genocide/O ./O ''/O 
+In/O Istanbul/LOCATION ,/O about/O 5,000/O people/O demonstrated/O outside/O the/O Faith/O mosque/O chanting/O ``/O No/O to/O ethnic/O cleansing/O ''/O and/O burning/O Chinese/O products/O ./O 
+The/O bond/O between/O the/O Turks/O and/O Uighurs/O 
+Uighurs/O are/O Turkic/O speakers/O and/O the/O Turkish/O people/O ``/O feel/O very/O close/O to/O the/O Uighur/O people/O and/O share/O their/O suffering/O ,/O ''/O according/O to/O a/O Turkish/O foreign/O ministry/O statement/O ./O 
+<U_PERSON>Rebiya/PERSON Kadeer/PERSON</U_PERSON> ,/O hear/O of/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O says/O the/O death/O toll/O is/O much/O higher/O Other/O protests/O were/O held/O in/O several/O Turkish/O towns/O including/O the/O capital/O Ankara/LOCATION ./O 
+Elsewhere/O ,/O demonstrations/O were/O held/O in/O Canberra/LOCATION ,/O Australia/LOCATION ,/O and/O in/O The/LOCATION Hague/LOCATION in/O Holland/LOCATION earlier/O in/O the/O week/O ,/O protestors/O were/O arrested/O for/O hurling/O rocks/O at/O the/O Chinese/O embassy/O ./O 
+In/O Berlin/LOCATION ,/O Solon/PERSON saw/O the/O situation/O as/O very/O dire/O ,/O ``/O The/O world/O should/O support/O us/O otherwise/O we/O have/O no/O chance/O -/O we/O will/O all/O be/O destroyed/O or/O assimilated/O or/O killed/O ./O ''/O 
+The/O Chinese/O government/O has/O placed/O the/O death/O toll/O stemming/O from/O the/O violence/O at/O 184/O while/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> leader/O ,/O <U_PERSON>Rebiya/PERSON Kadeer/PERSON</U_PERSON> ,/O asserted/O that/O the/O number/O of/O Uighur/O dead/O could/O be/O in/O the/O thousands/O ./O 
+sjt/AFP/Reuters/O 
+Editor/O :/O Chuck/PERSON Penfold/PERSON

@@ -1,0 +1,6 @@
+China/LOCATION 's/O milk/O scandal/O has/O continued/O to/O escalate/O amid/O reports/O that/O a/O wide/O range/O of/O dairy/O products/O have/O been/O found/O contaminated/O ./O 
+The/O latest/O discoveries/O were/O made/O in/O the/O southern/O territory/O of/O Hong/LOCATION Kong/LOCATION ,/O where/O melamine/O had/O been/O discovered/O in/O milk/O drinks/O ,/O ice/O creams/O and/O yoghurt/O made/O by/O the/O leading/O <ORGANIZATION>Yili/LOCATION</ORGANIZATION> brand/O ./O 
+The/O government/O has/O now/O recalled/O all/O the/O company/O 's/O products/O ./O 
+The/O news/O came/O as/O Chinese/O officials/O reported/O a/O fourth/O baby/O had/O died/O in/O the/O northwest/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O after/O drinking/O milk/O made/O of/O a/O powder/O containing/O the/O chemical/O melamine/O ./O 
+More/O than/O 6,000/O babies/O across/O the/O country/O have/O been/O fallen/O ill/O so/O far/O ./O 
+Meanwhile/O the/O authorities/O have/O continued/O nationwide/O checks/O on/O milk/O powder/O and/O have/O made/O 12/O new/O arrests/O in/O connection/O to/O the/O scandal/O ./O

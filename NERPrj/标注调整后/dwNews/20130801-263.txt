@@ -1,0 +1,48 @@
+China/ORGANIZATION Labor/ORGANIZATION Watch/ORGANIZATION reports/O tech/O giant/O Apple/ORGANIZATION is/O producing/O a/O low-cost/O iPhone/O at/O `/O high/O costs/O to/O Chinese/O workers/O '/O ./O 
+The/O <OTHER>NGO/ORGANIZATION</OTHER> 's/O director/O ,/O Li/PERSON Qiang/PERSON ,/O accuses/O the/O supplier/O <ORGANIZATION>Pegatron/PERSON</ORGANIZATION> of/O inhumane/O working/O conditions/O at/O its/O factories/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> :/O Apple/ORGANIZATION came/O under/O fire/O last/O year/O because/O of/O revelations/O regarding/O precarious/O working/O conditions/O at/O the/O company/O 's/O largest/O supplier/O Foxconn/ORGANIZATION ./O 
+The/O latest/O reports/O now/O claim/O that/O conditions/O at/O <ORGANIZATION>Pegatron/LOCATION</ORGANIZATION> factories/O are/O even/O worse/O ./O 
+How/O has/O this/O happened/O ?/O 
+Li/PERSON Qiang/PERSON :/O The/O business/O practices/O at/O Apple/ORGANIZATION supplier/O <ORGANIZATION>Pegatron/PERSON</ORGANIZATION> do/O not/O only/O violate/O Apple/ORGANIZATION 's/O worker/O protection/O regulations/O ,/O but/O also/O Chinese/O labor/O law/O ./O 
+We/O have/O registered/O a/O total/O of/O 30/O violations/O ./O 
+Although/O the/O infringement/O of/O workers/O '/O rights/O is/O common/O practice/O in/O many/O Chinese/O factories/O ,/O one/O can/O say/O that/O the/O conditions/O at/O <ORGANIZATION>Pegatron/LOCATION</ORGANIZATION> are/O much/O worse/O ./O 
+What/O do/O you/O consider/O to/O be/O the/O most/O serious/O violations/O ?/O 
+Chinese/O labor/O law/O stipulates/O that/O a/O worker/O is/O not/O allowed/O to/O work/O more/O than/O 36/O hours/O of/O overtime/O per/O month/O ./O 
+At/O <ORGANIZATION>Pegatron/LOCATION</ORGANIZATION> ,/O however/O ,/O 100/O hours/O of/O overtime/O are/O common/O ./O 
+Documents/O recording/O the/O amount/O of/O overtime/O worked/O in/O the/O factories/O are/O manipulated/O ,/O thus/O making/O it/O impossible/O for/O Apple/ORGANIZATION to/O notice/O ./O 
+Furthermore/O ,/O <ORGANIZATION>Pegatron/PERSON</ORGANIZATION> has/O employed/O many/O temporary/O workers/O ,/O far/O more/O than/O the/O amount/O permitted/O by/O law/O ./O 
+The/O company/O does/O n't/O pay/O for/O these/O workers/O '/O social/O security/O ,/O nor/O does/O it/O contribute/O to/O their/O pension/O insurance/O funds/O ./O 
+Li/PERSON says/O <ORGANIZATION>Pegatron/PERSON</ORGANIZATION> has/O violated/O more/O that/O 30/O working/O regulations/O During/O the/O probation/O period/O ,/O the/O workers/O '/O identity/O cards/O are/O taken/O away/O ./O 
+They/O are/O retuned/O only/O weeks/O later/O in/O order/O to/O force/O the/O employees/O to/O continue/O working/O ./O 
+Whoever/O decides/O to/O resign/O ahead/O of/O time/O is/O paid/O 600/O yuan/O -LRB-/O about/O 50/O euros/O -RRB-/O less/O ./O 
+Furthermore/O ,/O the/O application/O process/O is/O marred/O by/O discrimination/O ./O 
+Whoever/O is/O shorter/O than/O 5/O feet/O or/O over/O 35/O years/O of/O age/O is/O not/O accepted/O ./O 
+Muslims/O ,/O Uighurs/O ,/O Tibetans/O and/O members/O of/O some/O other/O ethnic/O minorities/O are/O also/O rejected/O ./O 
+What/O can/O be/O done/O against/O worker/O exploitation/O in/O a/O globalized/O world/O ?/O 
+The/O government/O and/O the/O companies/O are/O capable/O of/O changing/O the/O situation/O ,/O but/O they/O are/O not/O really/O interested/O in/O protecting/O the/O workers/O ./O 
+Local/O authorities/O in/O China/LOCATION go/O to/O considerable/O lengths/O to/O lure/O investors/O into/O the/O country/O ,/O often/O disregarding/O violations/O of/O worker/O 's/O rights/O ./O 
+Ultimately/O ,/O most/O of/O the/O people/O working/O in/O the/O factories/O are/O migrant/O laborers/O who/O the/O political/O establishment/O does/O n't/O care/O much/O about/O ./O 
+Companies/O want/O to/O reduce/O costs/O as/O much/O as/O possible/O ,/O so/O there/O is/O fierce/O competition/O among/O suppliers/O ./O 
+Whoever/O produces/O cheapest/O wins/O the/O contract/O ./O 
+<ORGANIZATION>Apple/O</ORGANIZATION> speaks/O of/O four/O main/O factors/O in/O its/O supply/O chain/O :/O prices/O ,/O quality/O ,/O speed/O and/O social/O responsibility/O ./O 
+But/O in/O reality/O only/O the/O first/O three/O aspects/O determine/O whether/O a/O supplier/O gets/O the/O order/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Apple/ORGANIZATION faces/O labor/O violation/O dispute/O over/O iPhone/O supplier/O Pegatron/ORGANIZATION Joint/ORGANIZATION venture/O eyes/O cheap/O smartphones/O for/O emerging/O nations/O
+The/O world/O is/O longing/O for/O cheap/O smartphones/O ./O 
+A/O new/O alliance/O between/O Apple/ORGANIZATION supplier/O Foxconn/ORGANIZATION and/O Firefox/ORGANIZATION developer/O <ORGANIZATION>Mozilla/PERSON</ORGANIZATION> plans/O to/O meet/O this/O demand/O by/O offering/O low-cost/O ,/O web-based/O devices/O ./O 
+-LRB-/O 09.06.2013/O -RRB-/O 
+<ORGANIZATION>Apple/O</ORGANIZATION> hit/O by/O report/O on/O China/LOCATION factory/O conditions/O Workers/O who/O make/O iPhones/O and/O iPads/O at/O <ORGANIZATION>Foxxconn/LOCATION</ORGANIZATION> factories/O in/O China/LOCATION are/O often/O overworked/O and/O underpaid/O ,/O a/O landmark/O report/O has/O found/O ./O 
+The/O Apple/ORGANIZATION partner/O has/O pledged/O to/O tackle/O all/O workplace/O violations/O ./O 
+-LRB-/O 30.03.2012/O -RRB-/O 
+How/O difficult/O is/O it/O for/O workers/O to/O organize/O themselves/O in/O China/LOCATION ?/O 
+There/O is/O only/O one/O official/O labor/O union/O in/O China/LOCATION ./O 
+The/O finance/O authority/O holds/O the/O workers/O '/O membership/O fees/O and/O passes/O them/O on/O to/O the/O union/O ./O 
+This/O is/O why/O the/O union/O represents/O the/O interests/O of/O the/O firms/O ,/O instead/O of/O those/O of/O the/O laborers/O ./O 
+Workers/O in/O China/LOCATION have/O no/O organization/O to/O stand/O up/O for/O their/O rights/O ./O 
+International/O corporations/O must/O make/O social/O responsibility/O a/O priority/O and/O implement/O the/O working/O standards/O agreed/O upon/O ./O 
+Is/O the/O public/O pressure/O being/O exerted/O on/O Apple/ORGANIZATION paying/O off/O ?/O 
+<ORGANIZATION>Apple/O</ORGANIZATION> has/O reacted/O with/O a/O public/O relations/O campaign/O ./O 
+They/O believe/O it/O is/O more/O lucrative/O to/O invest/O a/O bit/O more/O in/O PR/O than/O to/O improve/O working/O conditions/O ./O 
+The/O wave/O of/O indignation/O will/O soon/O recede/O ,/O making/O the/O realization/O of/O stricter/O controls/O unlikely/O ./O 
+Li/PERSON Qiang/PERSON is/O the/O founder/O and/O executive/O director/O of/O the/O <OTHER>New/ORGANIZATION York-based/ORGANIZATION</OTHER> China/ORGANIZATION Labor/ORGANIZATION Watch/ORGANIZATION ./O 
+The/O interview/O was/O conducted/O by/O Haiye/PERSON Cao/PERSON ./O

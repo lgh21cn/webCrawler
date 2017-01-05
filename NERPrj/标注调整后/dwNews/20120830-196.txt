@@ -1,0 +1,57 @@
+Foreign/O journalists/O are/O under/O strict/O surveillance/O in/O China/LOCATION ,/O Johnny/PERSON Erling/PERSON ,/O correspondent/O for/O the/O daily/O <OTHER>`/ORGANIZATION</OTHER> Die/ORGANIZATION Welt/ORGANIZATION ,/O '/O has/O told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
+He/O and/O other/O journalists/O sent/O a/O letter/O to/O the/O German/O chancellor/O asking/O for/O help/O ./O 
+Twenty-six/O German/O correspondents/O working/O in/O China/LOCATION sent/O a/O letter/O to/O Chancellor/O Angela/PERSON Merkel/PERSON ./O 
+In/O it/O they/O describe/O how/O Chinese/O authorities/O are/O increasingly/O making/O it/O difficult/O for/O them/O to/O do/O their/O work/O ,/O how/O their/O informants/O are/O threatened/O and/O their/O colleagues/O intimidated/O ./O 
+The/O journalists/O asked/O the/O chancellor/O to/O consider/O this/O during/O inter-governmental/O consultations/O in/O Beijing/LOCATION and/O demand/O better/O working/O conditions/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> :/O Considering/O the/O European/O debt/O crisis/O ,/O Europe/LOCATION -/O and/O thus/O Germany/LOCATION as/O well/O -/O is/O dependent/O on/O Chinese/O help/O ./O 
+How/O serious/O do/O you/O think/O Merkel/PERSON will/O take/O the/O letter/O during/O the/O consultations/O ?/O 
+Johnny/PERSON Erling/PERSON :/O Both/O sides/O need/O each/O other/O ./O 
+This/O is/O the/O end/O of/O Wen/PERSON Jiabao/PERSON 's/O term/O in/O office/O ./O 
+He/O has/O put/O relations/O with/O Europe/LOCATION on/O his/O agenda/O and/O is/O surely/O just/O as/O interested/O in/O having/O the/O summit/O go/O well/O as/O the/O German/O chancellor/O is/O ./O 
+So/O ,/O the/O letter/O basically/O addresses/O both/O Angela/PERSON Merkel/PERSON and/O Wen/PERSON Jiabao/PERSON ./O 
+It/O is/O supposed/O to/O be/O a/O signal/O and/O it/O aims/O at/O shedding/O light/O on/O the/O environment/O in/O which/O journalists/O are/O working/O ./O 
+In/O the/O correspondents/O '/O letter/O ,/O one/O of/O the/O issues/O mentioned/O is/O that/O the/O Chinese/O colleagues/O they/O work/O with/O are/O often/O requested/O to/O spy/O on/O them/O ./O 
+Can/O you/O confirm/O this/O ?/O 
+That/O can/O not/O be/O generally/O said/O ./O 
+But/O it/O has/O happened/O to/O many/O colleagues/O -/O they/O have/O been/O called/O in/O -LRB-/O by/O state/O security/O -RRB-/O for/O questioning/O ./O 
+As/O Chinese/O citizens/O ,/O it/O is/O easier/O for/O them/O to/O be/O pressured/O ./O 
+They/O are/O requested/O to/O pay/O attention/O to/O what/O the/O correspondents/O are/O doing/O and/O report/O it/O ./O 
+That/O ,/O of/O course/O ,/O is/O not/O allowed/O ,/O and/O the/O Chinese/O colleagues/O have/O refused/O to/O comply/O ./O 
+But/O I/O think/O that/O is/O not/O the/O most/O important/O thing/O ./O 
+What/O 's/O more/O important/O in/O the/O letter/O is/O that/O it/O points/O out/O that/O the/O attempt/O to/O create/O freedom/O of/O opinion/O and/O of/O the/O press/O which/O began/O at/O the/O beginning/O of/O the/O 2008/O Olympic/O Games/O is/O declining/O and/O has/O in/O many/O ways/O been/O compromised/O ./O 
+Since/O before/O the/O 2008/O Olympics/O ,/O all/O foreign/O journalists/O in/O China/LOCATION need/O to/O conduct/O an/O interview/O is/O the/O agreement/O of/O the/O interviewee/O ./O 
+But/O in/O the/O letter/O to/O Merkel/PERSON ,/O the/O journalists/O point/O out/O gray/O areas/O in/O the/O rules/O which/O are/O indiscriminately/O interpreted/O ./O 
+What/O do/O you/O mean/O by/O that/O ?/O 
+US/LOCATION journalist/O Melissa/PERSON Chan/PERSON of/O Al/ORGANIZATION Jazeera/ORGANIZATION was/O expelled/O from/O China/LOCATION in/O May/O 
+The/O law/O that/O journalists/O only/O need/O the/O agreement/O of/O the/O interviewee/O was/O revoked/O in/O a/O number/O of/O critical/O cases/O -/O when/O there/O was/O some/O kind/O of/O trouble/O ./O 
+In/O those/O cases/O ,/O the/O journalists/O suddenly/O needed/O an/O official/O permit/O as/O well/O ./O 
+If/O ,/O for/O example/O ,/O you/O wanted/O to/O talk/O to/O random/O people/O on/O the/O streets/O ,/O you/O 'd/O need/O a/O permit/O from/O the/O sub-district/O ./O 
+The/O interview/O would/O be/O illegal/O without/O an/O official/O permit/O ./O 
+Which/O interferences/O have/O you/O experienced/O in/O your/O work/O in/O China/LOCATION ?/O 
+It/O was/O really/O bad/O at/O the/O beginning/O of/O last/O year/O ,/O during/O the/O <ORGANIZATION>Arab/O Spring/O</ORGANIZATION> ./O 
+The/O authorities/O believed/O that/O the/O Arabian/O ``/O virus/O ''/O might/O spread/O to/O China/LOCATION ,/O although/O there/O were/O no/O signs/O that/O it/O would/O ./O 
+But/O during/O that/O time/O ,/O my/O work/O was/O systematically/O hindered/O ./O 
+I/O was/O prevented/O from/O speaking/O to/O people/O on/O the/O streets/O and/O even/O from/O just/O standing/O around/O outside/O and/O observing/O my/O surroundings/O ./O 
+I/O was/O summoned/O before/O a/O police/O council/O ./O 
+Later/O that/O was/O all/O explained/O as/O an/O overreaction/O to/O a/O possible/O threat/O -LRB-/O but/O the/O restrictions/O were/O kept/O in/O place/O ./O -RRB-/O 
+If/O ,/O for/O example/O ,/O we/O try/O to/O conduct/O research/O in/O a/O factory/O where/O workers/O are/O on/O strike/O ,/O the/O authorities/O say/O we/O need/O permits/O ./O 
+That/O has/O happened/O to/O a/O number/O of/O colleagues/O ./O 
+It/O leads/O to/O an/O environment/O that/O is/O a/O complete/O legal/O vacuum/O and/O in/O which/O we/O are/O at/O the/O will/O of/O the/O authorities/O ./O 
+That/O is/O one/O problem/O that/O has/O to/O be/O changed/O ./O 
+You/O have/O worked/O in/O Beijing/LOCATION for/O many/O years/O ./O 
+Did/O journalists/O used/O to/O have/O more/O freedom/O ?/O 
+When/O the/O political/O reform/O started/O in/O the/O late/O 70s/O ,/O there/O was/O a/O spirit/O of/O optimism/O ./O 
+People/O were/O more/O tolerant/O about/O certain/O things/O because/O they/O were/O all/O euphoric/O about/O change/O ./O 
+Today/O ,/O a/O lot/O of/O that/O positivity/O has/O given/O way/O to/O lack/O of/O transparency/O and/O fear/O ./O 
+Because/O of/O that/O ,/O restrictions/O have/O been/O implemented/O ,/O despite/O the/O fact/O that/O China/LOCATION is/O much/O better/O off/O now/O than/O it/O was/O 10/O or/O 20/O years/O ago/O ./O 
+We/O used/O to/O be/O allowed/O to/O travel/O to/O Tibet/LOCATION ./O 
+There/O were/O difficulties/O ,/O but/O it/O was/O possible/O ./O 
+I/O have/O been/O there/O a/O few/O times/O myself/O ./O 
+Today/O no/O one/O can/O go/O there/O ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O is/O another/O example/O of/O an/O area/O where/O there/O are/O a/O number/O of/O restrictions/O ./O 
+In/O addition/O ,/O there/O are/O a/O number/O of/O taboo/O topics/O over/O which/O people/O can/O really/O get/O into/O trouble/O if/O they/O talk/O about/O or/O try/O to/O research/O them/O ./O 
+One/O of/O them/O is/O religious/O organizations/O like/O the/O Falun/ORGANIZATION Gong/ORGANIZATION sect/O ./O 
+On/O the/O other/O hand/O ,/O Chinese/O society/O has/O opened/O up/O more/O ,/O thanks/O to/O the/O internet/O and/O social/O networking/O sites/O like/O the/O Chinese/O <OTHER>Weibo/PERSON</OTHER> ./O 
+Information/O spreads/O much/O quicker/O ,/O even/O if/O the/O state/O does/O n't/O necessarily/O want/O it/O to/O ./O 
+So/O many/O issues/O are/O uncovered/O today/O ;/O people/O find/O out/O a/O lot/O of/O things/O they/O would/O never/O have/O known/O about/O not/O long/O ago/O -/O that/O has/O to/O be/O said/O ./O 
+But/O all/O in/O all/O ,/O a/O lot/O still/O needs/O to/O improve/O here/O ./O

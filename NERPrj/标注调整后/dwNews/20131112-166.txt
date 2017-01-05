@@ -1,0 +1,22 @@
+China/LOCATION 's/O official/O news/O agency/O Xinhua/ORGANIZATION says/O Communist/ORGANIZATION Party/ORGANIZATION leaders/O have/O ended/O a/O secluded/O four-day/O meeting/O by/O elevating/O market/O economics/O to/O a/O ``/O decisive/O ''/O role/O in/O their/O reform/O thinking/O ./O 
+The/O cryptic/O message/O gave/O few/O details/O ./O 
+China/LOCATION 's/O Communist/ORGANIZATION Party/ORGANIZATION ended/O a/O closely/O watched/O meeting/O of/O its/O 376-member/O Central/ORGANIZATION Committee/ORGANIZATION on/O Tuesday/O ,/O saying/O it/O had/O approved/O ``/O comprehensive/O deepening/O reforms/O ./O ''/O 
+Market/O economics/O ,/O which/O had/O a/O ``/O basic/O role/O ''/O over/O the/O past/O two/O decades/O ,/O would/O be/O elevated/O to/O a/O ``/O decisive/O role/O ,/O ''/O Xinhua/ORGANIZATION said/O ./O 
+State/O ownership/O would/O remain/O a/O pillar/O of/O China/LOCATION 's/O economy/O ,/O but/O private/O businesses/O were/O ``/O important/O components/O ,/O ''/O the/O communiqué/O said/O ,/O adding/O that/O people/O 's/O livelihoods/O and/O social/O stability/O had/O to/O be/O ensured/O ./O 
+Resource/O allocations/O via/O market/O ``/O The/O core/O is/O to/O handle/O the/O relationship/O between/O government/O and/O market/O ,/O and/O let/O the/O market/O play/O the/O decisive/O role/O in/O allocating/O resources/O ,/O and/O to/O better/O play/O the/O government/O role/O ,/O ''/O it/O said/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+China/LOCATION urges/O `/O de-Americanized/O '/O new/O world/O order/O In/O the/O response/O to/O the/O debt/O ceiling/O battle/O in/O the/O US/LOCATION ,/O Beijing/LOCATION has/O called/O for/O the/O world/O to/O become/O more/O independent/O of/O Washington/LOCATION ./O 
+But/O the/O emerging/O global/O powers/O have/O no/O vision/O for/O what/O a/O post-American/O order/O should/O be/O ./O 
+-LRB-/O 18.10.2013/O -RRB-/O 
+The/O message/O gave/O no/O indication/O on/O whether/O party/O leaders/O had/O agreed/O to/O reformists/O '/O calls/O to/O curb/O the/O status/O of/O state/O companies/O ./O 
+They/O control/O vast/O swaths/O of/O China/LOCATION 's/O economy/O ,/O including/O banking/O ,/O energy/O and/O telecommunications/O ./O 
+`/O Improve/O public/O security/O '/O 
+The/O communiqué/O issued/O via/O Xinhua/ORGANIZATION also/O said/O China/LOCATION needed/O to/O ``/O effectively/O prevent/O and/O end/O social/O disputes/O and/O improve/O public/O security/O ./O ''/O 
+That/O comes/O two/O weeks/O after/O a/O fiery/O vehicle/O crash/O in/O front/O of/O the/O iconic/O Tiananmen/LOCATION Square/LOCATION that/O killed/O two/O tourists/O and/O wounded/O dozens/O ./O 
+The/O government/O belatedly/O described/O the/O incident/O as/O ``/O terrorism/O ''/O and/O blamed/O separatists/O from/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O the/O far-western/O region/O that/O is/O home/O to/O China/LOCATION 's/O mostly-Muslim/O Uighur/O minority/O ./O 
+A/O state/O security/O committee/O would/O be/O set/O up/O to/O ``/O improve/O systems/O and/O strategies/O to/O ensure/O national/O security/O ,/O ''/O Xinhua/ORGANIZATION said/O ,/O but/O without/O giving/O details/O ./O 
+Growth/O rate/O slows/O 
+<ORGANIZATION>The/O</ORGANIZATION> Central/ORGANIZATION Committee/ORGANIZATION meeting/O ,/O known/O as/O the/O Third/O Plenum/O ,/O was/O widely/O seen/O as/O setting/O China/LOCATION 's/O course/O over/O the/O next/O decade/O ./O 
+In/O 1978/O ,/O a/O similar/O meeting/O ushered/O in/O a/O switch/O from/O a/O Communist-style/O command/O economy/O to/O one/O driven/O by/O exports/O and/O investment/O ./O 
+In/O 2012/O China/LOCATION 's/O growth/O rate/O was/O 7.7/O percent/O -/O seemingly/O high/O but/O the/O lowest/O rate/O in/O 13/O years/O ./O 
+ipj/ng/O -LRB-/O AP/ORGANIZATION ,/O AFP/ORGANIZATION -RRB-/O

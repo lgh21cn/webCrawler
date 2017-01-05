@@ -1,0 +1,21 @@
+No/O fresh/O violence/O has/O been/O reported/O but/O tensions/O remain/O high/O in/O the/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> capital/O ./O 
+Many/O mosques/O are/O closed/O ./O 
+In/O others/O administrators/O tell/O worshippers/O to/O stay/O at/O home/O for/O prayer/O ./O 
+Authorities/O announced/O new/O arrests/O in/O riot-related/O incidents/O ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> //O Agencies/O -RRB-/O --/O 
+Chief/O Prosecutor/O <U_PERSON>Hamsi/PERSON Mamuti/PERSON</U_PERSON> said/O the/O people/O responsible/O for/O the/O outbreak/O of/O unrest/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> -LRB-/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> -RRB-/O on/O 5/O July/O had/O been/O identified/O and/O ``/O arrest/O warrants/O will/O be/O issued/O soon/O ''/O so/O that/O the/O ``/O violent/O elements/O ''/O can/O ``/O be/O severely/O punished/O ./O ''/O 
+The/O city/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> itself/O is/O patrolled/O by/O thousands/O of/O soldiers/O and/O tensions/O remain/O high/O as/O fear/O grips/O residents/O ,/O scaring/O many/O away/O from/O Friday/O prayers/O in/O their/O local/O mosque/O Chinese/O authorities/O are/O on/O the/O record/O saying/O that/O those/O who/O are/O behind/O last/O week/O 's/O troubles/O will/O be/O severely/O dealt/O with/O ./O
+<PERSON>Li/O Zhi/O</PERSON> ,/O the/O highest-ranking/O Party/ORGANIZATION official/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O said/O that/O those/O found/O guilty/O of/O the/O most/O serious/O crimes/O might/O even/O be/O executed/O ./O 
+He/O added/O however/O that/O many/O of/O the/O rioters/O did/O n't/O understand/O what/O they/O were/O doing/O and/O would/O thus/O be/O treated/O leniently/O ./O 
+According/O to/O state/O media/O ,/O more/O than/O 1,400/O people/O were/O detained/O last/O week/O in/O connection/O with/O the/O inter-ethnic/O riots/O ./O 
+The/O clashes/O claimed/O at/O least/O 192/O lives/O ,/O with/O 1,721/O people/O sent/O to/O hospital/O ,/O this/O according/O to/O official/O sources/O ./O 
+A/O total/O of/O 331/O shops/O and/O 627/O vehicles/O were/O also/O burnt/O in/O the/O unrest/O ./O 
+Even/O today/O tensions/O were/O palpable/O as/O thousands/O of/O soldiers/O walked/O the/O streets/O ,/O harassing/O reporters/O and/O stopping/O anyone/O from/O taking/O a/O picture/O ./O 
+Yesterday/O security/O forces/O even/O demanded/O that/O a/O group/O of/O journalists/O stop/O taking/O photos/O of/O a/O camel/O and/O a/O man/O who/O was/O playing/O a/O traditional/O string/O instrument/O near/O the/O main/O bazaar/O ,/O a/O major/O tourist/O site/O ,/O because/O troops/O were/O nearby/O ./O 
+Now/O city/O residents/O ,/O especially/O Uyghurs/O ,/O are/O trying/O to/O avoid/O causing/O tensions/O and/O are/O refusing/O to/O talk/O to/O the/O media/O ./O 
+Today/O is/O Friday/O ,/O the/O traditional/O day/O of/O rest/O for/O Muslim/O Uyghurs/O ,/O a/O day/O usually/O celebrated/O in/O the/O mosque/O ,/O but/O in/O many/O administrators/O told/O worshippers/O to/O go/O home/O and/O avoid/O creating/O large/O gatherings/O ./O 
+Mosques/O run/O by/O another/O local/O ethno-religious/O minority/O ,/O the/O Hui/O Muslim/O community/O ,/O were/O closed/O ./O 
+In/O a/O recent/O report/O Xinhua/ORGANIZATION blamed/O three/O people/O for/O inciting/O worshippers/O in/O a/O mosque/O to/O start/O a/O holy/O war/O ./O 
+Two/O days/O ago/O <ORGANIZATION>al-Qai/O `/O da/O</ORGANIZATION> said/O that/O it/O would/O retaliate/O against/O Chinese/O workers/O and/O companies/O in/O Algeria/LOCATION for/O the/O persecution/O of/O the/O Uyghurs/O ./O 
+Beijing/LOCATION immediately/O alerted/O its/O diplomatic/O missions/O to/O take/O greater/O security/O measures/O ./O 
+In/O Algeria/LOCATION <ORGANIZATION>al-Qai/O `/O da/O</ORGANIZATION> 's/O is/O powerful/O and/O has/O already/O clashed/O with/O police/O ./O
