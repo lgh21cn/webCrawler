@@ -50,6 +50,20 @@ public class NERMain {
 		      
 		      FileUtils.writeErrorLog(TEST_ROOT_PATH+"/20100614-1.NER2.txt", builder.toString());
 		      
+		      
+		      String s="I go to school at Stanford University, which is located in California.\nGood afternoon Rajat Raina, how are you today?";
+		      System.out.println("1.\n"+classifier.classifyToString(s));
+		      /**
+		       * 推荐使用
+		       * 理由：只给有实体的标记比较好处理
+		       */
+		      System.out.println("2.\n"+classifier.classifyWithInlineXML(s));
+		      
+		      
+		      System.out.println("3.\n"+classifier.classifyToString(s, "tabbedEntities", false));
+		      System.out.println("4.\n"+classifier.classifyToString(s, "xml", true));
+		      System.out.println("5.\n"+classifier.classifyToString(s, "tsv", false));
+		      System.out.println("6.\n"+classifier.classifyToString(s, "slashTags", false));
 		} catch (ClassCastException | ClassNotFoundException | IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
