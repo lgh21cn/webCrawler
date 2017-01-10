@@ -1,0 +1,28 @@
+China/LOCATION wants/O to/O ban/O textbooks/O containing/O Western/O values/O from/O its/O universities/O ,/O except/O for/O ideas/O of/O Western-imported/O Marxism/O ./O 
+China/LOCATION 's/O ideological/O control/O continues/O to/O gain/O ground/O ,/O writes/O <ORGANIZATION>DW/O</ORGANIZATION> 's/O Matthias/PERSON von/PERSON Hein/PERSON ./O 
+``/O Seek/O truth/O from/O facts/O ''/O -/O that/O was/O one/O of/O the/O main/O Marxist/O ideas/O from/O Deng/PERSON Xiaoping/PERSON ,/O the/O architect/O of/O the/O Chinese/O reform/O and/O opening-up/O policy/O ./O 
+Under/O this/O motto/O China/LOCATION has/O come/O very/O far/O in/O improving/O its/O image/O ./O 
+But/O Deng/PERSON 's/O successors/O seem/O to/O want/O to/O deviate/O from/O this/O path/O ./O 
+For/O them/O ,/O the/O truth/O lies/O in/O ideology/O rather/O than/O facts/O ./O 
+The/O campaign/O for/O ideological/O control/O ,/O which/O was/O initiated/O by/O state/O and/O party/O leader/O ,/O Xi/PERSON Jinping/PERSON ,/O is/O intensifying/O ./O 
+Having/O already/O established/O stricter/O control/O over/O the/O media/O and/O Internet/O ,/O academic/O freedom/O ,/O which/O was/O already/O limited/O ,/O is/O now/O next/O on/O the/O chopping/O block/O ./O 
+Textbooks/O with/O ``/O Western/O values/O ''/O will/O henceforth/O be/O banned/O in/O China/LOCATION 's/O universities/O as/O decreed/O by/O education/O minister/O ,/O Yang/PERSON Guiren/PERSON ,/O at/O a/O conference/O on/O Thursday/O ,/O January/O 29/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> 's/O Matthias/PERSON von/PERSON Hein/PERSON 
+The/O fight/O against/O `/O Western/O values/O '/O 
+Last/O weekend/O ,/O a/O party/O newspaper/O attacked/O two/O alleged/O representatives/O of/O ``/O Western/O values/O :/O ''/O a/O professor/O and/O a/O painter/O ./O 
+Shortly/O thereafter/O ,/O universities/O were/O urged/O to/O increase/O the/O circulation/O of/O party/O propaganda/O and/O strengthen/O the/O teachings/O of/O Marxism/O as/O well/O as/O the/O ideals/O of/O Chinese/O socialism/O in/O the/O classroom/O ./O 
+This/O all/O fits/O into/O the/O puzzle/O :/O already/O at/O the/O beginning/O of/O the/O <PERSON>Xi/O</PERSON> era/O ,/O an/O internal/O party/O document/O warned/O against/O ``/O Western/O values/O ./O ''/O 
+Specifically/O the/O document/O raised/O awareness/O of/O the/O ``/O Western/O ideals/O ''/O of/O government/O checks/O and/O balances/O ,/O judicial/O review/O ,/O media/O and/O press/O freedom/O ,/O as/O well/O as/O the/O idea/O of/O civil/O society/O ./O 
+As/O a/O result/O ,/O the/O government/O has/O been/O exerting/O increasing/O pressure/O on/O dissidents/O ever/O since/O ./O 
+Those/O opposing/O the/O ruling/O party/O were/O thrown/O into/O prison/O along/O with/O their/O lawyers/O ./O 
+<U_PERSON>Ilham/PERSON Tohti/PERSON</U_PERSON> ,/O an/O economics/O professor/O in/O Beijing/LOCATION and/O a/O moderate/O critic/O of/O the/O government/O 's/O ``/O nationality/O policies/O ''/O was/O sentenced/O to/O life/O imprisonment/O last/O September/O on/O separatism/O charges/O after/O he/O championed/O the/O rights/O of/O the/O country/O 's/O <OTHER>Muslim/ORGANIZATION Uighur/ORGANIZATION</OTHER> minority/O ./O 
+Moreover/O ,/O a/O host/O of/O restrictions/O have/O been/O set/O in/O place/O to/O keep/O journalists/O in/O line/O ./O 
+Since/O late/O January/O ,/O China/LOCATION 's/O censors/O have/O been/O disrupting/O so-called/O Virtual/O Private/O Network/O connections/O -LRB-/O VPN/O -RRB-/O ,/O used/O by/O many/O in/O the/O country/O to/O bypass/O the/O so-called/O ``/O Great/O Firewall/O ''/O and/O access/O blocked/O websites/O ./O 
+``/O The/O country/O needs/O new/O methods/O to/O tackle/O new/O problems/O ,/O ''/O said/O Wen/PERSON Ku/PERSON ,/O director/O of/O telecoms/O development/O at/O the/O Ministry/ORGANIZATION of/ORGANIZATION Industry/ORGANIZATION and/ORGANIZATION Information/ORGANIZATION -LRB-/O <ORGANIZATION>MIIT/O</ORGANIZATION> -RRB-/O ./O 
+It/O seems/O a/O minor/O matter/O now/O that/O Internet/O users/O in/O China/LOCATION have/O to/O register/O online/O using/O their/O own/O names/O since/O the/O beginning/O of/O the/O year/O ./O 
+All/O this/O points/O to/O both/O a/O massive/O degree/O of/O distrust/O towards/O the/O ruled/O and/O also/O an/O unconditional/O will/O to/O wield/O and/O retain/O power/O ./O 
+In/O a/O US/LOCATION diplomatic/O cable/O disclosed/O by/O <ORGANIZATION>Wikileaks/PERSON</ORGANIZATION> we/O can/O get/O an/O idea/O of/O how/O Xi/PERSON Jinping/PERSON was/O viewed/O by/O a/O former/O close/O friend/O ./O 
+In/O 2009/O the/O friend/O is/O cited/O as/O saying/O that/O <PERSON>Xi/O</PERSON> was/O n't/O corrupt/O or/O driven/O by/O money/O ,/O but/O ``/O could/O be/O corrupted/O by/O power/O ./O ''/O 
+Since/O becoming/O president/O in/O 2013/O ,/O <PERSON>Xi/O</PERSON> has/O amassed/O more/O power/O than/O any/O of/O his/O predecessors/O since/O Deng/PERSON Xiaoping/PERSON ./O 
+For/O this/O to/O continue/O ,/O actions/O have/O been/O taken/O against/O anyone/O or/O anything/O that/O may/O cast/O a/O slur/O at/O the/O party/O or/O its/O members/O ,/O including/O ``/O Western/O values/O ./O ''/O 
+In/O this/O sense/O it/O seems/O ironic/O that/O Marxism/O is/O also/O an/O import/O from/O the/O <LOCATION>West/O</LOCATION> and/O that/O incumbent/O Premier/O Li/PERSON Keqiang/PERSON excelled/O in/O translating/O Western/O legal/O texts/O when/O he/O was/O younger/O ./O

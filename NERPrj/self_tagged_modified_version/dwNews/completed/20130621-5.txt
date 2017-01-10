@@ -1,0 +1,62 @@
+<U_PERSON>Rebiya/PERSON Kadeer/PERSON</U_PERSON> ,/O the/O exiled/O leader/O of/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O is/O in/O Japan/LOCATION to/O draw/O attention/O to/O the/O struggle/O of/O her/O people/O in/O China/LOCATION ./O 
+In/O a/O <ORGANIZATION>DW/O</ORGANIZATION> interview/O she/O says/O her/O people/O will/O continue/O fighting/O for/O independence/O ./O 
+Born/O in/O poverty/O in/O the/O city/O of/O <U_LOCATION>Altay/LOCATION</U_LOCATION> ,/O <U_PERSON>Kadeer/PERSON</U_PERSON> built/O her/O own/O laundry/O business/O and/O became/O one/O of/O the/O five/O richest/O people/O in/O China/LOCATION before/O being/O arrested/O on/O suspicion/O of/O supporting/O the/O independence/O movement/O for/O the/O Uighur/O people/O ,/O who/O live/O in/O the/O northwestern/O <U_LOCATION>Xinjiang/LOCATION Autonomous/LOCATION Region/LOCATION</U_LOCATION> <OTHER>of/LOCATION</OTHER> China/LOCATION ./O 
+Tried/O and/O found/O guilty/O in/O 2000/O of/O leaking/O state/O secrets/O ,/O her/O case/O caused/O international/O outrage/O and/O she/O was/O released/O on/O medical/O grounds/O in/O 2005/O and/O permitted/O to/O settle/O in/O the/O United/LOCATION States/LOCATION ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> :/O Have/O there/O been/O any/O signs/O of/O improvements/O under/O the/O leadership/O of/O new/O Chinese/O President/O Xi/PERSON Jinping/PERSON ?/O 
+<U_PERSON>Rebiya/PERSON Kadeer/PERSON</U_PERSON> :/O Since/O Xi/PERSON took/O over/O as/O president/O ,/O policies/O on/O ethnic/O minorities/O have/O become/O tougher/O than/O ever/O before/O ./O 
+China/LOCATION has/O many/O domestic/O problems/O now/O and/O they/O are/O becoming/O very/O serious/O ,/O so/O they/O have/O to/O show/O the/O rest/O of/O the/O people/O that/O the/O government/O is/O still/O powerful/O ./O 
+They/O give/O the/O Han/O Chinese/O nationalistic/O ideas/O ,/O but/O I/O think/O the/O people/O of/O China/LOCATION are/O opening/O their/O eyes/O and/O minds/O and/O realizing/O what/O is/O really/O happening/O in/O the/O Chinese/O government/O today/O ./O 
+What/O do/O you/O want/O from/O Beijing/LOCATION ?/O 
+Is/O it/O independence/O or/O just/O the/O right/O to/O live/O in/O peace/O within/O Greater/LOCATION China/LOCATION ?/O 
+We/O will/O fight/O until/O Beijing/LOCATION grants/O us/O the/O right/O to/O self-determination/O ./O 
+We/O have/O suffered/O under/O the/O Chinese/O government/O and/O it/O is/O important/O that/O we/O achieve/O independence/O under/O international/O law/O and/O through/O self-determination/O ./O 
+If/O China/LOCATION wants/O to/O talk/O to/O us/O ,/O then/O we/O can/O do/O that/O in/O a/O way/O that/O both/O sides/O understand/O ,/O so/O that/O we/O can/O live/O in/O a/O peaceful/O society/O with/O all/O the/O other/O ethnic/O groups/O ./O 
+<U_PERSON>Kadeer/PERSON</U_PERSON> :/O '/O I/O hope/O that/O other/O Arab/O countries/O will/O help/O us/O '/O 
+How/O do/O you/O plan/O to/O achieve/O this/O ?/O 
+The/O Uighur/O people/O have/O participated/O in/O peaceful/O human/O rights/O activities/O in/O China/LOCATION ,/O but/O that/O is/O becoming/O harder/O now/O ./O 
+I/O hope/O the/O rest/O of/O the/O world/O will/O be/O able/O to/O help/O us/O ./O 
+It/O is/O the/O same/O for/O the/O people/O of/O Tibet/LOCATION and/O the/O Mongolian/O region/O ./O 
+We/O have/O to/O stop/O the/O Chinese/O government/O 's/O assimilation/O policies/O as/O soon/O as/O possible/O ./O 
+I/O came/O to/O Japan/LOCATION to/O explain/O what/O is/O happening/O in/O China/LOCATION ,/O so/O that/O people/O can/O understand/O what/O is/O happening/O to/O us/O ./O 
+I/O hope/O I/O will/O be/O able/O to/O get/O the/O support/O of/O the/O Japanese/O government/O and/O people/O ./O 
+Have/O you/O received/O any/O support/O from/O Islamic/O countries/O ?/O 
+I/O have/O already/O provided/O information/O to/O Islamic/O nations/O and/O organisations/O about/O how/O religious/O schools/O are/O being/O closed/O by/O the/O Chinese/O authorities/O ,/O how/O their/O teachers/O and/O students/O are/O being/O arrested/O and/O imprisoned/O ./O 
+I/O have/O told/O them/O how/O ,/O during/O the/O holy/O month/O of/O Ramadan/O ,/O Chinese/O soldiers/O go/O into/O Uighur/O homes/O and/O force/O people/O to/O drink/O alcohol/O and/O eat/O ./O 
+The/O new/O rules/O stipulate/O that/O only/O people/O over/O the/O age/O of/O 80/O can/O go/O into/O mosques/O ./O 
+I/O want/O Islamic/O groups/O and/O nations/O to/O extend/O their/O support/O to/O us/O ,/O but/O so/O far/O they/O have/O not/O helped/O us/O ./O 
+More/O than/O 60/O countries/O from/O around/O the/O world/O signed/O a/O document/O condemning/O the/O Burmese/O government/O 's/O treatment/O of/O its/O Muslim/O minority/O ,/O while/O in/O our/O country/O more/O than/O 10,000/O of/O our/O people/O have/O been/O detained/O or/O are/O missing/O ./O 
+I/O hope/O that/O other/O Arab/O countries/O will/O help/O us/O ./O 
+I/O want/O them/O to/O come/O to/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> to/O learn/O about/O our/O situation/O and/O then/O share/O what/O they/O discover/O with/O the/O rest/O of/O the/O world/O ./O 
+I/O hope/O that/O other/O Islamic/O governments/O will/O talk/O with/O the/O Chinese/O government/O about/O Uighur/O society/O ,/O our/O traditions/O and/O support/O our/O cause/O ./O 
+Are/O you/O welcomed/O in/O Islamic/O countries/O ?/O 
+They/O do/O n't/O allow/O me/O or/O other/O members/O of/O the/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> to/O visit/O because/O they/O have/O been/O told/O by/O the/O Chinese/O government/O that/O we/O are/O a/O terrorist/O organization/O and/O they/O believe/O what/O Beijing/LOCATION says/O ./O 
+The/O Chinese/O government/O has/O sent/O out/O a/O list/O of/O 22/O names/O -/O my/O name/O is/O on/O the/O top/O of/O that/O list/O -/O and/O now/O Islamic/O countries/O do/O not/O allow/O us/O in/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Exiled/O Uighur/O Leader/O Criticises/O China/LOCATION at/O Frankfurt/LOCATION Book/O Fair/O 
+One/O Month/O Since/O <U_LOCATION>Xinjiang/O</U_LOCATION> Unrest/O 
+Bloody/O riots/O broke/O out/O a/O month/O ago/O in/O the/O northwestern/O Chinese/O province/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+The/O figures/O are/O still/O unknown/O ./O 
+The/O Chinese/O authorities/O say/O 197/O people/O died/O in/O the/O clashes/O between/O Han/O Chinese/O --/O the/O majority/O population/O in/O China/LOCATION --/O and/O Uighurs/O --/O a/O <OTHER>Muslim/ORGANIZATION</OTHER> minority/O ./O 
+The/O government/O has/O accused/O the/O Munich-based/O <U_ORGANIZATION>World/O Uighur/O Congress/O</U_ORGANIZATION> of/O inciting/O the/O violence/O ./O 
+A/O climate/O of/O fear/O currently/O reigns/O over/O the/O city/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> where/O the/O riots/O broke/O out/O ./O 
+-LRB-/O 05.08.2009/O -RRB-/O 
+Uighur/O plight/O in/O China/LOCATION leads/O to/O protests/O ,/O Muslim/O condemnation/O Clashes/O between/O Uighurs/O and/O Han/O Chinese/O in/O northwest/O China/LOCATION have/O sparked/O protests/O and/O demonstrations/O in/O several/O cities/O around/O the/O world/O ./O 
+-LRB-/O 10.07.2009/O -RRB-/O 
+Western/O countries/O ,/O on/O the/O other/O hand/O ,/O always/O let/O us/O enter/O ./O 
+Our/O chairman/O -LRB-/O Riza/PERSON Bekin/PERSON -RRB-/O ,/O who/O now/O lives/O in/O Turkey/LOCATION ,/O used/O to/O go/O to/O Saudi/LOCATION Arabia/LOCATION ,/O but/O he/O is/O not/O able/O to/O go/O there/O anymore/O because/O he/O is/O on/O the/O Chinese/O government/O 's/O list/O ./O 
+I/O hope/O the/O rest/O of/O the/O world/O -/O but/O particularly/O Islamic/O nations/O -/O will/O learn/O about/O our/O situation/O and/O stop/O listening/O to/O what/O Beijing/LOCATION says/O ./O 
+Our/O Muslim/O brothers/O should/O not/O just/O follow/O Chinese/O policy/O ./O 
+The/O Chinese/O government/O is/O killing/O us/O Uighurs/O because/O we/O are/O Muslim/O ./O 
+I/O want/O Islamic/O countries/O to/O understand/O this/O ./O 
+For/O us/O ,/O it/O is/O very/O easy/O to/O find/O asylum/O in/O Western/O countries/O when/O we/O escape/O from/O our/O homeland/O ./O 
+But/O if/O we/O try/O to/O go/O into/O exile/O in/O an/O Islamic/O nation/O ,/O they/O send/O us/O back/O to/O China/LOCATION ./O 
+How/O do/O you/O respond/O to/O Beijing/LOCATION 's/O claim/O that/O there/O has/O been/O an/O upsurge/O in/O Islamic/O fundamentalism/O in/O Uighur/O regions/O ?/O 
+We/O are/O simply/O following/O Islamic/O rules/O ./O 
+This/O land/O belongs/O to/O the/O Uighur/O people/O and/O the/O people/O of/O the/O land/O believe/O in/O <ORGANIZATION>Islam/LOCATION</ORGANIZATION> ./O 
+We/O pray/O and/O we/O follow/O the/O rules/O of/O Islam/ORGANIZATION ;/O we/O fast/O during/O Ramadan/O ./O 
+So/O even/O if/O the/O Chinese/O policy/O is/O against/O us/O ,/O we/O will/O follow/O our/O traditions/O ./O 
+If/O you/O are/O granted/O self-determination/O ,/O what/O will/O be/O your/O policy/O towards/O the/O Han/O Chinese/O community/O ?/O 
+If/O we/O achieve/O our/O goal/O of/O self-determination/O ,/O our/O policy/O will/O be/O democracy/O ./O 
+We/O would/O welcome/O Han/O Chinese/O and/O other/O ethnic/O groups/O who/O want/O to/O live/O in/O this/O area/O ./O 
+We/O want/O a/O peaceful/O and/O just/O society/O because/O we/O have/O suffered/O for/O too/O long/O under/O the/O Chinese/ORGANIZATION Communist/ORGANIZATION Party/ORGANIZATION ./O 
+Interview/O conducted/O by/O Julian/PERSON Ryall/PERSON in/O Tokyo/LOCATION

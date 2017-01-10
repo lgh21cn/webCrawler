@@ -1,0 +1,18 @@
+Chinese/O authorities/O have/O arrested/O 29/O people/O as/O part/O of/O an/O ``/O anti-terrorist/O ''/O crackdown/O in/O the/O northwestern/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O home/O to/O a/O large/O <OTHER>Muslim/ORGANIZATION Uighur/ORGANIZATION</OTHER> minority/O and/O has/O been/O accused/O of/O breeding/O extremism/O ./O 
+The/O latest/O arrests/O were/O instigated/O by/O a/O May/O 22/O attack/O in/O <U_LOCATION>Urumqui/LOCATION</U_LOCATION> ,/O the/O capital/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+During/O the/O incident/O ,/O men/O ,/O who/O were/O driving/O off-road/O vehicles/O and/O throwing/O explosives/O ,/O plowed/O through/O a/O crowded/O market/O ./O 
+Thirty-nine/O people/O were/O killed/O ,/O including/O four/O suspects/O ./O 
+The/O state/O news/O portal/O <U_ORGANIZATION>Xinjiang/LOCATION Net/LOCATION</U_ORGANIZATION> said/O that/O the/O arrested/O individuals/O were/O ``/O suspected/O of/O crimes/O of/O inciting/O separatism/O ,/O assembling/O to/O disturb/O social/O order/O ,/O illegal/O business/O activities/O ,/O and/O inciting/O ethnic/O hatred/O and/O ethnic/O discrimination/O ./O ''/O 
+These/O arrests/O are/O part/O of/O a/O larger/O anti-terrorist/O operation/O in/O China/LOCATION in/O which/O hundreds/O of/O suspects/O have/O been/O detained/O ./O 
+During/O the/O past/O year/O ,/O increased/O attacks/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> have/O posed/O a/O major/O security/O challenge/O to/O Chinese/O President/O Xi/PERSON Jinping/PERSON ./O 
+On/O April/O 30/O ,/O two/O suspects/O and/O one/O bystander/O were/O killed/O at/O an/O <U_LOCATION>Urumqui/O</U_LOCATION> train/O station/O in/O an/O apparent/O terrorist/O attack/O ./O 
+In/O March/O ,/O 29/O people/O were/O stabbed/O to/O death/O at/O a/O train/O station/O in/O the/O city/O of/O Kunming/LOCATION ./O 
+Last/O October/O ,/O three/O attackers/O and/O two/O tourists/O were/O also/O killed/O in/O Beijing/LOCATION when/O they/O drove/O their/O SUV/O through/O crowds/O which/O gathered/O in/O front/O of/O <LOCATION>Tiananmen/O Gate/O</LOCATION> ,/O setting/O the/O SUV/O alight/O ./O 
+At/O a/O meeting/O last/O month/O ,/O President/O Xi/PERSON called/O for/O ``/O copper/O walls/O and/O iron/O barriers/O ''/O as/O well/O as/O ``/O nets/O spread/O from/O the/O earth/O to/O the/O sky/O ''/O to/O stop/O the/O terrorists/O ./O 
+However/O ,/O he/O also/O promised/O more/O support/O for/O education/O and/O employment/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Experts/O believe/O that/O these/O factors/O are/O the/O very/O source/O of/O the/O problem/O ,/O saying/O that/O economic/O marginalization/O of/O Uighurs/O in/O particular/O is/O one/O of/O the/O main/O causes/O of/O the/O violence/O ./O 
+Rights/O groups/O also/O contend/O that/O Uighurs/O ,/O who/O speak/O a/O Turkic/O language/O ,/O have/O problems/O with/O discrimination/O ./O 
+Most/O jobs/O go/O to/O migrant/O workers/O from/O other/O parts/O of/O China/LOCATION ,/O they/O say/O ./O 
+In/O the/O past/O ,/O Uighurs/O frequently/O complained/O about/O restrictions/O on/O their/O language/O ,/O culture/O ,/O religious/O worship/O and/O other/O freedoms/O ./O 
+as/msh/O -LRB-/O dpa/O ,/O Reuters/ORGANIZATION -RRB-/O

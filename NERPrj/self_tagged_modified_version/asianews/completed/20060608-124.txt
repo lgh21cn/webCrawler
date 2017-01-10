@@ -1,0 +1,10 @@
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> //O Agencies/O -RRB-/O --/O 
+Bird/O flu/O has/O stricken/O China/LOCATION once/O again/O :/O Beijing/LOCATION today/O admitted/O the/O outbreak/O of/O new/O infection/O among/O poultry/O in/O the/O northern/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> province/O ./O 
+The/O official/O Xinhua/ORGANIZATION newsagency/O said/O China/LOCATION 's/O Ministry/ORGANIZATION of/ORGANIZATION Agriculture/ORGANIZATION confirmed/O that/O poultry/O on/O a/O farm/O in/O <U_LOCATION>Hetian/LOCATION</U_LOCATION> <OTHER>county/LOCATION</OTHER> had/O died/O from/O the/O virus/O ./O 
+Traces/O of/O the/O H5N1/O virus/O --/O the/O carrier/O of/O bird/O flu/O --/O were/O found/O in/O their/O animals/O ./O 
+The/O report/O does/O not/O specify/O how/O many/O birds/O have/O been/O infected/O ./O 
+The/O Agriculture/ORGANIZATION Ministry/ORGANIZATION said/O it/O had/O already/O dispatched/O experts/O to/O <U_LOCATION>Hetian/LOCATION</U_LOCATION> to/O control/O the/O outbreak/O ;/O right/O now/O they/O are/O inspecting/O and/O disinfecting/O people/O and/O vehicles/O passing/O through/O of/O the/O stricken/O area/O ./O 
+China/LOCATION has/O reported/O about/O 40/O outbreaks/O of/O bird/O flu/O in/O birds/O across/O a/O dozen/O provinces/O over/O the/O past/O year/O ;/O 12/O people/O have/O died/O ,/O according/O to/O official/O data/O ./O 
+Since/O late/O 2003/O --/O the/O year/O when/O bird/O flu/O exploded/O --/O more/O than/O 120/O people/O ,/O mostly/O in/O Asia/LOCATION ,/O have/O died/O from/O the/O disease/O ./O 
+Experts/O fear/O contact/O between/O infected/O birds/O and/O human/O beings/O could/O lead/O the/O virus/O to/O mutate/O ,/O changing/O the/O type/O of/O routes/O of/O transmission/O of/O infection/O ./O 
+At/O the/O moment/O ,/O there/O is/O no/O proof/O of/O direct/O human/O transmission/O :/O given/O its/O airborne/O spread/O ,/O should/O the/O H5N1/O virus/O mutate/O into/O such/O a/O form/O ,/O a/O bird/O flu/O pandemic/O could/O fellow/O ./O

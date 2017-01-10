@@ -1,0 +1,21 @@
+Eight/O people/O were/O sentenced/O to/O death/O for/O their/O roles/O in/O two/O knife/O and/O bomb/O attacks/O earlier/O this/O year/O in/O the/O violence-plagued/O western/O region/O ./O 
+In/O addition/O ,/O seven/O students/O of/O prominent/O Uygur/O scholar/O <U_PERSON>Ilham/PERSON Tohti/PERSON</U_PERSON> ,/O who/O received/O a/O life/O sentence/O for/O separatism/O ,/O were/O jailed/O for/O three/O to/O eight/O years/O ./O 
+<U_LOCATION>Urumqi/LOCATION</U_LOCATION> -LRB-/O <U_LOCATION>AsiaNews</U_LOCATION> //O Agencies/O -RRB-/O -/O 
+Eight/O people/O were/O sentenced/O to/O death/O for/O their/O roles/O in/O two/O knife/O and/O bomb/O attacks/O earlier/O this/O year/O in/O the/O violence-plagued/O western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O state/O media/O reported/O yesterday/O ./O 
+In/O addition/O ,/O seven/O students/O of/O prominent/O Uygur/O scholar/O <U_PERSON>Ilham/PERSON Tohti/PERSON</U_PERSON> ,/O who/O received/O a/O life/O sentence/O for/O separatism/O ,/O were/O jailed/O for/O three/O to/O eight/O years/O after/O being/O convicted/O on/O the/O same/O charge/O ,/O according/O to/O <U_PERSON>Tohti/PERSON</U_PERSON> 's/O lawyer/O ./O 
+Hundreds/O of/O people/O have/O been/O killed/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> in/O the/O past/O two/O years/O ,/O mostly/O due/O to/O violence/O between/O the/O Uygur/O minority/O and/O the/O majority/O Han/O ./O 
+In/O April/O ,/O a/O knife/O and/O bomb/O attack/O at/O a/O train/O station/O in/O the/O region/O 's/O capital/O of/O <U_LOCATION>Urumqi/O</U_LOCATION> killed/O three/O and/O injured/O 79/O ./O 
+In/O May/O ,/O 39/O people/O at/O an/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> market/O were/O killed/O when/O attackers/O hurled/O explosives/O out/O of/O the/O windows/O of/O two/O SUVs/O ./O 
+Five/O others/O were/O given/O a/O suspended/O death/O sentence/O ,/O which/O usually/O means/O life/O in/O prison/O ./O 
+Four/O others/O were/O given/O lesser/O prison/O sentences/O ,/O Xinhua/ORGANIZATION said/O ./O 
+The/O government/O has/O blamed/O a/O series/O of/O attacks/O in/O other/O parts/O of/O the/O country/O ,/O including/O Beijing/LOCATION ,/O on/O militants/O from/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Critics/O and/O human/O rights/O advocates/O say/O Uygurs/O chafe/O under/O the/O repressive/O rule/O of/O the/O Han-dominated/O government/O ./O 
+<U_PERSON>Dilxat/PERSON Raxit/PERSON</U_PERSON> ,/O spokesman/O for/O the/O Munich-based/O <U_ORGANIZATION>World/ORGANIZATION Uygur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> ,/O said/O the/O harsh/O sentences/O were/O politically/O motivated/O and/O the/O defendants/O had/O no/O chance/O of/O a/O fair/O trial/O ./O 
+The/O province/O is/O one/O of/O the/O most/O turbulent/O in/O all/O of/O China/LOCATION ./O 
+Its/O Uighur/O Muslim/O minority/O ,/O who/O number/O about/O nine/O million/O ,/O have/O long/O sought/O independence/O from/O China/LOCATION ./O 
+The/O central/O government/O ,/O for/O its/O part/O ,/O has/O brought/O in/O millions/O of/O settlers/O to/O make/O Han/O Chinese/O the/O dominant/O ethnic/O group/O ./O 
+At/O the/O same/O time/O ,/O it/O has/O severely/O curtailed/O Muslim/O religious/O worship/O as/O well/O as/O the/O teaching/O of/O the/O local/O language/O and/O culture/O ./O 
+Since/O 2009/O Chinese/O police/O and/O the/O military/O have/O held/O the/O region/O under/O a/O special/O regime/O ,/O which/O Beijing/LOCATION imposed/O following/O clashes/O that/O left/O nearly/O 200/O people/O dead/O ./O 
+As/O a/O result/O of/O various/O episodes/O of/O violence/O ,/O hundreds/O of/O long/O prison/O sentences/O were/O imposed/O and/O dozens/O of/O death/O penalties/O were/O carried/O out/O ./O 
+Chinese/O authorities/O blame/O Muslim/O extremists/O for/O the/O wave/O of/O violence/O ./O 
+Uighur/O exiles/O claim/O instead/O that/O Beijing/LOCATION is/O ``/O exaggerating/O ''/O the/O threat/O of/O Islamic/O terrorism/O to/O justify/O repression/O against/O indigenous/O Uighurs/O ./O

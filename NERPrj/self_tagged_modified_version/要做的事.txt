@@ -1,0 +1,18 @@
+标注核对完毕后找一下带“Watch video”关键词的文本，重新调整【加个换行】
+
+Afghan/ORGANIZATION Taliban/ORGANIZATION 改为 Afghan/O Taliban/ORGANIZATION
+
+找到所有含有 调整【Sunni】、【Shia】的文本，修改一下，注意形容词，可参考【需要调整的地方.xlsx】
+
+调整形如 -LRB-/O 13.11.2015/O -RRB-/O 【单独成行】
+
+将【US/O dollars/O】调整为【US/O dollars/O】 
+
+
+【可能要修改的内容】
+搜 【Istanbul Process】 改为 /O
+
+
+
+
+去【http://gen.lib.rus.ec/】下载关于【xinjiang】的书籍
