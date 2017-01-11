@@ -1,0 +1,24 @@
+Social/O tensions/O due/O to/O farmers/O '/O unrest/O and/O ethnic/O strife/O are/O boosting/O revenues/O for/O a/O Chongqing/LOCATION company/O ./O 
+Its/O list/O of/O products/O includes/O a/O `/O <ORGANIZATION>Holy/O Road/O</ORGANIZATION> '/O armoured/O car/O with/O a/O multi-barrel/O canon/O for/O firing/O tear/O gas/O and/O a/O `/O death/O car/O '/O designed/O to/O be/O a/O mobile/O station/O for/O death/O penalty/O execution/O by/O lethal/O injection/O ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> //O <ORGANIZATION>SCMP/O</ORGANIZATION> -RRB-/O --/O 
+Rising/O crime/O rates/O and/O social/O unrest/O and/O the/O growing/O gap/O between/O rich/O and/O poor/O have/O created/O a/O niche/O market/O in/O mainland/O China/LOCATION :/O armoured/O cars/O and/O anti-riot/O gear/O ./O 
+With/O courts/O last/O year/O dealing/O with/O 228,000/O violent/O crimes/O ranging/O from/O bombings/O to/O robbery/O and/O growing/O social/O strife/O caused/O by/O protesting/O ethnic/O minorities/O ,/O farmers/O and/O even/O soccer/O hooligans/O ,/O the/O Gold/ORGANIZATION Crown/ORGANIZATION Group/ORGANIZATION has/O become/O the/O largest/O maker/O of/O armoured/O vehicles/O in/O the/O country/O with/O business/O worth/O 500/O million/O yuan/O ./O 
+Liu/PERSON Ningbo/PERSON ,/O deputy/O manager/O of/O the/O Group/ORGANIZATION 's/O subsidiary/O Chongqing/ORGANIZATION Jinguan/ORGANIZATION Automobile/ORGANIZATION Manufacturing/ORGANIZATION ,/O showed/O off/O the/O latest/O model/O of/O the/O <ORGANIZATION>Holy/O Road/O</ORGANIZATION> brand/O armoured/O car/O ./O 
+``/O Even/O if/O the/O tyre/O is/O hit/O by/O a/O bullet/O ,/O the/O car/O can/O still/O run/O ,/O ''/O he/O said/O ./O 
+The/O car/O ,/O which/O comes/O with/O a/O multi-barrel/O canon/O for/O firing/O tear/O gas/O ,/O has/O a/O price/O tag/O of/O one/O million/O yuan/O ./O 
+The/O car/O is/O due/O for/O delivery/O to/O western/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O an/O area/O of/O unrest/O among/O ethnic/O Uygurs/O ,/O a/O local/O minority/O fighting/O for/O an/O independent/O state/O ,/O some/O of/O whose/O members/O recently/O carried/O out/O a/O series/O of/O bombings/O and/O protests/O ./O 
+Wherever/O the/O government/O sees/O a/O threat/O to/O social/O stability/O ,/O the/O company/O sees/O market/O opportunities/O ./O 
+The/O mainland/O 's/O biggest/O protests/O last/O year/O happened/O not/O far/O from/O the/O company/O 's/O headquarters/O in/O Chongqing/LOCATION ./O 
+In/O October/O in/O neighbouring/O Sichuan/LOCATION province/O ,/O tens/O of/O thousands/O of/O farmers/O in/O Hanyuan/LOCATION County/LOCATION protested/O against/O a/O hydroelectric/O dam/O project/O by/O staging/O a/O sit-in/O and/O surrounding/O a/O car/O carrying/O a/O high-ranking/O government/O official/O ./O 
+Mr/O Liu/PERSON said/O ``/O farmers/O smashed/O the/O shields/O carried/O by/O police/O ,/O highlighting/O the/O need/O for/O better/O equipment/O ./O ''/O 
+<ORGANIZATION>Gold/O Crown/O</ORGANIZATION> offers/O a/O line/O of/O bullet-proof/O vests/O ,/O body/O armour/O ,/O helmets/O and/O shields/O ./O 
+``/O There/O 's/O no/O way/O these/O shields/O can/O break/O ./O 
+Knives/O or/O sticks/O --/O there/O wo/O n't/O be/O any/O problem/O ,/O ''/O he/O said/O ./O 
+In/O another/O October/O incident/O ,/O tens/O of/O thousands/O of/O protesters/O in/O Wanzhou/LOCATION ,/O part/O of/O Chongqing/LOCATION ,/O burned/O cars/O and/O destroyed/O government/O offices/O ./O 
+``/O Wanzhou/LOCATION police/O did/O not/O use/O equipment/O or/O vehicles/O made/O by/O <ORGANIZATION>Gold/O Crown/O</ORGANIZATION> at/O the/O time/O ,/O but/O they/O are/O now/O a/O customer/O ,/O ''/O Mr/O Liu/PERSON said/O ./O 
+Armoured/O cars/O and/O vehicles/O with/O bullet-proof/O windows/O have/O proved/O to/O be/O the/O best/O sellers/O ./O 
+<ORGANIZATION>Gold/O Crown/O</ORGANIZATION> refits/O more/O than/O 1,000/O vehicles/O a/O year/O ,/O turning/O Ford/ORGANIZATION vans/O into/O vehicles/O for/O transporting/O accused/O criminals/O to/O court/O and/O Mercedes/ORGANIZATION Benz/ORGANIZATION trucks/O into/O armoured/O cars/O for/O banks/O ./O 
+Among/O its/O specialised/O vehicles/O is/O a/O ``/O death/O car/O ''/O ,/O designed/O to/O be/O a/O mobile/O station/O for/O carrying/O out/O death/O penalties/O by/O lethal/O injection/O ./O 
+Buyers/O of/O the/O company/O 's/O 50/O types/O of/O cars/O include/O the/O Supreme/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Court/ORGANIZATION ,/O the/O People/ORGANIZATION 's/ORGANIZATION Bank/ORGANIZATION of/ORGANIZATION China/ORGANIZATION ,/O police/O and/O rescue/O forces/O around/O the/O country/O ,/O and/O rich/O entrepreneurs/O seeking/O added/O protection/O in/O troubled/O times/O ./O 
+``/O Business/O this/O year/O will/O be/O better/O than/O last/O year/O ,/O ''/O Mr/O Liu/PERSON said/O ./O 
+-LRB-/O PB/O -RRB-/O

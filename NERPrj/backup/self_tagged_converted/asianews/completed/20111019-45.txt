@@ -1,0 +1,17 @@
+For/O now/O there/O are/O 17/O children/O paralyzed/O and/O one/O dead/O from/O the/O disease/O ./O
+The/O strain/O appears/O to/O originate/O from/O Pakistan/LOCATION ./O
+WHO/ORGANIZATION 's/O alert/O for/O the/O countries/O that/O have/O already/O defeated/O the/O disease/O ./O
+Pilgrimage/O to/O Mecca/LOCATION at/O risk/O ./O
+Beijing/LOCATION -LRB-/O AsiaNews/ORGANIZATION //O Agencies/O -RRB-/O -/O
+About/O four/O and/O a/O half/O million/O children/O and/O young/O people/O have/O been/O vaccinated/O against/O polio/O in/O Xinjiang/U_LOCATION after/O the/O disease/O paralyzed/O 17/O children/O and/O caused/O the/O death/O of/O another/O ./O
+According/O to/O the/O World/ORGANIZATION Health/ORGANIZATION Organization/ORGANIZATION -LRB-/O WHO/ORGANIZATION -RRB-/O ,/O the/O epidemic/O of/O poliomyelitis/O in/O China/LOCATION is/O the/O first/O since/O 1999/O ./O
+Scientists/O think/O that/O this/O strain/O -LRB-/O type/O WPV1/O -RRB-/O originated/O from/O Pakistan/LOCATION ,/O where/O the/O disease/O is/O endemic/O ./O
+All/O cases/O which/O broke/O out/O in/O Xinjiang/U_LOCATION occurred/O between/O July/O and/O September/O in/O Hotan/U_LOCATION Prefecture/U_LOCATION ,/O on/O the/O border/O with/O Pakistan/LOCATION ./O
+The/O vaccination/O campaign/O started/O in/O late/O September/O and/O has/O reached/O nearly/O five/O million/O people/O ./O
+Polio/O is/O manifested/O by/O symptoms/O similar/O to/O colds/O ,/O fever/O ,/O nausea/O ,/O headaches/O ,/O and/O can/O produce/O paralysis/O within/O 24-48/O hours/O ./O
+WHO/ORGANIZATION spokesman/O Oliver/PERSON Rosenbauer/PERSON ,/O has/O also/O alerted/O nations/O where/O the/O disease/O has/O been/O eradicated/O because/O ``/O it/O is/O an/O infectious/O disease/O ,/O and/O as/O people/O travel/O ,/O countries/O without/O polio/O can/O return/O to/O being/O infected/O .../O just/O as/O happened/O in/O the/O area/O west/O of/O China/LOCATION ./O ''/O
+Polio/O is/O spread/O through/O food/O ,/O water/O ,/O feces/O ./O
+The/O WHO/ORGANIZATION has/O stressed/O that/O the/O crippling/O disease/O could/O spread/O even/O more/O during/O pilgrimages/O to/O Mecca/LOCATION ./O
+The/O next/O pilgrimage/O to/O the/O holy/O city/O of/O Islam/ORGANIZATION will/O be/O in/O November/O ./O
+So/O far/O in/O the/O world/O there/O were/O 444/O cases/O of/O polio/O ,/O 25/O %/O of/O them/O in/O Pakistan/LOCATION ./O
+Last/O year/O 1349/O cases/O were/O registered/O ./O

@@ -1,5 +1,11 @@
 package com.lgh.ner;
 
+import java.io.File;
+import java.io.FileFilter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
 public class SlashTagsToInlineXMLConverter {
 	
 	
@@ -96,6 +102,9 @@ public class SlashTagsToInlineXMLConverter {
 			U_LOCATION,
 	};
 
+	public static final String NER_ROOT_PATH="C:/eclipse/workspace/NERPrj/";
+	public static final String NER_UN_CONVERTED_PATH=NER_ROOT_PATH+"self_tagged_un_converted";
+	public static final String NER_CONVERTED_PATH=NER_ROOT_PATH+"self_tagged_converted";
 	
 
 	public static void main(String[] args) {
@@ -137,7 +146,42 @@ public class SlashTagsToInlineXMLConverter {
 		convert(STANFORD_NER_ROOT_PATH+"20031204-222.txt", STANFORD_NER_ROOT_PATH+"20031204-222_compared.txt", converters);
 
 		
-		
+		List<String> filePaths=new ArrayList<>();
+		try {
+			FileUtils.readAllFilePaths(NER_UN_CONVERTED_PATH, filePaths, new FileFilter() {
+				
+				@Override
+				public boolean accept(File pathname) {
+					// TODO Auto-generated method stub
+					
+					if(pathname.isDirectory())
+						return true;
+					else if(pathname.getName().matches("\\d+-\\d+.txt")){
+						return true;
+					}else{
+						return false;
+					}
+				}
+			});
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}finally {
+			
+			String destPath;
+			final int length=NER_UN_CONVERTED_PATH.length();
+			for (String path : filePaths) {
+				String subPath=path.substring(length).replace("\\", FileUtils.seperator);
+				System.out.println(subPath);
+				destPath= NER_CONVERTED_PATH+subPath;
+				convert(path, destPath, converters);
+				System.out.println(path);
+			}
+			System.out.println("Number of Files is "+filePaths.size());
+		}
+		String path="dwNews_Œ Ã‚ª„◊‹.xlsx";
+		System.out.println(path.matches("\\d+-\\d+.txt"));
 	}
 	
 	public static void convert(String src,String dest,SlashTagsToInlineXMLConverter[] converters){

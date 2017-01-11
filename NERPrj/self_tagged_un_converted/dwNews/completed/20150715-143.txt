@@ -1,0 +1,20 @@
+China/LOCATION has/O detained/O a/O group/O of/O 20/O tourists/O from/O South/LOCATION Africa/LOCATION ,/O Britain/LOCATION and/O India/LOCATION ,/O after/O they/O were/O accused/O of/O watching/O videos/O that/O were/O judged/O to/O be/O terrorist/O propaganda/O ./O 
+Several/O have/O already/O been/O deported/O ./O 
+The/O UK/LOCATION 's/O embassy/O in/O Beijing/LOCATION confirmed/O on/O Tuesday/O that/O nine/O Britons/O and/O two/O dual/O nationality/O British-South/O African/O travelers/O had/O been/O detained/O ./O 
+It/O said/O that/O six/O of/O them/O had/O been/O deported/O ./O 
+The/O embassy/O said/O it/O was/O still/O ``/O seeking/O further/O clarification/O ''/O about/O those/O still/O being/O held/O by/O authorities/O ./O 
+The/O group/O was/O first/O detained/O on/O Friday/O at/O an/O airport/O in/O Ordos/LOCATION ,/O in/O China/LOCATION 's/O Inner/LOCATION Mongolia/LOCATION region/O ./O 
+No/O reasons/O were/O given/O for/O the/O detentions/O ,/O according/O to/O the/O charity/O <ORGANIZATION>Gift/O of/O the/O Givers/O</ORGANIZATION> ,/O which/O has/O been/O communicating/O on/O behalf/O of/O those/O who/O were/O held/O ./O 
+According/O to/O the/O charity/O ,/O representatives/O of/O the/O three/O foreign/O governments/O had/O held/O talks/O in/O Ordos/LOCATION ,/O with/O 11/O to/O be/O deported/O or/O already/O having/O been/O deported/O ./O 
+However/O ,/O the/O group/O said/O on/O its/O Facebook/ORGANIZATION page/O ,/O five/O of/O the/O South/O Africans/O ,/O three/O of/O the/O British/O and/O an/O Indian/O national/O remain/O in/O detention/O without/O charge/O ./O 
+``/O No/O charges/O have/O been/O put/O to/O the/O group/O ,/O but/O the/O Chinese/O have/O been/O very/O vague/O saying/O that/O someone/O in/O the/O group/O has/O some/O links/O to/O a/O suspected/O terror/O group/O ,/O ''/O said/O a/O <ORGANIZATION>Gift/O of/O the/O Givers/O</ORGANIZATION> statement/O ./O 
+It/O was/O also/O alleged/O that/O a/O member/O of/O the/O group/O had/O been/O watching/O the/O alleged/O propaganda/O videos/O in/O their/O hotel/O room/O ./O 
+<ORGANIZATION>Gift/O of/O the/O Givers/O</ORGANIZATION> tweeted/O a/O message/O of/O concern/O about/O the/O conditions/O in/O which/O the/O detainees/O were/O living/O ./O 
+`/O No/O contact/O after/O arrest/O '/O The/O tourists/O had/O been/O on/O a/O 47-day/O planned/O journey/O to/O explore/O ancient/O Chinese/O sites/O when/O they/O were/O arrested/O ./O 
+Members/O of/O the/O group/O were/O given/O no/O contact/O with/O their/O embassies/O ,/O <ORGANIZATION>Gift/PERSON of/PERSON the/PERSON Givers/PERSON</ORGANIZATION> said/O ,/O adding/O that/O the/O fact/O that/O they/O had/O been/O detained/O only/O came/O to/O light/O through/O their/O tour/O operator/O ./O 
+The/O charity/O urged/O South/LOCATION Africa/LOCATION 's/O Deputy/O President/O Cyril/PERSON Ramaphosa/PERSON ,/O who/O is/O visiting/O China/LOCATION on/O government/O business/O ,/O to/O raise/O the/O issue/O with/O his/O hosts/O ./O 
+South/O African/O Foreign/O Minister/O Maite/PERSON Nkoana-Mashabane/PERSON told/O reporters/O in/O Pretoria/LOCATION that/O consultations/O with/O Chinese/O authorities/O were/O taking/O place/O ./O 
+``/O The/O matter/O has/O been/O raised/O at/O the/O highest/O level/O possible/O ,/O taking/O advantage/O of/O the/O deputy/O president/O 's/O presence/O in/O China/LOCATION ''/O she/O said/O ./O 
+The/O Chinese/O government/O recently/O extended/O a/O year-long/O nationwide/O crackdown/O on/O ``/O terrorism/O ''/O that/O was/O in/O place/O after/O a/O string/O of/O violent/O incidents/O blamed/O on/O Islamist/O separatists/O from/O the/O mainly/O Muslim/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+The/O ruling/O <OTHER>Communist/ORGANIZATION party/ORGANIZATION</OTHER> has/O ,/O in/O recent/O months/O ,/O tightened/O controls/O on/O foreigners/O working/O in/O the/O country/O ./O 
+rc/jil/O -LRB-/O AFP/ORGANIZATION ,/O AP/ORGANIZATION ,/O dpa/O -RRB-/O

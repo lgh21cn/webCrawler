@@ -2,6 +2,7 @@ package com.lgh.ner;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileFilter;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -30,6 +31,31 @@ public class FileUtils {
 			System.out.println("Change path seperator,Results:"+file.getCanonicalPath().replace("\\", seperator));
 			if(file.isDirectory()){
 				readAllFilePaths(file.getCanonicalPath().replace("\\", seperator), paths);
+			}else if(file.isFile()){
+				paths.add(file.getCanonicalPath());
+			}
+		}
+	}
+	
+	public static void readAllFilePaths(String root,List<String> paths,FileFilter filter) throws IOException{
+		if(root==null ||root.trim().isEmpty()) return;
+		
+		if(filter==null) {
+			readAllFilePaths(root, paths);
+			return;
+		}
+		
+		File rootFile=new File(root);
+		if(rootFile==null && !rootFile.exists()) return;
+		
+		File[] subFiles=rootFile.listFiles(filter);
+		
+		for (File file : subFiles) {
+			
+			System.out.println(file.getCanonicalPath());
+			System.out.println("Change path seperator,Results:"+file.getCanonicalPath().replace("\\", seperator));
+			if(file.isDirectory()){
+				readAllFilePaths(file.getCanonicalPath().replace("\\", seperator), paths,filter);
 			}else if(file.isFile()){
 				paths.add(file.getCanonicalPath());
 			}

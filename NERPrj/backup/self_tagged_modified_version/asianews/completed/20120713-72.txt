@@ -1,0 +1,15 @@
+The/O camp/O not/O authorized/O ./O 
+70/O students/O detained/O ./O 
+President/O of/O <ORGANIZATION>ChinaAid/O</ORGANIZATION> underlines/O the/O continued/O violations/O of/O religious/O freedom/O against/O Protestants/O ./O 
+In/O Muslim/O majority/O region/O those/O under/O 18/O years/O of/O age/O can/O not/O practice/O any/O religion/O ./O 
+Beijing/LOCATION -LRB-/O AsiaNews/ORGANIZATION //O Agencies/O -RRB-/O -/O 
+Chinese/O police/O have/O raided/O a/O Protestant/O Christian/O summer/O camp/O in/O the/O outskirts/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Authorities/O arrested/O seven/O teachers/O and/O detained/O 70/O students/O ./O 
+The/O incident/O occurred/O on/O July/O 2/O ,/O but/O the/O news/O was/O released/O yesterday/O ./O 
+Currently/O the/O seven/O educators/O are/O still/O in/O the/O detention/O center/O at/O <U_LOCATION>Xishan/LOCATION</U_LOCATION> ./O 
+Bob/PERSON Fu/PERSON ,/O president/O of/O <ORGANIZATION>ChinaAid/O</ORGANIZATION> ,/O said/O the/O incident/O is/O just/O one/O of/O many/O in/O recent/O months/O ./O 
+He/O tells/O of/O a/O real/O fury/O against/O house/O churches/O or/O schools/O for/O children/O run/O by/O Christians/O ./O 
+In/O recent/O days/O ,/O the/O police/O attacked/O the/O home/O of/O a/O minister/O of/O the/O district/O <U_LOCATION>Shatain/O</U_LOCATION> ,/O confiscating/O material/O and/O documents/O ,/O used/O to/O attack/O Christians/O ./O 
+In/O June/O ,/O another/O summer/O school/O was/O blocked/O by/O police/O in/O <U_LOCATION>Houcun/LOCATION</U_LOCATION> ./O 
+Officers/O raided/O the/O property/O threatening/O the/O teachers/O ,/O who/O were/O not/O allowed/O to/O teach/O religious/O education/O to/O children/O under/O the/O age/O of/O 18/O ./O 
+In/O the/O Muslim/O majority/O region/O ,/O you/O can/O join/O and/O practice/O a/O religion/O only/O after/O reaching/O the/O legal/O age/O ./O

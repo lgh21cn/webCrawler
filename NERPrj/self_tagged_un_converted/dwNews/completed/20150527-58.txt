@@ -1,0 +1,54 @@
+Once/O again/O ,/O secret/O talks/O with/O Taliban/ORGANIZATION representatives/O are/O said/O to/O have/O taken/O place/O -/O this/O time/O in/O China/LOCATION ./O 
+Given/O the/O string/O of/O deadly/O attacks/O in/O their/O country/O ,/O Afghans/O have/O reacted/O to/O the/O alleged/O meeting/O with/O skepticism/O ./O 
+According/O to/O some/O Afghan/O and/O Western/O media/O outlets/O ,/O an/O Afghan/O peace/O delegation/O and/O former/O officials/O of/O the/O Taliban/ORGANIZATION regime/O held/O secret/O talks/O last/O week/O in/O the/O northwestern/O Chinese/O city/O of/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+The/O Afghan/O delegation/O was/O reportedly/O headed/O by/O Masoom/PERSON Stanekzai/PERSON ,/O secretary/O of/O the/O Afghan/O government/O 's/O High/ORGANIZATION Peace/ORGANIZATION Council/ORGANIZATION ,/O who/O has/O also/O been/O nominated/O as/O defense/O minister/O by/O President/O Ashraf/PERSON Ghani/PERSON ./O 
+Talks/O about/O talks/O 
+According/O to/O some/O reports/O ,/O three/O representatives/O of/O the/O Taliban/ORGANIZATION -/O Mullah/PERSON Abdul/PERSON Jalil/PERSON ,/O Mullah/PERSON Abdul/PERSON Razaq/PERSON and/O Mullah/PERSON Hassan/PERSON Rahmani/PERSON -/O participated/O in/O the/O negotiations/O ./O 
+Also/O present/O were/O officials/O of/O Pakistan/LOCATION 's/O spy/O agency/O ,/O the/O Inter-Services/ORGANIZATION Intelligence/ORGANIZATION 's/O -LRB-/O ISI/ORGANIZATION -RRB-/O ,/O who/O reportedly/O facilitated/O the/O talks/O ./O 
+Stanekzai/PERSON has/O been/O nominated/O as/O Afghanistan/LOCATION 's/O defense/O minister/O by/O President/O Ashraf/PERSON Ghani/PERSON 
+<LOCATION>Beijing/PERSON</LOCATION> has/O officially/O denied/O any/O knowledge/O of/O the/O alleged/O meeting/O ,/O but/O the/O Chinese/O government/O ,/O in/O the/O past/O ,/O has/O shown/O a/O great/O deal/O of/O interest/O in/O a/O peaceful/O settlement/O in/O neighboring/O Afghanistan/LOCATION ./O 
+``/O Beijing/LOCATION should/O have/O known/O something/O about/O this/O meeting/O ,/O ''/O Wang/PERSON Lian/PERSON ,/O a/O political/O scientist/O at/O Beijing/ORGANIZATION University/ORGANIZATION ,/O told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
+``/O Probably/O China/LOCATION does/O n't/O want/O to/O talk/O about/O it/O ,/O mainly/O because/O the/O Taliban/ORGANIZATION are/O perceived/O as/O extremists/O and/O terrorists/O ,/O but/O eventually/O ,/O if/O the/O reconciliation/O process/O in/O Afghanistan/LOCATION succeeds/O ,/O it/O will/O be/O good/O for/O China/LOCATION ./O 
+It/O is/O also/O about/O China/LOCATION 's/O own/O security/O ,/O ''/O he/O added/O ./O 
+The/O alleged/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> talks/O are/O the/O latest/O in/O a/O series/O of/O similar/O unofficial/O meetings/O between/O Afghan/O officials/O and/O the/O Taliban/ORGANIZATION in/O Qatar/LOCATION and/O Iran/LOCATION ./O 
+Both/O parties/O deny/O that/O these/O talks/O have/O taken/O place/O ,/O and/O this/O time/O it/O is/O no/O different/O :/O ``/O We/O have/O received/O no/O information/O about/O a/O meeting/O in/O China/LOCATION ,/O ''/O according/O to/O High/ORGANIZATION Peace/ORGANIZATION Council/ORGANIZATION 's/O Shahzada/PERSON Shahid/PERSON ./O 
+``/O These/O are/O only/O rumors/O ,/O ''/O he/O added/O ./O 
+Afghan/O experts/O and/O lawmakers/O have/O criticized/O the/O secrecy/O over/O the/O talks/O because/O President/O Ghani/PERSON had/O promised/O that/O the/O discussions/O with/O the/O Taliban/ORGANIZATION would/O be/O transparent/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Taliban/ORGANIZATION claims/O latest/O attack/O on/O Kabul/LOCATION guesthouse/O 
+An/O all-night/O siege/O in/O Kabul/LOCATION ended/O in/O the/O early/O hours/O of/O Wednesday/O morning/O with/O the/O deaths/O of/O four/O heavily/O armed/O attackers/O ./O 
+No/O civilians/O or/O security/O personnel/O were/O injured/O or/O killed/O ,/O according/O to/O an/O Afghan/O official/O ./O 
+-LRB-/O 27.05.2015/O -RRB-/O 
+Will/O the/O Afghan-Pakistani/O intelligence/O cooperation/O work/O ?/O 
+Afghanistan/LOCATION and/O Pakistan/LOCATION have/O agreed/O to/O share/O intelligence/O against/O militants/O ,/O but/O experts/O are/O not/O too/O optimistic/O about/O the/O outcome/O citing/O a/O lack/O of/O trust/O between/O the/O two/O nations/O and/O Pakistan/LOCATION 's/O sympathies/O for/O the/O Taliban/ORGANIZATION ./O 
+-LRB-/O 20.05.2015/O -RRB-/O 
+Battle/O for/O Kunduz/LOCATION :/O `/O German/O forces/O left/O too/O early/O '/O 
+Hundreds/O of/O Taliban/ORGANIZATION fighters/O have/O besieged/O the/O northern/O Afghan/O city/O of/O Kunduz/LOCATION and/O are/O attacking/O Afghan/O army/O bases/O and/O checkpoints/O ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> correspondent/O Mohammad/PERSON Saber/PERSON Yosofi/PERSON describes/O the/O situation/O on/O the/O ground/O ./O 
+-LRB-/O 29.04.2015/O -RRB-/O 
+``/O The/O Afghans/O are/O unhappy/O with/O the/O government/O ./O 
+There/O have/O been/O no/O real/O peace/O talks/O to/O date/O ,/O ''/O said/O Haji/PERSON Abdulhai/PERSON Akhondzada/PERSON ,/O a/O parliamentarianfrom/O Helmand/LOCATION Province/LOCATION and/O deputy/O chairman/O of/O the/O parliament/O 's/O Commission/ORGANIZATION for/ORGANIZATION Internal/ORGANIZATION Security/ORGANIZATION ./O 
+``/O Until/O now/O ,/O the/O talks/O have/O been/O only/O about/O how/O to/O start/O the/O talks/O ,/O ''/O he/O added/O ./O 
+Retired/O Taliban/ORGANIZATION officials/O ?/O 
+But/O the/O victims/O are/O the/O people/O in/O Afghanistan/LOCATION ,/O Akhondzada/PERSON told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
+``/O The/O security/O situation/O in/O the/O country/O is/O getting/O worse/O by/O the/O day/O ./O 
+There/O are/O no/O positive/O developments/O ,/O and/O there/O is/O fighting/O in/O each/O province/O ./O 
+The/O Taliban/ORGANIZATION are/O in/O the/O midst/O of/O their/O spring/O offensive/O ,/O and/O they/O will/O only/O be/O willing/O to/O talk/O if/O their/O offensive/O fails/O ./O ''/O 
+The/O parliamentarian/O added/O that/O the/O government/O in/O Kabul/LOCATION had/O made/O no/O progress/O in/O this/O regard/O ,/O and/O that/O the/O Pakistani/O leadership/O had/O failed/O to/O keep/O its/O promise/O of/O bringing/O the/O Taliban/ORGANIZATION to/O the/O negotiating/O table/O ./O 
+Afghan/O political/O analyst/O Ahmad/PERSON Saeedi/PERSON agrees/O and/O argues/O that/O it/O makes/O no/O sense/O to/O engage/O in/O talks/O with/O former/O Taliban/ORGANIZATION officials/O ./O 
+``/O Those/O based/O in/O the/O <LOCATION>Emirates/O</LOCATION> and/O other/O Arab/O countries/O have/O almost/O no/O influence/O on/O the/O activities/O of/O today/O 's/O Taliban/ORGANIZATION ,/O ''/O he/O told/O <ORGANIZATION>DW/O</ORGANIZATION> ./O 
+Friend/O or/O foe/O ?/O 
+Experts/O agree/O that/O only/O if/O the/O ISI/ORGANIZATION genuinely/O cooperates/O with/O Kabul/LOCATION ,/O will/O any/O demands/O made/O on/O the/O Taliban/ORGANIZATION carry/O some/O weight/O ./O 
+Pakistan/LOCATION recently/O announced/O it/O would/O support/O Afghanistan/LOCATION in/O the/O fight/O against/O common/O enemies/O ./O 
+Will/O Pakistan/LOCATION genuinely/O cooperate/O with/O Kabul/LOCATION ?/O 
+And/O last/O week/O ,/O Kabul/LOCATION announced/O that/O the/O Afghan/O and/O Pakistani/O governments/O had/O agreed/O to/O forge/O a/O partnership/O between/O their/O intelligence/O agencies/O ./O 
+The/O agreement/O stipulates/O that/O both/O sides/O share/O information/O regarding/O future/O operations/O and/O the/O fight/O against/O insurgents/O ./O 
+However/O ,/O the/O controversial/O deal/O has/O been/O criticized/O by/O a/O majority/O of/O Afghans/O ./O 
+Saeedi/PERSON believes/O that/O Pakistan/LOCATION 's/O pledge/O of/O support/O is/O only/O a/O game/O ./O 
+``/O Pakistani/O Prime/O Minister/O Nawaz/PERSON Sharif/PERSON told/O the/O media/O on/O May/O 25/O that/O his/O government/O wanted/O to/O fight/O the/O Taliban/ORGANIZATION ./O 
+One/O day/O later/O ,/O however/O ,/O we/O saw/O renewed/O attacks/O in/O the/O Afghan/O provinces/O of/O Kandahar/LOCATION ,/O Wardak/PERSON and/O Baghlan/LOCATION ./O ''/O 
+According/O to/O the/O UN/ORGANIZATION ,/O the/O number/O of/O civilian/O casualties/O in/O Afghanistan/LOCATION has/O reached/O a/O new/O record/O ./O 
+In/O the/O first/O four/O months/O of/O the/O year/O ,/O a/O total/O of/O 974/O Afghans/O were/O killed/O and/O 1,963/O others/O were/O injured/O -/O a/O 16/O percent/O rise/O compared/O to/O the/O same/O period/O last/O year/O ./O 
+This/O is/O why/O Saeedi/PERSON believes/O that/O the/O Pakistani/O pledges/O are/O just/O empty/O words/O ./O 
+``/O If/O they/O truly/O want/O to/O contribute/O ,/O they/O first/O need/O to/O banish/O the/O Haqqani/ORGANIZATION Network/ORGANIZATION and/O the/O <ORGANIZATION>Quetta/LOCATION Shura/O</ORGANIZATION> from/O the/O country/O ,/O ''/O he/O said/O ,/O adding/O that/O he/O doubts/O this/O would/O ever/O happen/O ./O 
+Cui/PERSON Mu/PERSON of/O <ORGANIZATION>DW/O</ORGANIZATION> 's/O Chinese/O service/O contributed/O to/O the/O text/O ./O

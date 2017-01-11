@@ -1,0 +1,2 @@
+Suddenly/O not/O just/O Tibet/LOCATION ,/O but/O other/O parts/O of/O China/LOCATION ,/O such/O as/O the/O Muslim-majority/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O ,/O are/O in/O focus/O ./O 
+And/O other/O groups/O of/O people/O such/O as/O the/O Uighurs/O join/O the/O protests/O against/O Chinese/O rule/O ./O

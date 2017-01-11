@@ -1,0 +1,29 @@
+China/LOCATION 's/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O is/O often/O associated/O with/O ethnic/O conflict/O between/O Han/O Chinese/O and/O Uighurs/O but/O there/O is/O a/O growing/O middle/O class/O student/O community/O where/O former/O rivalries/O play/O a/O lesser/O role/O ./O 
+On/O the/O campus/O of/O <U_ORGANIZATION>Xinjiang/ORGANIZATION University/ORGANIZATION</U_ORGANIZATION> in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O some/O students/O are/O standing/O around/O listening/O to/O a/O Uighur/O pop/O song/O ./O 
+<U_PERSON>Abdulla/PERSON Abdurehim/PERSON</U_PERSON> may/O be/O getting/O on/O a/O bit/O but/O he/O is/O still/O very/O popular/O among/O young/O Uighurs/O ,/O especially/O women/O ./O 
+However/O ,/O Uighur/O students/O are/O open/O to/O all/O sorts/O of/O music/O ,/O say/O <U_PERSON>Alina/PERSON</U_PERSON> and/O <U_PERSON>Sunip/PERSON</U_PERSON> ,/O who/O are/O both/O 21/O :/O ``/O We/O listen/O to/O all/O music/O ,/O Uighur/O and/O English/O ,/O songs/O like/O `/O Take/O Me/O To/O Your/O Heart/O '/O ,/O `/O Cry/O On/O My/O Shoulder/O '/O ,/O `/O Just/O One/O Last/O Dance/O '/O for/O example/O .../O ''/O Uighur/O women/O taking/O a/O stroll/O 
+<U_PERSON>Alina/PERSON</U_PERSON> is/O from/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> and/O <U_PERSON>Sunip/LOCATION</U_PERSON> is/O from/O <U_LOCATION>Khotan/LOCATION</U_LOCATION> ./O 
+In/O contrast/O to/O their/O parents/O ,/O they/O have/O little/O against/O their/O fellow/O Han/O Chinese/O students/O ./O 
+``/O They/O 're/O really/O hard/O workers/O ,/O I/O admire/O them/O ,/O ''/O says/O <U_PERSON>Alina/PERSON</U_PERSON> ./O 
+``/O I/O do/O n't/O know/O why/O they/O work/O so/O hard/O ./O 
+In/O any/O case/O ,/O none/O of/O them/O ever/O wastes/O any/O time/O ./O 
+If/O you/O look/O around/O here/O ,/O there/O are/O only/O Uighurs/O on/O the/O street/O doing/O nothing/O ,/O chatting/O .../O ''/O ``/O The/O noodles/O are/O delicious/O ''/O The/O interest/O seems/O to/O be/O mutual/O ./O 
+24-year-old/O Lin/PERSON Xuehao/PERSON from/O Hebei/LOCATION <OTHER>province/LOCATION</OTHER> has/O been/O studying/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> for/O over/O four/O years/O ./O 
+Although/O the/O Han/O Chinese/O tend/O to/O live/O separately/O from/O the/O Uighurs/O in/O the/O city/O ,/O Lin/PERSON wants/O to/O have/O more/O contact/O with/O the/O Uighurs/O because/O ``/O they/O 're/O very/O warm/O ./O 
+If/O you/O go/O to/O their/O homes/O they/O will/O give/O you/O everything/O ,/O things/O that/O they/O can/O not/O even/O afford/O ./O 
+And/O their/O noodles/O are/O really/O delicious/O ./O ''/O 
+Moreover/O ,/O young/O qualified/O Han/O Chinese/O and/O Uighurs/O have/O similar/O interests/O and/O problems/O ./O 
+They/O are/O all/O looking/O for/O good/O jobs/O ,/O which/O are/O not/O easy/O to/O find/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O and/O they/O all/O want/O to/O start/O earning/O ./O 
+``/O Without/O money/O ,/O you/O 're/O nothing/O ''/O 
+``/O The/O best/O is/O to/O make/O a/O lot/O of/O money/O ,/O ''/O explains/O <U_PERSON>Alina/PERSON</U_PERSON> ./O 
+``/O In/O China/LOCATION ,/O money/O and/O contacts/O are/O the/O most/O important/O thing/O ./O 
+You/O can/O only/O live/O well/O if/O you/O have/O money/O ./O 
+Uighurs/O do/O n't/O find/O it/O so/O important/O but/O in/O this/O society/O it/O 's/O very/O important/O if/O you/O want/O to/O get/O anywhere/O ./O 
+Without/O money/O ,/O you/O 're/O nothing/O ./O ''/O 
+However/O ,/O there/O is/O one/O thing/O that/O keeps/O Han/O Chinese/O and/O Uighurs/O apart/O --/O neither/O group/O seems/O interested/O in/O forming/O mixed/O relationships/O ./O 
+<U_PERSON>Alina/PERSON</U_PERSON> says/O she/O would/O not/O marry/O a/O Han/O Chinese/O man/O ./O 
+``/O I/O 've/O never/O thought/O about/O it/O and/O I/O do/O n't/O want/O to/O ,/O ''/O she/O insists/O ./O 
+Children/O playing/O in/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> 
+A/O walk/O across/O the/O university/O campus/O gives/O the/O impression/O that/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 's/O ethnic/O conflicts/O could/O be/O resolved/O if/O only/O there/O was/O more/O wealth/O ,/O social/O equality/O and/O education/O ./O 
+Author/O :/O Ye/PERSON Zhiliang/PERSON -LRB-/O act/O -RRB-/O 
+Editor/O :/O Thomas/PERSON Baerthlein/PERSON

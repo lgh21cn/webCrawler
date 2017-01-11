@@ -1,0 +1,11 @@
+Dozens/O of/O people/O have/O been/O killed/O and/O more/O injured/O in/O fatal/O clashes/O between/O police/O and/O an/O armed/O mob/O in/O China/LOCATION 's/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O ./O 
+Local/O police/O said/O the/O attack/O was/O premeditated/O ./O 
+On/O Tuesday/O Chinese/O media/O reported/O fatal/O clashes/O between/O police/O and/O an/O armed/O mob/O ./O 
+The/O incident/O had/O taken/O place/O the/O previous/O day/O with/O an/O attack/O on/O a/O police/O station/O in/O <U_LOCATION>Elixku/LOCATION</U_LOCATION> in/O <U_LOCATION>Shache/LOCATION</U_LOCATION> <OTHER>county/LOCATION</OTHER> ./O 
+The/O violence/O ,/O which/O is/O being/O blamed/O on/O militants/O ,/O unfolded/O after/O the/O mob/O moved/O to/O the/O nearby/O town/O of/O <U_LOCATION>Huangdi/LOCATION</U_LOCATION> ,/O where/O they/O attacked/O civilians/O and/O set/O fire/O to/O vehicles/O ./O 
+``/O Initial/O investigation/O showed/O that/O it/O was/O a/O premeditated/O terror/O attack/O ,/O ''/O reported/O Chinese/O news/O agency/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Police/O responded/O to/O the/O knife-wielding/O mob/O with/O gunfire/O leaving/O dozens/O dead/O ./O 
+An/O exact/O death/O toll/O has/O not/O yet/O been/O confirmed/O ./O 
+The/O area/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> has/O faced/O an/O increase/O in/O violence/O in/O recent/O months/O ,/O which/O the/O Chinese/O government/O blames/O on/O Islamist/O militants/O or/O separatists/O ,/O who/O they/O say/O are/O determined/O on/O forming/O an/O independent/O state/O called/O <U_LOCATION>East/LOCATION Turkestan/LOCATION</U_LOCATION> ./O 
+A/O fatal/O rampage/O of/O more/O armed/O assailants/O at/O a/O southwest/O China/LOCATION train/O station/O in/O Kunming/LOCATION in/O March/O left/O 29/O dead/O ,/O with/O another/O 39/O killed/O in/O a/O market/O attack/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 's/O capital/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> in/O May/O ./O 
+kb/kms/O -LRB-/O AP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O

@@ -1,0 +1,16 @@
+A/O one/O year/O crackdown/O has/O been/O announced/O for/O the/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O in/O western/O China/LOCATION following/O the/O worst/O attack/O on/O Chinese/O soil/O in/O years/O left/O 31/O people/O dead/O ./O 
+China/LOCATION called/O the/O attack/O a/O ``/O serious/O violent/O terrorist/O incident/O ./O ''/O 
+China/LOCATION staged/O a/O military/O show/O of/O strength/O with/O a/O thousand/O personnel/O in/O military/O and/O police/O vehicles/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ,/O capital/O of/O the/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O on/O Friday/O ./O 
+It/O followed/O an/O attack/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> on/O Thursday/O when/O unknown/O assailants/O in/O two/O vehicles/O drove/O into/O shoppers/O and/O traders/O before/O throwing/O explosives/O at/O a/O street/O market/O ./O 
+31/O people/O were/O killed/O and/O more/O than/O 90/O were/O injured/O ./O 
+The/O state-run/O Global/ORGANIZATION Times/ORGANIZATION reported/O Friday/O that/O five/O attackers/O died/O at/O the/O scene/O of/O Thursday/O 's/O attack/O ./O 
+A/O similar/O display/O was/O held/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> last/O June/O after/O clashes/O left/O 35/O people/O dead/O ./O 
+Security/O was/O tight/O at/O the/O <LOCATION>Traditional/ORGANIZATION Chinese/ORGANIZATION Medicine/ORGANIZATION Hospital/ORGANIZATION</LOCATION> ,/O where/O many/O of/O the/O more/O than/O 90/O wounded/O were/O being/O cared/O for/O ./O 
+An/O armoured/O vehicle/O was/O parked/O outside/O ,/O surrounded/O by/O six/O paramilitary/O police/O holding/O rifles/O with/O fixed/O bayonets/O ./O 
+President/O Xi/PERSON Jinping/PERSON pledged/O to/O ``/O severely/O punish/O violent/O terrorists/O ''/O ,/O and/O ``/O crack/O down/O on/O them/O with/O a/O heavy/O fist/O ./O ''/O 
+Domestic/O security/O chief/O Meng/PERSON Jianzhu/PERSON said/O he/O would/O strengthen/O a/O crackdown/O on/O the/O ``/O arrogance/O of/O terrorists/O ./O ''/O 
+Washington/LOCATION condemned/O what/O it/O called/O a/O ``/O horrific/O terrorist/O attack/O ''/O and/O UN/ORGANIZATION Secretary/O General/O Ban/PERSON Ki-moon/PERSON said/O there/O was/O ``/O no/O justification/O for/O the/O killing/O of/O civilians/O ./O ''/O 
+<U_LOCATION>Urumqi/LOCATION</U_LOCATION> is/O home/O to/O a/O large/O <OTHER>Muslim/ORGANIZATION Uihgur/ORGANIZATION</OTHER> minority/O ./O 
+The/O attack/O on/O Thursday/O happened/O in/O a/O largely/O Han/O neighbourhood/O ,/O but/O some/O of/O the/O traders/O and/O a/O few/O of/O the/O customers/O were/O Uighur/O ./O 
+Critics/O of/O Beijing/LOCATION 's/O policies/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> say/O that/O tensions/O in/O the/O region/O have/O been/O driven/O by/O intrusive/O security/O measures/O ,/O as/O well/O as/O immigration/O by/O majority/O Han/O Chinese/O ./O 
+jm/jh/O -LRB-/O Reuters/ORGANIZATION ,/O <ORGANIZATION>AFP/O</ORGANIZATION> -RRB-/O

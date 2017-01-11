@@ -1,0 +1,14 @@
+Police/O in/O Thailand/LOCATION say/O one/O of/O the/O men/O arrested/O over/O the/O Bangkok/LOCATION bombing/O has/O admitted/O possessing/O explosives/O ./O 
+The/O August/O attack/O on/O a/O religious/O shrine/O left/O 20/O people/O dead/O ./O 
+Police/O in/O Thailand/LOCATION reported/O Monday/O that/O a/O suspect/O they/O named/O as/O <U_PERSON>Yusufu/PERSON Mierili/PERSON</U_PERSON> ,/O who/O had/O been/O arrested/O last/O Tuesday/O near/O the/O Thai/O border/O with/O Cambodia/LOCATION ,/O had/O confessed/O to/O possessing/O illegal/O explosives/O ./O 
+``/O We/O have/O informed/O him/O of/O the/O charge/O ./O 
+He/O acknowledged/O and/O confessed/O to/O the/O charge/O ,/O ''/O news/O agency/O AFP/ORGANIZATION reported/O Thai/O police/O spokesman/O Prawut/PERSON Thavornsiri/PERSON as/O telling/O reporters/O ./O 
+Although/O the/O nationality/O of/O <U_PERSON>Mierili/LOCATION</U_PERSON> ,/O whose/O name/O authorities/O have/O also/O spelled/O as/O <U_PERSON>Mieraili/PERSON</U_PERSON> and/O <U_PERSON>Meerailee/LOCATION</U_PERSON> ,/O has/O not/O been/O confirmed/O ,/O police/O have/O said/O he/O was/O carrying/O a/O Chinese/O passport/O which/O listed/O his/O place/O of/O birth/O as/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O home/O to/O the/O <OTHER>Uighur/ORGANIZATION Muslim/ORGANIZATION</OTHER> minority/O which/O has/O long/O reported/O facing/O persecution/O in/O China/LOCATION ./O 
+In/O total/O ,/O authorities/O have/O so/O far/O issued/O 11/O arrest/O warrants/O for/O suspected/O involvement/O in/O the/O attack/O which/O killed/O more/O than/O 20/O people/O and/O left/O more/O than/O 120/O wounded/O ./O 
+The/O August/O 17/O attack/O saw/O a/O bomb/O rip/O through/O the/O <LOCATION>Erawan/O</LOCATION> shrine/O ,/O a/O popular/O foreign/O tourist/O destination/O ./O 
+It/O was/O the/O worst/O act/O of/O violence/O Bangkok/LOCATION had/O seen/O in/O decades/O ./O 
+The/O motive/O of/O the/O alleged/O bombers/O has/O not/O been/O set/O out/O by/O police/O ,/O nor/O has/O any/O group/O claimed/O responsibility/O ./O
+One/O of/O the/O theories/O put/O forward/O is/O that/O the/O attack/O may/O have/O been/O to/O avenge/O the/O forced/O repatriation/O by/O Thailand/LOCATION of/O 109/O ethnic/O Uighurs/O to/O China/LOCATION in/O July/O ./O 
+Many/O Uighurs/O seek/O to/O move/O to/O Turkey/LOCATION via/O Southeast/LOCATION Asia/LOCATION and/O some/O nationalists/O in/O Turkey/O hold/O a/O deep/O affinity/O with/O the/O ethnic/O minority/O ./O 
+Evidence/O seized/O by/O Thai/O authorities/O so/O far/O includes/O dozens/O of/O Turkish/O passports/O ,/O which/O police/O believe/O may/O be/O fakes/O ./O 
+se/jr/O -LRB-/O AFP/ORGANIZATION ,/O AP/ORGANIZATION ,/O dpa/O ,/O Reuters/ORGANIZATION -RRB-/O

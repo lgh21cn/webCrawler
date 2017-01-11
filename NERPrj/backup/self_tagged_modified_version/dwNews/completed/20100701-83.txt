@@ -1,0 +1,36 @@
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O often/O associated/O with/O ethnic/O conflict/O between/O Uighurs/O and/O the/O Han/O Chinese/O but/O there/O are/O many/O other/O ethnic/O communities/O in/O China/LOCATION 's/O biggest/O province/O ./O 
+There/O are/O eight/O million/O Uighurs/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O making/O them/O the/O second-largest/O community/O after/O the/O Han/O Chinese/O ./O 
+However/O ,/O these/O are/O just/O two/O of/O the/O 47/O ethnic/O minorities/O in/O the/O region/O ./O 
+Some/O 1.4/O million/O Kazakhs/O form/O the/O second-largest/O minority/O and/O they/O can/O be/O seen/O in/O all/O the/O cities/O ,/O especially/O <U_LOCATION>Yining/LOCATION</U_LOCATION> ,/O <U_LOCATION>Altay/LOCATION</U_LOCATION> and/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+<U_PERSON>Alwina/PERSON</U_PERSON> is/O a/O 24-year-old/O Kazakh/O from/O <U_LOCATION>Tacheng/LOCATION</U_LOCATION> ./O 
+She/O studied/O at/O <U_ORGANIZATION>Xinjiang/ORGANIZATION University/ORGANIZATION</U_ORGANIZATION> and/O is/O currently/O working/O in/O a/O bar/O in/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> ./O 
+Contrary/O to/O many/O Uighurs/O ,/O she/O has/O no/O problem/O with/O Chinese/O ./O 
+``/O Both/O my/O parents/O learnt/O Chinese/O and/O passed/O their/O exams/O in/O Chinese/O ,/O so/O they/O went/O to/O a/O Chinese/O school/O ,/O ''/O she/O explains/O ./O 
+Not/O only/O do/O many/O Kazakhs/O speak/O Chinese/O ,/O but/O they/O also/O speak/O Uighur/O ,/O which/O is/O similar/O to/O their/O own/O mother/O tongue/O ./O 
+Most/O of/O the/O ethnic/O minorities/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> are/O Muslim/O 
+Differences/O between/O Han/O Chinese/O and/O minorities/O 
+Although/O unemployment/O among/O Kazakhs/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O much/O lower/O than/O among/O the/O Uighurs/O and/O they/O are/O thought/O to/O have/O integrated/O better/O ,/O <U_PERSON>Alwina/PERSON</U_PERSON> says/O there/O are/O still/O big/O differences/O between/O the/O ethnic/O minorities/O and/O the/O Han/O Chinese/O ./O 
+``/O Our/O way/O of/O thinking/O is/O complex/O ./O 
+If/O the/O Han/O Chinese/O have/O a/O problem/O they/O solve/O it/O directly/O ,/O but/O we/O think/O a/O lot/O first/O ,/O ''/O she/O says/O ./O 
+``/O For/O example/O ,/O if/O they/O are/O taught/O by/O a/O teacher/O to/O solve/O a/O math/O problem/O ,/O they/O always/O do/O it/O that/O way/O ./O 
+Whereas/O we/O know/O that/O a/O problem/O can/O be/O solved/O in/O different/O ways/O ./O 
+We/O bring/O in/O all/O sorts/O of/O aspects/O and/O then/O solve/O the/O problem/O in/O several/O steps/O ./O ''/O 
+<OTHER>Hui/PERSON</OTHER> see/O themselves/O as/O intermediaries/O 
+There/O are/O about/O a/O million/O Hui/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+They/O have/O been/O able/O to/O maintain/O their/O cultural/O traditions/O and/O see/O themselves/O as/O intermediaries/O between/O the/O Han/O Chinese/O and/O Uighurs/O ./O 
+``/O Generally/O speaking/O ,/O relations/O in/O this/O mosque/O are/O very/O harmonious/O ,/O we/O do/O n't/O split/O up/O into/O Uighurs/O and/O Hui/O ,/O ''/O explains/O the/O 70-year-old/O caretaker/O ,/O Ma/PERSON Jinguo/PERSON ./O 
+``/O Relations/O are/O also/O good/O on/O the/O outside/O ./O 
+If/O you/O speak/O their/O language/O ,/O they/O are/O friendly/O ./O 
+Before/O there/O was/O something/O like/O ethno-chauvinism/O ,/O people/O would/O talk/O about/O the/O autonomous/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> and/O the/O Uighurs/O had/O the/O say/O ,/O ''/O he/O adds/O ./O 
+``/O The/O relationship/O between/O the/O Hui/O and/O the/O Han/O is/O OK/O ,/O even/O good/O ./O 
+There/O 's/O nothing/O like/O you/O are/O Han/O ,/O I/O am/O <OTHER>Hui/PERSON</OTHER> ,/O nothing/O like/O that/O ,/O ''/O Ma/PERSON says/O ./O 
+Uighurs/O consider/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> as/O their/O homeland/O 
+One/O reason/O why/O the/O Kazakhs/O and/O Mongolians/O might/O have/O accepted/O the/O Han/O Chinese/O presence/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> more/O easily/O than/O the/O Uighurs/O is/O that/O the/O separate/O states/O of/O Kazakhstan/LOCATION and/O Mongolia/LOCATION exist/O ./O 
+Many/O Kazakhs/O in/O China/LOCATION have/O emigrated/O to/O Kazakhstan/LOCATION since/O the/O collapse/O of/O the/O <LOCATION>Soviet/O Union/O</LOCATION> 
+Since/O the/O collapse/O of/O the/O Soviet/LOCATION Union/LOCATION ,/O they/O have/O nurtured/O close/O contacts/O with/O these/O states/O and/O some/O have/O even/O emigrated/O there/O ./O 
+However/O ,/O this/O possibility/O does/O not/O exist/O for/O the/O Uighurs/O who/O see/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> as/O their/O homeland/O ./O 
+The/O official/O policy/O towards/O ethnic/O minorities/O is/O that/O their/O cultural/O survival/O should/O be/O promoted/O ./O 
+Kazakhs/O ,/O Mongolians/O and/O Uighurs/O all/O have/O their/O own/O schools/O and/O even/O radio/O and/O television/O stations/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+However/O ,/O as/O soon/O as/O there/O is/O talk/O of/O independence/O ,/O Beijing/LOCATION gets/O jittery/O ./O 
+Author/O :/O Ye/PERSON Zhiliang/PERSON //O act/O 
+Editor/O :/O Disha/PERSON Uppal/PERSON

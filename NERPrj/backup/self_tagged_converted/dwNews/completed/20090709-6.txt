@@ -1,0 +1,4 @@
+Chinese/O President/O Hu/PERSON Jintao/PERSON said/O that/O rioters/O in/O the/O western/O Xinjiang/U_LOCATION region/O would/O be/O ``/O severely/O punished/O ''/O on/O Thursday/O ./O
+He/O described/O last/O Sunday/O 's/O ethnic/O violence/O as/O a/O ``/O serious/O and/O violent/O crime/O ,/O masterminded/O and/O organised/O by/O forces/O from/O abroad/O and/O at/O home/O ''/O ./O
+It/O was/O Hu/PERSON 's/O first/O official/O statement/O on/O the/O riots/O since/O he/O cut/O short/O a/O visit/O to/O Italy/LOCATION where/O he/O was/O due/O to/O attend/O the/O G8/ORGANIZATION summit/O ./O
+Meanwhile/O ,/O Chinese/O state/O media/O claimed/O that/O the/O regional/O capital/O Urumqi/U_LOCATION had/O returned/O to/O normal/O ./O

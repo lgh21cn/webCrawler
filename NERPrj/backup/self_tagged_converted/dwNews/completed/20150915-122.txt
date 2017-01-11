@@ -1,0 +1,18 @@
+Thai/O police/O have/O said/O a/O key/O suspect/O in/O last/O month/O 's/O bombing/O in/O downtown/O Bangkok/LOCATION has/O fled/O to/O Turkey/LOCATION ./O
+According/O to/O police/O ,/O the/O attack/O could/O be/O the/O work/O of/O China/LOCATION 's/O ethnic/O Uighur/O minority/O who/O have/O sympathizers/O in/O Turkey/LOCATION ./O
+Thai/O police/O previously/O said/O the/O man/O ,/O carrying/O a/O Chinese/O passport/O in/O the/O name/O of/O Abudureheman/U_PERSON Abudusataer/U_PERSON ,/O may/O have/O directed/O the/O August/O 17/O bombing/O of/O the/O Erawan/LOCATION Shrine/LOCATION in/O downtown/O Bangkok/LOCATION ./O
+Police/O investigations/O have/O revealed/O that/O the/O suspect/O left/O Thailand/LOCATION on/O August/O 16/O for/O Bangladesh/LOCATION ,/O and/O police/O previously/O speculated/O that/O he/O might/O have/O gone/O to/O China/LOCATION ./O
+However/O ,/O information/O gathered/O by/O Thai/O police/O and/O Bangladeshi/O officials/O showed/O that/O the/O man/O left/O Bangladesh/LOCATION 's/O capital/O ,/O Dhaka/LOCATION ,/O and/O traveled/O to/O Istanbul/LOCATION on/O August/O 30/O ,/O said/O national/O police/O spokesman/O Prawut/PERSON Thavornsiri/PERSON ./O
+This/O has/O strengthened/O the/O theory/O that/O those/O responsible/O for/O the/O blast/O are/O Uighurs/O from/O the/O Chinese/O region/O of/O Xinjiang/U_LOCATION who/O have/O close/O ties/O to/O Turkey/LOCATION ./O
+However/O ,/O a/O senior/O Turkish/O government/O official/O has/O denied/O the/O claim/O ./O
+``/O There/O is/O no/O record/O of/O the/O suspect/O having/O entered/O Turkey/LOCATION ,/O ''/O said/O the/O official/O in/O an/O email/O on/O condition/O of/O anonymity/O ,/O in/O line/O with/O office/O policy/O ./O
+``/O Nor/O have/O the/O Thai/O authorities/O informed/O us/O that/O a/O terrorism/O suspect/O was/O traveling/O to/O Turkey/LOCATION ./O ''/O
+Two/O suspects/O in/O custody/O Uighurs/O have/O long/O complained/O of/O oppression/O by/O the/O Chinese/O government/O ,/O and/O some/O advocate/O turning/O Xinjiang/U_LOCATION into/O a/O separate/O Uighur/O state/O ./O
+Several/O of/O the/O 12/O bombing/O suspects/O for/O whom/O arrest/O warrants/O have/O been/O issued/O are/O believed/O to/O be/O Turkish/O ./O
+Thailand/LOCATION has/O suggested/O that/O those/O behind/O the/O blast/O may/O have/O been/O from/O a/O gang/O involved/O in/O smuggling/O Uighurs/O ./O
+Others/O have/O speculated/O they/O may/O be/O separatists/O or/O Islamist/O extremists/O angry/O that/O Thailand/LOCATION repatriated/O more/O than/O 100/O Uighurs/O to/O China/LOCATION in/O July/O ./O
+Two/O key/O suspects/O are/O in/O custody/O ,/O charged/O with/O possession/O of/O illegal/O explosives/O ./O
+One/O was/O captured/O in/O an/O apartment/O on/O the/O outskirts/O of/O Bangkok/LOCATION ,/O where/O police/O also/O discovered/O bomb-making/O material/O ./O
+The/O other/O was/O caught/O near/O the/O border/O between/O Thailand/LOCATION and/O Cambodia/LOCATION ,/O and/O police/O said/O his/O fingerprints/O were/O found/O on/O a/O container/O with/O explosive/O material/O confiscated/O from/O the/O apartment/O ./O
+Also/O on/O Monday/O ,/O Malaysia/LOCATION 's/O police/O chief/O announced/O that/O a/O Pakistani/O and/O two/O Malaysians/O have/O been/O detained/O in/O connection/O with/O the/O Bangkok/LOCATION bombing/O ./O
+av/cmk/O -LRB-/O AP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O

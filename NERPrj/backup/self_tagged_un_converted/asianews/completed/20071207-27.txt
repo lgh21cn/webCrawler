@@ -1,0 +1,21 @@
+Chinese/O police/O arrest/O two/O mine/O officials/O on/O charges/O of/O trying/O to/O cover/O up/O the/O accident/O ,/O wasting/O precious/O time/O that/O could/O have/O been/O used/O to/O rescue/O trapped/O miners/O ./O 
+Other/O accidents/O are/O reported/O in/O Hebei/LOCATION and/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> //O Agencies/O -RRB-/O --/O 
+Chinese/O police/O arrested/O this/O morning/O two/O managers/O of/O the/O <ORGANIZATION>Rui/PERSON Zhiyuan/PERSON</ORGANIZATION> coal/O mine/O near/O the/O city/O of/O Linfen/LOCATION ,/O Shanxi/LOCATION <OTHER>province/LOCATION</OTHER> -LRB-/O central/O China/LOCATION -RRB-/O ,/O destroyed/O by/O an/O explosion/O that/O has/O reportedly/O claimed/O 105/O lives/O ./O 
+The/O two/O are/O charged/O with/O trying/O to/O cover/O up/O the/O accident/O ./O 
+News/O reports/O say/O they/O delayed/O reporting/O the/O accident/O ,/O wasting/O precious/O time/O that/O could/O have/O been/O used/O to/O rescue/O the/O trapped/O miners/O ./O 
+So/O far/O some/O 15/O miners/O are/O known/O to/O have/O been/O saved/O or/O to/O have/O escaped/O ./O 
+Most/O of/O the/O other/O are/O thought/O to/O be/O dead/O from/O poisonous/O gas/O which/O followed/O the/O initial/O blast/O ./O 
+The/O official/O Xinhua/ORGANIZATION <OTHER>news/ORGANIZATION agency/ORGANIZATION</OTHER> reports/O that/O at/O the/O time/O of/O the/O blast/O 120/O people/O were/O in/O the/O mine/O ./O 
+The/O State/ORGANIZATION Work/ORGANIZATION Safety/ORGANIZATION Administration/ORGANIZATION said/O Thursday/O the/O mine/O was/O properly/O licensed/O ,/O was/O owned/O by/O the/O local/O government/O and/O had/O an/O annual/O output/O capacity/O of/O 210,000/O tons/O of/O coal/O ./O 
+In/O addition/O to/O detaining/O the/O mine/O 's/O managers/O ,/O police/O have/O also/O frozen/O its/O bank/O accounts/O ./O 
+Meanwhile/O ,/O on/O Monday/O 11/O people/O were/O trapped/O after/O a/O roof/O collapsed/O in/O an/O iron/O -/O and/O gold-ore/O mine/O in/O Chengde/LOCATION in/O Hebei/LOCATION <OTHER>province/LOCATION</OTHER> ,/O in/O northern/O China/LOCATION ./O 
+In/O separate/O incident/O 12/O people/O died/O of/O gas/O poisoning/O in/O the/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O in/O north-western/O China/LOCATION ./O 
+China/LOCATION 's/O mines/O are/O the/O most/O dangerous/O in/O the/O world/O ./O 
+In/O order/O to/O meet/O the/O country/O 's/O growing/O energy/O needs/O ,/O 70/O per/O cent/O of/O which/O are/O based/O on/O coal/O ,/O mine/O owners/O push/O mining/O to/O its/O limits/O disregarding/O safety/O rules/O ./O 
+In/O early/O November/O the/O government/O released/O data/O on/O mining/O deaths/O ./O 
+In/O the/O first/O ten/O months/O of/O the/O year/O 3,069/O people/O were/O killed/O ,/O 19/O per/O cent/O less/O than/O last/O year/O ./O 
+But/O for/O many/O these/O figures/O are/O not/O credible/O because/O many/O deaths/O go/O unreported/O to/O avoid/O mine/O closure/O as/O required/O by/O law/O ./O 
+According/O to/O independent/O sources/O ,/O the/O real/O number/O of/O deaths/O is/O around/O 20,000/O a/O year/O ./O 
+In/O the/O last/O two/O years/O the/O government/O has/O approved/O new/O safety/O regulations/O ,/O but/O enforcement/O remains/O lax/O and/O most/O of/O those/O responsible/O for/O accidents/O get/O away/O ./O 
+Moreover/O 95/O per/O cent/O of/O party/O officials/O involved/O in/O mining/O accidents/O who/O were/O brought/O to/O trial/O last/O year/O were/O eventually/O acquitted/O ./O

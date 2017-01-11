@@ -1,0 +1,14 @@
+Chinese/O state/O media/O say/O violence/O in/O China/LOCATION 's/O mainly/O Muslim/O Uighur/O region/O of/O Xinjiang/U_LOCATION resulted/O in/O nearly/O 100/O deaths/O last/O Monday/O ./O
+Exile/O Uighurs/O say/O ,/O however/O ,/O that/O China/LOCATION often/O distorts/O its/O accounts/O ./O
+China/LOCATION 's/O official/O Xinhua/ORGANIZATION news/O agency/O said/O on/O Sunday/O that/O 37/O civilians/O and/O 59/O ``/O terrorists/O ''/O had/O been/O killed/O in/O two/O incidents/O reported/O from/O China/LOCATION 's/O vast/O western/O region/O early/O this/O week/O ./O
+If/O verified/O ,/O the/O official/O account/O would/O represent/O the/O worst/O joint/O outbreak/O of/O violence/O since/O rioting/O in/O Xinjiang/U_LOCATION 's/O regional/O capital/O Urumqi/U_LOCATION in/O 2009/O ./O
+When/O news/O of/O clashes/O first/O emerged/O late/O on/O Tuesday/O ,/O Xinhua/ORGANIZATION had/O reported/O that/O dozens/O of/O people/O had/O been/O killed/O and/O injured/O by/O a/O knife-wielding/O gang/O ./O
+In/O its/O report/O Sunday/O ,/O Xinhua/ORGANIZATION said/O 35/O of/O the/O dead/O civilians/O were/O Han/O Chinese/O and/O two/O were/O Uighurs/O ./O
+A/O spokesman/O for/O the/O exiled/O World/U_ORGANIZATION Uighur/U_ORGANIZATION Congress/U_ORGANIZATION ,/O Dilxat/U_PERSON Raxit/U_PERSON ,/O told/O the/O news/O agency/O AFP/ORGANIZATION that/O Chinese/O forces/O had/O opened/O fire/O ,/O killing/O or/O wounding/O nearly/O 100/O people/O ./O
+Verification/O difficult/O Independent/O verification/O is/O difficult/O to/O get/O from/O the/O vast/O resource-rich/O region/O ./O
+Rights/O groups/O accuse/O China/LOCATION of/O repressing/O Uighur/O cultural/O and/O religious/O aspirations/O ,/O resulting/O in/O unrest/O ./O
+Beijing/LOCATION has/O in/O the/O past/O blamed/O separatists/O in/O Xinjiang/U_LOCATION for/O a/O China/LOCATION sentences/O three/O people/O to/O death/O over/O Tiananmen/LOCATION attack/O series/O of/O attacks/O ./O
+Among/O the/O more/O serious/O was/O a/O fatal/O assault/O on/O a/O market/O in/O Urumqi/U_LOCATION in/O May/O ,/O when/O 39/O people/O were/O killed/O ./O
+A/O deadly/O rampage/O by/O knife-wielding/O assailants/O left/O 29/O dead/O in/O March/O at/O Kunming/LOCATION in/O China/LOCATION 's/O southwest/O ./O
+Xinjiang/U_LOCATION 's/O Uighur/O people/O speak/O a/O Turkic/O language/O ./O
+ipj/tj/O -LRB-/O Reuters/ORGANIZATION ,/O AFP/ORGANIZATION -RRB-/O

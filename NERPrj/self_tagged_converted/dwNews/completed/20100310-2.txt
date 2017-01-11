@@ -1,0 +1,2 @@
+In/O a/O speech/O in/O Dharamsala/LOCATION ,/O India/LOCATION on/O Wednesday/O ,/O the/O Dalai/PERSON Lama/PERSON declared/O his/O solidarity/O with/O China/LOCATION 's/O Uighur/O minority/O and/O accused/O Beijing/LOCATION of/O wanting/O to/O ``/O annihilate/O ''/O Tibetan/ORGANIZATION Buddhism/ORGANIZATION ./O
+Tibetan/O exiles/O demonstrating/O outside/O the/O office/O of/O the/O United/ORGANIZATION Nations/ORGANIZATION in/O New/LOCATION Delhi/LOCATION on/O Wednesday/O

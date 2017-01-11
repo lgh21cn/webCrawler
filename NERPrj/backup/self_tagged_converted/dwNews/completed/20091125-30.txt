@@ -1,0 +1,22 @@
+German/O police/O have/O raided/O the/O homes/O of/O four/O Chinese/O nationals/O alleged/O to/O have/O spied/O on/O Muslim/O Uighurs/O living/O in/O Munich/LOCATION ./O
+Authorities/O accuse/O the/O Chinese/O consulate/O of/O controlling/O the/O operation/O ./O
+The/O four/O men/O are/O suspected/O of/O spying/O on/O the/O Muslim/O Uighur/O community/O in/O the/O southern/O German/O city/O of/O Munich/LOCATION ,/O one/O of/O the/O largest/O Uighur/O communities/O outside/O China/LOCATION and/O the/O home/O of/O the/O World/U_ORGANIZATION Uighur/U_ORGANIZATION Congress/U_ORGANIZATION ./O
+Authorities/O said/O the/O apartments/O of/O the/O four/O men/O were/O searched/O but/O no/O arrests/O were/O made/O ./O
+They/O did/O not/O provide/O further/O details/O ./O
+German/O news/O magazine/O Der/ORGANIZATION Spiegel/ORGANIZATION reported/O that/O the/O men/O took/O direction/O from/O the/O Chinese/O consulate/O in/O Munich/LOCATION and/O that/O information/O was/O intended/O for/O use/O by/O authorities/O in/O Beijing/LOCATION ./O
+The/O magazine/O said/O the/O Chinese/O government/O had/O a/O number/O of/O informants/O in/O Munich/LOCATION who/O had/O not/O only/O been/O observed/O meeting/O with/O the/O four/O men/O under/O investigation/O but/O also/O with/O Chinese/O diplomats/O ./O
+However/O ,/O the/O diplomats/O are/O apparently/O not/O under/O investigation/O because/O they/O have/O diplomatic/O immunity/O ./O
+The/O four/O suspects/O do/O not/O ./O
+``/O We/O know/O where/O your/O office/O is/O ''/O Uighurs/O have/O staged/O protests/O in/O many/O world/O cities/O ,/O this/O one/O in/O Stockholm/LOCATION in/O July/O
+The/O Munich/LOCATION daily/O Sueddeutsche/ORGANIZATION Zeitung/ORGANIZATION reported/O that/O when/O violent/O clashes/O broke/O out/O between/O Uighurs/O and/O Han/O Chinese/O in/O China/LOCATION 's/O north-western/O Xinjiang/U_LOCATION province/O earlier/O this/O year/O ,/O Uighurs/O in/O Munich/LOCATION received/O threats/O from/O anonymous/O callers/O ,/O saying/O ``/O we/O know/O where/O your/O office/O is/O ./O ''/O
+Asgar/U_PERSON Can/U_PERSON ,/O the/O vice/O president/O of/O the/O World/U_ORGANIZATION Uighur/U_ORGANIZATION Congress/U_ORGANIZATION ,/O said/O the/O callers/O told/O workers/O at/O the/O organization/O that/O they/O would/O suffer/O the/O same/O fate/O as/O the/O Uighurs/O in/O China/LOCATION ./O
+Can/PERSON said/O that/O many/O of/O the/O 500/O Uighur/O immigrants/O in/O Munich/LOCATION still/O have/O relatives/O in/O China/LOCATION ,/O which/O means/O they/O can/O easily/O be/O put/O under/O pressure/O by/O Chinese/O authorities/O ./O
+Beijing/LOCATION has/O accused/O the/O World/U_ORGANIZATION Uighur/U_ORGANIZATION Congress/U_ORGANIZATION of/O harboring/O separatist/O tendencies/O and/O of/O orchestrating/O July/O 's/O riots/O between/O Uighurs/O and/O Han/O Chinese/O from/O afar/O ./O
+The/O violence/O left/O almost/O 200/O people/O dead/O ./O
+Relations/O will/O not/O be/O damaged/O
+The/O German/O Foreign/ORGANIZATION Ministry/ORGANIZATION said/O it/O was/O in/O contact/O with/O prosecutors/O and/O denied/O that/O the/O incident/O would/O cause/O tensions/O with/O China/LOCATION ./O
+``/O Our/O relations/O with/O China/LOCATION are/O good/O and/O will/O not/O be/O damaged/O by/O this/O incident/O ,/O ''/O a/O ministry/O spokesperson/O said/O ./O
+The/O police/O raids/O are/O not/O the/O first/O time/O that/O German/O authorities/O have/O suspected/O the/O Chinese/O consulate/O of/O involvement/O in/O spying/O on/O Munich/LOCATION 's/O Uighur/O community/O ./O
+Two/O years/O ago/O ,/O a/O Chinese/O diplomat/O left/O Germany/LOCATION of/O his/O own/O accord/O after/O he/O was/O alleged/O to/O have/O met/O with/O informants/O on/O Uighur/O issues/O ./O
+ca/O //O dpa/O //O AP/ORGANIZATION //O AFP/ORGANIZATION //O Reuters/ORGANIZATION
+Editor/O :/O Nancy/PERSON Isenson/PERSON

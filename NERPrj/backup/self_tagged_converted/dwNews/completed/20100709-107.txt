@@ -1,0 +1,21 @@
+A/O spokesperson/O for/O Google/ORGANIZATION in/O China/LOCATION has/O said/O the/O government/O has/O accepted/O the/O company/O 's/O application/O to/O renew/O its/O internet/O content/O provider/O licence/O ./O
+It/O expired/O on/O June/O 30/O ./O
+Renewal/O had/O been/O in/O doubt/O following/O a/O row/O between/O Google/ORGANIZATION and/O the/O Chinese/O authorities/O ./O
+After/O complaining/O that/O its/O e-mail/O service/O had/O been/O hacked/O in/O China/LOCATION ,/O Google/ORGANIZATION in/O January/O threatened/O to/O pull/O out/O of/O China/LOCATION completely/O and/O announced/O it/O would/O not/O continue/O censoring/O search/O results/O ,/O as/O required/O under/O Chinese/O regulations/O ./O
+From/O March/O onwards/O ,/O the/O company/O automatically/O redirected/O the/O users/O of/O its/O Chinese/O page/O google.cn/O to/O the/O uncensored/O Chinese-language/O Google/ORGANIZATION page/O based/O in/O Hong/LOCATION Kong/LOCATION -LRB-/O google.com.hk/O -RRB-/O ./O
+Google/ORGANIZATION 's/O operations/O have/O faced/O other/O problems/O in/O China/LOCATION ./O
+Its/O video/O sharing/O platform/O YouTube/ORGANIZATION is/O banned/O there/O ,/O for/O example/O ./O
+But/O as/O China/LOCATION is/O a/O huge/O and/O rapidly/O growing/O internet/O market/O ,/O Google/ORGANIZATION did/O n't/O want/O to/O be/O completely/O shut/O out/O from/O it/O either/O ./O
+Google/ORGANIZATION 's/O compromise/O
+Retaining/O an/O internet/O content/O provider/O 's/O licence/O in/O China/LOCATION therefore/O became/O crucial/O ./O
+In/O the/O course/O of/O negotiations/O about/O the/O extension/O ,/O Google/ORGANIZATION agreed/O to/O implement/O a/O compromise/O :/O Visitors/O to/O google.cn/O are/O no/O longer/O automatically/O redirected/O to/O the/O Hong/LOCATION Kong/LOCATION page/O ,/O but/O a/O link/O to/O google.com.hk/O is/O displayed/O in/O big/O letters/O immediately/O underneath/O the/O search/O window/O ./O
+Many/O websites/O are/O blocked/O by/O the/O government/O in/O China/LOCATION
+The/O whole/O fight/O is/O more/O about/O taking/O a/O stance/O than/O about/O making/O a/O real/O difference/O :/O Chinese/O users/O will/O still/O have/O an/O incentive/O to/O use/O the/O uncensored/O Hong/O Kong-based/O search/O engine/O ./O
+On/O the/O other/O hand/O ,/O even/O search/O results/O that/O Chinese/O users/O find/O via/O Google/ORGANIZATION Hong/ORGANIZATION Kong/ORGANIZATION are/O not/O accessible/O to/O them/O if/O the/O sites/O are/O blocked/O by/O the/O Chinese/O authorities/O ./O
+The/O links/O simply/O wo/O n't/O open/O ./O
+Facebook/ORGANIZATION is/O a/O security/O threat/O :/O report/O
+Meanwhile/O ,/O a/O top/O Chinese/O think/O tank/O has/O claimed/O that/O social/O networking/O sites/O like/O Facebook/ORGANIZATION pose/O a/O threat/O to/O national/O security/O ./O
+In/O its/O annual/O report/O on/O the/O development/O of/O new/O media/O in/O China/LOCATION ,/O the/O Beijing-based/O Chinese/ORGANIZATION Academy/ORGANIZATION of/ORGANIZATION Social/ORGANIZATION Sciences/ORGANIZATION -LRB-/O CASS/ORGANIZATION -RRB-/O said/O Western/O countries/O including/O the/O US/LOCATION were/O using/O these/O websites/O to/O stir/O up/O political/O unrest/O in/O China/LOCATION ./O
+The/O report/O mentioned/O -/O by/O way/O of/O example/O -/O last/O year/O 's/O rioting/O in/O the/O northwestern/O Xinjiang/U_LOCATION region/O and/O claimed/O that/O overseas/O separatist/O groups/O had/O used/O Facebook/ORGANIZATION as/O a/O rallying/O point/O ./O
+tb/O //O AFP/ORGANIZATION //O AP/ORGANIZATION //O dpa/O //O Reuters/ORGANIZATION
+Editor/O :/O Grahame/PERSON Lucas/PERSON

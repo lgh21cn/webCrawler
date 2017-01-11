@@ -1,0 +1,32 @@
+China/LOCATION 's/O Internet/O censorship/O might/O mean/O it/O takes/O users/O longer/O to/O access/O the/O websites/O they/O 're/O after/O ,/O but/O there/O are/O ways/O and/O means/O of/O circumventing/O the/O filters/O ,/O says/O DW/ORGANIZATION columnist/O Frank/PERSON Sieren/PERSON ./O
+It/O 's/O no/O secret/O that/O Internet/O censorship/O is/O rampant/O in/O China/LOCATION ./O
+Reports/O abound/O of/O blacklisted/O keywords/O ,/O as/O well/O as/O blocked/O websites/O and/O search/O engines/O ./O
+According/O to/O a/O recent/O report/O from/O the/O European/ORGANIZATION Union/ORGANIZATION Chamber/ORGANIZATION of/ORGANIZATION Commerce/ORGANIZATION in/O China/LOCATION -LRB-/O EUCCC/ORGANIZATION -RRB-/O ,/O in/O mid-February/O ,/O 86/O percent/O of/O its/O members/O said/O that/O Internet/O censorship/O has/O had/O a/O bad/O effect/O on/O business/O -LRB-/O compared/O to/O 71/O percent/O in/O mid-2014/O -RRB-/O ./O
+The/O EUCCC/ORGANIZATION says/O that/O a/O number/O of/O companies/O are/O therefore/O reducing/O investment/O in/O technology/O and/O research/O in/O China/LOCATION ./O
+It/O described/O the/O development/O as/O massively/O detrimental/O to/O the/O country/O ,/O one/O that/O sends/O a/O negative/O message/O and/O stops/O companies/O from/O bringing/O qualified/O staff/O to/O China/LOCATION ./O
+Circumventing/O the/O Great/O Firewall/O
+But/O this/O is/O only/O one/O side/O of/O the/O story/O ./O
+Today/O ,/O only/O small/O businesses/O continue/O to/O insist/O that/O Internet/O censorship/O hampers/O their/O research/O and/O development/O ./O
+Larger/O companies/O have/O long/O since/O been/O operating/O dedicated/O lines/O which/O allow/O them/O to/O circumvent/O the/O Great/O Firewall/O ./O
+Even/O the/O German/O school/O in/O Beijing/LOCATION has/O one/O ./O
+DW/ORGANIZATION columnist/O Frank/PERSON Sieren/PERSON
+Normal/O users/O also/O know/O how/O to/O access/O whatever/O information/O they/O 're/O after/O by/O using/O VPNs/O -LRB-/O virtual/O private/O networks/O -RRB-/O that/O can/O be/O activated/O via/O smartphones/O or/O on/O a/O PC/O ./O
+It/O takes/O about/O 30/O seconds/O to/O get/O connected/O -/O easy/O enough/O but/O time-consuming/O ,/O with/O slow/O download/O speeds/O ./O
+But/O it/O nonetheless/O allows/O users/O to/O open/O banned/O websites/O and/O find/O out/O ,/O for/O example/O ,/O what/O Taiwanese/O academics/O and/O Uighur/O freedom/O fighters/O are/O saying/O ,/O or/O even/O to/O access/O blocked/O content/O on/O the/O BBC/ORGANIZATION ,/O the/O New/ORGANIZATION York/ORGANIZATION Times/ORGANIZATION or/O DW/ORGANIZATION ./O
+However/O ,/O VPN-blocking/O is/O also/O a/O common/O problem/O ./O
+Astrill/ORGANIZATION ,/O one/O of/O the/O most/O popular/O VPN/O providers/O in/O China/LOCATION ,/O found/O a/O number/O of/O its/O channels/O blocked/O by/O the/O authorities/O in/O early/O January/O ./O
+These/O days/O ,/O iPhone/O and/O iPad/O owners/O can/O no/O longer/O automatically/O use/O Astrill/ORGANIZATION 's/O VPN/O options/O but/O have/O to/O access/O the/O service/O through/O a/O complicated/O process/O ./O
+Even/O so/O ,/O 90/O million/O of/O China/LOCATION 's/O 650/O million/O Internet/O users/O continue/O to/O use/O VPN/O services/O -/O in/O other/O words/O ,/O anyone/O who/O is/O interested/O in/O information/O from/O abroad/O ./O
+They/O continue/O to/O access/O international/O websites/O ,/O even/O if/O doing/O so/O takes/O them/O longer/O than/O it/O needs/O to/O ./O
+Infrastructure/O makes/O a/O difference/O
+And/O ,/O on/O average/O ,/O it/O does/O n't/O take/O them/O as/O long/O as/O it/O takes/O Internet/O users/O in/O India/LOCATION ./O
+According/O to/O the/O ``/O State/O of/O the/O Internet/O ''/O quarterly/O report/O by/O content/O delivery/O network/O Akamai/ORGANIZATION ,/O India/LOCATION has/O the/O slowest/O Internet/O speed/O in/O Asia/LOCATION ,/O ranking/O 118th/O in/O the/O world/O -/O behind/O the/O Philippines/LOCATION and/O Vietnam/LOCATION -/O with/O 2.0/O megabytes/O per/O second/O -LRB-/O mbps/O -RRB-/O ,/O while/O China/LOCATION ranks/O 79th/O with/O 3.8/O mbps/O ./O
+Meanwhile/O ,/O smartphone/O Internet/O connection/O speed/O in/O China/LOCATION is/O three/O times/O faster/O than/O in/O India/LOCATION ./O
+There/O might/O be/O places/O in/O India/LOCATION where/O Internet/O speed/O is/O better/O than/O the/O fastest/O VPN/O in/O China/LOCATION ,/O but/O the/O rule/O of/O thumb/O is/O that/O even/O with/O the/O Great/O Firewall/O ,/O it/O 's/O easier/O to/O access/O international/O websites/O in/O China/LOCATION than/O in/O India/LOCATION ,/O a/O country/O where/O there/O 's/O no/O Internet/O censorship/O ./O
+Although/O in/O India/LOCATION ,/O unlike/O in/O China/LOCATION ,/O domestic/O content/O is/O n't/O censored/O either/O ./O
+Digital/O divides/O
+In/O terms/O of/O international/O connectivity/O and/O free/O ,/O fast/O access/O ,/O the/O biggest/O digital/O divides/O in/O Asia/LOCATION are/O therefore/O not/O so/O much/O between/O democratic/O India/LOCATION and/O dictatorial/O China/LOCATION but/O between/O China/LOCATION ,/O India/LOCATION ,/O Indonesia/LOCATION and/O the/O Philippines/LOCATION on/O the/O one/O side/O and/O on/O the/O other/O ,/O South/LOCATION Korea/LOCATION ,/O Japan/LOCATION and/O Hong/LOCATION Kong/LOCATION ,/O which/O boast/O Internet/O speeds/O between/O 25/O and/O 15/O mbps/O -/O the/O world/O 's/O fastest/O ./O
+Europe/LOCATION 's/O fastest/O is/O in/O Switzerland/LOCATION -LRB-/O 14.5/O mbps/O -RRB-/O ;/O in/O Germany/LOCATION ,/O it/O 's/O below/O 10/O ./O
+But/O China/LOCATION is/O the/O emerging/O economy/O that/O 's/O catching/O up/O the/O quickest/O ,/O aiming/O to/O reach/O Internet/O speeds/O of/O over/O 4/O mbps/O this/O year/O ,/O and/O as/O fast/O as/O 20/O mbps/O in/O the/O cities/O ./O
+Ultimately/O ,/O China/LOCATION 's/O web/O filters/O amount/O to/O little/O more/O than/O a/O skimpy/O fig/O leaf/O -/O seeing/O beyond/O it/O just/O calls/O for/O some/O patience/O ./O
+One/O of/O Germany/LOCATION 's/O leading/O experts/O on/O China/LOCATION ,/O Frank/PERSON Sieren/PERSON has/O lived/O in/O Beijing/LOCATION for/O 20/O years/O ./O

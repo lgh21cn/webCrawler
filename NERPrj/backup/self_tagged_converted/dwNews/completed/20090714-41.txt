@@ -1,0 +1,34 @@
+China/LOCATION called/O on/O Turkey/LOCATION 's/O prime/O minister/O to/O withdraw/O his/O controversial/O remarks/O about/O the/O recent/O crackdown/O on/O ethnic/O protests/O in/O its/O Western/U_LOCATION Xinjiang/U_LOCATION region/O ./O
+Erdogan/PERSON called/O on/O the/O Chinese/O authorities/O to/O prevent/O more/O deaths/O and/O said/O the/O incidents/O were/O simply/O ``/O genocide/O ''/O ./O
+Chinese/O media/O on/O Tuesday/O said/O Erdogan/PERSON should/O not/O ``/O twist/O facts/O ''/O and/O pointed/O out/O that/O a/O majority/O of/O the/O 184/O deaths/O were/O of/O Han/O Chinese/O ,/O not/O of/O Muslim/O Uighurs/O ./O
+Like/O the/O Uzbeks/O and/O most/O Central/O Asians/O ,/O the/O Uighurs/O are/O a/O Turkic/O people/O and/O speak/O a/O language/O closely/O related/O to/O Turkish/O ./O
+Many/O call/O their/O homeland/O ``/O East/U_LOCATION Turkestan/U_LOCATION ''/O instead/O of/O using/O the/O Chinese/O name/O ``/O Xinjiang/U_LOCATION ''/O ./O
+More/O than/O 5,000/O Uighurs/O live/O in/O Turkey/LOCATION --/O and/O there/O have/O been/O demonstrations/O of/O support/O for/O the/O Uighurs/O in/O Xinjiang/U_LOCATION across/O the/O country/O ./O
+One/O could/O think/O that/O the/O words/O of/O legendary/O exiled/O Uighur/O leader/O Isa/U_PERSON Yusup/U_PERSON Alptekin/U_PERSON were/O true/O ./O
+He/O once/O said/O :/O ``/O The/O area/O that/O stretches/O from/O Edirne/LOCATION in/O western/O Turkey/LOCATION to/O East/U_LOCATION Turkestan/U_LOCATION forms/O a/O united/O whole/O ./O
+The/O Turks/O of/O Turkestan/LOCATION are/O also/O a/O religious/O and/O cultural/O entity/O ./O
+They/O are/O above/O all/O Turks/O and/O then/O they/O are/O Uzbeks/O ,/O Kazakhs/O or/O Uighurs/O ./O ''/O
+But/O in/O Istanbul/LOCATION ,/O the/O Uighurs/O know/O that/O such/O lofty/O words/O do/O not/O have/O much/O weight/O ./O
+Erol/PERSON Cihangir/PERSON ,/O the/O owner/O and/O editor/O of/O Turân/ORGANIZATION ,/O a/O magazine/O based/O in/O Istanbul/LOCATION that/O covers/O Turkic/O issues/O ,/O says/O that/O the/O Turkish/O state/O does/O not/O give/O preferential/O treatment/O to/O other/O Turkic/O peoples/O ./O
+``/O It/O 's/O not/O as/O if/O they/O say/O :/O `/O Come/O ,/O brother/O we/O 'll/O give/O you/O Turkish/O citizenship/O because/O you/O fled/O China/LOCATION ./O
+They/O have/O the/O same/O procedures/O as/O for/O the/O Kurdish/ORGANIZATION Peshmerga/ORGANIZATION from/O Iraq/LOCATION or/O for/O Chechens/O from/O the/O Caucasus/LOCATION ./O
+I/O think/O that/O Turkey/LOCATION is/O even/O less/O compliant/O than/O European/O countries/O ./O ''/O
+Disappointment/O with/O the/O Turkic/O world/O
+Sehr/U_PERSON Zengi/U_PERSON ,/O a/O young/O woman/O connected/O to/O the/O East/U_LOCATION Turkestan/U_LOCATION cultural/O foundation/O in/O Istanbul/LOCATION is/O also/O disappointed/O by/O the/O lack/O of/O support/O from/O the/O Turkic/O world/O in/O general/O :/O ``/O We/O were/O full/O of/O hope/O when/O Kazakhstan/LOCATION ,/O Uzbekistan/LOCATION and/O the/O other/O Turkic/O states/O got/O their/O independence/O and/O we/O hoped/O that/O the/O Uighurs/O of/O these/O countries/O would/O support/O us/O against/O China/LOCATION but/O we/O hoped/O in/O vain/O ./O
+Turkey/LOCATION has/O n't/O done/O anything/O either/O ,/O although/O Tayyip/PERSON Erdogan/PERSON is/O now/O finally/O protesting/O ./O ''/O
+In/O actual/O fact/O ,/O Turkey/LOCATION called/O on/O China/LOCATION to/O punish/O those/O responsible/O for/O the/O deaths/O ,/O right/O after/O the/O riots/O in/O the/O city/O of/O Urumqi/U_LOCATION early/O last/O week/O and/O Erdogan/PERSON has/O been/O the/O most/O vocal/O foreign/O leader/O to/O oppose/O Beijing/LOCATION 's/O measures/O in/O Xinjiang/U_LOCATION ./O
+Generally/O ,/O however/O ,/O Turkish/O official/O policy/O has/O been/O to/O support/O China/LOCATION 's/O territorial/O integrity/O and/O respect/O Beijing/LOCATION 's/O right/O to/O oppose/O separatist/O movements/O ./O
+Support/O from/O general/O population/O
+However/O ,/O the/O Turkish/O population/O backs/O the/O Uighurs/O ./O
+Thousands/O took/O to/O the/O streets/O to/O protest/O against/O the/O events/O in/O Xinjiang/U_LOCATION last/O week/O ./O
+Erol/PERSON Cihangir/PERSON ,/O who/O comes/O from/O a/O family/O of/O Tatar/O refugees/O ,/O offers/O a/O simple/O explanation/O for/O this/O show/O of/O support/O :/O ``/O I/O spent/O my/O childhood/O in/O a/O village/O where/O there/O was/O n't/O a/O television/O or/O anything/O ./O
+In/O the/O evenings/O ,/O the/O adults/O would/O sit/O and/O tell/O stories/O about/O war/O and/O having/O to/O escape/O ./O
+Until/O I/O was/O 11/O or/O 12/O ./O ''/O
+``/O The/O stories/O were/O always/O about/O the/O cruelty/O of/O the/O Russians/O ./O
+They/O were/O n't/O stories/O of/O heroes/O or/O heroic/O acts/O but/O of/O tragedy/O ,/O suppression/O ,/O having/O to/O escape/O and/O of/O those/O who/O had/O died/O whilst/O fleeing/O ./O
+This/O had/O a/O strong/O effect/O on/O me/O and/O that/O 's/O why/O I/O started/O working/O for/O Turkic/O peoples/O when/O I/O understood/O more/O about/O the/O world/O ./O ''/O
+Cihangir/PERSON 's/O experience/O is/O not/O exceptional/O in/O Turkey/LOCATION ./O
+Before/O ,/O during/O and/O after/O the/O First/O World/O War/O ,/O millions/O of/O Muslims/O fled/O there/O from/O the/O Balkans/LOCATION ,/O the/O Crimea/LOCATION and/O the/O Caucasus/LOCATION ./O
+Today/O ,/O their/O descendents/O make/O up/O a/O large/O part/O of/O the/O Turkish/O population/O ./O
+Authors/O :/O Günther/PERSON Seufert/PERSON //O Anne/PERSON Thomas/PERSON
+Editor/O :/O Thomas/PERSON Bärthlein/PERSON

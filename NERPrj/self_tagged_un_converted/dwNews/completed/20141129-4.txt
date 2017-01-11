@@ -1,0 +1,17 @@
+Chinese/O state/O media/O say/O an/O attack/O on/O food/O stalls/O in/O China/LOCATION 's/O western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> has/O resulted/O in/O 15/O deaths/O ./O 
+Eleven/O of/O those/O killed/O were/O allegedly/O assailants/O tracked/O down/O by/O police/O ./O 
+China/LOCATION 's/O Xinhua/ORGANIZATION news/ORGANIZATION agency/ORGANIZATION said/O on/O Saturday/O that/O the/O incident/O occurred/O on/O Friday/O in/O <U_LOCATION>Shache/LOCATION County/LOCATION</U_LOCATION> in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+The/O region/O has/O a/O long/O history/O of/O discord/O between/O authorities/O and/O its/O indigenous/O ethnic/O Uighur/O population/O ./O 
+Xinhua/ORGANIZATION said/O the/O attackers/O ,/O who/O it/O did/O not/O identify/O ,/O also/O stabbed/O people/O in/O the/O crowded/O street/O where/O vendors/O were/O selling/O food/O ./O 
+Fourteen/O other/O people/O were/O wounded/O ./O 
+The/O state-owned/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> news/O website/O <U_ORGANIZATION>Tianshan/ORGANIZATION News/ORGANIZATION</U_ORGANIZATION> said/O police/O also/O found/O detonation/O devices/O ,/O large/O knives/O and/O axes/O at/O the/O scene/O ./O 
+Heavy/O restrictions/O on/O journalists/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> have/O made/O verification/O of/O details/O of/O such/O incidents/O difficult/O ./O 
+Ban/O on/O identifiable/O clothing/O 
+The/O state-backed/O newspaper/O China/ORGANIZATION Daily/ORGANIZATION reported/O on/O Saturday/O that/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 's/O regional/O authority/O had/O on/O Friday/O banned/O residents/O from/O wearing/O or/O forcing/O others/O to/O wear/O logos/O or/O clothes/O associated/O with/O religious/O extremism/O ./O 
+Over/O the/O past/O six/O months/O ,/O Chinese/O state/O media/O outlets/O have/O cited/O at/O least/O 175/O deaths/O in/O eight/O violent/O incidents/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Last/O month/O ,/O a/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> court/O sentenced/O 12/O accused/O to/O death/O for/O a/O series/O of/O attacks/O in/O July/O ./O 
+Knife-wielding/O attackers/O allegedly/O killed/O 38/O people/O ./O 
+The/O <OTHER>US-based/ORGANIZATION</OTHER> Uyghur/ORGANIZATION American/ORGANIZATION Association/ORGANIZATION disputed/O official/O descriptions/O of/O that/O incident/O ./O 
+The/O association/O said/O police/O instead/O opened/O fire/O on/O people/O protesting/O against/O a/O security/O crackdown/O on/O Muslims/O during/O <OTHER>Ramadan/LOCATION</OTHER> ,/O killing/O more/O than/O 20/O ./O 
+Uighurs/O make/O up/O about/O 9/O million/O of/O the/O oil-rich/O region/O 's/O 22-million/O population/O ,/O which/O includes/O numerous/O ethnic/O Han/O Chinese/O migrants/O ./O 
+ipj/se/O -LRB-/O dpa/O ,/O Reuters/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O

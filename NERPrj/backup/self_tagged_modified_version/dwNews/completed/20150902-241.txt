@@ -1,0 +1,15 @@
+Thai/O police/O have/O announced/O a/O major/O break/O in/O the/O case/O of/O the/O Bangkok/LOCATION bombing/O that/O killed/O 20/O people/O ./O 
+They/O say/O the/O fingerprints/O of/O the/O most/O recently/O arrested/O suspect/O match/O those/O on/O the/O bomb-making/O equipment/O ./O 
+Officers/O claimed/O significant/O progress/O Wednesday/O in/O getting/O to/O the/O bottom/O of/O Thailand/LOCATION 's/O deadliest/O attack/O in/O history/O after/O an/O arrested/O man/O admitted/O being/O near/O the/O August/O 17th/O blast/O and/O fingerprints/O tied/O him/O to/O the/O room/O of/O a/O suspected/O bomber/O ./O 
+The/O suspect/O 's/O identity/O has/O not/O yet/O been/O made/O public/O ,/O but/O police/O said/O he/O was/O found/O less/O than/O a/O kilometer/O away/O from/O the/O Cambodian/O border/O on/O Tuesday/O ./O 
+According/O to/O police/O ,/O the/O man/O denied/O being/O the/O bomber/O seen/O in/O CCTV/ORGANIZATION footage/O ,/O but/O conceded/O that/O he/O had/O been/O on/O the/O scene/O ./O 
+``/O It/O 's/O natural/O that/O the/O suspect/O will/O deny/O he/O did/O it/O ,/O but/O we/O still/O have/O to/O continue/O to/O look/O into/O that/O ,/O ''/O Chakthip/PERSON Chaijinda/PERSON ,/O deputy/O national/O police/O chief/O ,/O told/O the/O press/O ./O 
+``/O Right/O now/O the/O case/O has/O progressed/O about/O 70/O percent/O already/O ./O ''/O 
+The/O suspect/O in/O question/O had/O stayed/O in/O the/O Nong/LOCATION Chok/LOCATION area/O of/O Bangkok/LOCATION ,/O the/O same/O as/O another/O man/O arrested/O in/O connection/O with/O the/O bombing/O during/O a/O Saturday/O raid/O that/O found/O hundreds/O of/O fake/O passports/O alongside/O explosives/O like/O <OTHER>TNT/ORGANIZATION</OTHER> and/O C4/O ./O 
+They/O also/O confiscated/O bomb-making/O equipment/O such/O as/O detonators/O ,/O ball/O bearings/O ,/O and/O a/O possible/O bomb/O casing/O ./O 
+Police/O search/O for/O possible/O motive/O The/O explosion/O at/O the/O popular/O <LOCATION>Erawan/O Shrine/O</LOCATION> injured/O over/O one/O hundred/O people/O ,/O most/O of/O them/O foreigners/O ,/O on/O top/O of/O the/O 20/O who/O lost/O their/O lives/O ./O 
+No/O group/O has/O publically/O claimed/O responsibility/O for/O the/O attack/O ,/O although/O speculation/O has/O begun/O to/O circulate/O that/O the/O suspect/O may/O be/O part/O of/O a/O group/O seeking/O revenge/O for/O Thailand/LOCATION 's/O repatriation/O of/O ethnic/O Uighurs/O to/O China/LOCATION in/O July/O ./O 
+<OTHER>Muslim/ORGANIZATION</OTHER> minority/O Uighurs/O say/O they/O face/O persecution/O and/O oppression/O in/O their/O native/O China/LOCATION ./O 
+National/O police/O spokesman/O Prawut/PERSON Thavornsiri/PERSON said/O that/O the/O suspect/O arrested/O Wednesday/O had/O fingerprints/O which/O ``/O match/O with/O those/O found/O on/O a/O bottle/O that/O contains/O a/O bombing/O substance/O ,/O ''/O found/O in/O Saturday/O 's/O raid/O ./O 
+Prawut/PERSON cautioned/O ,/O however/O ,/O that/O further/O DNA/O tests/O were/O needed/O in/O order/O to/O prove/O the/O connection/O ./O 
+es/kms/O -LRB-/O Reuters/ORGANIZATION ,/O AFP/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O

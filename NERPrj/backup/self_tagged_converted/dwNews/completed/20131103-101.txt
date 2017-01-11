@@ -1,0 +1,23 @@
+China/LOCATION 's/O Communist/ORGANIZATION Party/ORGANIZATION says/O it/O has/O sacked/O the/O military/O chief/O of/O Xinjiang/U_LOCATION from/O the/O region/O 's/O governing/O council/O ./O
+The/O dismissal/O follows/O an/O attack/O in/O Beijing/LOCATION officially/O blamed/O on/O Islamist/O militants/O from/O Xinjiang/U_LOCATION ./O
+Chinese/O state/O media/O reported/O Sunday/O that/O Peng/PERSON Yong/PERSON had/O been/O sacked/O as/O a/O member/O of/O Xinjiang/U_LOCATION 's/O Communist/ORGANIZATION Party/ORGANIZATION Standing/ORGANIZATION Committee/ORGANIZATION ./O
+The/O state-run/O Xinjiang/U_ORGANIZATION Daily/U_ORGANIZATION newspaper/O said/O Peng/PERSON would/O be/O replaced/O by/O Liu/PERSON Lei/PERSON ,/O an/O army/O veteran/O with/O long/O experience/O in/O the/O region/O ./O
+The/O newspaper/O gave/O no/O reason/O for/O Peng/PERSON 's/O dismissal/O ./O
+However/O ,/O it/O comes/O after/O a/O car/O crash/O on/O Monday/O in/O Beijing/LOCATION 's/O Tiananmen/LOCATION Square/LOCATION that/O authorities/O have/O blamed/O on/O members/O of/O the/O predominantly/O Muslim/O Uighur/O minority/O in/O the/O troubled/O northwest/O region/O ./O
+DW/ORGANIZATION recommends/O
+Ethnic/O tensions/O escalating/O in/O Xinjiang/U_LOCATION 
+The/O latest/O incidents/O of/O deadly/O violence/O in/O China/LOCATION 's/O northwestern/O region/O of/O Xinjiang/U_LOCATION indicate/O that/O Beijing/LOCATION 's/O policies/O towards/O ethnic/O minorities/O have/O reached/O a/O dead/O end/O ./O
+-LRB-/O 05.07.2013/O -RRB-/O
+The/O party/O frequently/O removes/O top/O officials/O after/O such/O incidents/O ./O
+Deadly/O crash/O
+Three/O people/O in/O the/O car/O died/O ,/O along/O with/O two/O tourists/O ,/O when/O the/O vehicle/O drove/O into/O bystanders/O outside/O the/O front/O entrance/O of/O the/O Forbidden/LOCATION City/LOCATION on/O the/O north/O of/O the/O square/O ./O
+Police/O say/O the/O three/O occupants/O of/O the/O car/O were/O Uighurs/O belonging/O to/O the/O same/O family/O :/O a/O husband/O accompanied/O by/O his/O mother/O and/O his/O wife/O ./O
+Security/O in/O the/O capital/O and/O in/O Xinjiang/U_LOCATION has/O been/O stepped/O up/O in/O the/O wake/O of/O the/O crash/O ./O
+Embarrassing/O incident/O
+The/O incident/O was/O a/O major/O embarrassment/O for/O the/O enormous/O and/O expensive/O state/O security/O apparatus/O ,/O especially/O as/O it/O occurred/O in/O the/O heart/O of/O the/O capital/O ./O
+Beijing/LOCATION party/O chief/O Guo/PERSON Jinlong/PERSON has/O urged/O police/O and/O security/O forces/O to/O ``/O learn/O the/O lessons/O ''/O from/O the/O attack/O ,/O according/O to/O an/O article/O published/O on/O Sunday/O by/O the/O Beijing/ORGANIZATION Daily/ORGANIZATION ,/O the/O Party/ORGANIZATION 's/O official/O mouthpiece/O in/O the/O capital/O ./O
+``/O Draconian/O prevention/O of/O violent/O terrorist/O attacks/O is/O part/O of/O the/O mission/O in/O maintaining/O order/O ,/O ''/O he/O said/O ./O
+Xinjiang/U_LOCATION has/O seen/O sporadic/O unrest/O ,/O often/O arising/O from/O ethnic/O frictions/O between/O Uighurs/O and/O ethnic/O majority/O Han/O Chinese/O ./O
+Authorities/O usually/O blame/O the/O troubles/O on/O ``/O terrorists/O ''/O and/O ``/O separatists/O ./O ''/O
+Uighur/O organizations/O however/O say/O Beijing/LOCATION uses/O such/O accusations/O as/O a/O pretext/O for/O imposing/O harsh/O religious/O and/O security/O restrictions/O ./O
+tj/slk/O -LRB-/O AFP/ORGANIZATION ,/O Reuters/ORGANIZATION -RRB-/O

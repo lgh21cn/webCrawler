@@ -1,0 +1,38 @@
+In/O China/LOCATION ,/O journalists/O often/O face/O reprisals/O ./O
+But/O the/O editor/O in/O the/O mind/O plays/O a/O major/O role/O in/O the/O lack/O of/O critical/O reporting/O ./O
+Journalist/O Chang/PERSON Ping/PERSON looks/O back/O home/O from/O his/O place/O in/O exile/O ./O
+When/O I/O was/O young/O ,/O I/O read/O Kafka/PERSON 's/O ``/O Hunger/O Artist/O ./O ''/O
+At/O the/O end/O of/O the/O story/O ,/O when/O ,/O following/O the/O death/O of/O the/O hunger/O artist/O ,/O a/O young/O panther/O is/O locked/O in/O a/O cage/O ,/O Kafka/PERSON wrote/O :/O ''/O .../O it/O did/O n't/O even/O appear/O to/O miss/O its/O freedom/O ./O
+This/O noble/O body/O ,/O equipped/O with/O everything/O it/O needed/O ,/O almost/O to/O the/O point/O of/O rupture/O ,/O even/O appeared/O to/O carry/O freedom/O around/O with/O it/O ./O
+It/O seemed/O to/O keep/O it/O somewhere/O in/O its/O teeth/O .../O ''/O
+Drawn/O by/O his/O words/O ,/O I/O decided/O back/O then/O to/O learn/O from/O the/O panther/O and/O carry/O my/O freedom/O around/O with/O me/O ./O
+Initially/O I/O used/O that/O freedom/O to/O write/O poetry/O and/O novels/O ,/O then/O later/O I/O moved/O into/O journalism/O ./O
+I/O soon/O discovered/O a/O secret/O ./O
+Unlike/O the/O cage/O in/O which/O the/O young/O panther/O seemed/O to/O enjoy/O living/O ,/O the/O one/O in/O which/O we/O are/O locked/O ,/O is/O constantly/O changing/O ./O
+Ever/O present/O around/O us/O ,/O it/O is/O growing/O more/O constrictive/O without/O our/O even/O noticing/O ./O
+Ten/O years/O ago/O the/O Internet/O was/O used/O a/O tool/O to/O fight/O against/O the/O restriction/O of/O freedom/O ,/O now/O it/O is/O used/O by/O the/O state/O to/O ,/O allegedly/O ,/O ensure/O stability/O ./O
+Ten/O years/O ago/O ,/O although/O press/O freedom/O ,/O civil/O society/O ,/O Tibet/LOCATION and/O Xinjiang/U_LOCATION were/O sensitive/O subjects/O ,/O ``/O mainstream/O ''/O media/O was/O still/O at/O liberty/O to/O discuss/O them/O ./O
+Now/O that/O space/O has/O gone/O ./O
+Chang/PERSON Ping/PERSON
+Ten/PERSON years/O ago/O ,/O I/O had/O been/O fired/O once/O for/O critical/O reporting/O ,/O but/O a/O short/O while/O thereafter/O I/O had/O the/O chance/O to/O publish/O two/O political/O weekly/O magazines/O and/O to/O write/O many/O commentaries/O as/O a/O result/O ./O
+Since/O then/O ,/O I/O have/O been/O stripped/O of/O the/O opportunity/O to/O work/O as/O a/O journalist/O and/O write/O articles/O on/O mainland/O China/LOCATION ,/O and/O even/O the/O government/O of/O Hong/LOCATION Kong/LOCATION denies/O me/O permission/O to/O work/O there/O ./O
+Against/O that/O backdrop/O ,/O my/O family/O and/O I/O now/O live/O in/O exile/O ./O
+Meanwhile/O the/O cage/O continues/O to/O contract/O ,/O fooling/O many/O who/O live/O within/O its/O confines/O ./O
+Some/O see/O it/O as/O big/O enough/O to/O allow/O them/O and/O their/O friends/O to/O live/O and/O work/O in/O peace/O as/O long/O as/O they/O do/O not/O come/O up/O against/O its/O edges/O ./O
+Others/O believe/O the/O cage/O is/O getting/O bigger/O by/O the/O day/O ,/O and/O their/O freedom/O with/O it/O ./O
+Then/O there/O are/O those/O who/O have/O recognized/O the/O truth/O ,/O but/O who/O fool/O themselves/O and/O others/O ,/O or/O people/O who/O blame/O the/O conditions/O of/O the/O cage/O on/O those/O locked/O inside/O ,/O saying/O it/O is/O becoming/O more/O restrictive/O as/O a/O result/O of/O their/O own/O disobedience/O ./O
+This/O thinking/O results/O in/O the/O cage/O becoming/O ever/O smaller/O ./O
+But/O the/O most/O monstrous/O thing/O is/O that/O such/O thoughts/O were/O spawned/O from/O within/O its/O bounds/O ./O
+The/O cage/O does/O n't/O only/O restrict/O freedom/O through/O imprisonment/O ,/O but/O by/O changing/O thinking/O ./O
+It/O leads/O people/O to/O believe/O that/O life/O inside/O it/O is/O full/O of/O freedom/O ,/O prosperity/O and/O happiness/O ./O
+While/O those/O in/O the/O cage/O have/O to/O accept/O the/O brainwashing/O ,/O those/O on/O the/O outside/O are/O happy/O not/O to/O be/O locked/O in/O ,/O to/O have/O avoided/O that/O fate/O ./O
+But/O what/O they/O do/O n't/O recognize/O is/O that/O the/O cage/O is/O constantly/O changing/O ,/O swallowing/O more/O pieces/O of/O the/O world/O ./O
+Caged/O China/LOCATION does/O n't/O only/O lack/O freedom/O ,/O but/O resistance/O to/O the/O restraints/O upon/O it/O ./O
+And/O the/O world/O outside/O is/O threatened/O by/O this/O narrowing/O of/O liberties/O and/O weakening/O of/O the/O very/O spirit/O of/O freedom/O ./O
+I/O used/O to/O see/O opinion/O pieces/O as/O missions/O more/O than/O acts/O of/O writing/O ./O
+Akin/O to/O shouting/O loudly/O on/O the/O streets/O ./O
+I/O would/O dream/O ,/O having/O fought/O for/O my/O freedom/O ,/O of/O returning/O to/O my/O study/O to/O read/O and/O write/O in/O peace/O ./O
+Now/O I/O finally/O understand/O that/O such/O freedom/O does/O n't/O exist/O in/O this/O world/O ./O
+The/O fight/O for/O freedom/O is/O an/O eternal/O battle/O ./O
+Chang/PERSON Ping/PERSON is/O a/O Chinese/O journalist/O and/O political/O commentator/O with/O many/O years/O of/O media/O experience/O ./O
+He/O currently/O lives/O in/O Germany/LOCATION ./O

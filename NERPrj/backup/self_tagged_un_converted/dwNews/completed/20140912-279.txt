@@ -1,0 +1,22 @@
+Four/O people/O have/O been/O sentenced/O on/O charges/O of/O terrorism/O in/O China/LOCATION after/O a/O knife/O attack/O that/O left/O dozens/O dead/O and/O injured/O ./O 
+Beijing/LOCATION has/O blamed/O tension/O and/O violence/O in/O its/O restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O on/O increasing/O Islamism/O ./O 
+Three/O men/O ,/O <U_PERSON>Iskandar/PERSON Ehet/PERSON</U_PERSON> ,/O <U_PERSON>Turgun/PERSON Tohtunyaz/PERSON</U_PERSON> and/O <U_PERSON>Hasayn/PERSON Muhammad/PERSON</U_PERSON> were/O sentenced/O to/O death/O on/O Friday/O by/O a/O court/O in/O northwestern/O Kunming/LOCATION ./O 
+The/O fourth/O person/O on/O trial/O ,/O <U_PERSON>Patigul/PERSON Tohti/PERSON</U_PERSON> ,/O received/O a/O life/O sentence/O ,/O as/O she/O is/O pregnant/O ./O 
+They/O were/O convicted/O of/O murder/O and/O plotting/O and/O carrying/O out/O a/O terrorist/O attack/O ./O 
+The/O government/O said/O knife-wielding/O militants/O from/O the/O unruly/O western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> had/O launched/O the/O premeditated/O attack/O at/O a/O train/O station/O in/O Kunming/LOCATION ,/O in/O Yunnan/LOCATION province/LOCATION that/O left/O 31/O people/O dead/O and/O injured/O 141/O on/O March/O 1/O this/O year/O ./O 
+Police/O shot/O dead/O four/O other/O culprits/O during/O the/O attack/O in/O March/O ./O 
+Authorities/O have/O been/O cracking/O down/O on/O the/O ``/O three/O evil/O forces/O ''/O of/O terrorism/O ,/O religious/O extremism/O and/O separatism/O in/O the/O far/O western/O province/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O which/O is/O home/O to/O around/O eight/O million/O ethnic/O minority/O Muslim/O Uighurs/O ./O 
+``/O Today/O 's/O trial/O clearly/O shows/O the/O resolute/O attitude/O and/O staunch/O determination/O of/O the/O Chinese/O government/O to/O protect/O the/O life/O ,/O property/O ,/O security/O and/O joint/O interests/O of/O all/O ethnicities/O ,/O and/O severely/O strike/O at/O violent/O terrorism/O crimes/O ,/O ''/O Reuters/ORGANIZATION news/O agency/O quoted/O the/O Kunming/ORGANIZATION Municipal/ORGANIZATION Intermediate/ORGANIZATION People/ORGANIZATION 's/ORGANIZATION Court/ORGANIZATION as/O saying/O ./O 
+Restive/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> 
+Also/O on/O Friday/O ,/O a/O court/O date/O was/O set/O for/O a/O prominent/O Uighur/O scholar/O accused/O of/O separatism/O ./O 
+<U_PERSON>Ilham/PERSON Tohti/PERSON</U_PERSON> ,/O a/O professor/O of/O economics/O ,/O will/O go/O on/O trial/O next/O Wednesday/O ./O 
+He/O was/O arrested/O in/O January/O this/O year/O during/O heightened/O tensions/O between/O Uighurs/O and/O Han/O Chinese/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+He/O lectured/O at/O Beijing/ORGANIZATION University/ORGANIZATION and/O spoke/O openly/O about/O problems/O with/O the/O country/O 's/O minorities/O policies/O ./O 
+Authorities/O have/O accused/O <U_PERSON>Touhti/PERSON</U_PERSON> of/O inciting/O hatred/O and/O advocating/O independence/O ./O 
+One/O of/O his/O lawyers/O said/O he/O had/O been/O shackled/O constantly/O and/O denied/O food/O for/O days/O on/O end/O while/O in/O custody/O ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> has/O been/O a/O hotspot/O in/O recent/O years/O for/O rising/O tension/O between/O Uighurs/O and/O the/O majority/O Han/O Chinese/O people/O ./O 
+It/O has/O been/O the/O scene/O of/O deadly/O conflicts/O as/O well/O ,/O which/O Beijing/LOCATION has/O blamed/O on/O insurgent/O terrorists/O ./O 
+Uighurs/O have/O accused/O Chinese/O authorities/O of/O using/O excessive/O force/O ,/O carrying/O out/O mass/O arrests/O and/O forced/O disappearances/O ,/O and/O ill-treatment/O in/O detention/O ./O 
+There/O are/O also/O allegations/O that/O China/LOCATION is/O trying/O to/O ``/O breed/O out/O ''/O the/O ethnic/O minority/O by/O offering/O incentives/O to/O Han/O Chinese/O to/O move/O to/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> and/O engage/O in/O inter-culture/O marriages/O ./O 
+Amnesty/ORGANIZATION International/ORGANIZATION has/O accused/O China/LOCATION of/O marginalizing/O Uighur/O culture/O and/O language/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> and/O has/O called/O on/O it/O to/O long-standing/O grievances/O of/O Uighurs/O ,/O including/O employment/O discrimination/O and/O a/O severe/O restriction/O on/O freedom/O of/O expression/O ./O 
+sb/hc/O -LRB-/O dpa/O ,/O Reuters/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O

@@ -1,0 +1,19 @@
+The/O son/O is/O dead/O and/O the/O father/O is/O under/O medical/O care/O ./O 
+China/LOCATION 's/O foreign/O ministry/O tries/O to/O be/O reassuring/O ,/O saying/O there/O is/O no/O evidence/O the/O virus/O has/O mutated/O and/O made/O human-to-human/O transmission/O possible/O ./O 
+With/O the/O world/O 's/O largest/O poultry/O industry/O China/LOCATION is/O the/O world/O 's/O greatest/O incubator/O for/O the/O disease/O ./O 
+Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> //O Agencies/O -RRB-/O --/O 
+A/O 24-year-old/O man/O died/O in/O December/O in/O Jiangsu/LOCATION from/O the/O avian/O flu/O and/O may/O have/O passed/O it/O on/O to/O his/O father/O ,/O but/O there/O is/O no/O evidence/O the/O virus/O mutated/O into/O a/O kind/O of/O flu/O which/O can/O be/O easily/O transmitted/O from/O human/O to/O human/O ./O 
+``/O The/O initial/O judgment/O is/O that/O it/O was/O an/O infection/O from/O close/O contact/O ,/O ''/O said/O Chinese/ORGANIZATION Health/ORGANIZATION Ministry/ORGANIZATION spokesman/O Mao/PERSON <PERSON>Qun`an/O</PERSON> ./O 
+But/O in/O the/O Jiangsu/LOCATION case/O ,/O there/O were/O ``/O no/O biological/O features/O for/O human-to-human/O transmission/O ./O ''/O 
+What/O is/O known/O is/O that/O the/O father/O ,/O who/O got/O sick/O just/O before/O his/O son/O died/O and/O is/O now/O in/O intensive/O care/O ,/O did/O not/O come/O into/O contact/O with/O dead/O or/O diseased/O birds/O ./O 
+It/O is/O not/O known/O however/O how/O the/O young/O man/O who/O died/O got/O infected/O since/O he/O ,/O too/O ,/O is/O known/O not/O have/O come/O into/O contact/O with/O infected/O birds/O ./O 
+The/O H5N1/O strain/O of/O the/O avian/O flu/O virus/O has/O so/O far/O been/O transmitted/O by/O diseased/O birds/O and/O this/O has/O limited/O the/O contagion/O ./O 
+But/O there/O are/O fears/O it/O might/O mutate/O and/O that/O humans/O might/O infect/O one/O another/O ./O 
+Should/O this/O happen/O the/O world/O might/O face/O a/O pandemic/O ./O 
+However/O ,/O the/O suspected/O human-to-human/O infection/O is/O also/O but/O the/O latest/O in/O a/O number/O of/O suspected/O cases/O in/O which/O people/O are/O said/O to/O have/O infected/O other/O members/O of/O their/O family/O ./O 
+With/O the/O world/O 's/O biggest/O poultry/O population/O and/O millions/O of/O backyard/O birds/O ,/O China/LOCATION is/O at/O the/O centre/O of/O the/O fight/O against/O bird/O flu/O ./O 
+Millions/O of/O animals/O have/O been/O vaccinated/O ./O 
+The/O most/O recent/O cases/O have/O brought/O the/O number/O of/O confirmed/O human/O infections/O of/O bird/O flu/O in/O China/LOCATION to/O 27/O ,/O with/O 17/O deaths/O ,/O but/O there/O are/O fears/O that/O figures/O might/O higher/O because/O not/O all/O cases/O have/O been/O reported/O ./O 
+Another/O outbreak/O ,/O on/O December/O 29/O ,/O occurred/O in/O the/O city/O of/O <U_LOCATION>Turpan/LOCATION</U_LOCATION> in/O the/O remote/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> region/O ./O 
+It/O killed/O almost/O 5,000/O fowl/O and/O led/O to/O the/O culling/O of/O 35,000/O more/O ./O 
+Since/O 2003/O the/O H5N1/O has/O killed/O about/O 200/O people/O ,/O almost/O all/O in/O Asia/LOCATION ,/O and/O ravaged/O poultry/O flocks/O worldwide/O ,/O this/O according/O to/O the/O World/ORGANIZATION Health/ORGANIZATION Organisation/ORGANIZATION ./O

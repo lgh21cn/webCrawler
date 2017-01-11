@@ -1,0 +1,47 @@
+China/LOCATION 's/O ``/O New/U_LOCATION Silk/U_LOCATION Road/U_LOCATION ''/O project/O is/O supposed/O to/O prevent/O further/O land/O desertification/O ./O
+And/O DW/ORGANIZATION 's/O Frank/PERSON Sieren/PERSON thinks/O it/O 's/O worth/O a/O shot/O ./O
+One/O of/O China/LOCATION 's/O worst/O enemies/O is/O its/O deserts/O ./O
+They/O have/O infertile/O soil/O ,/O a/O scarcity/O of/O water/O and/O sand/O storms/O ./O
+Moreover/O ,/O they/O are/O expanding/O ./O
+The/O sandstorms/O in/O the/O spring/O and/O fall/O can/O even/O be/O felt/O in/O Beijing/LOCATION ./O
+Fertile/O land/O is/O turning/O into/O sandy/O soil/O where/O hardly/O anything/O can/O grow/O ./O
+A/O fifth/O of/O China/LOCATION 's/O surface/O is/O already/O feeling/O the/O impact/O -/O about/O 1.73/O million/O square/O kilometers/O -LRB-/O 670,000/O square/O miles/O -RRB-/O have/O been/O lost/O to/O sand/O in/O the/O past/O 50/O years/O ./O
+Some/O 400/O million/O Chinese/O citizens/O are/O directly/O affected/O by/O the/O consequences/O of/O dry/O soil/O ,/O especially/O in/O the/O northwest/O and/O west/O of/O China/LOCATION ./O
+In/O Inner/LOCATION Mongolia/LOCATION ,/O almost/O 50/O percent/O of/O the/O soil/O has/O dried/O up/O ,/O whereas/O in/O Xinjiang/U_LOCATION province/O the/O same/O is/O true/O for/O nearly/O 65/O percent/O ./O
+These/O are/O also/O the/O regions/O that/O are/O feeling/O the/O worst/O impact/O from/O the/O sandstorms/O ,/O which/O can/O be/O up/O to/O 100/O meters/O -LRB-/O 328/O feet/O -RRB-/O high/O and/O whip/O up/O force/O 9/O gales/O ./O
+This/O is/O not/O a/O new/O problem/O for/O the/O Chinese/O government/O ./O
+There/O have/O been/O studies/O about/O desertification/O in/O China/LOCATION since/O 1977/O when/O the/O first/O was/O commissioned/O by/O a/O UN/ORGANIZATION conference/O ./O
+The/O reasons/O are/O also/O known/O :/O overgrazing/O ,/O erroneous/O cultivation/O methods/O ,/O as/O well/O as/O natural/O causes/O such/O as/O wind/O and/O water/O erosion/O because/O land/O is/O not/O protected/O satisfactorily/O ./O
+There/O are/O n't/O enough/O trees/O anywhere/O ./O
+The/O government/O has/O long/O sought/O a/O solution/O ,/O but/O this/O is/O difficult/O ./O
+Every/O year/O ,/O some/O 1,700/O square/O kilometers/O are/O won/O back/O from/O the/O sand/O ,/O but/O the/O deserts/O continue/O to/O expand/O ./O
+The/O same/O problem/O that/O is/O encountered/O in/O the/O West/LOCATION prevails/O ./O
+Nobody/O really/O knows/O how/O to/O motivate/O people/O ,/O in/O this/O case/O farmers/O ,/O to/O behave/O in/O a/O way/O that/O is/O environmentally-friendly/O ./O
+The/O pressure/O is/O on/O
+The/O following/O rules/O of/O thumb/O exist/O :/O The/O less/O people/O benefit/O from/O economic/O progress/O ,/O the/O less/O willing/O they/O are/O to/O forego/O growth/O in/O favor/O of/O the/O environment/O ./O
+It/O 's/O only/O when/O there/O is/O a/O certain/O amount/O of/O economic/O progress/O that/O people/O tend/O to/O be/O prepared/O to/O rethink/O their/O ideas/O ./O
+This/O was/O also/O the/O case/O in/O Germany/LOCATION ./O
+However/O ,/O the/O Chinese/O government/O can/O not/O wait/O this/O long/O ./O
+In/O the/O deep/O west/O of/O the/O Chinese/O hinterland/O ,/O it/O could/O take/O a/O long/O time/O for/O people/O to/O change/O their/O minds/O ./O
+Police/O officers/O can/O not/O force/O all/O farmers/O to/O act/O reasonably/O ./O
+This/O is/O why/O China/LOCATION is/O trying/O to/O inter-connect/O environment-related/O discipline/O to/O economic/O progress/O ./O
+The/O struggle/O against/O desertification/O is/O being/O linked/O to/O one/O of/O the/O Chinese/O government/O 's/O most/O important/O projects/O :/O the/O rebuilding/O of/O the/O old/O Silk/U_LOCATION Road/U_LOCATION ./O
+The/O idea/O is/O as/O follows/O :/O If/O you/O behave/O in/O a/O way/O that/O is/O environmentally-friendly/O ,/O you/O will/O get/O special/O conditions/O for/O involvement/O in/O the/O economic/O boom/O ./O
+Nobody/O knows/O whether/O this/O will/O work/O ,/O but/O it/O 's/O worth/O a/O try/O ./O
+This/O new/O order/O was/O inaugurated/O at/O the/O 5th/O Kubuqi/LOCATION International/O Desert/O Forum/O in/O Ordos/LOCATION ,/O Inner/LOCATION Mongolia/LOCATION last/O week/O by/O Chinese/O Vice-Premier/O Wang/PERSON Yang/PERSON ,/O who/O is/O responsible/O for/O agriculture/O and/O water/O resources/O ./O
+The/O new/O trade/O corridor/O that/O Beijing/LOCATION is/O building/O on/O the/O traces/O of/O the/O old/O Silk/U_LOCATION Road/U_LOCATION is/O supposed/O to/O be/O the/O focus/O ./O
+Individual/O projects/O are/O not/O enough/O
+China/LOCATION is/O investing/O $/O 40/O billion/O -LRB-/O 36.5/O billion/O euros/O -RRB-/O into/O building/O up/O the/O infrastructure/O in/O the/O whole/O of/O Central/LOCATION Asia/LOCATION for/O the/O new/O Silk/U_LOCATION Road/U_LOCATION that/O will/O run/O from/O Russia/LOCATION to/O Pakistan/LOCATION and/O ,/O of/O course/O ,/O in/O China/LOCATION itself/O ./O
+The/O underdeveloped/O western/O region/O of/O China/LOCATION is/O supposed/O to/O benefit/O the/O most/O from/O the/O government/O 's/O new/O interest/O ./O
+Since/O 80/O percent/O of/O China/LOCATION 's/O desert/O is/O on/O the/O old/O Silk/U_LOCATION Road/U_LOCATION ,/O Wang/PERSON Yang/PERSON hopes/O that/O there/O will/O be/O more/O progress/O if/O the/O two/O are/O interlinked/O ./O
+In/O its/O next/O Five/O Year/O Plan/O ,/O Beijing/LOCATION hopes/O to/O introduce/O a/O model/O of/O public-private/O partnership/O to/O encourage/O farmers/O ,/O business/O people/O and/O NGOs/O with/O financial/O aid/O to/O do/O more/O against/O desertification/O ./O
+The/O model/O will/O first/O be/O implemented/O in/O the/O Kubuqi/LOCATION Desert/LOCATION ,/O a/O region/O in/O which/O a/O lot/O has/O been/O done/O to/O try/O to/O fight/O the/O sands/O in/O the/O past/O few/O decades/O but/O not/O necessarily/O collectively/O ./O
+The/O plan/O this/O time/O is/O to/O find/O joint/O solutions/O because/O it/O does/O not/O help/O if/O an/O NGO/O manages/O to/O transform/O a/O part/O of/O the/O region/O into/O fertile/O land/O if/O a/O careless/O farmer/O allows/O his/O herds/O to/O graze/O elsewhere/O to/O the/O detriment/O of/O another/O region/O ./O
+Economic/O progress/O is/O essential/O
+Everybody/O has/O to/O work/O together/O ./O
+And/O everyone/O has/O to/O have/O the/O feeling/O not/O only/O of/O doing/O some/O good/O for/O the/O environment/O ,/O but/O also/O of/O benefitting/O in/O economic/O terms/O as/O well/O ./O
+Left/O to/O their/O own/O devices/O ,/O people/O are/O not/O as/O green/O as/O some/O would/O like/O ./O
+China/LOCATION is/O currently/O suffering/O the/O most/O from/O progress/O and/O development/O ./O
+The/O environmental/O damages/O caused/O by/O industrialization/O and/O traditional/O pre-industrial/O ways/O of/O life/O are/O clashing/O in/O China/LOCATION in/O an/O unprecedented/O manner/O ./O
+That/O 's/O why/O the/O task/O is/O particularly/O difficult/O ./O
+DW/ORGANIZATION 's/O Frank/PERSON Sieren/PERSON has/O lived/O in/O Beijing/LOCATION for/O 20/O years/O ./O

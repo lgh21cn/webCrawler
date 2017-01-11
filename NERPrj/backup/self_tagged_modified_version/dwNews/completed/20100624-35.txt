@@ -1,0 +1,21 @@
+China/LOCATION says/O it/O has/O broken/O up/O a/O `/O terrorist/O '/O cell/O that/O plotted/O attacks/O after/O deadly/O ethnic/O violence/O in/O the/O north-western/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> last/O year/O ./O 
+At/O a/O press/O conference/O in/O Beijing/LOCATION ,/O Public/ORGANIZATION Security/ORGANIZATION Ministry/ORGANIZATION spokesman/O Wu/PERSON Heping/PERSON said/O more/O than/O 10/O members/O of/O a/O `/O terrorist/O '/O group/O had/O been/O arrested/O ./O 
+Among/O them/O ,/O as/O Wu/PERSON said/O ,/O were/O the/O two/O ringleaders/O <U_PERSON>Abudourexiti/PERSON Abulaiti/PERSON</U_PERSON> and/O <U_PERSON>Yiming/PERSON Semaier/PERSON</U_PERSON> ./O 
+He/O said/O explosives/O ,/O knives/O and/O other/O equipment/O had/O been/O seized/O along/O with/O the/O gang/O members/O ./O 
+He/O claimed/O that/O the/O group/O was/O behind/O an/O attack/O on/O police/O and/O border/O guards/O in/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> in/O August/O 2008/O that/O left/O 17/O dead/O and/O that/O it/O was/O linked/O to/O the/O <U_ORGANIZATION>East/ORGANIZATION Turkestan/ORGANIZATION Islamic/ORGANIZATION Movement/ORGANIZATION</U_ORGANIZATION> ,/O a/O banned/O organization/O that/O China/LOCATION says/O is/O linked/O to/O <ORGANIZATION>al/O Qaida/O</ORGANIZATION> ./O 
+``/O The/O breaking/O up/O of/O this/O large/O terrorist/O group/O once/O again/O proves/O that/O the/O <U_ORGANIZATION>East/ORGANIZATION Turkestan/ORGANIZATION Islamic/ORGANIZATION Movement/ORGANIZATION</U_ORGANIZATION> is/O the/O major/O terror/O threat/O facing/O China/LOCATION at/O present/O and/O henceforward/O ,/O ''/O Wu/PERSON said/O ./O 
+<U_LOCATION>Xinjiang/LOCATION</U_LOCATION> has/O roughly/O eight/O million/O Uighurs/O -/O a/O Muslim/O ,/O Turkic-speaking/O people/O 
+Wu/PERSON said/O the/O gang/O members/O were/O planning/O attacks/O across/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ./O 
+Some/O of/O them/O have/O fled/O to/O different/O parts/O of/O China/LOCATION and/O overseas/O when/O their/O plot/O was/O foiled/O by/O the/O police/O ,/O he/O added/O ./O 
+`/O Politically/O motivated/O '/O 
+The/O arrests/O come/O just/O days/O before/O the/O anniversary/O of/O last/O year/O 's/O ethnic/O violence/O between/O Turkic/O Muslim/O Uighurs/O and/O majority/O Han/O Chinese/O in/O the/O capital/O <U_LOCATION>Urumqi/LOCATION</U_LOCATION> that/O left/O around/O 200/O people/O dead/O ./O 
+Many/O exiled/O Uighurs/O groups/O ,/O who/O resent/O an/O influx/O of/O Han/O Chinese/O workers/O into/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> and/O have/O been/O seeking/O independence/O ,/O see/O the/O recent/O arrests/O as/O politically/O motivated/O ./O 
+``/O China/LOCATION has/O a/O political/O motive/O in/O choosing/O the/O period/O before/O the/O July/O 5/O anniversary/O to/O publicize/O this/O ./O 
+The/O purpose/O is/O to/O increase/O pressure/O on/O Uighurs/O ,/O ''/O <U_PERSON>Dilxat/PERSON Raxit/PERSON</U_PERSON> ,/O a/O spokesman/O for/O the/O exiled/O <U_ORGANIZATION>World/ORGANIZATION Uighur/ORGANIZATION Congress/ORGANIZATION</U_ORGANIZATION> told/O Reuters/ORGANIZATION news/O agency/O ./O 
+An/O elderly/O man/O sits/O with/O a/O cane/O on/O the/O roadside/O at/O the/O crowded/O bazaar/O in/O <U_LOCATION>Kashgar/LOCATION</U_LOCATION> 
+He/O said/O the/O evidence/O given/O by/O the/O Chinese/O was/O all/O one-sided/O and/O not/O credible/O ./O 
+Energy-rich/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> is/O strategically/O located/O on/O China/LOCATION 's/O border/O to/O Afghanistan/LOCATION ,/O Pakistan/LOCATION and/O several/O Central/O Asian/O states/O ./O 
+Many/O Uighurs/O ,/O who/O advocate/O independence/O ,/O call/O it/O as/O <U_LOCATION>East/LOCATION Turkestan/LOCATION</U_LOCATION> ./O 
+Beijing/LOCATION often/O blames/O Uighur/O separatists/O for/O attacks/O on/O police/O or/O other/O government/O agencies/O in/O the/O region/O ,/O while/O Uighur/O exiles/O accuse/O Beijing/LOCATION of/O exaggerating/O the/O threat/O posed/O by/O separatists/O to/O justify/O harsh/O crackdowns/O on/O their/O community/O ./O 
+<ORGANIZATION>Du/O</ORGANIZATION> //O <ORGANIZATION>Reuters/O</ORGANIZATION> //O <ORGANIZATION>AFP/O</ORGANIZATION> //O dpa/O 
+Editor/O :/O Grahame/PERSON Lucas/PERSON

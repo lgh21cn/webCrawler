@@ -1,0 +1,15 @@
+A/O military/O court/O in/O Thailand/LOCATION has/O charged/O two/O men/O accused/O of/O carrying/O out/O a/O bomb/O attack/O at/O a/O Bangkok/LOCATION shrine/O that/O killed/O 20/O and/O injured/O 120/O more/O ./O
+Officials/O describe/O them/O as/O Uighurs/O from/O China/LOCATION 's/O Xinjiang/U_LOCATION region/O ./O
+The/O court/O indicted/O the/O two/O suspects/O ,/O identified/O as/O Adem/U_PERSON Karadag/U_PERSON -/O who/O has/O also/O been/O named/O as/O Bilal/U_PERSON Muhammed/U_PERSON -/O and/O Yusufu/U_PERSON Mieraili/U_PERSON ,/O on/O 10/O counts/O connected/O with/O the/O bombing/O attack/O ,/O including/O premeditated/O murder/O ,/O Thai/O media/O said/O on/O Tuesday/O ./O
+The/O charge/O of/O terrorism/O was/O among/O those/O laid/O ,/O with/O authorities/O seemingly/O afraid/O to/O use/O the/O term/O for/O fear/O of/O hurting/O Thailand/LOCATION 's/O vital/O tourist/O industry/O ./O
+The/O case/O is/O being/O heard/O at/O a/O military/O court/O ,/O as/O the/O army/O has/O handled/O all/O cases/O of/O ``/O national/O security/O ''/O since/O last/O May/O ,/O when/O it/O seized/O power/O in/O a/O military/O coup/O that/O deposed/O the/O former/O elected/O government/O ./O
+The/O bomb/O attack/O on/O August/O 17/O at/O the/O popular/O Erawan/LOCATION Shrine/LOCATION in/O Bangkok/LOCATION was/O one/O of/O the/O bloodiest/O acts/O of/O violence/O in/O the/O Thai/O capital/O for/O decades/O ./O
+Uighur/O connection/O ?/O
+Thai/O officials/O say/O that/O the/O attack/O was/O carried/O out/O by/O a/O people-smuggling/O network/O in/O retaliation/O for/O an/O official/O crackdown/O on/O its/O trafficking/O of/O Uighurs/O ./O
+The/O network/O allegedly/O used/O Thailand/LOCATION as/O point/O of/O transit/O between/O China/LOCATION and/O Turkey/LOCATION for/O Muslim/O Uighurs/O who/O say/O they/O are/O escaping/O repression/O ,/O often/O religious/O ,/O by/O the/O Chinese/O Han/O majority/O ./O
+In/O July/O ,/O Thai/O authorities/O deported/O nearly/O 100/O Uighurs/O ,/O who/O speak/O the/O Turkic/O language/O ,/O back/O to/O China/LOCATION at/O the/O behest/O of/O Beijing/LOCATION ./O
+Karadag/PERSON ,/O 28/O ,/O told/O his/O lawyer/O in/O September/O that/O he/O was/O an/O ethnic/O Uighur/O from/O western/O China/LOCATION ,/O while/O Mieraili/U_PERSON ,/O 25/O ,/O was/O carrying/O a/O passport/O identifying/O him/O as/O coming/O from/O the/O Xinjiang/U_LOCATION region/O of/O China/LOCATION ,/O which/O has/O a/O majority/O Uighur/O population/O ./O
+Neither/O defendant/O entered/O a/O plea/O during/O the/O hearing/O ,/O according/O to/O media/O reports/O ./O
+The/O lawyer/O for/O the/O two/O suspects/O said/O the/O indictments/O were/O made/O before/O they/O arrived/O ./O
+Police/O have/O said/O that/O they/O believe/O that/O the/O planner/O behind/O the/O attack/O has/O fled/O Thailand/LOCATION and/O Thai/O police/O believe/O Bangkok/LOCATION bombing/O suspect/O is/O in/O Turkey/LOCATION is/O still/O at/O large/O ./O
+#/O tj/kms/O -LRB-/O dpa/O ,/O AP/ORGANIZATION -RRB-/O

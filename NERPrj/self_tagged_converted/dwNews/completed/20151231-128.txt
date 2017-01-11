@@ -1,0 +1,25 @@
+French/O journalist/O Ursula/PERSON Gauthier/PERSON is/O preparing/O to/O leave/O China/LOCATION after/O being/O effectively/O expelled/O by/O authorities/O ./O
+She/O was/O condemned/O for/O her/O article/O on/O China/LOCATION 's/O ``/O anti-terror/O ''/O operations/O against/O Xinjiang/U_LOCATION 's/O Uighur/O Muslims/O ./O
+Gauthier/PERSON ,/O who/O is/O based/O in/O Beijing/LOCATION and/O works/O for/O the/O news/O magazine/O ``/O L'Obs/ORGANIZATION ,/O ''/O is/O due/O to/O leave/O the/O Chinese/O capital/O on/O a/O 1/O a.m./O flight/O on/O Friday/O -LRB-/O Thursday/O ,/O 1500/O UTC/O -RRB-/O ./O
+Speaking/O ahead/O of/O her/O departure/O ,/O she/O told/O the/O AFP/ORGANIZATION news/O agency/O that/O she/O has/O been/O left/O with/O ``/O a/O very/O strong/O feeling/O of/O surreality/O ''/O on/O her/O last/O night/O in/O Beijing/LOCATION ./O
+Chinese/O authorities/O refused/O to/O renew/O Gauthier/PERSON 's/O press/O card/O earlier/O this/O month/O ,/O leaving/O the/O journalist/O unable/O to/O apply/O for/O a/O visa/O ./O
+The/O move/O came/O in/O the/O aftermath/O of/O her/O essay/O ,/O ``/O After/O the/O attacks/O -LSB-/O in/O Paris/LOCATION -RSB-/O ,/O Chinese/O solidarity/O is/O not/O without/O ulterior/O motives/O ,/O ''/O published/O on/O November/O 8/O ./O
+Her/O report/O questioned/O China/LOCATION 's/O motives/O in/O expressing/O sympathy/O for/O the/O victims/O of/O the/O Paris/LOCATION attacks/O ,/O criticizing/O that/O they/O were/O calulated/O to/O link/O Beijing/LOCATION 's/O harsh/O policies/O in/O Xinjiang/U_LOCATION -/O where/O most/O of/O China/LOCATION 's/O ethnic/O Uighur/O Muslim/O minority/O lives/O -/O with/O the/O fight/O against/O global/O terrorism/O ./O
+Chinese/O officials/O said/O the/O report/O justified/O violence/O against/O the/O government/O ./O
+``/O The/O article/O criticized/O China/LOCATION 's/O counterterrorism/O efforts/O and/O denigrated/O and/O slandered/O Chinese/O policies/O ./O
+It/O provoked/O the/O strong/O indignation/O of/O the/O Chinese/O public/O ,/O ''/O the/O foreign/O ministry/O said/O earlier/O this/O month/O ./O
+Death/O threats/O
+Gauthier/PERSON 's/O essay/O also/O triggered/O abusive/O comments/O from/O social/O media/O users/O in/O China/LOCATION and/O was/O condemned/O by/O the/O state-run/O ``/O Global/ORGANIZATION Times/ORGANIZATION ''/O and/O ``/O China/ORGANIZATION Daily/ORGANIZATION ./O ''/O
+``/O They/O wanted/O me/O to/O apologize/O publicly/O for/O my/O wrongs/O ,/O ''/O Gauthier/PERSON said/O ,/O ``/O But/O my/O wrongs/O were/O all/O invented/O by/O the/O Global/ORGANIZATION Times/ORGANIZATION ./O ''/O
+After/O receiving/O death/O threats/O ,/O Gauthier/PERSON said/O she/O did/O n't/O contact/O authorities/O as/O she/O ``/O did/O not/O expect/O the/O police/O to/O take/O the/O case/O seriously/O ./O ''/O
+During/O a/O press/O conference/O on/O Wednesday/O ,/O however/O ,/O Foreign/ORGANIZATION Ministry/ORGANIZATION Spokesperson/O Lu/PERSON Kang/PERSON rejected/O Gauthier/PERSON 's/O claims/O ./O
+``/O Ursula/PERSON Gauthier/PERSON should/O go/O to/O the/O police/O if/O she/O really/O believes/O she/O is/O threatened/O ,/O ''/O Lu/PERSON said/O ./O
+``/O Instead/O she/O is/O flaunting/O it/O in/O front/O of/O the/O press/O which/O is/O rather/O unusual/O ,/O unless/O she/O is/O doing/O it/O for/O other/O purposes/O ./O ''/O
+French/O media/O uproar/O
+Back/O home/O in/O France/LOCATION ,/O Gauthier/PERSON 's/O expulsion/O has/O sparked/O outrage/O among/O the/O French/O media/O ,/O who/O have/O condemned/O the/O ``/O abusive/O treatment/O ''/O of/O the/O journalist/O ./O
+French/O daily/O ``/O Le/ORGANIZATION Monde/ORGANIZATION ''/O also/O criticized/O French/O authorities/O ,/O describing/O their/O ``/O lacking/O determination/O ''/O in/O Gauthier/PERSON 's/O case/O as/O ``/O irresponsible/O ./O ''/O
+Press/O organization/O Reporters/ORGANIZATION Without/ORGANIZATION Borders/ORGANIZATION also/O denounced/O the/O incident/O ,/O calling/O it/O ``/O media/O lynching/O ''/O and/O a/O ``/O campaign/O of/O defamation/O and/O intimidation/O ''/O against/O Gauthier/PERSON ./O
+According/O to/O the/O organization/O 's/O press/O freedom/O index/O ,/O China/LOCATION sits/O in/O position/O 176/O out/O of/O 180/O countries/O ./O
+The/O last/O time/O China/LOCATION refused/O to/O renew/O a/O foreign/O reporter/O 's/O press/O credentials/O was/O in/O 2012/O when/O Melissa/PERSON Chan/PERSON ,/O a/O reporter/O for/O Al/ORGANIZATION Jazeera/ORGANIZATION ,/O was/O accussed/O of/O violating/O Chinese/O regulations/O ./O
+At/O the/O time/O ,/O Chan/PERSON 's/O expulsion/O was/O the/O first/O such/O case/O in/O 13/O years/O ./O
+ksb/msh/O -LRB-/O Reuters/ORGANIZATION ,/O AFP/ORGANIZATION ,/O AP/ORGANIZATION -RRB-/O

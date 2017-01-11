@@ -1,0 +1,22 @@
+According/O to/O a/O police/O spokesman/O ,/O a/O man/O in/O Thai/O custody/O has/O admitted/O to/O carrying/O out/O a/O deadly/O bomb/O attack/O last/O month/O ./O 
+However/O ,/O the/O man/O 's/O lawyer/O says/O his/O client/O was/O not/O even/O in/O the/O country/O at/O the/O time/O ./O 
+Thailand/LOCATION 's/O police/O authorities/O said/O at/O a/O press/O conference/O on/O Friday/O that/O they/O had/O sufficient/O evidence/O to/O convict/O a/O man/O claiming/O to/O be/O behind/O a/O deadly/O attack/O in/O Bangkok/LOCATION on/O Aug/O 27/O ./O 
+The/O bombing/O ,/O which/O took/O place/O at/O the/O Erawan/LOCATION Shrine/LOCATION ,/O a/O famous/O Hindu/O place/O of/O worship/O in/O Bangkok/LOCATION ,/O killed/O 20/O people/O and/O injured/O more/O than/O 100/O ./O 
+Police/O spokesman/O Prawut/PERSON Thawornsiri/PERSON said/O the/O man/O would/O face/O trial/O in/O court/O ./O 
+His/O statements/O followed/O earlier/O local/O media/O reports/O claiming/O the/O suspect/O had/O confessed/O to/O the/O crime/O ./O 
+``/O From/O evidence/O police/O showed/O him/O ,/O he/O accepted/O the/O crime/O ,/O ''/O Prawut/PERSON said/O ./O 
+The/O suspect/O 's/O Turkish/O passport/O carries/O the/O name/O <U_PERSON>Bilal/PERSON Muhammad/PERSON</U_PERSON> ,/O but/O authorities/O had/O also/O named/O him/O <U_PERSON>Adem/PERSON Karadag/PERSON</U_PERSON> ./O 
+In/O an/O interview/O with/O German/O news/O agency/O dpa/O ,/O Choochart/PERSON Khanphai/PERSON ,/O the/O man/O 's/O lawyer/O ,/O contested/O the/O police/O account/O ./O 
+Choochart/PERSON said/O that/O his/O client/O had/O arrived/O in/O Thailand/LOCATION on/O a/O fake/O passport/O several/O days/O after/O the/O bombing/O occurred/O ./O 
+However/O ,/O the/O lawyer/O conceded/O that/O he/O had/O not/O seen/O his/O client/O since/O the/O police/O 's/O claim/O ,/O saying/O he/O had/O not/O been/O given/O access/O since/O Wednesday/O ./O 
+According/O to/O Choochart/PERSON ,/O the/O suspect/O spent/O Wednesday/O sick/O in/O hospital/O ,/O then/O was/O taken/O in/O for/O overnight/O interrogation/O ./O 
+Police/O :/O suspect/O arrested/O with/O bomb/O materials/O 
+Police/O spokesman/O Prawut/PERSON Thawornsiri/PERSON had/O said/O that/O <U_PERSON>Karadag/PERSON</U_PERSON> was/O the/O first/O of/O two/O suspects/O arrested/O in/O Thailand/LOCATION in/O connection/O with/O the/O bombing/O ,/O saying/O that/O the/O 30-year-old/O was/O in/O possession/O of/O bomb-making/O materials/O when/O he/O was/O caught/O ./O 
+Police/O say/O that/O CCTV/ORGANIZATION footage/O helped/O identify/O the/O suspect/O 
+Early/O on/O ,/O authorities/O had/O focused/O their/O investigation/O on/O a/O man/O in/O a/O yellow/O shirt/O and/O wearing/O a/O backpack/O ,/O captured/O in/O security/O camera/O footage/O at/O the/O shrine/O on/O the/O day/O of/O the/O bombing/O ./O 
+At/O the/O press/O conference/O ,/O Prawut/PERSON seemed/O to/O suggest/O that/O the/O man/O in/O the/O yellow/O shirt/O was/O <U_PERSON>Karadag/LOCATION</U_PERSON> ./O 
+The/O police/O did/O not/O suggest/O a/O possible/O motive/O at/O the/O press/O conference/O on/O Friday/O ./O 
+In/O the/O past/O ,/O authorities/O speculated/O that/O the/O motive/O for/O the/O attack/O might/O have/O been/O connected/O to/O the/O Thai/O government/O 's/O forcible/O repatriation/O of/O more/O than/O 100/O Uighurs/O -/O a/O <OTHER>Muslim/ORGANIZATION</OTHER> minority/O -/O to/O China/LOCATION ./O 
+The/O investigation/O has/O faced/O criticism/O for/O its/O inconsistencies/O ./O 
+Earlier/O this/O week/O ,/O Malaysian/O police/O arrested/O eight/O people/O ,/O some/O of/O whom/O might/O have/O played/O a/O role/O in/O aiding/O the/O bomber/O across/O Thailand/LOCATION 's/O southern/O border/O into/O Malaysia/LOCATION ./O 
+blc/msh/O -LRB-/O AFP/ORGANIZATION ,/O AP/ORGANIZATION ,/O dpa/O -RRB-/O

@@ -1,0 +1,15 @@
+Xiantao/LOCATION -LRB-/O <ORGANIZATION>AsiaNews</ORGANIZATION> /O <ORGANIZATION>CAA/O</ORGANIZATION> -RRB-/O --/O 
+Chinese/O police/O arrested/O a/O Protestant/O pastor/O ,/O Lian/PERSON Changnian/PERSON ,/O on/O 20/O March/O ,/O while/O he/O was/O leading/O a/O bible/O study/O in/O a/O house/O church/O in/O Xintao/LOCATION ,/LOCATION Hubei/LOCATION ./O 
+He/O was/O arrested/O in/O front/O of/O around/O 100/O worshippers/O and/O was/O taken/O to/O a/O prison/O in/O the/O city/O ,/O where/O he/O is/O still/O detained/O ./O 
+This/O was/O revealed/O by/O the/O China/ORGANIZATION Aid/ORGANIZATION Association/ORGANIZATION -LRB-/O CAA/ORGANIZATION -RRB-/O ,/O a/O US-based/O non-governmental/O organization/O lobbying/O for/O religious/O freedom/O in/O China/LOCATION ./O 
+The/O same/O organisation/O said/O another/O 15/O Protestant/O house/O church/O leaders/O are/O also/O in/O prison/O ;/O they/O were/O arrested/O on/O 13/O March/O in/O Wen/LOCATION County/LOCATION in/O Henan/LOCATION ./O 
+Among/O them/O is/O a/O 15-year-old/O Evangelist/O ./O 
+After/O arresting/O them/O ,/O police/O beat/O them/O with/O electric/O batons/O ,/O and/O one/O of/O the/O 15/O ,/O Pastor/O Li/PERSON Gongshe/PERSON ,/O had/O to/O be/O taken/O to/O Mengzhou/LOCATION hospital/O for/O urgent/O treatment/O of/O a/O broken/O rib/O that/O was/O preventing/O him/O from/O breathing/O ./O 
+The/O pastor/O is/O still/O in/O hospital/O ,/O and/O there/O is/O no/O news/O of/O six/O of/O the/O rest/O ./O 
+The/O accusation/O against/O them/O all/O is/O :/O ``/O membership/O of/O an/O illegal/O evil/O cult/O ''/O ./O 
+Two/O renowned/O Chinese/O laywers/O ,/O have/O accepted/O to/O take/O the/O case/O :/O Zhang/PERSON is/O director/O of/O the/O <ORGANIZATION>Jingding/LOCATION</ORGANIZATION> law/O firm/O in/O Beijing/LOCATION and/O <PERSON>Fan/O</PERSON> is/O professor/O of/O Constitutional/O Law/O at/O the/O Chinese/ORGANIZATION Academy/ORGANIZATION of/ORGANIZATION Social/ORGANIZATION Sciences/ORGANIZATION ./O 
+Last/O month/O ,/O a/O campaign/O targeted/O unofficial/O churches/O in/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O leading/O to/O the/O arrest/O of/O dozens/O of/O Christian/O leaders/O ./O 
+On/O Monday/O ,/O another/O two/O people/O were/O arrested/O in/O Shanxi/LOCATION ,/O while/O another/O three/O pastors/O were/O apprehended/O at/O the/O beginning/O of/O March/O ./O 
+Beijing/LOCATION allows/O the/O practice/O of/O Protestant/O Christianity/O only/O within/O the/O Movement/O of/O the/O Three/O Autonomies/O -LRB-/O <OTHER>MTA/ORGANIZATION</OTHER> -RRB-/O ,/O born/O in/O 1950/O after/O Mao/PERSON seized/O power/O and/O the/O expulsion/O of/O foreign/O missionaries/O and/O church/O leaders/O ,/O including/O Chinese/O ones/O ./O 
+Official/O statistics/O reveal/O that/O there/O are/O 10/O million/O official/O Protestants/O in/O China/LOCATION ,/O all/O belonging/O to/O the/O <OTHER>MTA/ORGANIZATION</OTHER> ./O 
+Unofficial/O Protestants/O ,/O who/O meet/O in/O unregistered/O ``/O house/O churches/O ''/O ,/O are/O estimated/O to/O reach/O more/O than/O 50/O million/O ./O

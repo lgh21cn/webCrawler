@@ -1,0 +1,51 @@
+As/O Chinese/O President/O Xi/PERSON Jinping/PERSON makes/O his/O first/O state/O visit/O to/O Britain/LOCATION next/O week/O ,/O Professor/O Steve/PERSON Tsang/PERSON tells/O <ORGANIZATION>DW/O</ORGANIZATION> the/O most/O important/O aspect/O about/O the/O trip/O is/O the/O visual/O impact/O it/O will/O make/O back/O in/O China/LOCATION ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> :/O The/O UK/LOCATION will/O be/O the/O only/O destination/O of/O Chinese/O President/O Xi/PERSON Jinping/PERSON 's/O upcoming/O trip/O to/O Europe/LOCATION from/O October/O 20/O to/O 23/O ./O 
+Why/O is/O this/O trip/O so/O important/O to/O China/LOCATION ?/O 
+This/O upcoming/O state/O visit/O will/O be/O an/O occasion/O for/O the/O host/O nation/O to/O roll/O out/O the/O red/O carpet/O and/O make/O sure/O that/O everything/O goes/O right/O ./O 
+For/O President/O <PERSON>Xi/O</PERSON> ,/O the/O visit/O is/O about/O giving/O the/O impression/O back/O in/O China/LOCATION that/O he/O is/O achieving/O his/O objective/O of/O promoting/O the/O ``/O China/LOCATION dream/O ./O ''/O 
+`/O The/O state/O visit/O will/O be/O an/O occasion/O for/O the/O host/O nation/O to/O roll/O out/O the/O red/O carpet/O ,/O '/O says/O Professor/O Tsang/PERSON In/O your/O opinion/O ,/O what/O topics/O will/O dominate/O the/O agenda/O ?/O 
+For/O President/O <PERSON>Xi/O</PERSON> ,/O the/O single/O most/O important/O thing/O is/O the/O visual/O impact/O the/O visit/O is/O likely/O to/O make/O back/O in/O China/LOCATION ./O 
+And/O you/O can/O not/O get/O a/O more/O visually/O impressive/O state/O visit/O than/O being/O received/O by/O the/O British/O Queen/O Elizabeth/PERSON II/PERSON ./O 
+Moreover/O ,/O a/O state/O visit/O is/O not/O an/O occasion/O when/O you/O expect/O serious/O negotiations/O on/O any/O subject/O ./O 
+That/O said/O ,/O the/O UK/LOCATION government/O will/O be/O making/O joint/O announcements/O with/O China/LOCATION in/O terms/O of/O a/O few/O big/O projects/O that/O have/O already/O been/O agreed/O ./O 
+<PERSON>Xi/O</PERSON> 's/O upcoming/O visit/O follows/O a/O trip/O to/O China/LOCATION by/O UK/LOCATION Chancellor/O George/PERSON Osborne/PERSON last/O month/O ,/O during/O which/O he/O said/O Britain/LOCATION should/O be/O China/LOCATION 's/O ``/O best/O partner/O in/O the/O <LOCATION>West/O</LOCATION> ./O ''/O 
+However/O ,/O he/O was/O low-key/O in/O terms/O of/O adressing/O human/O rights/O issues/O ./O 
+Is/O this/O a/O new/O way/O of/O dealing/O with/O China/LOCATION ?/O 
+No/O ,/O it/O is/O not/O ./O 
+As/O finance/O minister/O ,/O Osborne/PERSON has/O an/O exceptionally/O strong/O influence/O over/O <LOCATION>UK/O</LOCATION> -/O <LOCATION>China/O</LOCATION> relations/O ./O 
+When/O finance/O ministers/O deal/O with/O these/O issues/O ,/O they/O do/O it/O in/O a/O very/O peculiar/O way/O that/O does/O not/O fall/O in/O line/O with/O normal/O foreign/O policies/O even/O in/O a/O country/O such/O as/O the/O UK/LOCATION ./O 
+<ORGANIZATION>DW/O</ORGANIZATION> recommends/O 
+Britain/LOCATION courts/O Chinese/O investors/O for/O high-speed/O rail/O line/O 
+UK/LOCATION Foreign/O Minister/O George/PERSON Osborne/PERSON has/O opened/O bidding/O on/O contracts/O to/O build/O a/O high-speed/O rail/O line/O connecting/O London/LOCATION and/O the/O north/O ./O 
+Osborne/PERSON is/O aiming/O to/O draw/O in/O Asian/O investors/O during/O a/O trip/O to/O China/LOCATION ./O 
+-LRB-/O 24.09.2015/O -RRB-/O 
+UK/LOCATION pledges/O billions/O for/O nuclear/O plant/O 
+The/O British/O Chancellor/O has/O announced/O billions/O in/O government/O backing/O for/O the/O controversial/O Hinkley/LOCATION Point/LOCATION nuclear/O station/O ./O 
+The/O announcement/O came/O during/O a/O trip/O to/O China/LOCATION ,/O during/O which/O he/O sought/O to/O court/O Asian/O investors/O ./O 
+-LRB-/O 21.09.2015/O -RRB-/O
+Why/O Europe/LOCATION defies/O the/O US/LOCATION to/O join/O a/O China-led/O bank/O 
+Despite/O US/LOCATION pressure/O to/O stay/O out/O ,/O Europe/LOCATION 's/O four-largest/O economies/O ,/O Germany/LOCATION ,/O France/LOCATION ,/O Britain/LOCATION and/O Italy/LOCATION ,/O are/O set/O to/O join/O a/O China-led/O regional/O bank/O ,/O seen/O as/O a/O potential/O rival/O to/O the/O <OTHER>US-based/ORGANIZATION</OTHER> World/ORGANIZATION Bank/ORGANIZATION ./O 
+But/O why/O ?/O 
+<ORGANIZATION>DW/O</ORGANIZATION> examines/O ./O 
+-LRB-/O 18.03.2015/O -RRB-/O 
+The/O UK/LOCATION was/O among/O the/O first/O countries/O to/O join/O the/O China-led/O Asian/ORGANIZATION Infrastructure/ORGANIZATION Investment/ORGANIZATION Bank/ORGANIZATION -LRB-/O <ORGANIZATION>AIIB/O</ORGANIZATION> -RRB-/O ,/O despite/O strong/O objection/O from/O Washington/LOCATION ./O 
+Moreover/O ,/O London/LOCATION 's/O reactions/O to/O the/O South/LOCATION China/LOCATION Sea/LOCATION dispute/O and/O cyber-espionage/O claims/O have/O also/O been/O relatively/O weak/O ./O 
+How/O different/O the/O UK/LOCATION 's/O China/LOCATION policy/O from/O that/O of/O the/O US/LOCATION ?/O 
+I/O do/O n't/O think/O the/O UK/LOCATION 's/O China/LOCATION policies/O are/O very/O different/O from/O those/O of/O the/O United/LOCATION States/LOCATION ./O 
+President/O Barack/PERSON Obama/PERSON has/O gone/O out/O of/O his/O way/O to/O try/O to/O accommodate/O China/LOCATION ./O 
+Over/O the/O past/O 20/O years/O or/O so/O ,/O you/O can/O not/O find/O any/O US/LOCATION president/O who/O has/O been/O more/O accommodating/O to/O China/LOCATION than/O Obama/PERSON ./O 
+You/O can/O say/O the/O same/O about/O British/O PM/O David/PERSON Cameron/PERSON ./O 
+However/O ,/O the/O UK/LOCATION has/O gone/O much/O further/O than/O the/O US/LOCATION for/O two/O reasons/O :/O The/O United/LOCATION States/LOCATION is/O an/O Asia-Pacific/LOCATION power/O whose/O strategic/O interests/O compete/O with/O those/O of/O China/LOCATION ./O 
+But/O the/O United/LOCATION Kingdom/LOCATION has/O no/O regional/O conflicts/O of/O interest/O with/O China/LOCATION ./O 
+The/O second/O important/O factor/O is/O the/O way/O George/PERSON Osborne/PERSON is/O seeking/O to/O shape/O <LOCATION>UK/O</LOCATION> -/O <LOCATION>China/O</LOCATION> ties/O ./O 
+He/O seems/O to/O think/O that/O by/O going/O out/O of/O his/O way/O to/O accommodate/O the/O Chinese/O authorities/O he/O will/O win/O the/O friendship/O of/O the/O Chinese/O government/O ,/O which/O will/O then/O improve/O bilateral/O relations/O and/O put/O his/O country/O in/O a/O better/O position/O when/O dealing/O with/O China/LOCATION as/O compared/O to/O other/O western/O nations/O ./O 
+At/O the/O same/O time/O ,/O there/O are/O growing/O concerns/O the/O UK/LOCATION government/O has/O thus/O far/O failed/O to/O properly/O address/O human/O rights/O abuses/O in/O China/LOCATION ./O 
+During/O Chancellor/O Osborne/PERSON 's/O recent/O visit/O to/O China/LOCATION 's/O restive/O region/O of/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O he/O was/O criticized/O for/O failing/O to/O raise/O such/O issues/O ./O 
+What/O are/O the/O implications/O of/O this/O approach/O ?/O 
+`/O The/O Chinese/O know/O that/O London/LOCATION is/O willing/O to/O pay/O a/O higher/O price/O under/O the/O influence/O of/O Chancellor/O Osborne/PERSON ,/O '/O says/O Tsang/PERSON I/O do/O n't/O think/O that/O what/O Osborne/PERSON did/O necessarily/O received/O widespread/O support/O in/O the/O UK/LOCATION ./O 
+While/O <PERSON>Xi/O</PERSON> 's/O upcoming/O visit/O may/O be/O seen/O as/O a/O positive/O response/O to/O Osborne/PERSON 's/O China/LOCATION policy/O ,/O in/O the/O long/O run/O ,/O such/O an/O approach/O will/O not/O do/O the/O UK/LOCATION any/O good/O given/O that/O it/O will/O only/O encourage/O the/O Chinese/O leadership/O to/O demand/O a/O higher/O price/O for/O cooperation/O ./O 
+The/O Chinese/O know/O that/O London/LOCATION is/O willing/O to/O pay/O a/O higher/O price/O under/O the/O influence/O of/O Chancellor/O Osborne/PERSON ./O 
+This/O is/O not/O limited/O to/O ,/O for/O instance/O ,/O the/O UK/LOCATION getting/O more/O investments/O from/O China/LOCATION for/O the/O construction/O of/O nuclear/O power/O plants/O ./O 
+It/O could/O also/O refer/O to/O things/O such/O as/O British/O ministers/O visiting/O places/O like/O <U_LOCATION>Xinjiang/LOCATION</U_LOCATION> ,/O sending/O the/O wrong/O signals/O that/O their/O country/O does/O not/O care/O about/O human/O rights/O issues/O in/O China/LOCATION ./O 
+Steve/PERSON Tsang/PERSON is/O Professor/O of/O Contemporary/O Chinese/O Studies/O and/O a/O Senior/O Fellow/O of/O the/O China/ORGANIZATION Policy/ORGANIZATION Institute/ORGANIZATION at/O the/O School/ORGANIZATION of/ORGANIZATION Contemporary/ORGANIZATION Chinese/ORGANIZATION Studies/ORGANIZATION <OTHER>of/ORGANIZATION</OTHER> the/ORGANIZATION University/ORGANIZATION of/ORGANIZATION Nottingham/ORGANIZATION ./O 
+The/O interview/O was/O conducted/O by/O Li/PERSON Shitao/PERSON ./O
