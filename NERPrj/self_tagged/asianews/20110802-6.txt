@@ -1,4 +1,4 @@
-The/O leader/O of/O the/O ethnic/O Uyghur/O comments/O on/O the/O recent/O incidents/O of/O violence/O that/O occurred/O in/O the/O northern/O province/O to/O <ORGANIZATION>AsiaNews/</ORGANIZATION>O ,/O ``/O China/LOCATION censors/O the/O independent/O media/O ,/O we/O do/O not/O know/O what/O 's/O going/O on/O ./O 
+The/O leader/O of/O the/O ethnic/O Uyghur/O comments/O on/O the/O recent/O incidents/O of/O violence/O that/O occurred/O in/O the/O northern/O province/O to/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> ,/O ``/O China/LOCATION censors/O the/O independent/O media/O ,/O we/O do/O not/O know/O what/O 's/O going/O on/O ./O 
 And/O if/O it/O is/O terrorism/O ,/O then/O it/O is/O to/O be/O condemned/O ./O 
 But/O the/O Chinese/O government/O has/O imposed/O a/O crackdown/O on/O my/O people/O driving/O them/O to/O despair/O :/O it/O is/O its/O own/O fault/O ./O ''/O 
 Beijing/LOCATION -LRB-/O <ORGANIZATION>AsiaNews/O</ORGANIZATION> -RRB-/O -/O ``/O I/O do/O not/O advocate/O violence/O ./O 

@@ -95,11 +95,11 @@ public class SlashTagsToInlineXMLConverter {
 	public static final String[] TAGS={
 			PERSON,
 			ORGNIAZTION,
-			LOCATION,
-			OTHER,
+			LOCATION,			
 			U_PERSON,
 			U_ORGNIAZTION,
 			U_LOCATION,
+			OTHER,
 	};
 
 	public static final String NER_ROOT_PATH="C:/eclipse/workspace/NERPrj/";
